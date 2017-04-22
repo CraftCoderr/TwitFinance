@@ -1,0 +1,1029 @@
+{"date":1492725946000,"author":"AswathDamodaran","rating":1,"text":"@Salbei_ Yes. I am in SFO","url":""}
+{"date":1491999905000,"author":"AswathDamodaran","rating":2,"text":"@UninformedBlog Use whatever you want. Nothing that I say is that deep or profound any way.","url":""}
+{"date":1491833614000,"author":"AswathDamodaran","rating":425,"text":"Whether stocks are in a bubble or a bargain is an equity risk premium question. My long, boring ERP 2017 update:","url":"https:\/\/t.co\/y4yq1ZChEk"}
+{"date":1491331794000,"author":"AswathDamodaran","rating":232,"text":"ERP for S&P 500 starting April, 2017 at 5.38%, close to unchanged. Market was flat but investor views diverged.\u2026","url":"https:\/\/t.co\/ViCiBmUoWk"}
+{"date":1490645622000,"author":"AswathDamodaran","rating":10,"text":"@jmuns22 Investment Valuation will be the most comprehensive but Narrative and Numbers may be more fun to read.","url":""}
+{"date":1490579634000,"author":"AswathDamodaran","rating":4,"text":"@brianfires It's minus 2% (i.e. Revenues decline) each year. The firm is shrinking & I am assuming it is divesting assets.","url":""}
+{"date":1490577959000,"author":"AswathDamodaran","rating":115,"text":"Will be teaching 2-day valuation seminar, organized by VCCircle, in Singapore on May 25 & 26. Details here:","url":"https:\/\/t.co\/pEYiMozeG6"}
+{"date":1490561979000,"author":"AswathDamodaran","rating":0,"text":"@brianfires Just curious. What's embarrassing? Negative reinvestment is what you expect in shrinking firms with divestitures.","url":""}
+{"date":1490365679000,"author":"AswathDamodaran","rating":0,"text":"@PedroKolar Crystal Ball, its an add on to Excel and an Oracle product.","url":""}
+{"date":1490296186000,"author":"AswathDamodaran","rating":5,"text":"@timothyaloy Unfortunately, more coaster than roller and all downhill!😱","url":""}
+{"date":1490296110000,"author":"AswathDamodaran","rating":228,"text":"Speaking of charitable donations, I made mine to Valeant Charities (aka $VRX) last year. I revisit that train wreck\u2026","url":"https:\/\/t.co\/cPYLmrSFp9"}
+{"date":1490283573000,"author":"AswathDamodaran","rating":71,"text":"I hate asking for donations, but if as an NYU Stern grad, you are in the mood to give, today's the day:","url":"https:\/\/t.co\/9nZVXZo14t"}
+{"date":1490219216000,"author":"AswathDamodaran","rating":0,"text":"@ticampos Use an average, if stand alone project, or company's debt ratio, if part of a portfolio of projects.","url":""}
+{"date":1489244213000,"author":"AswathDamodaran","rating":7,"text":"@Kane_Cotton_CFA Because you huge positive outliers. One more reason to mistrust averages.","url":""}
+{"date":1489173097000,"author":"AswathDamodaran","rating":224,"text":"In my last data update post for 2017, I look at differences in pricing across markets and sectors.\u2026","url":"https:\/\/t.co\/5zz21kWxRc"}
+{"date":1489092948000,"author":"AswathDamodaran","rating":1226,"text":"Good companies can be badly managed & bad companies can be good investments. A paradox that pricing explains!\u2026","url":"https:\/\/t.co\/nx5rJWrX1k"}
+{"date":1488326679000,"author":"AswathDamodaran","rating":194,"text":"In February, US stocks continued to surprise \"experts\", as ERP for the S&P 500 drops to 5.39% from 5.59%.\u2026","url":"https:\/\/t.co\/9RvBPB2FOW"}
+{"date":1487350631000,"author":"AswathDamodaran","rating":219,"text":"Since Snap is the visual social media company, here is my Snap story in a video.\nhttps:\/\/t.co\/YJ7JGmIxYR- via @YouTube","url":""}
+{"date":1487350452000,"author":"AswathDamodaran","rating":454,"text":"Banks price Snap at $18.5-$21.5 billion, ahead of offering. Should you buy? Depends on your Snap story. Here's mine\u2026","url":"https:\/\/t.co\/CEcLWa09e6"}
+{"date":1486759007000,"author":"AswathDamodaran","rating":3,"text":"@BryanRivasB I am never sure about my valuation stories, but if that's your story why don't you flesh out the numbers?","url":""}
+{"date":1486660168000,"author":"AswathDamodaran","rating":21,"text":"@DrewLeitch1 Apple is about as far ahead of the pack, as cash machine, as Belichick is ahead of every other NFL coach, as Super Bowl winner.","url":""}
+{"date":1486659799000,"author":"AswathDamodaran","rating":1224,"text":"Apple is the greatest cash machine in history & the latest earnings report confirms it. My story & value update:\u2026","url":"https:\/\/t.co\/LaX8WKH1FM"}
+{"date":1486402434000,"author":"AswathDamodaran","rating":280,"text":"At many companies, the dividend decision is driven by inertia or me-tooism. My look at cash return globally in 2017\u2026","url":"https:\/\/t.co\/HG0YtydJlO"}
+{"date":1486141197000,"author":"AswathDamodaran","rating":348,"text":"I prefer to watch what investor pay for, not what they say about risk!  ERP for S&P 500 drops to 5.59% on 2\/1\/17.\u2026","url":"https:\/\/t.co\/T1E8InsZzF"}
+{"date":1485969674000,"author":"AswathDamodaran","rating":255,"text":"The tax code encourages borrowing but comes with a dark side. My look at debt ratios, by region & sector, in 2017.\u2026","url":"https:\/\/t.co\/ht48RRh05s"}
+{"date":1485802030000,"author":"AswathDamodaran","rating":584,"text":"A \"good\" business has to not just make money but earn \"excess returns\", a test that 63% of companies failed in 2017\u2026","url":"https:\/\/t.co\/0aXMbj4RKl"}
+{"date":1485458194000,"author":"AswathDamodaran","rating":24,"text":"My golf game is so bad that you would be in mortal danger. @R_Thaler @Que_Bueno @LamarCoachT @DavidGFool @JeffBezos","url":""}
+{"date":1485458025000,"author":"AswathDamodaran","rating":326,"text":"Differences in costs of capital across countries & industries to start 2017 & why you should not obsess about them.\u2026","url":"https:\/\/t.co\/7OgF1diefR"}
+{"date":1485367222000,"author":"AswathDamodaran","rating":6,"text":"@vijaygkg So what? Corporate taxes are only piece of the revenue pie. Individual taxes, sales taxes, VAT all provide revenue.","url":""}
+{"date":1485365240000,"author":"AswathDamodaran","rating":2,"text":"@vijaygkg I said Canadian companies collectively pay less in taxes than US companies. And the US marginal tax rate is higher.","url":""}
+{"date":1485364224000,"author":"AswathDamodaran","rating":348,"text":"The tax code affects value. My look at tax rates globally in 2017 and winners & losers if US tax code changes.\u2026","url":"https:\/\/t.co\/3QfzXqX1O6"}
+{"date":1485277752000,"author":"AswathDamodaran","rating":5,"text":"@ajoshi777 Yes. As a democracy, there will always be more uncertainty but I'll pick it over China .","url":""}
+{"date":1485273531000,"author":"AswathDamodaran","rating":551,"text":"As investors & firms globalize, there is no place to hide from country risk. My 2017 country risk premium estimates\u2026","url":"https:\/\/t.co\/Dtkfa12Rks"}
+{"date":1484908691000,"author":"AswathDamodaran","rating":361,"text":"Currency is a choice in valuation. Played right, it is neutral. Mixed up, it is devastating. A January 2017 look:\u2026","url":"https:\/\/t.co\/JnydpcNwVq"}
+{"date":1484901462000,"author":"AswathDamodaran","rating":2,"text":"@anshu_bahadur Unfortunately, that part of the process is not in my control. The cap might be a constraint, this semester.","url":""}
+{"date":1484324295000,"author":"AswathDamodaran","rating":315,"text":"Data 2017 Update 2: US markets, tested in 2016, were resilient. The key tests for stocks & bonds in 2017:\u2026","url":"https:\/\/t.co\/s3tGQyt798"}
+{"date":1484246240000,"author":"AswathDamodaran","rating":322,"text":"Stern Valuation Certificate is an online but hands on class. To register: https:\/\/t.co\/scHrcKngHR.  \nhttps:\/\/t.co\/ujuyLuRFCN via @YouTube","url":""}
+{"date":1484243598000,"author":"AswathDamodaran","rating":1,"text":"@kapitalust yes","url":""}
+{"date":1484237291000,"author":"AswathDamodaran","rating":265,"text":"Teaching Corporate Finance to MBAs, Valuation to Undergrads & a new Valuation Certificate class. https:\/\/t.co\/tuxbv7n9iQ (link corrected)","url":""}
+{"date":1484152418000,"author":"AswathDamodaran","rating":663,"text":"My newest book, Narrative & Numbers, chronicles my journey from number cruncher to story teller. Hope you enjoy it.\u2026","url":"https:\/\/t.co\/hSuX2r25sG"}
+{"date":1483983333000,"author":"AswathDamodaran","rating":405,"text":"Each year, I play Moneyball with financial data & 2017 version is now ready. https:\/\/t.co\/vNt5YQIHek\nhttps:\/\/t.co\/wcowdyRvP8- via @YouTube","url":""}
+{"date":1483741716000,"author":"AswathDamodaran","rating":3,"text":"@Adnraznipideras Monday for sure","url":""}
+{"date":1482977640000,"author":"AswathDamodaran","rating":19,"text":"@jwan584 buy stocks during a crisis, when panicked investors want to cash out (buy liquidity)","url":""}
+{"date":1482962534000,"author":"AswathDamodaran","rating":370,"text":"A follow-up to my post on active investing: the roots of active investing woes and a recipe to make it work.\u2026","url":"https:\/\/t.co\/wifK9EVM6H"}
+{"date":1481906936000,"author":"AswathDamodaran","rating":121,"text":"In Dubai for a 3-day session in 2017 (Jan 15,16,17) on investments & valuation. Perhaps, I will see you there.","url":"https:\/\/t.co\/G5xe6Y3GrU"}
+{"date":1481728801000,"author":"AswathDamodaran","rating":672,"text":"I am an active investor but active investing is losing the battle to passive investing & deservedly so.\u2026","url":"https:\/\/t.co\/cqY58E5zFx"}
+{"date":1480626653000,"author":"AswathDamodaran","rating":75,"text":"After election surprise,","url":"https:\/\/t.co\/IfY5XbzQfu"}
+{"date":1480580246000,"author":"AswathDamodaran","rating":2,"text":"@asani89 it is in rupiah. Inflation is higher.","url":""}
+{"date":1480526924000,"author":"AswathDamodaran","rating":220,"text":"Myth 5.5: The terminal value is huge & is eating up my DCF! Truth 5.5: That\u2019s a feature, not a bug!\u2026","url":"https:\/\/t.co\/7NMHR6c4bK"}
+{"date":1480526864000,"author":"AswathDamodaran","rating":177,"text":"Myth 5.4: You cannot have a negative growth rate in a DCF. Truth 5.4: Says who? It is more common than you think!\u2026","url":"https:\/\/t.co\/8qoD2Bd9ov"}
+{"date":1480526611000,"author":"AswathDamodaran","rating":154,"text":"Myth 5.3: Increasing g increases TV.  Truth 5.3: Growth is not free and increasing it can increase or reduce TV.\u2026","url":"https:\/\/t.co\/chhx5SpBFz"}
+{"date":1480526554000,"author":"AswathDamodaran","rating":123,"text":"Myth 5.2: As g -> r, TV -> infinity & beyond. Truth 5.2: Growth is capped & at the riskfree rate (my rationale).","url":"https:\/\/t.co\/zXiRlY6k0p"}
+{"date":1480526448000,"author":"AswathDamodaran","rating":137,"text":"Myth 5.1: The only path to TV passes through \u201Cforever\u201D. Truth 5.1: You\u2019ve got options but don\u2019t use a multiple.\u2026","url":"https:\/\/t.co\/93K9MoHJQs"}
+{"date":1480526390000,"author":"AswathDamodaran","rating":786,"text":"My next five tweets are about terminal value (TV) myths & reflect my DCF obsession. If it is not your cup of tea, l\u2026","url":"https:\/\/t.co\/LIrEh4SEYS"}
+{"date":1480384840000,"author":"AswathDamodaran","rating":8,"text":"@IrvingHarrison @ritholtz I'd rather be transparently wrong than opaquely right. (And I'm no Yogi Berra)","url":""}
+{"date":1480362367000,"author":"AswathDamodaran","rating":2,"text":"@percipientcap I don\u2019t need your permission to give my opinion, just as you don\u2019t need mine to give yours. And the Tatas created these JVs.","url":""}
+{"date":1480346645000,"author":"AswathDamodaran","rating":1,"text":"@percipientcap You may find these easy to value. I don\u2019t.","url":"https:\/\/t.co\/IdGENXbBS0"}
+{"date":1480190810000,"author":"AswathDamodaran","rating":0,"text":"@PercipientCap It is family self interest, not dishonesty, that worry me and that I am completely unprotected. Complexity makes it worse.","url":""}
+{"date":1480189420000,"author":"AswathDamodaran","rating":0,"text":"@PercipientCap Not just Indian, but also Chinese, US or European, & it is my choice who I trust with my money. You are free to do the same.","url":""}
+{"date":1480011570000,"author":"AswathDamodaran","rating":2,"text":"@PercipientCap Are you arguing with me or yourself? If I won't invest in a Tata group company, why would I trust the Ambanis or Birlas?","url":""}
+{"date":1480004920000,"author":"AswathDamodaran","rating":0,"text":"@PercipientCap Have you taken a look at the consolidated financials for Tata Motors?","url":""}
+{"date":1479994791000,"author":"AswathDamodaran","rating":0,"text":"@percipientcap Depends on how much of Titan\u2019s value comes from the company making salt. The cross holdings kill you.","url":""}
+{"date":1479842041000,"author":"AswathDamodaran","rating":4,"text":"@WallStCynic great point. My biggest estimation concern: Switching to R&D model takes time to pay off. Rev may shrink before steady state","url":""}
+{"date":1479837888000,"author":"AswathDamodaran","rating":0,"text":"@Steninio77 Good point.","url":""}
+{"date":1479836693000,"author":"AswathDamodaran","rating":0,"text":"@WallStCynic It is a true economic cost if they continue buy new drugs\/companies and write them off. I think those days are over!","url":""}
+{"date":1479836615000,"author":"AswathDamodaran","rating":6,"text":"@mainmusings Given how you framed the question, I would say yes, since you seem to believe that models are what value companies.","url":""}
+{"date":1479836175000,"author":"AswathDamodaran","rating":2,"text":"@WallStCynic Reported EBIT is $250 million but after almost $3 billion in impairments of intangibles\/goodwill. Tried to clean up.","url":""}
+{"date":1479836068000,"author":"AswathDamodaran","rating":2,"text":"@mainmusings Let me play along. What exactly is having a financial model let people do that they cannot do right now?","url":""}
+{"date":1479833923000,"author":"AswathDamodaran","rating":5,"text":"@mainmusings I won\u2019t be the first person to be outsourced and I won\u2019t be the last one. I\u2019ll move on.","url":""}
+{"date":1479833288000,"author":"AswathDamodaran","rating":436,"text":"As an investor, I struggle maintaining a balance between faith and feedback & Valeant has been an acid test.\u2026","url":"https:\/\/t.co\/rXM1b9svD2"}
+{"date":1479817139000,"author":"AswathDamodaran","rating":0,"text":"@Fub1110 And that is exactly what the cost of equity is.","url":""}
+{"date":1479816655000,"author":"AswathDamodaran","rating":0,"text":"@Fub1110 r is the cost of equity","url":""}
+{"date":1479780740000,"author":"AswathDamodaran","rating":0,"text":"@Fub1110 \n100\/(r-g)","url":""}
+{"date":1479411917000,"author":"AswathDamodaran","rating":563,"text":"The pluses & minuses of family group companies. I use Tata Group power struggle to illustrate challenges:\u2026","url":"https:\/\/t.co\/3d01t4Az36"}
+{"date":1479245280000,"author":"AswathDamodaran","rating":1,"text":"@clarkjon88 Exactly identical. Buy the cheaper one.","url":""}
+{"date":1478899618000,"author":"AswathDamodaran","rating":499,"text":"Brexit and the Trump election have such eerie parallels that I reused my Brexit post to examine market effects!\u2026","url":"https:\/\/t.co\/yUlJ9asF7l"}
+{"date":1478391828000,"author":"AswathDamodaran","rating":5,"text":"@c_mmoney Look at my blog post on Deutsche Bank from a few weeks ago. It should help.","url":""}
+{"date":1478349486000,"author":"AswathDamodaran","rating":11,"text":"@suffjeff What is a share of a business worth if your legal claim is not enforced? The risk free rate is the least of your worries.","url":""}
+{"date":1478310335000,"author":"AswathDamodaran","rating":51,"text":"@AswathDamodaran Companies that borrow a lot (little) tend to be clustered at the low (high) end. Tied to corporate life cycle.","url":""}
+{"date":1478308439000,"author":"AswathDamodaran","rating":38,"text":"@AswathDamodaran I do this at the start of every ear, using raw data from different data services for about 40,000 firms","url":""}
+{"date":1478306206000,"author":"AswathDamodaran","rating":3,"text":"@mike8duke Check out the blog post (or the graph)","url":""}
+{"date":1478306153000,"author":"AswathDamodaran","rating":16,"text":"@ValuentumBrian No, lower rates don't reduce ERP. In the last decade, as rates go down, the  same forces are pushing risk premia up.","url":""}
+{"date":1478306078000,"author":"AswathDamodaran","rating":11,"text":"@ValuentumBrian It is even messier. Lower risk free rates -> higher risk premiums & lower growth -> Lower or higher value.","url":""}
+{"date":1478305131000,"author":"AswathDamodaran","rating":265,"text":"#5: Discount Rate Myth 5: With near-zero interest rates, DCFs will implode. Truth 5: Only if DCF is on auto-pilot.\u2026","url":"https:\/\/t.co\/H0di7hc0o2"}
+{"date":1478305079000,"author":"AswathDamodaran","rating":171,"text":"#4: Discount Rate Myth 4: The discount rate is a receptacle for your hopes & fears. Truth 4: Nope!","url":"https:\/\/t.co\/ZVfh7kk3pJ"}
+{"date":1478304966000,"author":"AswathDamodaran","rating":232,"text":"#3: Discount Rate Myth 3: D is a constant over your forecast period. Truth 3: D should change as company does.\u2026","url":"https:\/\/t.co\/44BqT79XvM"}
+{"date":1478304880000,"author":"AswathDamodaran","rating":391,"text":"#2:  Discount Rate Myth 2: It\u2019s all about the D in the DCF. Truth 1: It\u2019s all about CF in the DCF.\u2026","url":"https:\/\/t.co\/SP1RkipU0k"}
+{"date":1478304847000,"author":"AswathDamodaran","rating":329,"text":"#1: Discount Rate Myth 1: If you don\u2019t like betas, don't do DCFs. Truth 1: DCFs are adaptable to any risk measure..\u2026","url":"https:\/\/t.co\/rlS6M2i1wP"}
+{"date":1478304765000,"author":"AswathDamodaran","rating":179,"text":"Who put the D in the DCF? If you don't care, please skip next 5 tweets. If you do, here is my mini tweet storm. #DCFMyths","url":""}
+{"date":1478134672000,"author":"AswathDamodaran","rating":2,"text":"@captkirti Fixed now!","url":""}
+{"date":1478129742000,"author":"AswathDamodaran","rating":6,"text":"@oleary_brandon @ritholtz Because the authors treat him as God-like & view his every utterance as profound & brilliant.","url":""}
+{"date":1478015235000,"author":"AswathDamodaran","rating":2,"text":"@nealdjain Yup. Just gross it up.","url":""}
+{"date":1477842046000,"author":"AswathDamodaran","rating":0,"text":"@natuneeraj You don\u2019t. They affect the price (not your value) & you have to find a gap-closing catalyst.","url":""}
+{"date":1477834181000,"author":"AswathDamodaran","rating":194,"text":"Leading into election & FOMC meeting, S&P 500 down 2%,","url":"https:\/\/t.co\/VIplRBwJyA"}
+{"date":1477795001000,"author":"AswathDamodaran","rating":336,"text":"I had a blast chatting with Barry @ritholtz, about everything & nothing, on at a podcast that you can access at","url":"https:\/\/t.co\/L0ou102zBM."}
+{"date":1476900579000,"author":"AswathDamodaran","rating":0,"text":"@abh_Menon Server was down.Try again.","url":""}
+{"date":1476032129000,"author":"AswathDamodaran","rating":1,"text":"@AdamCooper91 Exactly. You are also lowering the value of the underlying stock. The lack of liquidity in options shows up as early exercise.","url":""}
+{"date":1476028512000,"author":"AswathDamodaran","rating":0,"text":"@AdamCooper91 Just apply it to the stock & halve the option life","url":""}
+{"date":1475776185000,"author":"AswathDamodaran","rating":46,"text":"@riverstonecap My formula is Homework + Hope + Luck = Success. Without hope, you never try and without luck, you are doomed.","url":""}
+{"date":1475771235000,"author":"AswathDamodaran","rating":562,"text":"As Deutsche Bank wrestles with fines, losses and bailout rumors, is it time to jump in, sell short or spectate?\u2026","url":"https:\/\/t.co\/we6fF3wRlt"}
+{"date":1475583219000,"author":"AswathDamodaran","rating":0,"text":"@womanvc @Medium You are welcome. Fix the tools for pricing box. It says intrinsic value.","url":""}
+{"date":1475523804000,"author":"AswathDamodaran","rating":154,"text":"Sorry for the multimedia assault. A YouTube video to follow up on my VC post from yesterday. \nhttps:\/\/t.co\/CeWzWsahzM- via @YouTube","url":""}
+{"date":1475459100000,"author":"AswathDamodaran","rating":9,"text":"@trengriffin @mjmauboussin Agree but no excuse for not measuring something that matters and is measurable.","url":""}
+{"date":1475457962000,"author":"AswathDamodaran","rating":3,"text":"@trengriffin @wordpressdotcom I liked your article and I don't disagree. How much skill & on what dimensions is what needs debating.","url":""}
+{"date":1475454774000,"author":"AswathDamodaran","rating":1,"text":"@lindsayross Danny Litt .... That's a long way down memory lane!","url":""}
+{"date":1475426972000,"author":"AswathDamodaran","rating":2,"text":"@NickPlotnikov Glad I don't have to teach my class is Russian.","url":""}
+{"date":1475420774000,"author":"AswathDamodaran","rating":887,"text":"Venture capitalists price companies, not value them, and the elite play the pricing game better than the rest!\u2026","url":"https:\/\/t.co\/DmIjlkjTLo"}
+{"date":1475327404000,"author":"AswathDamodaran","rating":1,"text":"@b50 @backroady Some things are not tweetable. Try the link & you should be able to find out.","url":""}
+{"date":1475325096000,"author":"AswathDamodaran","rating":1,"text":"@backroady Equity Risk Premium","url":""}
+{"date":1475324675000,"author":"AswathDamodaran","rating":259,"text":"S&P 500 flat in Sept 2016, but changes brewing? ERP rises to 6.16%, earnings are flat and buybacks are down.\u2026","url":"https:\/\/t.co\/hh5fzbKCL0"}
+{"date":1475237645000,"author":"AswathDamodaran","rating":2,"text":"@anshulsahib That is a text book. Not meant for a long read unless you like to torture yourself.","url":""}
+{"date":1474649301000,"author":"AswathDamodaran","rating":3,"text":"@fardinhumayun Not much. Just a signed book","url":""}
+{"date":1474629687000,"author":"AswathDamodaran","rating":68,"text":"Look forward to being in Vienna (& hoping it feels like Jamaica) for 2-day seminar on December 1 & 2. Details at","url":"https:\/\/t.co\/yXYSiKVK7x"}
+{"date":1474460388000,"author":"AswathDamodaran","rating":17,"text":"@agarwalK2 If you pay people based on # accounts opened, they will open a lot of accounts (some fake). Bad incentives= bad outcomes!","url":""}
+{"date":1473862651000,"author":"AswathDamodaran","rating":490,"text":"Why pay millions for fairness opinion that is neither fair nor opinion?  Fix it or flush it.","url":"https:\/\/t.co\/sXBaicdBCR"}
+{"date":1473371895000,"author":"AswathDamodaran","rating":4,"text":"@CrewCutter @TheStalwart I'll play along. Yes, the higher risk should give stocks lower PE, historically 60-70% of bond PE. Today, it's 42%","url":""}
+{"date":1473371757000,"author":"AswathDamodaran","rating":1,"text":"@ComfortablySmug @TheStalwart @mattmiller1973 If by New York, you mean just Manhattan, & you don't have to go crosstown, no. Else, yes!","url":""}
+{"date":1473301315000,"author":"AswathDamodaran","rating":9,"text":"@AakashMadhu1 Why would pay a third banker more money to \"craft\" another crappy valuation? Save your money!","url":""}
+{"date":1473300132000,"author":"AswathDamodaran","rating":5,"text":"@anthonybonsigno I would start with the earnings and cash flows. The discount rate can wait.","url":""}
+{"date":1473291982000,"author":"AswathDamodaran","rating":2,"text":"@sindap fixed. Freudian slip","url":""}
+{"date":1473291378000,"author":"AswathDamodaran","rating":0,"text":"@kylebinson Yes, on my website and on Apple iTunes U.","url":""}
+{"date":1473291257000,"author":"AswathDamodaran","rating":493,"text":"Even by banking's woeful valuation standards, Lazard & Evercore hit lows in TSLA\/SCTY deal.","url":"https:\/\/t.co\/I5WejEMxXp"}
+{"date":1473086652000,"author":"AswathDamodaran","rating":145,"text":"Valuing companies in Argentina, uncertainty is fact of life. In Buenos Aires for CFA Society talk on Sept 16.","url":"https:\/\/t.co\/96QUM9Tj6w"}
+{"date":1473086279000,"author":"AswathDamodaran","rating":40,"text":"Love Santiago & am sorry that I will be there only 12 hours on Sept 15, but look forward to talking to Chilean CFAs.","url":"https:\/\/t.co\/uDOTrQU40G"}
+{"date":1472823862000,"author":"AswathDamodaran","rating":1,"text":"@contelofr Depends on whether you used pre-tax or post-tax cash flows to get to IRR.","url":""}
+{"date":1472755097000,"author":"AswathDamodaran","rating":3,"text":"@vigajjar I cannot even text, let alone tweet, u r. Perhaps, I am too old or my English teacher from 3rd grade did too good a job on me.","url":""}
+{"date":1472754942000,"author":"AswathDamodaran","rating":84,"text":"S&P 500 flat in August 2016, leaving ERP unchanged at 6.06%, starting September. With sustainable CF, ERP=4.86%.","url":"https:\/\/t.co\/IfY5XbifnW"}
+{"date":1472751251000,"author":"AswathDamodaran","rating":113,"text":"I know. I know. Your = You're, but I was running over the Twitter character limit. I hope the Grammar Gods will forgive me.","url":""}
+{"date":1472748345000,"author":"AswathDamodaran","rating":798,"text":"For a life measured in academic years, it's a new year, a new class & your welcome to join.","url":"https:\/\/t.co\/C5aetPesLA"}
+{"date":1472737510000,"author":"AswathDamodaran","rating":2,"text":"@kendraj_daksh It does not matter there, since what you add back to get to EBITDA gets subtracted out as DA.","url":""}
+{"date":1472731483000,"author":"AswathDamodaran","rating":2,"text":"@kendraj_daksh Yes. Add it back to get to EBITDA. But whether you should even use EBITDA for any purpose is a different question.","url":""}
+{"date":1472688691000,"author":"AswathDamodaran","rating":1,"text":"@kendraj_daksh Include where? Do you mean add it back?","url":""}
+{"date":1472663546000,"author":"AswathDamodaran","rating":448,"text":"Mean reversion works until it doesn't & why statistical significance ≠ Investment Returns.","url":"https:\/\/t.co\/zMybZgtZbm"}
+{"date":1472471891000,"author":"AswathDamodaran","rating":1,"text":"@yasasw @YouTube Back up","url":""}
+{"date":1472248873000,"author":"AswathDamodaran","rating":3,"text":"@nitingupta2 Trailing vs Forward a very minor issue. Don't be distracted","url":""}
+{"date":1472248780000,"author":"AswathDamodaran","rating":2,"text":"@nitingupta2 I used annual data & went through prior year. Do it with monthly & see if your results are different.","url":""}
+{"date":1472226847000,"author":"AswathDamodaran","rating":349,"text":"As focus turns again to the Fed, here is my post from 9\/15 on why I think it is misplaced.","url":"https:\/\/t.co\/Efq43dHBK3"}
+{"date":1472127034000,"author":"AswathDamodaran","rating":1,"text":"@samkillmier Check out S&Ps website. Also available on Cap IQ and Factset for individual companies.","url":""}
+{"date":1472125042000,"author":"AswathDamodaran","rating":2,"text":"@MaMaDolson I will take you up on that offer next time I am in the neighborhood.","url":""}
+{"date":1472071894000,"author":"AswathDamodaran","rating":1,"text":"@jmgordon58 @YouTube I'll be back in Chicago next April.","url":""}
+{"date":1472058019000,"author":"AswathDamodaran","rating":182,"text":"Going multimedia! Why CAPE is uninformative, not predictive and ignores the alternatives. https:\/\/t.co\/wwziboWa0B- via @YouTube","url":""}
+{"date":1472055814000,"author":"AswathDamodaran","rating":442,"text":"If you think US stocks are in a bubble, you need a better basis than Shiller's CAPE.","url":"https:\/\/t.co\/oMKPlh4Pif"}
+{"date":1471795304000,"author":"AswathDamodaran","rating":1,"text":"@thsaueressig @salesforce Benioff is openly contemptuous of his shareholders. Wants their money but not their input.","url":""}
+{"date":1471629590000,"author":"AswathDamodaran","rating":843,"text":"Young companies burn cash, with pathways to glory or doom. My rubric for telling them apart.","url":"https:\/\/t.co\/foZX6x4K7V"}
+{"date":1471605977000,"author":"AswathDamodaran","rating":5,"text":"@AutoDigest Not a problem. I write to be read.","url":""}
+{"date":1471482300000,"author":"AswathDamodaran","rating":3,"text":"@ChidviPemula Facebook is an advertising company. Uber has more costs in its business. 40% not happening.","url":""}
+{"date":1471447865000,"author":"AswathDamodaran","rating":3,"text":"@abhinavmathur If Didi and Uber divide and conquer, the smaller players could be crushed. 40% will be tough but not impossible.","url":""}
+{"date":1471442185000,"author":"AswathDamodaran","rating":635,"text":"For ride sharing firms, disruption was easy but business-building is not. An Uber update.","url":"https:\/\/t.co\/bootudpluN"}
+{"date":1471289391000,"author":"AswathDamodaran","rating":360,"text":"After a vacation in Florence, what I learned about investing from Brunelleschi's Dome.","url":"https:\/\/t.co\/j8R3NJQvC5"}
+{"date":1470778832000,"author":"AswathDamodaran","rating":0,"text":"@tiffany_wan CAGR","url":""}
+{"date":1470441826000,"author":"AswathDamodaran","rating":1,"text":"@frankiegesus If it is a market D\/E ratio, yes.","url":""}
+{"date":1470066162000,"author":"AswathDamodaran","rating":68,"text":"July 2016 was a good month for the S&P 500, as ERP drops to 6.06% on Aug 1 from 6.27%on July 1. Website:","url":"https:\/\/t.co\/IfY5XbifnW"}
+{"date":1469277162000,"author":"AswathDamodaran","rating":139,"text":"Heat maps look neat but don't show up in all browsers. Updated my country risk post with images (& links):","url":"https:\/\/t.co\/2m33Fd6KCz"}
+{"date":1469192535000,"author":"AswathDamodaran","rating":279,"text":"Market crises, a feature of globalization, not a bug. Post:","url":"https:\/\/t.co\/3Rq6fFVfFb"}
+{"date":1469101225000,"author":"AswathDamodaran","rating":37,"text":"Starting my Asia trip with 2-day seminar in Kuala Lumpur for MIBA on August 9 &10. Should be fun!","url":"https:\/\/t.co\/Ua385QmUhx"}
+{"date":1469054816000,"author":"AswathDamodaran","rating":61,"text":"Looking forward to doing a 2-day valuation seminar in Jakarta for Deloitte on August 11 & 12.","url":"https:\/\/t.co\/6ehrXF2IgO"}
+{"date":1468791241000,"author":"AswathDamodaran","rating":1,"text":"@ngobese65 Time & perseverance. It's not difficult but it is an endurance test.","url":""}
+{"date":1468520035000,"author":"AswathDamodaran","rating":464,"text":"Tesla is a story stock but what's the story?  Auto or tech? High end or mass market?","url":"https:\/\/t.co\/rzNzavLqsO"}
+{"date":1468011718000,"author":"AswathDamodaran","rating":1,"text":"@jpcauthor @TheStalwart @business That's what my kids say too!","url":""}
+{"date":1467388578000,"author":"AswathDamodaran","rating":17,"text":"@eugenechemaly Afraid you have to ask someone who believes in CAPE ratios. I think that they are a lazy substitute for serious thinking.","url":""}
+{"date":1467382207000,"author":"AswathDamodaran","rating":81,"text":"Little change in S&P but","url":"https:\/\/t.co\/IfY5XbzQfu"}
+{"date":1467216580000,"author":"AswathDamodaran","rating":725,"text":"Brexit lessons: Market bias, Clueless experts, Winning narratives & The People's will.","url":"https:\/\/t.co\/hB8j4C56Uj"}
+{"date":1466297474000,"author":"AswathDamodaran","rating":6,"text":"@AnthonyBonsigno Take my corporate finance class from spring 2016.","url":""}
+{"date":1465921424000,"author":"AswathDamodaran","rating":2,"text":"@bkaellner You are kidding, right?","url":""}
+{"date":1465228479000,"author":"AswathDamodaran","rating":436,"text":"Should Icahn's exit or Buffett's entry affect your $AAPL judgment? The Big Name Effect.","url":"https:\/\/t.co\/udAQLfdJFe"}
+{"date":1464809794000,"author":"AswathDamodaran","rating":157,"text":"ERP for S&P 500 is at 6.12% on 1\/1\/16. Wish I had profound market timing wisdom but I don't.","url":"https:\/\/t.co\/24iIZeo5Ur"}
+{"date":1464023163000,"author":"AswathDamodaran","rating":7,"text":"@roynosaurus If my valuation required a 15% growth rate, I would, but not with a 1.5% growth rate.","url":""}
+{"date":1464020502000,"author":"AswathDamodaran","rating":2,"text":"@hml001 Finance Professors? They already know everything, don\u2019t they?","url":""}
+{"date":1464020282000,"author":"AswathDamodaran","rating":228,"text":"A step-by-step simulation for Apple in May 2016 yields this distribution of values:","url":"https:\/\/t.co\/0C5a1pJPV7"}
+{"date":1463831609000,"author":"AswathDamodaran","rating":224,"text":"I cram all that I know about valuation into open seminar from July 18-20 at NYU. It gets easier to do each year.","url":"https:\/\/t.co\/Db4Q6wKTAT"}
+{"date":1463414668000,"author":"AswathDamodaran","rating":3,"text":"@bloooondeeee I\u2019m staying with 6% for the moment.","url":""}
+{"date":1462285446000,"author":"AswathDamodaran","rating":329,"text":"The margin of safety (MOS) works for Seth Klarman but does it work for you? The tradeoff on & myths about MOS.","url":"https:\/\/t.co\/JFXJL1oe72"}
+{"date":1462206336000,"author":"AswathDamodaran","rating":204,"text":"Facing uncertainty, I've tried inaction, denial, rules of thumb, outsourcing & prayer to no avail. My coping tools:","url":"https:\/\/t.co\/QwH1CiBCrs"}
+{"date":1462148590000,"author":"AswathDamodaran","rating":171,"text":"S&P 500 ends April 2016, with ERP almost unchanged at 6.22%. Bad earnings news may presage cash flow drops.","url":"https:\/\/t.co\/IfY5XbifnW"}
+{"date":1461545468000,"author":"AswathDamodaran","rating":7,"text":"@maggiepep Try a Cabernet & 0.5 speed & backwards. It will all make sense.","url":""}
+{"date":1461378688000,"author":"AswathDamodaran","rating":2,"text":"@wmui1 @themitchrapp No more than you can afford to lose without losing sleep or changing lifestyle.","url":""}
+{"date":1461371286000,"author":"AswathDamodaran","rating":4,"text":"@StevenKaye1947 In an intrinsic value, it is the value that I estimate today grown out at the cost of equity.","url":""}
+{"date":1461371177000,"author":"AswathDamodaran","rating":1,"text":"@StevenKaye1947 @valuewalk If they get $20 billion in cash, that will be recovery enough.","url":""}
+{"date":1461371107000,"author":"AswathDamodaran","rating":1,"text":"@StevenKaye1947 @valuewalk The fact that they can sell B &L is a plus. Suicide is too strong a word but as a last resort, they would.","url":""}
+{"date":1461365029000,"author":"AswathDamodaran","rating":1,"text":"@stevenkaye1947 @valuewalk Where exactly did you ask these questions? If it was on Valuewalk, I would not even see them.","url":""}
+{"date":1461364973000,"author":"AswathDamodaran","rating":10,"text":"@nihonsaram Netflix is already trying, but the problem is that any business that Amazon enters becomes a bad business for the rest.","url":""}
+{"date":1461191301000,"author":"AswathDamodaran","rating":12,"text":"@themitchrapp A margin of safety is always relative to a valuation and can never be regardless of it.🤔","url":""}
+{"date":1461158830000,"author":"AswathDamodaran","rating":152,"text":"Tracing Valeant's value from star in Sept '15 to cash cow in Nov '15 to down-and-out today, a leap into darkness:","url":"https:\/\/t.co\/fo6hPGwu1J"}
+{"date":1460903808000,"author":"AswathDamodaran","rating":1,"text":"@AndresRuedaM Use last year's interest expense","url":""}
+{"date":1459459744000,"author":"AswathDamodaran","rating":116,"text":"Is the fear factor receding? US stocks enter April with ERP at 6.24%, down from 6.51% in March.  Home:","url":"https:\/\/t.co\/IfY5XbzQfu"}
+{"date":1458577928000,"author":"AswathDamodaran","rating":0,"text":"@MarketFried yes","url":""}
+{"date":1457715019000,"author":"AswathDamodaran","rating":289,"text":"As Euro joins club, I try to make sense of negative interest rates and find nothing good to say about them.","url":"https:\/\/t.co\/cDjBJ2OQc9"}
+{"date":1457453320000,"author":"AswathDamodaran","rating":190,"text":"My webinar for Sageworks on valuation as a bridge between stories & numbers. Had lots of fun & hope you do too.","url":"https:\/\/t.co\/EsxNjsLEun"}
+{"date":1457363299000,"author":"AswathDamodaran","rating":432,"text":"Neither Magnum nor Opus, but everything I know about the equity risk premium in 136 pages. Also cures insomnia.","url":"https:\/\/t.co\/antSFgsKuO"}
+{"date":1457150359000,"author":"AswathDamodaran","rating":1,"text":"@mayankagar94 You are speaking in riddles. What black box syndrome? Never heard of it.","url":""}
+{"date":1457034638000,"author":"AswathDamodaran","rating":61,"text":"Harvard's got billions. NYU Stern does not. If you are a Stern alum, a chance to close the gap: #NYUOneDay and","url":"https:\/\/t.co\/3YuG23YvHC"}
+{"date":1456882593000,"author":"AswathDamodaran","rating":45,"text":"ERP stays high in Feb 2016, moving to 6.51% at month-end from 6.47% at start. Home:","url":"https:\/\/t.co\/K54f8DsBaj"}
+{"date":1456542795000,"author":"AswathDamodaran","rating":0,"text":"@sf99 Positive and negative.","url":""}
+{"date":1456513280000,"author":"AswathDamodaran","rating":92,"text":"Doing a webinar on March 4 with @sageworks on connecting stories to numbers. You can register here ->","url":"https:\/\/t.co\/8sXmpUAJvB"}
+{"date":1456513229000,"author":"AswathDamodaran","rating":0,"text":"@sf99 The possible outcomes that the variable can take. Some variables can only be +ve, some will be skewed +ve and some skewed -ve.","url":""}
+{"date":1456411217000,"author":"AswathDamodaran","rating":7,"text":"@aleebianchi @cfa_arguru Its been a while but I will be there, sooner rather than later.","url":""}
+{"date":1456275378000,"author":"AswathDamodaran","rating":5,"text":"@NielsStang That is the reason we do valuation: to gets measure of the right price","url":""}
+{"date":1456272069000,"author":"AswathDamodaran","rating":2,"text":"@NielsStang At the right price, I can live with either. At the wrong price, I am bothered by both.","url":""}
+{"date":1456265513000,"author":"AswathDamodaran","rating":1,"text":"@gorechristophe2 If your concern is that GPRO's mgmt. Is bad, that is fine. Lots of really valuable one trick ponies in the business world.","url":""}
+{"date":1456265133000,"author":"AswathDamodaran","rating":4,"text":"@gorechristophe2 because a cheap one trick pony is a better investment than an expensive racehorse.","url":""}
+{"date":1456265133000,"author":"AswathDamodaran","rating":4,"text":"@gorechristophe2 because a cheap one trick pony is a better investment than an expensive racehorse.","url":""}
+{"date":1456260113000,"author":"AswathDamodaran","rating":168,"text":"I like $LNKD more than $GPRO, as a business, but $GPRO looks like a better investment. Battling my preconceptions!","url":"https:\/\/t.co\/D9GOPbyws6"}
+{"date":1455925616000,"author":"AswathDamodaran","rating":10,"text":"@5countryclub David, If I based my valuation on past performance, $TWTR would have to pay me to buy their stock, not the other way around.","url":""}
+{"date":1455915448000,"author":"AswathDamodaran","rating":311,"text":"$FB illustrates the value of having lots of users and $TWTR shows why it is not enough. Lessons I've learned!","url":"https:\/\/t.co\/b2ZP1r7mJM"}
+{"date":1455721387000,"author":"AswathDamodaran","rating":11,"text":"@pk__4 Accuracy is for people who value zero-coupon default free bonds. Close enough to reality is all I aspire for.","url":""}
+{"date":1455720886000,"author":"AswathDamodaran","rating":2,"text":"@_varunkumar__ Exactly. I made my decision. You have to make yours. This is just disclosure that my choices don\u2019t always work out.","url":""}
+{"date":1455720096000,"author":"AswathDamodaran","rating":173,"text":"At today's prices, $NFLX and $AMZN look expensive to me. Warning: They did last year too, and both stocks soared!","url":"https:\/\/t.co\/QEvpYpgMrd"}
+{"date":1455541380000,"author":"AswathDamodaran","rating":443,"text":"My (biased) take on the Apple vs Alphabet duel: Alphabet is better business & trade. Apple is better investment.","url":"https:\/\/t.co\/dKwMI9sniW"}
+{"date":1454971768000,"author":"AswathDamodaran","rating":1,"text":"@mba_beauty @blackrock @_bmturner_ Weekly Puzzle for this week.","url":""}
+{"date":1454954857000,"author":"AswathDamodaran","rating":133,"text":"In a violent earnings season, earnings are petri dish to differentiate investors from traders & assess market mood:https:\/\/t.co\/GKrA2UAtY1","url":""}
+{"date":1454620506000,"author":"AswathDamodaran","rating":2,"text":"@bloooondeeee Sticking with 6% for the moment. One more crisis month and who knows?","url":""}
+{"date":1454620483000,"author":"AswathDamodaran","rating":0,"text":"@houstontrader13 You have to have an E to PE and g in that E to PEG. I see neither. May be other reasons to buy GPRO but this is not one.","url":""}
+{"date":1454337921000,"author":"AswathDamodaran","rating":140,"text":"If you needed a reminder about equity risk, you got it in Jan 2016.  Updated ERP for S&P 500 & surveying damage:","url":"https:\/\/t.co\/eGNmh8vaTU"}
+{"date":1454254984000,"author":"AswathDamodaran","rating":0,"text":"@captkirti Should work, though 2008 colors my third and fourth editions. Can you get a third edition?","url":""}
+{"date":1454254835000,"author":"AswathDamodaran","rating":6,"text":"@cganozadurant If you teach a reality-based corporate finance class, behavioral finance is just part of your class, not a separate field.","url":""}
+{"date":1454249200000,"author":"AswathDamodaran","rating":6,"text":"@cganozadurant That the more things change, the more they stay the same. We make the same mistakes over and over again.","url":""}
+{"date":1454192402000,"author":"AswathDamodaran","rating":435,"text":"My 32nd year, teaching corporate finance, and I still cannot wait to get to class! Come join the fun.","url":"https:\/\/t.co\/h2w8Il1t1I"}
+{"date":1453923354000,"author":"AswathDamodaran","rating":155,"text":"Dividend policy is driven by inertia & metooism in companies. My last data post looks at global dividends in 2015.","url":"https:\/\/t.co\/DLhC3T1D58"}
+{"date":1453743475000,"author":"AswathDamodaran","rating":1,"text":"@mayfaircynic @robinwigg @ranimolla Your definition of acronym must be different from one.","url":""}
+{"date":1453741731000,"author":"AswathDamodaran","rating":9,"text":"@ranimolla What is DM? I don't speak acronym.","url":""}
+{"date":1453741647000,"author":"AswathDamodaran","rating":90,"text":"If taxes are a double edged sword, with the good edge used to cut taxes, borrowers will feel the bad edge in 2016.","url":"https:\/\/t.co\/kl4kqYh2ng"}
+{"date":1453341759000,"author":"AswathDamodaran","rating":500,"text":"Comparing investment returns to costs of capital, more than half of all companies destroyed value in 2015.","url":"https:\/\/t.co\/GYYslQYEQn"}
+{"date":1452741278000,"author":"AswathDamodaran","rating":276,"text":"The cost of capital is the Swiss Army knife of finance, used and misused in lots of places. My Jan 2016 update:","url":"https:\/\/t.co\/uZHZJaQVgw"}
+{"date":1452369061000,"author":"AswathDamodaran","rating":257,"text":"No place to hide from country risk! My January 2016 update on equity risk premiums & pricing multiples, by country,","url":"https:\/\/t.co\/Q5LEx4LTXg"}
+{"date":1452263504000,"author":"AswathDamodaran","rating":82,"text":"In 2015, the Fed acted, but US treasuries barely moved, corporate spreads widened & currencies found fundamentals.","url":"https:\/\/t.co\/YyWMFY0soK"}
+{"date":1452179256000,"author":"AswathDamodaran","rating":2,"text":"@drvijaymalik Read my post on currencies from last summer.","url":""}
+{"date":1452179158000,"author":"AswathDamodaran","rating":1,"text":"@drvijaymalik That is exactly what you should expect to see. Why is this a surprise or an issue?","url":""}
+{"date":1452177586000,"author":"AswathDamodaran","rating":1,"text":"@drvijaymalik You can do one (differential inflation or hedging cost) or the other but not both. I prefer differential inflation.","url":""}
+{"date":1452168918000,"author":"AswathDamodaran","rating":1,"text":"@drvijaymalik This is a US dollar cost of debt. Add about 6% to it to get an Indian rupee version.","url":""}
+{"date":1452110503000,"author":"AswathDamodaran","rating":149,"text":"I hope this is not overkill, but a short YouTube intro to my data, if you need it:","url":"https:\/\/t.co\/JnV8McOpVF"}
+{"date":1452110269000,"author":"AswathDamodaran","rating":371,"text":"My annual data update of 41,889 global companies, in regional & industry groups, is done. Use whatever you want.","url":"https:\/\/t.co\/eFWnusDaG2"}
+{"date":1451921152000,"author":"AswathDamodaran","rating":113,"text":"S&P 500 starts 2016 with ERP of 6.12%, but adjusting for sustainable payout lowers it to 5.16%. Data Update 1:","url":"https:\/\/t.co\/q5oleVGvbv"}
+{"date":1451316817000,"author":"AswathDamodaran","rating":1,"text":"@ryannegri @mhdempsey This is the source and the author either does not understand what value means or is truly delusional. Read it.","url":""}
+{"date":1451311688000,"author":"AswathDamodaran","rating":3,"text":"@ryannegri @mhdempsey Read the article. It is nonsense. It takes gross revenues as value. And Lucas got his $4 billion from Disney.","url":""}
+{"date":1451310885000,"author":"AswathDamodaran","rating":0,"text":"@WellingtonRandy I did.. All three.. And gave them half the revenue potential of the main movies, even the Boba Fett.","url":""}
+{"date":1451310371000,"author":"AswathDamodaran","rating":268,"text":"As a Star Wars fan, I did Yoda's bidding to \"Value the Star Wars Franchise, you must\", and I did, just for fun:","url":"https:\/\/t.co\/md0lXworWb"}
+{"date":1450973304000,"author":"AswathDamodaran","rating":2,"text":"@factguru_ash30 When you feel least comfortable investing.","url":""}
+{"date":1450710860000,"author":"AswathDamodaran","rating":181,"text":"My take on why conventional wisdom in value & growth investing is upended by short life cycles at tech companies.","url":"https:\/\/t.co\/C1Ebu59RYi"}
+{"date":1450449989000,"author":"AswathDamodaran","rating":103,"text":"Managerial responses to compressed tech life cycles: (1) accept, (2) reseed & regrow or (3) reinvent business.","url":"https:\/\/t.co\/sCbPjZ5QS1"}
+{"date":1449689057000,"author":"AswathDamodaran","rating":211,"text":"Tech companies age in dog years, moving through the life cycle in hyper speed. Their strengths become weaknesses.","url":"https:\/\/t.co\/HEIbbtJnFs"}
+{"date":1449539825000,"author":"AswathDamodaran","rating":2,"text":"@maxrogo @valuewalk You are right and I see no disagreement between your view & mine.","url":""}
+{"date":1449524406000,"author":"AswathDamodaran","rating":1,"text":"@maxrogo @valuewalk You are right, if you are valuing Yahoo for liquidation but not if it lives on as a closed-end fund with 2 holdings.","url":""}
+{"date":1449511369000,"author":"AswathDamodaran","rating":94,"text":"As board decides whether to sell Yahoo's operating assets, my perspective (as a stockholder) on the end game.","url":"https:\/\/t.co\/uJFjXxHKk9"}
+{"date":1449090710000,"author":"AswathDamodaran","rating":12,"text":"@Team28isGreat @CornellMBA Chill. Its just a case, not real money. Use 'strategic' & 'China' a lot, if HBS case.","url":""}
+{"date":1449016225000,"author":"AswathDamodaran","rating":0,"text":"@b1anking When in doubt, add decimals!! Seriously, I'll be using 6% for my US ERP for December.","url":""}
+{"date":1448983233000,"author":"AswathDamodaran","rating":56,"text":"Running in place? In Nov 2015, S&P 500 barely moved & ERP stays at 6.11%.","url":"https:\/\/t.co\/gdxpjIV9lS"}
+{"date":1448550728000,"author":"AswathDamodaran","rating":35,"text":"In Dubai for 2-day session on Jan 10 & 11 (https:\/\/t.co\/zfmEmX2s5M) & Mumbai for CFA on 1\/15\/16 (https:\/\/t.co\/0f3u4IVUfj). See you there!","url":""}
+{"date":1447874865000,"author":"AswathDamodaran","rating":82,"text":"Pfizer's CEO is right about US tax code, but its Allergan deal is for wrong target, at wrong time & at wrong price.","url":"https:\/\/t.co\/K3KSsuRfML"}
+{"date":1447349321000,"author":"AswathDamodaran","rating":217,"text":"When you fall in love with a story, it is easy to forget the facts. The lessons, for me, in the Theranos debacle:","url":"https:\/\/t.co\/ub8oo8pcz5"}
+{"date":1447340344000,"author":"AswathDamodaran","rating":52,"text":"To those who commented on my Valeant valuation, thank you (even if you disagreed). Some fixes in response.","url":"https:\/\/t.co\/aT4QoFuy0c"}
+{"date":1447294697000,"author":"AswathDamodaran","rating":0,"text":"@DK2939 Update coming tomorrow.","url":""}
+{"date":1447254753000,"author":"AswathDamodaran","rating":202,"text":"Valeant ($VRX) is not Enron, but its business model is broken, with no easy fixes. Value has to reflect reality.","url":"https:\/\/t.co\/aT4QoFuy0c"}
+{"date":1447162938000,"author":"AswathDamodaran","rating":107,"text":"Payoff (in growth) to R&D spending is dropping at drug companies & is more pronounced in pharma than biotech.","url":"https:\/\/t.co\/p4LOaAjaiQ"}
+{"date":1446297656000,"author":"AswathDamodaran","rating":89,"text":"Good month ends with S&P 500 ERP at 6.12% on 11\/1\/15 (down from 6.63%). Lower earnings is bigger test than the Fed.","url":"https:\/\/t.co\/wy8WGu8ona"}
+{"date":1445986558000,"author":"AswathDamodaran","rating":2,"text":"@AndrewLegget I use the rate on a BB rated bond & move on","url":""}
+{"date":1445609344000,"author":"AswathDamodaran","rating":2,"text":"@SconsetCapital Yes. I think that has been 3G's dream all along and that may explain the price. Dreams are priceless!","url":""}
+{"date":1445609189000,"author":"AswathDamodaran","rating":80,"text":"Notwithstanding 3G's reputation for shrewd deals, I find it hard to justify ABInBev's premium price for SABMiller.","url":"https:\/\/t.co\/FHP009ufPM"}
+{"date":1445502677000,"author":"AswathDamodaran","rating":58,"text":"Here is the right link to my ride sharing pundit post:","url":"https:\/\/t.co\/p4u427iytB"}
+{"date":1445466704000,"author":"AswathDamodaran","rating":0,"text":"@rneppalli Check my blog from about two years ago","url":""}
+{"date":1445450828000,"author":"AswathDamodaran","rating":75,"text":"In my third post on ride sharing, here are (my) four pathways this business can evolve over time & implications.","url":"https:\/\/t.co\/MsfmXTI4jC"}
+{"date":1445278314000,"author":"AswathDamodaran","rating":119,"text":"Uber\u2019s \u201CGo Big\u201D story yields a higher price but Lyft\u2019s \"Small, Focused\" narrative may make it a better investment. http:\/\/t.co\/MsfmXTI4jC","url":""}
+{"date":1445113427000,"author":"AswathDamodaran","rating":0,"text":"@bdickins No idea.","url":""}
+{"date":1444938505000,"author":"AswathDamodaran","rating":176,"text":"Ferrari's IPO is imminent. A premium for the Prancing Horse? Quite a bit, but not as much as Fiat wants. http:\/\/t.co\/jnRitgBmLv","url":""}
+{"date":1444667140000,"author":"AswathDamodaran","rating":6,"text":"@rohitagarwal257 Why only sometimes? And that is the feature, not a bug, in valuation.","url":""}
+{"date":1444657673000,"author":"AswathDamodaran","rating":8,"text":"@jacobcraton I am agnostic. Firing people will cut costs, but Twitter's big problem is figuring out how to convert users to ads.","url":""}
+{"date":1444656408000,"author":"AswathDamodaran","rating":143,"text":"My TechCrunch post on Uber's value highs and lows is on my blog, http:\/\/t.co\/45psdE0ut7, with a YouTube add-on:","url":"https:\/\/t.co\/kuIvVZlmPD-"}
+{"date":1444565509000,"author":"AswathDamodaran","rating":0,"text":"@billygbarrero 10 years is at 95th percentile for high growth companies. If you extend it, you are valuing your firm to be the exception.","url":""}
+{"date":1444512613000,"author":"AswathDamodaran","rating":300,"text":"Valuing Uber is like riding a roller coaster, with twists, turns and shifts. My latest attempt is on TechCrunch: http:\/\/t.co\/xkEFsPcjS8","url":""}
+{"date":1443908978000,"author":"AswathDamodaran","rating":0,"text":"@edeleyd I would not know where to start. I am not sure what you don't understand, the ratios themselves or the averaging process.","url":""}
+{"date":1443751963000,"author":"AswathDamodaran","rating":0,"text":"@2pandeyrahul Fixed now.","url":""}
+{"date":1443750745000,"author":"AswathDamodaran","rating":87,"text":"For some reason, the Volkswagen Scandal YouTube link stopped working. Here it is again.  https:\/\/t.co\/3MHIJ6dIRO- via @YouTube","url":""}
+{"date":1443726742000,"author":"AswathDamodaran","rating":164,"text":"If don't feel reading my verbose blog post on the price of scandal at Volkswagen, a YouTube version, with slides:","url":"https:\/\/t.co\/3MHIJ6dIRO-"}
+{"date":1443726158000,"author":"AswathDamodaran","rating":149,"text":"Back where it is dark, this time with Volkswagen. Cheating will cost them plenty, but market is overdoing it.","url":"https:\/\/t.co\/nvUkiV4veq"}
+{"date":1443705149000,"author":"AswathDamodaran","rating":74,"text":"After month of ups & downs, ERP for S&P 500 at 6.63% (10\/1\/15). Buybacks+dividends exceeds earnings.  CF drop ahead? http:\/\/t.co\/wy8WGu8ona","url":""}
+{"date":1443359396000,"author":"AswathDamodaran","rating":1,"text":"@RalfHafner1 Depends on your definition of the past. The last decade (with China) is very different from the rest of price history.","url":""}
+{"date":1443229250000,"author":"AswathDamodaran","rating":119,"text":"I want to hold on, but it is time to face reality & sell Vale. Given my macro timing history, you may want to buy. http:\/\/t.co\/RAu5RIPoLl","url":""}
+{"date":1442664674000,"author":"AswathDamodaran","rating":0,"text":"@andrewlegget I am not sure that it is specific to Capital IQ but I have a webcast under valuation tools on bottom up betas","url":""}
+{"date":1442441577000,"author":"AswathDamodaran","rating":1,"text":"@jonsmyrl Yikes! I've created interplanetary warming!!","url":""}
+{"date":1442229702000,"author":"AswathDamodaran","rating":3,"text":"@3PFolks If its human behavior, don't think of greed as a problem. And what's so bad about bubbles?","url":""}
+{"date":1442172423000,"author":"AswathDamodaran","rating":1,"text":"@3PFolks By whom & how? The cures are worse than the disease.","url":""}
+{"date":1441984800000,"author":"AswathDamodaran","rating":5,"text":"@thivaskar With two big differences. Momentum is much stronger and fundamentals have much weaker pull.","url":""}
+{"date":1441975449000,"author":"AswathDamodaran","rating":14,"text":"@thivaskar Purchasing Power Parity + Central Bank Meddling + momentum trading = exchange rates","url":""}
+{"date":1441913693000,"author":"AswathDamodaran","rating":0,"text":"@mgHEC Screen flow for Mac","url":""}
+{"date":1441906766000,"author":"AswathDamodaran","rating":66,"text":"Continuing with my YouTube blog series with the Naming Game, how names (corporate & person) affect value & price. http:\/\/t.co\/6pL63HenV9","url":""}
+{"date":1441848498000,"author":"AswathDamodaran","rating":0,"text":"@shikatsumoto You may be right, but from co's website, looks like chef is Belgian but company is NY based with foreign operations.","url":""}
+{"date":1441842090000,"author":"AswathDamodaran","rating":10,"text":"@pmarca @volatilitysmile You are right. I was sloppy in generalizing.","url":""}
+{"date":1441834978000,"author":"AswathDamodaran","rating":65,"text":"A rambling post on umlauts, Google's Alphabet reorganization & World Peace. How names affect value and pricing: http:\/\/t.co\/5wFiCnLdf4","url":""}
+{"date":1441796056000,"author":"AswathDamodaran","rating":0,"text":"@fordhammba be my guest.","url":""}
+{"date":1441738818000,"author":"AswathDamodaran","rating":96,"text":"In the market game of Clue, the Fed is the lazy answer to every whodunnit. A YouTube extension of my earlier post. http:\/\/t.co\/OkAn2SRyR3","url":""}
+{"date":1441456523000,"author":"AswathDamodaran","rating":3,"text":"@behrz Only in a world with no growth is E\/P ratio a measure of cost of equity.","url":""}
+{"date":1441410936000,"author":"AswathDamodaran","rating":0,"text":"@MrHotTake Supplier of money? And the interest rate is set by the demand for and supply of money? Zimbabwe should have a zero interest rate.","url":""}
+{"date":1441386226000,"author":"AswathDamodaran","rating":1,"text":"@MrHotTake Just curious. Is the Fed the supplier or the demander?","url":""}
+{"date":1441367482000,"author":"AswathDamodaran","rating":172,"text":"The Fed does not set interest rates and has had a marginal role in keeping rates low. Neither savior nor villain!  http:\/\/t.co\/xNo1HOYBdD","url":""}
+{"date":1441234397000,"author":"AswathDamodaran","rating":0,"text":"@christophermah3 not quite. It hit 8% one day in nov 2008","url":""}
+{"date":1441153703000,"author":"AswathDamodaran","rating":0,"text":"@CosmoSalesMktg @TweetAjayS Could not be me. I don't much care for balanced scorecards.","url":""}
+{"date":1441151250000,"author":"AswathDamodaran","rating":0,"text":"@TweetAjayS what is KPI?","url":""}
+{"date":1441151227000,"author":"AswathDamodaran","rating":0,"text":"@jscastellano I did both the trailing 12-month & normalized by day of august.. Not the net buyback (NC)","url":""}
+{"date":1441080519000,"author":"AswathDamodaran","rating":95,"text":"August was so eventful, I computed the ERP for S&P 500 by day: http:\/\/t.co\/6uKFNZNVpi. ERP up to 6.28% by month-end. http:\/\/t.co\/IfY5XbifnW","url":""}
+{"date":1441046444000,"author":"AswathDamodaran","rating":3,"text":"@sconsetcapital Thank you. Will fix it on the slides. Hope that everyone misses it on the video.","url":""}
+{"date":1441046065000,"author":"AswathDamodaran","rating":81,"text":"Kanye West, Watch out! My multimedia assault continues with a YouTube video to back my post on macro delusions.","url":"https:\/\/t.co\/YC8TUNuabI"}
+{"date":1440771560000,"author":"AswathDamodaran","rating":192,"text":"Big markets + Overconfident Entrepreneurs and Investors = Collective Over Pricing, but it is a feature, not a bug! http:\/\/t.co\/VOpKKLnvlP","url":""}
+{"date":1440603173000,"author":"AswathDamodaran","rating":237,"text":"A market crisis tests your investment philosophy & your faith in it. My attempt to make peace with market chaos: http:\/\/t.co\/6UkmkQxzmf","url":""}
+{"date":1440428601000,"author":"AswathDamodaran","rating":0,"text":"@captkirti On iTunes U and YouTube, it is self-evident. On my web page, no need to register. Just follow online.","url":""}
+{"date":1440418808000,"author":"AswathDamodaran","rating":212,"text":"Looks like my upcoming Fall 2015 Valuation class will be framed by a market meltdown. You are welcome to join in: http:\/\/t.co\/Kg3IBfLTgZ","url":""}
+{"date":1440172869000,"author":"AswathDamodaran","rating":141,"text":"I don\u2019t like the Chinese government and know very little about the country. So treat my rant as biased & ignorant: http:\/\/t.co\/onJtxehMFb","url":""}
+{"date":1440120718000,"author":"AswathDamodaran","rating":138,"text":"Bias, Uncertainty & Complexity form the Bermuda Triangle of Valuation. My (long) webcast from today:","url":"https:\/\/t.co\/dMOkecpmDZ"}
+{"date":1439937017000,"author":"AswathDamodaran","rating":93,"text":"Doing a #webinar  on the \"Bermuda Triangle of Valuation\" on Thurs 8\/20, 1:30pm for @Sageworks. Join in at: http:\/\/t.co\/NnCLBUVss1","url":""}
+{"date":1439928417000,"author":"AswathDamodaran","rating":87,"text":"Bank Analysts + Big Data + Acronyms = What can go wrong? http:\/\/t.co\/WUc2lwBe4k via @WSJMoneyBeat","url":""}
+{"date":1439656716000,"author":"AswathDamodaran","rating":76,"text":"Pearson sells the FT & Economist! Turnaround fixes, Synergy possibilities, Digital Potential or Trophy Assets? http:\/\/t.co\/3oklBU8ccL","url":""}
+{"date":1439384354000,"author":"AswathDamodaran","rating":5,"text":"@nitingupta2 Easy. Never more than I can afford to lose. So, nothing is greater than 5% of my overall portfolio.","url":""}
+{"date":1439383921000,"author":"AswathDamodaran","rating":0,"text":"@o__azam GMV is fiction but if you choose to go with it, your margins will get even slimmer.","url":""}
+{"date":1439380445000,"author":"AswathDamodaran","rating":163,"text":"Using earnings reports to update narratives (as well as values & investment decisions) at $TWTR, $FB and $AAPL. http:\/\/t.co\/DPdgyxr4Qc","url":""}
+{"date":1439055983000,"author":"AswathDamodaran","rating":345,"text":"To dispel myth that valuation is all numbers, I revisit theme of connecting numbers to stories & why we should care.  http:\/\/t.co\/5UWd0fdB8E","url":""}
+{"date":1438477572000,"author":"AswathDamodaran","rating":52,"text":"China & tech worries displace Greece, but S&P starts August with ERP at 5.72%, down from last month's 5.81%. http:\/\/t.co\/IfY5XbifnW","url":""}
+{"date":1438297885000,"author":"AswathDamodaran","rating":0,"text":"@AndrewLegget I am puzzled. Why is that a problem?","url":""}
+{"date":1438271885000,"author":"AswathDamodaran","rating":89,"text":"Converting 95F to 35C won't make today any cooler. Restating Peso CF in Argentina in US$ won't make it safer. http:\/\/t.co\/vrVMEFygjL","url":""}
+{"date":1438186691000,"author":"AswathDamodaran","rating":159,"text":"Having measured & valued country risk, look at how market is pricing country risk: PE, PBV & EV\/EBITDA by country. http:\/\/t.co\/ZfEziB5Hvq","url":""}
+{"date":1438181631000,"author":"AswathDamodaran","rating":81,"text":"Following up my earlier post on measuring country risk, a look at how to value this risk in investing decisions: http:\/\/t.co\/gjBiXSBYkW","url":""}
+{"date":1437737514000,"author":"AswathDamodaran","rating":0,"text":"@tweetfromkk @vccircle Not this time. Sorry!","url":""}
+{"date":1437737474000,"author":"AswathDamodaran","rating":0,"text":"@losm16 A stock split solves nothing. It is a purely cosmetic event.","url":""}
+{"date":1436973317000,"author":"AswathDamodaran","rating":124,"text":"Hot spots globally remind us that while we are all connected, some countries are riskier than others. Here's why.  http:\/\/t.co\/OfyS8aYJaq","url":""}
+{"date":1436469391000,"author":"AswathDamodaran","rating":6,"text":"@Jmriv1986 Please pass it on. There are lots of people whose lives you can change.","url":""}
+{"date":1436460576000,"author":"AswathDamodaran","rating":0,"text":"@Jmriv1986 Giving me way too much credit. At best, I tweak lives,don't change them.","url":""}
+{"date":1435706570000,"author":"AswathDamodaran","rating":101,"text":"ERP for S&P 500 up to 5.81% (from 5.74%) on 7\/1\/15. Greece's default makes July interesting. http:\/\/t.co\/IfY5XbifnW, http:\/\/t.co\/vL6g3cK1uQ","url":""}
+{"date":1434037702000,"author":"AswathDamodaran","rating":1,"text":"@gautam_l Cannot be non-operating if your restaurants sit on them","url":""}
+{"date":1433987257000,"author":"AswathDamodaran","rating":227,"text":"Investor protections in VC deals inflate valuations, may skew investing & business decisions and are often illusory. http:\/\/t.co\/3GD1AX5wMv","url":""}
+{"date":1433369332000,"author":"AswathDamodaran","rating":110,"text":"First time back in Modi\u2019s India! In Mumbai, teaching a 2-day corporate finance class for VCCircle on Aug 10 &11. http:\/\/t.co\/Bkko4dVN8y","url":""}
+{"date":1433369290000,"author":"AswathDamodaran","rating":14,"text":"Adapting corporate finance to Indonesia. Pairing up with Deloitte in Jakarta for 2-day class on Aug 13 &14. http:\/\/t.co\/AywQTR0Ggj","url":""}
+{"date":1433369127000,"author":"AswathDamodaran","rating":38,"text":"My 3-day open-enrollment valuation class is at the Stern School of Business at NYU from July 20-22. http:\/\/t.co\/Db4Q6x2usr","url":""}
+{"date":1433368478000,"author":"AswathDamodaran","rating":19,"text":"Going where it is darkest! Doing a 2-day session in Moscow for Skolkovo on July 16 &17, talking about value & risk. http:\/\/t.co\/ISlN2jk3IP","url":""}
+{"date":1433368201000,"author":"AswathDamodaran","rating":20,"text":"Using $PBR and $VALE as vehicles to talk about valuation & corporate finance on July 1 & 2 in Sao Paulo for HSM. http:\/\/t.co\/11RFj3ROXV","url":""}
+{"date":1433368095000,"author":"AswathDamodaran","rating":15,"text":"Taking my classes to Sao Paulo, Moscow & NY in July, Mumbai & Jakarta in August. Hope to see you there! Details: http:\/\/t.co\/GQ2QjRkAD2","url":""}
+{"date":1433346879000,"author":"AswathDamodaran","rating":145,"text":"With PE ratios, cash is an upper & debt is a downer. Measuring the debt effect on earnings multiples for US firms: http:\/\/t.co\/esuDvAMNOJ","url":""}
+{"date":1433120765000,"author":"AswathDamodaran","rating":63,"text":"Lots of volatility in May, but not much change in S&P 500 & http:\/\/t.co\/jhPnIWMCRT. ERP at 5.74% to start June. http:\/\/t.co\/IfY5XbzQfu","url":""}
+{"date":1432753507000,"author":"AswathDamodaran","rating":240,"text":"Cash balances skew the PE ratios for companies upwards, making comparisons messy. A non-cash PE fix: http:\/\/t.co\/o17x7FPPXb","url":""}
+{"date":1432644844000,"author":"AswathDamodaran","rating":1,"text":"@SG_Analysts Sure","url":""}
+{"date":1432585632000,"author":"AswathDamodaran","rating":226,"text":"If a bad business is one where few break even, why do companies stay in the business and investors invest in them? http:\/\/t.co\/v48TNA6UXg","url":""}
+{"date":1430595981000,"author":"AswathDamodaran","rating":0,"text":"@lucky3avi It is fixed now and thank you for noticing. At least, it was not affecting any of the nos that matter.","url":""}
+{"date":1430442170000,"author":"AswathDamodaran","rating":95,"text":"ERP for S&P 500 starts May 2015 at 5.80%, down from 5.86% in April. Home Page: http:\/\/t.co\/IfY5XbzQfu, Spreadsheet: http:\/\/t.co\/NcAgUNt7NB","url":""}
+{"date":1430314105000,"author":"AswathDamodaran","rating":138,"text":"US CEOs are paid a lot, but is your CEO worth it? An assessment tool & my try at valuing Satya Nadella at $MSFT. http:\/\/t.co\/HbRlEoiQyW","url":""}
+{"date":1430226545000,"author":"AswathDamodaran","rating":3,"text":"@johncatsjr I like them. The China story actually holds","url":""}
+{"date":1430175165000,"author":"AswathDamodaran","rating":4,"text":"@adilh1 on the declaration date, depends on how it measures up to expectations. On ex-dividend day, down","url":""}
+{"date":1429548531000,"author":"AswathDamodaran","rating":103,"text":"Defensiveness, denial & fear are my (bad) responses to past mistakes. $VALE & $LUKOY test my investment serenity: http:\/\/t.co\/lrYVVPyX5w","url":""}
+{"date":1428775283000,"author":"AswathDamodaran","rating":183,"text":"Small Cap Premium is a testimonial that bad practices remain bad, even if every one buys into them.  #EveryoneDoesIt. http:\/\/t.co\/3AO7Vylzrg","url":""}
+{"date":1428622485000,"author":"AswathDamodaran","rating":3,"text":"@haley_connor risk is that income in next 2 years will not be high enough to cover the NOL. I prefer to use WACC","url":""}
+{"date":1428085312000,"author":"AswathDamodaran","rating":261,"text":"Interest rates are at historic lows, central bank influence is overstated & it is best to accept rates as they are. http:\/\/t.co\/1KyqhS2lXz","url":""}
+{"date":1427893922000,"author":"AswathDamodaran","rating":19,"text":"@girish0830 Harvard is not an economy & is not proxy for the US economy. An Indian Masters does not stop you from working outside India.","url":""}
+{"date":1427847840000,"author":"AswathDamodaran","rating":61,"text":"S&P 500 down 1.8% for month. ERP rises to 5.86% (from 5.67%) as T.Bond rate drops. http:\/\/t.co\/IfY5XbzQfu & http:\/\/t.co\/KHbYhfjj3b","url":""}
+{"date":1427732975000,"author":"AswathDamodaran","rating":103,"text":"Every year, I try to cram everything I know about valuation into 3 days. This year's version is July 20-22: http:\/\/t.co\/Db4Q6wKTAT","url":""}
+{"date":1427659521000,"author":"AswathDamodaran","rating":3,"text":"@harvardwinters I am agnostic, even though it causes wealth transfer. As a stockholder, I pick whether I sell back my shares or hold on.","url":""}
+{"date":1427485863000,"author":"AswathDamodaran","rating":0,"text":"@pratik_singh It was 21st on the list and rising but do you really want to be part of this crowd?","url":""}
+{"date":1427463839000,"author":"AswathDamodaran","rating":100,"text":"Should GM buy back stock, hold cash or reinvest in auto business? Depends on your view of the end game in business. http:\/\/t.co\/t2JSYq1hkU","url":""}
+{"date":1427031663000,"author":"AswathDamodaran","rating":1,"text":"@dhingra_sumit Take a look at my post on tech by age. I make that comparison","url":""}
+{"date":1427027324000,"author":"AswathDamodaran","rating":254,"text":"If you share my obsession with equity risk premiums, you may find my 2015 update useful! If you don't, you won\u2019t!  http:\/\/t.co\/ujei3dOt03","url":""}
+{"date":1426952664000,"author":"AswathDamodaran","rating":0,"text":"@AswathDamodaran","url":""}
+{"date":1426881174000,"author":"AswathDamodaran","rating":320,"text":"Mark Cuban posits a tech bubble, made bigger by illiquidity in VC markets & worse than dot-com bubble. I disagree!  http:\/\/t.co\/B04tQysLnw","url":""}
+{"date":1426853950000,"author":"AswathDamodaran","rating":1,"text":"@MaggCaro Never visited a Mexican company but have valued a couple.","url":""}
+{"date":1426598082000,"author":"AswathDamodaran","rating":0,"text":"@JstSomeGuy Yes. CF before valuation","url":""}
+{"date":1426188852000,"author":"AswathDamodaran","rating":0,"text":"@richardlalane2 What real estate model? It is a generic spreadsheet that you populate with your inputs for a specific property.","url":""}
+{"date":1425854932000,"author":"AswathDamodaran","rating":0,"text":"@tallfinancier Inadvertent click on the wrong button. I don't usually tweet news stories.","url":""}
+{"date":1425667561000,"author":"AswathDamodaran","rating":1,"text":"@aleattorium yes but not enough to service $135 billion in debt","url":""}
+{"date":1425129787000,"author":"AswathDamodaran","rating":110,"text":"5.5% Rise in S&P 500 + 0.3% jump in T.Bond Rate in February 2015 = ERP drops from 6.01% to 5.67% on March 1. http:\/\/t.co\/IfY5XbifnW","url":""}
+{"date":1425083828000,"author":"AswathDamodaran","rating":0,"text":"@nuggy5 Evaluate the possibility of default & charge a high enough rate to compensate. Done!","url":""}
+{"date":1424980511000,"author":"AswathDamodaran","rating":134,"text":"Are tech firms risky? High growth? In pricing bubble? No clean answer since young tech & old tech on divergent paths: http:\/\/t.co\/4CIKoHd8IB","url":""}
+{"date":1424886734000,"author":"AswathDamodaran","rating":0,"text":"@prb51 The hubris of central bankers! I posted on this at the time on my blog.","url":""}
+{"date":1424886708000,"author":"AswathDamodaran","rating":3,"text":"@bunhillrow Investment Valuation is the most comprehensive but Dark Side of Valuation is the most fun.","url":""}
+{"date":1424827753000,"author":"AswathDamodaran","rating":0,"text":"@glakshmivarahan He priced Twitter. Big difference","url":""}
+{"date":1424827601000,"author":"AswathDamodaran","rating":1,"text":"@RAFAEL_SOTO_RUE Just fixed it with retweet. Sorry. Long day!","url":""}
+{"date":1424827462000,"author":"AswathDamodaran","rating":214,"text":"Gave this talk at Google NY for Authors@Google. Nothing earth shattering but I hope you enjoy it: http:\/\/t.co\/AbJo2RR7Er.","url":""}
+{"date":1424724805000,"author":"AswathDamodaran","rating":0,"text":"@accretivegrowth True, but talking about it incessantly was a mistake. Shifting the focus has changed the game.","url":""}
+{"date":1424724473000,"author":"AswathDamodaran","rating":3,"text":"@accretivegrowth As a stockholder, I am delighted that Tim has taken the focus off the iPhone. I still don't care for his ROI statement.","url":""}
+{"date":1424724169000,"author":"AswathDamodaran","rating":140,"text":"Sorry. Sent wrong link. Corrected: Myth 1: D+CF = DCF. Twisted versions of DCF & a checklist to spot them: http:\/\/t.co\/JQFVopH7L5","url":""}
+{"date":1424122056000,"author":"AswathDamodaran","rating":2,"text":"@WillYouLaugh Trust me. It's algebra. Try chapter 12 of my investment valuation book","url":""}
+{"date":1424121491000,"author":"AswathDamodaran","rating":0,"text":"@willyoulaugh It is the other way around and yes, in plenty of places.  Use a stable growth model, and Reinv rate = g\/ ROIC.","url":""}
+{"date":1423765728000,"author":"AswathDamodaran","rating":1,"text":"@danielhsalguero Exactly. My reason to be skeptical about those who argue that the market is in a bubble. That requires a really low ERP.","url":""}
+{"date":1423745589000,"author":"AswathDamodaran","rating":0,"text":"@danielhsalguero Actually, high is good. Low is bad.","url":""}
+{"date":1423678068000,"author":"AswathDamodaran","rating":0,"text":"@ACKairis @fredwilson great article. Post it on Yellowdig, if you can","url":""}
+{"date":1423667261000,"author":"AswathDamodaran","rating":0,"text":"@paterakisd  So, I am at trusting the Greek government to run these banks efficiently? I am feeling much better (NOT)!!","url":""}
+{"date":1423665328000,"author":"AswathDamodaran","rating":0,"text":"@paterakisd Why just Greek banks? You could make the case for most banks.","url":""}
+{"date":1423622339000,"author":"AswathDamodaran","rating":0,"text":"@hassbazzi It will be included by the spreadsheet","url":""}
+{"date":1423614407000,"author":"AswathDamodaran","rating":374,"text":"Want to wipe out $200 billion in market cap? Use the Petrobras playbook to destroy value quickly & efficiently. http:\/\/t.co\/6eknndZ2bA","url":""}
+{"date":1423574231000,"author":"AswathDamodaran","rating":0,"text":"@rohitmenon88 Pricing & comps, yes, and I will cover acquisition valuation, but this is a valuation class, not a modeling one.","url":""}
+{"date":1423089791000,"author":"AswathDamodaran","rating":141,"text":"I love Shark Tank & use show to contrast pre-money, post-money & play-money values and illustrate their opacity: http:\/\/t.co\/YTffWr3eeh","url":""}
+{"date":1422888297000,"author":"AswathDamodaran","rating":84,"text":"First day of class & almost forgot:  ERP on 2\/1\/15 for S&P 500 is above 6% for first time since 1\/1\/13. http:\/\/t.co\/CEbG04prOF","url":""}
+{"date":1422841812000,"author":"AswathDamodaran","rating":1,"text":"@BillRietman I was your TA. Older but not wiser today!","url":""}
+{"date":1422823831000,"author":"AswathDamodaran","rating":109,"text":"My DCF lament: proponents mangle, oversell & over sanitize it and opponents attract straw men. Its just a tool: http:\/\/t.co\/2M01D3ynbw","url":""}
+{"date":1422505932000,"author":"AswathDamodaran","rating":277,"text":"I am in 3 businesses, education, publishing and finance, all of which are begging to be disrupted. I'll do my part: http:\/\/t.co\/wz6s60FOWv","url":""}
+{"date":1422384810000,"author":"AswathDamodaran","rating":68,"text":"A snowstorm in New York made me think of an old post of mine about snow storms & investing philosophies: http:\/\/t.co\/rJgl5176sr. Stay warm!","url":""}
+{"date":1421717741000,"author":"AswathDamodaran","rating":2,"text":"@nuggy5 effective, for cash flows and marginal, for cost of debt","url":""}
+{"date":1421694808000,"author":"AswathDamodaran","rating":107,"text":"The X factor in business is excess returns. Defining it is difficult & measuring it more so. My estimates in 1\/2015: http:\/\/t.co\/4g0sh6W7sN","url":""}
+{"date":1421694717000,"author":"AswathDamodaran","rating":109,"text":"Data Post #3: The cost of capital is hurdle rate, cost of financing & opportunity cost: where we stand in Jan 2015: http:\/\/t.co\/V7YhNmDb6d","url":""}
+{"date":1421694586000,"author":"AswathDamodaran","rating":73,"text":"Data Post #2: The tax story: looking at what companies paid in taxes in 2015 and my version of corporate tax reform: http:\/\/t.co\/M563H7I71R","url":""}
+{"date":1421694505000,"author":"AswathDamodaran","rating":140,"text":"Data Post#1: With globalization, we are all exposed to risk everywhere. My attempt to measure country risk in 1\/2015: http:\/\/t.co\/WQTvEvLq9x","url":""}
+{"date":1421694376000,"author":"AswathDamodaran","rating":22,"text":"Spent much of last week in the air, circling the globe. Finished data updates, got class notes done & wrote 4 blog posts. Details coming.","url":""}
+{"date":1420764304000,"author":"AswathDamodaran","rating":263,"text":"An annual rite for me! My data updates for US and global companies for 2015 are up. Hope you find them useful. http:\/\/t.co\/U6FGAv2Q1s","url":""}
+{"date":1420738729000,"author":"AswathDamodaran","rating":5,"text":"@Adnraznipideras later today","url":""}
+{"date":1420316500000,"author":"AswathDamodaran","rating":7,"text":"@J__N___ GDP might include export revenues but I don't see how foreign operations can be part of it","url":""}
+{"date":1420251537000,"author":"AswathDamodaran","rating":221,"text":"The S&P starts 2015 with an ERP of 5.78%, up from 4.96% in 2014. As always, I am hopeful and fearful. Happy New Year! http:\/\/t.co\/1BC9hgk9WF","url":""}
+{"date":1419271642000,"author":"AswathDamodaran","rating":0,"text":"@NICKRITZER That might happen but not by design","url":""}
+{"date":1419267422000,"author":"AswathDamodaran","rating":303,"text":"Forecasters, oil companies & hedge funds don\u2019t have a clue of what\u2019s coming next for oil. I don\u2019t either but I cope: http:\/\/t.co\/McDJ3qrpjC","url":""}
+{"date":1419267422000,"author":"AswathDamodaran","rating":303,"text":"Forecasters, oil companies & hedge funds don\u2019t have a clue of what\u2019s coming next for oil. I don\u2019t either but I cope: http:\/\/t.co\/McDJ3qrpjC","url":""}
+{"date":1419042361000,"author":"AswathDamodaran","rating":2,"text":"@gochachubabria Please email me adamodar@stern.nyu.edu.","url":""}
+{"date":1418741495000,"author":"AswathDamodaran","rating":0,"text":"@LeBrian_Ballard Hi Brian, How is the job search coming? Hope things are going well with Drew, Bridget & your parents.","url":""}
+{"date":1418315568000,"author":"AswathDamodaran","rating":0,"text":"@elisabetlagerst depends on which dataset you downloaded","url":""}
+{"date":1417920300000,"author":"AswathDamodaran","rating":1,"text":"@chadmmitchell @bgurley @pmarca Nothing to debate here. If you pay more up front, you always reduce your upside proportionately.","url":""}
+{"date":1417833131000,"author":"AswathDamodaran","rating":0,"text":"@samidhas oops adamodar@stern.nyu.edu","url":""}
+{"date":1417833109000,"author":"AswathDamodaran","rating":0,"text":"@samidhas adamodar@ster.nyu.edu","url":""}
+{"date":1417728341000,"author":"AswathDamodaran","rating":0,"text":"@heathersomervil call me at 973-978-1422","url":""}
+{"date":1417655399000,"author":"AswathDamodaran","rating":0,"text":"@WillYouLaugh I make more than enough money to cover my needs. What am I going to do with more?","url":""}
+{"date":1417569496000,"author":"AswathDamodaran","rating":241,"text":"Is Uber worth $40 billion? If you have a story to tell about Uber, I can convert it to a value and you be the judge! http:\/\/t.co\/jruBpbf7v1","url":""}
+{"date":1417444150000,"author":"AswathDamodaran","rating":45,"text":"Plus month for S&P 500 + Drop in T.Bond rate = ERP of 5.21% (Dec '14). Website: http:\/\/t.co\/IfY5Xc92M8, Spreadsheet:http:\/\/t.co\/9LVLorie77","url":""}
+{"date":1417027621000,"author":"AswathDamodaran","rating":4,"text":"@__Bolt Yes. Close to one-year holding period. Qualifies as capital gain. Then, it'd decision time","url":""}
+{"date":1417011657000,"author":"AswathDamodaran","rating":0,"text":"@abhinav_mehta Seems to work!","url":""}
+{"date":1416929879000,"author":"AswathDamodaran","rating":252,"text":"My (long) keynote from CFA conference  was about linking stories to numbers. I had lots of fun. Hope you like it! http:\/\/t.co\/uCgUQC6jx1","url":""}
+{"date":1416776832000,"author":"AswathDamodaran","rating":9,"text":"@WillYouLaugh If the ROIC on your growth reinvestment is less than you cost of capital, you destroy value. In sessions 11 & 12 of valn class","url":""}
+{"date":1416694513000,"author":"AswathDamodaran","rating":3,"text":"@kingsarpa I use effective tax rate for income (because it is global) & marginal for cost of debt.","url":""}
+{"date":1416521516000,"author":"AswathDamodaran","rating":111,"text":"Investors flee $VALE and $LUKOY as currency, commodity, country & company risks rise. Go where it is darkest?  http:\/\/t.co\/sbtKE4SRWZ","url":""}
+{"date":1416455147000,"author":"AswathDamodaran","rating":1,"text":"@pastanv I am more pessimistic than most but I would be buying at $25. My value is $22.53, but there is optionality here.","url":""}
+{"date":1416231320000,"author":"AswathDamodaran","rating":94,"text":"Are social media companies coming of age? To me, Twitter's Analyst Meet last week looked like its Bar Mitzvah! http:\/\/t.co\/z2cCtIwuCR","url":""}
+{"date":1416177732000,"author":"AswathDamodaran","rating":19,"text":"I don\u2019t usually do plugs, but this is for a good cause. Please vote for Bridges, my favorite, on Charity Navigator. http:\/\/t.co\/DEVL1ujxgY","url":""}
+{"date":1415411835000,"author":"AswathDamodaran","rating":1,"text":"@ShaneGonzales Keep it simple & think content, not delivery, of entertainment.","url":""}
+{"date":1415395465000,"author":"AswathDamodaran","rating":79,"text":"Focus is the new strategic buzzword, justifying breakups. Using EBay to illustrate the payoff, if any, to focus: http:\/\/t.co\/SORdEsHRYQ","url":""}
+{"date":1415326049000,"author":"AswathDamodaran","rating":5,"text":"@TheRideShareGuy I like your posts & learn a lot about ride sharing. Thank you. Will go back to following my 3 kids, though. Sorry!","url":""}
+{"date":1415024808000,"author":"AswathDamodaran","rating":48,"text":"If Asia-based, I hope to see you at the 2-day valuation seminar that I will be doing in Singapore, Jan 13-14, 2015: http:\/\/t.co\/XpeGaALyc9","url":""}
+{"date":1414842054000,"author":"AswathDamodaran","rating":3,"text":"@jayaraman_kal Don't mistake your troubles with Excel with your troubles with valuation!","url":""}
+{"date":1414842002000,"author":"AswathDamodaran","rating":0,"text":"@noriegae10 Treat them as horror stories written by accountants and you will feel better.","url":""}
+{"date":1414801495000,"author":"AswathDamodaran","rating":94,"text":"Months like this remind us that equities are risky, but after roller coaster ride, ERP for S&P 500 drops to 5.32%. http:\/\/t.co\/1gDCg8K04z","url":""}
+{"date":1414695726000,"author":"AswathDamodaran","rating":4,"text":"@eldertrader I am way too lazy & opinionated to survive as a money manager for anyone other than myself & my kids (for the moment)","url":""}
+{"date":1414695500000,"author":"AswathDamodaran","rating":159,"text":"On HP, I don\u2019t see how splitting one bad, no-growth company into two bad, no-growth units enhances value or price. http:\/\/t.co\/SnloHLEgUF","url":""}
+{"date":1414677182000,"author":"AswathDamodaran","rating":0,"text":"@wmui1 They will make money but I am not sure it will increase value.","url":""}
+{"date":1414670030000,"author":"AswathDamodaran","rating":0,"text":"@hitendhruv Greater scale creates economies of scale only up to a point. Beyond that, the way you scale up revenues is by cutting prices.","url":""}
+{"date":1414636171000,"author":"AswathDamodaran","rating":122,"text":"If Costner can get Shoeless Joe to Iowa cornfield, Jeff Bezos can convert Amazon's revenues to profits, right? http:\/\/t.co\/RcQ2mw7nqt","url":""}
+{"date":1414197038000,"author":"AswathDamodaran","rating":5,"text":"@tomcooper30 Try this option pricing site: http:\/\/t.co\/o4qEItk7ap","url":""}
+{"date":1414179969000,"author":"AswathDamodaran","rating":130,"text":"As companies break into parts & claim value (or price) creation, a template for gauging buyback stories: http:\/\/t.co\/uv92whOQvm","url":""}
+{"date":1413996121000,"author":"AswathDamodaran","rating":0,"text":"@prudena call me at 2129980340 between 2 & 3","url":""}
+{"date":1413446308000,"author":"AswathDamodaran","rating":147,"text":"GoPro: More smartphone than camera, more social media than electronics, more price than value! http:\/\/t.co\/H5BkEk7e2M","url":""}
+{"date":1412179908000,"author":"AswathDamodaran","rating":1,"text":"@jhernandezum Oh, I see. I was already in my Lady Gaga costume, ready to sing.","url":""}
+{"date":1412179592000,"author":"AswathDamodaran","rating":0,"text":"@jhernandezum Was sent out about two hours ago. Maybe, you blocked me.","url":""}
+{"date":1412171303000,"author":"AswathDamodaran","rating":85,"text":"Boring tweet of the day: ERP for S&P 500 rises to 5.4% on 10\/1\/14. Website: http:\/\/t.co\/IfY5XbifnW & sprdsht:  http:\/\/t.co\/a6Sz2al8ug","url":""}
+{"date":1412103440000,"author":"AswathDamodaran","rating":140,"text":"Alibaba's stock pops on IPO, but Yahoo's stock drops. Market mistake, tax effect or Walking Dead discount? http:\/\/t.co\/tYfGaijAKn","url":""}
+{"date":1411772803000,"author":"AswathDamodaran","rating":7,"text":"@wusongtweet A politburo is unelected & runs the country. Alibaba's board is selected by partners who don't answer to shareholders.","url":""}
+{"date":1411596309000,"author":"AswathDamodaran","rating":0,"text":"@akashbachhawat I am easy to find online. Look on my website","url":""}
+{"date":1411596247000,"author":"AswathDamodaran","rating":1,"text":"@Chessenips when the rest of the holding is dispersed among many, passive investors","url":""}
+{"date":1411596192000,"author":"AswathDamodaran","rating":0,"text":"@noopymark No. Not with a sensible DCF","url":""}
+{"date":1411475418000,"author":"AswathDamodaran","rating":2,"text":"@anjulsre They would. Be still overpaying for Yahoo US","url":""}
+{"date":1411474903000,"author":"AswathDamodaran","rating":2,"text":"@anjulsre Even that may be too high a price for Yahoo US","url":""}
+{"date":1411422995000,"author":"AswathDamodaran","rating":1,"text":"@3rdMoment perhaps. This pace is too hot to keep up.","url":""}
+{"date":1411410576000,"author":"AswathDamodaran","rating":109,"text":"As buybacks roar back, boosters and critics mistake cause with effect & mix up value transfer with value creation. http:\/\/t.co\/LwVQIlqh6U","url":""}
+{"date":1411163295000,"author":"AswathDamodaran","rating":90,"text":"$BABA has Goldilocks opening day, but still no invite to Jack Ma's party! http:\/\/t.co\/fgFlEz5JDG Something I said? http:\/\/t.co\/uMDOM4x4sF","url":""}
+{"date":1411001991000,"author":"AswathDamodaran","rating":1,"text":"@hitesh_gulati Value embedded in what? Insurance policies?","url":""}
+{"date":1410888928000,"author":"AswathDamodaran","rating":206,"text":"Alibaba is profitable & valuable, but it will be governed by a politburo, not stockholders.  Greed vs Fear! http:\/\/t.co\/1nfQpIyh5U","url":""}
+{"date":1410655727000,"author":"AswathDamodaran","rating":4,"text":"@Devanayagam What do you need?","url":""}
+{"date":1410204824000,"author":"AswathDamodaran","rating":198,"text":"Ahead of Alibaba's IPO, my value estimate is close to initial offering price. More coincidence than value consensus! http:\/\/t.co\/qfKKadMWyJ","url":""}
+{"date":1409689572000,"author":"AswathDamodaran","rating":488,"text":"Education is a business, badly run and non-profit only in name. Putting my class online is my try to provoke change: http:\/\/t.co\/bhSQ2jpABv","url":""}
+{"date":1409622094000,"author":"AswathDamodaran","rating":0,"text":"@mikeyroom I may be missing something but MLPs strike me as constrained entities with payout obsessed investors. Not much fun to look at!","url":""}
+{"date":1409617567000,"author":"AswathDamodaran","rating":0,"text":"@mikeyroom Nope. As Gertrude Stein would say, there is no there there.","url":""}
+{"date":1409605643000,"author":"AswathDamodaran","rating":214,"text":"Bubble warnings get louder, as S&P 500 hit 2000, but ERP is 5.28% (on 8\/29\/14), higher than 10-year average (4.9%). http:\/\/t.co\/IfY5XbifnW","url":""}
+{"date":1409599920000,"author":"AswathDamodaran","rating":68,"text":"Boring tax tweet: C-Corp or S-Corp? MLP or Public co? Tax & value effects of shift to\/from pass through tax setup:\nhttp:\/\/t.co\/Uli2z0IPwo","url":""}
+{"date":1409169078000,"author":"AswathDamodaran","rating":1,"text":"@HansiMehrotra Yes. No one likes being average.","url":""}
+{"date":1409169053000,"author":"AswathDamodaran","rating":2,"text":"@HansiMehrotra Traffic with clear plans on how to turn into profit over time","url":""}
+{"date":1407528388000,"author":"AswathDamodaran","rating":111,"text":"Connecting earnings reports to narratives, with no change at $AAPL, big changes in $FB and questions for $TWTR. http:\/\/t.co\/fwQgIuzxlo","url":""}
+{"date":1407369057000,"author":"AswathDamodaran","rating":5,"text":"@analystnoise Noises don't affect narratives, they affect prices. Substance affects narrative. Jury is still out on HLF.","url":""}
+{"date":1407353847000,"author":"AswathDamodaran","rating":103,"text":"In earnings season: why investors focus on price metrics, why these metrics vary across companies & tunnel vision: http:\/\/t.co\/J5jDIJgR0s","url":""}
+{"date":1407353540000,"author":"AswathDamodaran","rating":86,"text":"Markets are the ultimate reality show & earnings season is ratings week. How earnings reports reshape narratives: http:\/\/t.co\/fQgNIKtY8H","url":""}
+{"date":1407186271000,"author":"AswathDamodaran","rating":8,"text":"Yikes! Vacation mode still. Meant to say 5.38% on July 1 (not July 31). Back to no tweet mode for a few days.","url":""}
+{"date":1407183576000,"author":"AswathDamodaran","rating":34,"text":"Blame vacation mode for belated update: ERP for S&P 500 at start of August at 5.45%, up from 5.38% from July 31. http:\/\/t.co\/IfY5XbAoC4","url":""}
+{"date":1406930809000,"author":"AswathDamodaran","rating":0,"text":"@tompapsa That is possible.","url":""}
+{"date":1406930748000,"author":"AswathDamodaran","rating":0,"text":"@TomPaPsa @AswathDamodaran","url":""}
+{"date":1406928334000,"author":"AswathDamodaran","rating":0,"text":"@TomPaPsa That is my measure","url":""}
+{"date":1406921518000,"author":"AswathDamodaran","rating":141,"text":"The insanity of US Tax Code: Write bad tax laws, elicit predictable responses, complain, write even worse laws. http:\/\/t.co\/GGA65D4B7T","url":""}
+{"date":1406891364000,"author":"AswathDamodaran","rating":0,"text":"@jfrachi @abhishek_e4 Yes","url":""}
+{"date":1406510598000,"author":"AswathDamodaran","rating":1,"text":"@RichardLalane2 two years, weekly","url":""}
+{"date":1406386050000,"author":"AswathDamodaran","rating":604,"text":"The Fed griping about tech bubbles is like a bar owner, serving free beer all day, complaining about drunk patrons. http:\/\/t.co\/tIzdIarWuK","url":""}
+{"date":1406066000000,"author":"AswathDamodaran","rating":1,"text":"@champforrest Yes. Aapl is getting close to my threshold and Pbr has a way to go","url":""}
+{"date":1405699884000,"author":"AswathDamodaran","rating":0,"text":"@AndrewLegget You should have come in. More sausage-making than magic, though!","url":""}
+{"date":1405689298000,"author":"AswathDamodaran","rating":0,"text":"@AndrewLegget Drop by & say hi. 44 West 4th St, 9-96","url":""}
+{"date":1405616048000,"author":"AswathDamodaran","rating":9,"text":"@smallbigtalk Let me generalize that. Never listen to anyone about the overall market. Market timing is the impossible dream.","url":""}
+{"date":1405561322000,"author":"AswathDamodaran","rating":1,"text":"@emostaque You are right. Uber's value will be devastated if the revenue slice drops significantly. It is a key driver of value.","url":""}
+{"date":1405538684000,"author":"AswathDamodaran","rating":141,"text":"Drawing lines between the possible, the plausible and the probable: key to reconciling different narratives. http:\/\/t.co\/XABGwCL9Ue","url":""}
+{"date":1405203984000,"author":"AswathDamodaran","rating":0,"text":"@abhishek_e4 Corporate Finance","url":""}
+{"date":1405187902000,"author":"AswathDamodaran","rating":0,"text":"@luvaglio Depends on what I have to be up for.","url":""}
+{"date":1405060067000,"author":"AswathDamodaran","rating":2,"text":"@__bolt Generally about a year after everyone else knows that they should have.","url":""}
+{"date":1404879108000,"author":"AswathDamodaran","rating":3,"text":"@__Bolt most of the time, no","url":""}
+{"date":1404831154000,"author":"AswathDamodaran","rating":0,"text":"@vinitpaul Zero","url":""}
+{"date":1404350398000,"author":"AswathDamodaran","rating":0,"text":"@DeeSpark2014 No. You can only compute a relative value","url":""}
+{"date":1404300605000,"author":"AswathDamodaran","rating":0,"text":"@vinitpaul I don't have a problem with that. Not sure it will help you that much.","url":""}
+{"date":1404228730000,"author":"AswathDamodaran","rating":3,"text":"@asadmaple Higher than the 1960-2013 norm but just a little higher than 2008-13 average.","url":""}
+{"date":1404159656000,"author":"AswathDamodaran","rating":71,"text":"Implied ERP for S&P 500 jumps to 5.38% on July 1 from 5.03% on June 1, as buybacks surge. http:\/\/t.co\/IfY5XbAoC4 & http:\/\/t.co\/pY3n7sOojj","url":""}
+{"date":1403866248000,"author":"AswathDamodaran","rating":1,"text":"@antonaparfenov I will check.","url":""}
+{"date":1403804182000,"author":"AswathDamodaran","rating":0,"text":"@JustFineMusic Holding all else constant, yes.","url":""}
+{"date":1403644938000,"author":"AswathDamodaran","rating":445,"text":"Numbers without narrative = Modeling, Narrative without numbers = Storytelling, Numbers+Narrative= Investing. http:\/\/t.co\/m86e8q5EzC","url":""}
+{"date":1403604213000,"author":"AswathDamodaran","rating":1,"text":"@seeratsodhi Try this paper: http:\/\/t.co\/e0N6BCYLDO","url":""}
+{"date":1403442382000,"author":"AswathDamodaran","rating":1,"text":"@rossrosenberg @pmarca @treehcapital Every metric said sell in 1999, but it did so starting in 1996. Net, you were better off doing nothing.","url":""}
+{"date":1403185092000,"author":"AswathDamodaran","rating":1,"text":"@AjitGaddam @om @google A significant shift to online advertising, a network effect & craven competition.","url":""}
+{"date":1403178259000,"author":"AswathDamodaran","rating":52,"text":"@om I am wrong 100% of the time . I am just glad that it is not always in the same direction. Mistakes average out, bias does not.","url":""}
+{"date":1403025388000,"author":"AswathDamodaran","rating":0,"text":"@brett_michael_ The '98 story is about changes in interest rates, not level & it makes sense.","url":""}
+{"date":1403021046000,"author":"AswathDamodaran","rating":0,"text":"@brett_michael_ In 00, the argument was not based on low int rates (T.Bond rate =6.5%). In 07, who were these people?","url":""}
+{"date":1402966573000,"author":"AswathDamodaran","rating":0,"text":"@Brett_Michael_ No strong evidence any metric including Shiller PE works in market timing. Weak evidence it does & fed model even weaker.","url":""}
+{"date":1402943260000,"author":"AswathDamodaran","rating":157,"text":"Using a single metric to detect market bubbles is foolhardy, even with Nobel Prize pedigree. Market timing tradeoff: http:\/\/t.co\/qZjWImx3LZ","url":""}
+{"date":1402937622000,"author":"AswathDamodaran","rating":1,"text":"@vinitpaul Use EV instead of price & your problem goes away","url":""}
+{"date":1402346359000,"author":"AswathDamodaran","rating":0,"text":"@bizfinpoletc I agree. That makes my $6 billion value an optimistic one.","url":""}
+{"date":1402345508000,"author":"AswathDamodaran","rating":4,"text":"@harvardwinters Try my blog post. I have a full valuation of Uber. My estimate is $6 billion.","url":""}
+{"date":1402343376000,"author":"AswathDamodaran","rating":1,"text":"@samuelgil try my post. I address this issue.","url":""}
+{"date":1402342446000,"author":"AswathDamodaran","rating":311,"text":"Is disrupting the global taxi market worth $17 billion? Investors in Uber think so, but are they over reaching? http:\/\/t.co\/zUPg7QZOmK","url":""}
+{"date":1401892154000,"author":"AswathDamodaran","rating":23,"text":"In Moscow, for a 2-day valuation seminar on July 8-9.  Looking forward to it, but not planning to hold my tongue!  http:\/\/t.co\/ZVEYYOwALw","url":""}
+{"date":1401809715000,"author":"AswathDamodaran","rating":1,"text":"@ianfh89 email me","url":""}
+{"date":1401807934000,"author":"AswathDamodaran","rating":3,"text":"@ianfh89 @SPCapitalIQ I use historical & apply earnings growth for dividends & buybacks","url":""}
+{"date":1401807700000,"author":"AswathDamodaran","rating":2,"text":"@ianfh89 I do & buybacks too!","url":""}
+{"date":1401806416000,"author":"AswathDamodaran","rating":245,"text":"Ballmer bids $2 billion for the Clippers! Value, price or play toy? My two passions, sports & finance in one story. http:\/\/t.co\/t6tiSw9cB0","url":""}
+{"date":1401491500000,"author":"AswathDamodaran","rating":65,"text":"At end of May 2014, ERP for S&P 500 stands at 5.03%, down from 5.12% at start of month. http:\/\/t.co\/IfY5XbAoC4 & http:\/\/t.co\/hjACHYHVFS","url":""}
+{"date":1401449954000,"author":"AswathDamodaran","rating":0,"text":"@karanmaleki 10-Yr. Other inputs are easier to get","url":""}
+{"date":1401389156000,"author":"AswathDamodaran","rating":0,"text":"@henryalty Wont be streamed but will be recorded.","url":""}
+{"date":1401376911000,"author":"AswathDamodaran","rating":0,"text":"@henryalty won't be streea","url":""}
+{"date":1401373895000,"author":"AswathDamodaran","rating":53,"text":"July 15-17 = My open-enrollment valuation class at NYU = 3 days to talk about value to captive audience= Can't wait. http:\/\/t.co\/yeeJ5WVYGf","url":""}
+{"date":1401323805000,"author":"AswathDamodaran","rating":0,"text":"@ThePrinceKapoor Back on","url":""}
+{"date":1401323774000,"author":"AswathDamodaran","rating":0,"text":"@karanmaleki that is the only reason you compute implied ERP & it is after corporate taxes.","url":""}
+{"date":1401227609000,"author":"AswathDamodaran","rating":0,"text":"@degolasse @vitaliyk I did not say it was irrational, just unpredictable. Either way, I'm happy the gap closed.","url":""}
+{"date":1400674127000,"author":"AswathDamodaran","rating":1,"text":"@farooqmjaved Capital IQ","url":""}
+{"date":1400502099000,"author":"AswathDamodaran","rating":5,"text":"@Dany_Frenn The harder you work, the luckier you get!","url":""}
+{"date":1400450200000,"author":"AswathDamodaran","rating":4,"text":"@__Bolt Tax benefits","url":""}
+{"date":1399833550000,"author":"AswathDamodaran","rating":6,"text":"@wastemaker yahoo has nothing that alibaba wants or needs","url":""}
+{"date":1399767770000,"author":"AswathDamodaran","rating":0,"text":"@awanish \nRead the last sentence in my post","url":""}
+{"date":1399766687000,"author":"AswathDamodaran","rating":185,"text":"Combine a puzzle (Yahoo US) with a mystery (Yahoo Japan) & add an enigma (Alibaba) and you have equity in Yahoo. http:\/\/t.co\/RKAhnxJTEX","url":""}
+{"date":1399635196000,"author":"AswathDamodaran","rating":6,"text":"@ArtConnossieur Mixing value (DCF) & pricing  (multiples) is not a good idea.","url":""}
+{"date":1399596978000,"author":"AswathDamodaran","rating":358,"text":"I am wary of China stories, but Alibaba is the real deal. I value it at $127 billion but it will be priced higher. http:\/\/t.co\/9DcqI3xLDu","url":""}
+{"date":1399318952000,"author":"AswathDamodaran","rating":4,"text":"@karanmaleki ERP is pre-personal taxes","url":""}
+{"date":1398979469000,"author":"AswathDamodaran","rating":62,"text":"ERP for S&P 500 on 5\/1\/14 (http:\/\/t.co\/bdJH2hsVnD) at 5.12%, close to 5.15% on 4\/1\/14.  Market treading water? http:\/\/t.co\/IfY5XbAoC4","url":""}
+{"date":1398801625000,"author":"AswathDamodaran","rating":115,"text":"Apple's price surges after earnings report & investors wonder whether this is the momentum shift. My thoughts. http:\/\/t.co\/4MvOkNxYAP","url":""}
+{"date":1398735841000,"author":"AswathDamodaran","rating":0,"text":"@accretivegrowth \nTomorrow","url":""}
+{"date":1398209330000,"author":"AswathDamodaran","rating":8,"text":"@elenzo90 will be posting as soon as prospectus comes out","url":""}
+{"date":1398036806000,"author":"AswathDamodaran","rating":0,"text":"@mawaaaaan13 I don't set, collect or keep the fees. Try contacting Deloitte!","url":""}
+{"date":1398036737000,"author":"AswathDamodaran","rating":5,"text":"@TrinityAssetMan When it is not as cold. No fate is worse than being stuck in O'Hare in a snowstorm.","url":""}
+{"date":1398036200000,"author":"AswathDamodaran","rating":42,"text":"Looking forward to my first visit to Indonesia: In Jakarta for 2-day valuation seminar on 5\/22 & 5\/23. http:\/\/t.co\/UNSxAWmfjw","url":""}
+{"date":1396966001000,"author":"AswathDamodaran","rating":0,"text":"@ajit_p_singh @AswathDamodaran My advice: Use another vehicle, not Twitter.","url":""}
+{"date":1396961316000,"author":"AswathDamodaran","rating":1,"text":"@karanmaleki yes","url":""}
+{"date":1396957017000,"author":"AswathDamodaran","rating":0,"text":"@ajit_p_singh The option has to be priced given the underlying asset's price now. Otherwise,you can make risk less profits","url":""}
+{"date":1396956857000,"author":"AswathDamodaran","rating":0,"text":"@ajit_p_singh there is a reason why Twitter limits you to 140 characters","url":""}
+{"date":1396956799000,"author":"AswathDamodaran","rating":0,"text":"@karanmaleki Nope. It is the 10-year t bond rate + 5.15#","url":""}
+{"date":1396915918000,"author":"AswathDamodaran","rating":1,"text":"@karanmaleki See my paper on ERP","url":""}
+{"date":1396615798000,"author":"AswathDamodaran","rating":1,"text":"@SternOppy @Ingrida_M Mickey haters!!!","url":""}
+{"date":1396486131000,"author":"AswathDamodaran","rating":71,"text":"ERP for S&P 500 up slightly to 5.15% on April 1, 2014 from 4.96% in March, as cash flow increases more than index. http:\/\/t.co\/IfY5XbAoC4","url":""}
+{"date":1396485953000,"author":"AswathDamodaran","rating":3,"text":"@lachinairis I don't know about perfect but there is a right capital structure for each firm.","url":""}
+{"date":1395834192000,"author":"AswathDamodaran","rating":3,"text":"@AkashThadani I am sorry but this is broker-talk. Sounds fancy but means nothing,","url":""}
+{"date":1395773589000,"author":"AswathDamodaran","rating":5,"text":"@ryanowalton It's easy to take oaths & make promises. Keeping them is the tough part.","url":""}
+{"date":1395769778000,"author":"AswathDamodaran","rating":0,"text":"@AkashThadani That does not hold up. I have found plenty of undervalued growth companies.","url":""}
+{"date":1395766985000,"author":"AswathDamodaran","rating":273,"text":"What if you think a stock is over valued but the price keeps going up? My Tesla dilemma & response: http:\/\/t.co\/1LAoWyqbZo","url":""}
+{"date":1395711803000,"author":"AswathDamodaran","rating":136,"text":"High frequency trading (HFT), Pokemon cards and fair markets. Really! They are all connected. http:\/\/t.co\/CjXAKxE3Iu","url":""}
+{"date":1395624299000,"author":"AswathDamodaran","rating":83,"text":"Good insider trading laws thread the needle between fair & free markets. NY AG's Insider Trading 2.0 fails the test. http:\/\/t.co\/sdHdGvuUPP","url":""}
+{"date":1395582922000,"author":"AswathDamodaran","rating":0,"text":"@AngkyAgani I am, in late May","url":""}
+{"date":1395574963000,"author":"AswathDamodaran","rating":0,"text":"@Darcy_Donelle About once every two years but have never done an open seminar there.","url":""}
+{"date":1395539709000,"author":"AswathDamodaran","rating":43,"text":"In Brazil next week for the 20th time! Talking about valuation at HSM. http:\/\/t.co\/eSbGbHZfDG","url":""}
+{"date":1395313877000,"author":"AswathDamodaran","rating":3,"text":"@zaniphrom @ReformedBroker that was last decade & you have to throw in a shift.","url":""}
+{"date":1395270723000,"author":"AswathDamodaran","rating":8,"text":"@__bolt What interest rate does Yellen set? The Fed Funds rate? Read my post on the Fed as the Wizard of Oz.","url":""}
+{"date":1395173480000,"author":"AswathDamodaran","rating":14,"text":"@vinitpaul Depends on who you are trying to impress.  Neither a CFA nor an MBA guarantees competence.","url":""}
+{"date":1395073472000,"author":"AswathDamodaran","rating":133,"text":"If the numbers don't fly, call it strategic & then throw in growth, disruption & China into the mix. It is a lock!   http:\/\/t.co\/xxavfrZxdF","url":""}
+{"date":1395017071000,"author":"AswathDamodaran","rating":0,"text":"@sanjaynyc Working now.","url":""}
+{"date":1395011098000,"author":"AswathDamodaran","rating":0,"text":"@sanjaynyc SSRN seems to be having trouble. Hope I did not cause it.","url":""}
+{"date":1395001581000,"author":"AswathDamodaran","rating":193,"text":"Curious about equity risk premiums? Having trouble sleeping? Either way, my annual update on ERP will do the trick. http:\/\/t.co\/4njcAphY0f","url":""}
+{"date":1394709013000,"author":"AswathDamodaran","rating":3,"text":"@arypriaga looking forward to it","url":""}
+{"date":1394651326000,"author":"AswathDamodaran","rating":0,"text":"@roederiksen I don't disagree but the same can be said of real currencies like gold. I don't hold either.","url":""}
+{"date":1394630726000,"author":"AswathDamodaran","rating":3,"text":"@padiwind You are right. It is unfair to hackers. A bad central banker can create a lot more damage.","url":""}
+{"date":1394584851000,"author":"AswathDamodaran","rating":0,"text":"@JackGavigan Not the point I am making. It is true that algorithms can be hacked but also true that some central bankers are hacks.","url":""}
+{"date":1394584178000,"author":"AswathDamodaran","rating":0,"text":"@VaidasUrba What assets? Used to be gold in the gold standard. What exactly is it now?","url":""}
+{"date":1394584071000,"author":"AswathDamodaran","rating":3,"text":"@JackGavigan Central dilemma. The less influence that the government has over monetary policy, the more stable the currency.","url":""}
+{"date":1394583896000,"author":"AswathDamodaran","rating":0,"text":"@ryanowalton Depends on the central bank.","url":""}
+{"date":1394583118000,"author":"AswathDamodaran","rating":192,"text":"If your response to Bitcoin is that \"protected computer algorithm\" is oxymoron, so is an \"independent central bank\" http:\/\/t.co\/zlyihO4OaR.","url":""}
+{"date":1394568177000,"author":"AswathDamodaran","rating":1,"text":"@godvsme I see. You are talking about the CFO seminar. I told you it was CFO-like pricing.","url":""}
+{"date":1394567721000,"author":"AswathDamodaran","rating":0,"text":"@godvsme Fee for doing what? And who does it get paid to?","url":""}
+{"date":1394488497000,"author":"AswathDamodaran","rating":0,"text":"@rlpkamath Not if you pay with Bitcoin","url":""}
+{"date":1394483010000,"author":"AswathDamodaran","rating":46,"text":"CFOs, aspiring CFOs and wannabe CFOs: NYU Stern has a week for you (with a CFO-like price tag). I do my 1\/2 day. http:\/\/t.co\/bHOIgF3Hwq","url":""}
+{"date":1394459293000,"author":"AswathDamodaran","rating":4,"text":"@stocktwitsjohn You are right but even that seems to controversial!","url":""}
+{"date":1394453688000,"author":"AswathDamodaran","rating":0,"text":"@VaidasUrba Flows to NYC holders as what? Dividends?","url":""}
+{"date":1394451275000,"author":"AswathDamodaran","rating":1,"text":"@VaidasUrba @pmarca and what exactly would you be valuing?","url":""}
+{"date":1394414401000,"author":"AswathDamodaran","rating":1,"text":"@zemberoni gold is a commodity & a currency, but more currency than commodity. May be just different definitions.","url":""}
+{"date":1394413977000,"author":"AswathDamodaran","rating":0,"text":"@zemberoni A commodity that is used in transactions is a currency & given that it has no uses, what role would Bitcoin play as commodity?","url":""}
+{"date":1394412726000,"author":"AswathDamodaran","rating":263,"text":"Is Bitcoin a currency?  I think so but my views on its future may disappoint both enthusiasts and cynics. http:\/\/t.co\/zlyihO4OaR","url":""}
+{"date":1394222918000,"author":"AswathDamodaran","rating":1,"text":"@ashwin_paul Nothing radical. You will get an exp return less than the riskfree rate but you are buying insurance against macro risk","url":""}
+{"date":1393848626000,"author":"AswathDamodaran","rating":3,"text":"@vincepaver Almost 18 months of poor stock price performance is not exactly recent, but no breakthroughs on intrinsic value either.","url":""}
+{"date":1393811316000,"author":"AswathDamodaran","rating":0,"text":"@frostbitenumba1 Bloody ROI is pretty harsh too. If you dish it out, you can be willing to have it dished back to you.","url":""}
+{"date":1393809223000,"author":"AswathDamodaran","rating":94,"text":"Tim Cook does not care about the \"bloody IRR\". So, what does he care about, and with whose money? http:\/\/t.co\/MNvT6KMlyp #CSRrunamuck","url":""}
+{"date":1393724788000,"author":"AswathDamodaran","rating":3,"text":"@BrainAshPowder Both have absolute power & you know the saying about absolute power.","url":""}
+{"date":1393722344000,"author":"AswathDamodaran","rating":211,"text":"Vlad Putin (Mark Zuckerberg) gets Russian parliament's (Facebook Board's) okay to invade Ukraine (to acquire Whatsapp). #AreYouSurprised?","url":""}
+{"date":1393721965000,"author":"AswathDamodaran","rating":67,"text":"Stocks up in February, and ERP for S&P 500 down to 4.96% on 3\/1\/14. Spreadsheet: http:\/\/t.co\/lAX2nkARu5, Home Page: http:\/\/t.co\/IfY5XbAoC4","url":""}
+{"date":1393549056000,"author":"AswathDamodaran","rating":0,"text":"@carlhinrichsen More patent buy (grab is a strong word) than PSS.","url":""}
+{"date":1393534416000,"author":"AswathDamodaran","rating":1,"text":"@stf18 As regulated monopolies, not exactly fodder for rich discussion. Good news is that uncertainty may be coming to the game.","url":""}
+{"date":1393428185000,"author":"AswathDamodaran","rating":91,"text":"Companies do defensive deals, to protect profits or preempt competition. My conditions for these deals to make sense. http:\/\/t.co\/imVfVYNV8z","url":""}
+{"date":1393162466000,"author":"AswathDamodaran","rating":1,"text":"@balapalamadai @bgmahesh \nMultiplying 160 (expected incremental users) by 130 (mkt price\/user for Facebook) is complex?","url":""}
+{"date":1392920728000,"author":"AswathDamodaran","rating":522,"text":"Facebook buys Whatsapp for $19 billion!! Shocked? Perhaps, if you are an investor but not if you are a trader. http:\/\/t.co\/Z82I851Tx8","url":""}
+{"date":1392770077000,"author":"AswathDamodaran","rating":112,"text":"Valuing synergy? I am a skeptic on acquisition-driven growth but Comcast's bid for TWC passes my shareholder test. http:\/\/t.co\/pQD0aJQSUq","url":""}
+{"date":1392339476000,"author":"AswathDamodaran","rating":0,"text":"@jsmccallum True, but the truth eventually wins out. So, I see it as an opportunity.","url":""}
+{"date":1392337172000,"author":"AswathDamodaran","rating":0,"text":"@dustinwills Not only has it been debated but the wrong side is winning.","url":""}
+{"date":1392334695000,"author":"AswathDamodaran","rating":0,"text":"@nuggy5 Exactly & that affects value","url":""}
+{"date":1392334318000,"author":"AswathDamodaran","rating":6,"text":"@jsmccallum Why? Analysts don't set prices. They follow them.","url":""}
+{"date":1392334085000,"author":"AswathDamodaran","rating":0,"text":"@nuggy5 Are you telling me that out of the money options are worthless? Try buying some on the CBOE.","url":""}
+{"date":1392331183000,"author":"AswathDamodaran","rating":147,"text":"If you pay employees with equity, it is an expense, it is not non-cash & you cannot just add it back to earnings. http:\/\/t.co\/k06SDNadnO","url":""}
+{"date":1392151604000,"author":"AswathDamodaran","rating":3,"text":"@BetoMenegocci Investors are focusing on only number that has any substance: user base. Understandable but short cuts come with baggage!","url":""}
+{"date":1392145343000,"author":"AswathDamodaran","rating":102,"text":"Bipolar markets? Twitter's earnings beat expectations but stock price drops 25%! But still not on a buy, for me. http:\/\/t.co\/GLCpWBWCFd","url":""}
+{"date":1391620973000,"author":"AswathDamodaran","rating":0,"text":"@MizA204 Check under updated data","url":""}
+{"date":1391438168000,"author":"AswathDamodaran","rating":73,"text":"Every pro has a con & every plus a minus. I host a debate on a #bubble in #stockmarket. Created with @NiaterraNews http:\/\/t.co\/CvlbMqAZmA","url":""}
+{"date":1391348998000,"author":"AswathDamodaran","rating":87,"text":"Jan 2014 a tough month for global stocks: S&P 500 declines 3.5%, T.Bond rate down to 2.65% and ERP rises to 5.17%. http:\/\/t.co\/6clzGoqzkf","url":""}
+{"date":1391348998000,"author":"AswathDamodaran","rating":87,"text":"Jan 2014 a tough month for global stocks: S&P 500 declines 3.5%, T.Bond rate down to 2.65% and ERP rises to 5.17%. http:\/\/t.co\/6clzGoqzkf","url":""}
+{"date":1391217908000,"author":"AswathDamodaran","rating":3,"text":"@akhtar1974 You can go to my website & take the class from there.","url":""}
+{"date":1390957150000,"author":"AswathDamodaran","rating":0,"text":"@NirKumar1 Total working capital or individual working capital items","url":""}
+{"date":1390939305000,"author":"AswathDamodaran","rating":1,"text":"@shepa_nsk Are we talking about the iTunes U version? What online version are you referencing?","url":""}
+{"date":1390939257000,"author":"AswathDamodaran","rating":0,"text":"@vinitpaul Dividend paid reduces equity and does affect capital structure. How can it not?","url":""}
+{"date":1390794548000,"author":"AswathDamodaran","rating":168,"text":"My spring classes, as always, will be online, but if you are time-constrained, try this compact, online version:","url":"https:\/\/t.co\/iqPBmwSHxH"}
+{"date":1390794335000,"author":"AswathDamodaran","rating":87,"text":"My thoughts on the MOOC stumble (http:\/\/t.co\/wiP5UhEkdT) & whether online educators can breach the University moat (http:\/\/t.co\/8ERhF1Hqjn)","url":""}
+{"date":1390601915000,"author":"AswathDamodaran","rating":0,"text":"@HassBazzi Based primarily on revenues which are largely TV. Big media market teams have high value.","url":""}
+{"date":1390528257000,"author":"AswathDamodaran","rating":0,"text":"@ashwin_paul Yes","url":""}
+{"date":1390358839000,"author":"AswathDamodaran","rating":0,"text":"@JairDav \nTry iTunes U","url":""}
+{"date":1389808429000,"author":"AswathDamodaran","rating":1,"text":"@Jayanthan2022 \nI am teaching both. Classes start in February","url":""}
+{"date":1389665759000,"author":"AswathDamodaran","rating":1,"text":"@geevee300 Download the company file & use Pivot table in Excel.","url":""}
+{"date":1389375891000,"author":"AswathDamodaran","rating":3,"text":"@Anjratnayake @AswathDamodaran \nadamodar@stern.nyu.edu","url":""}
+{"date":1389374861000,"author":"AswathDamodaran","rating":1,"text":"@anjratnayake \nemail will be easier","url":""}
+{"date":1389287512000,"author":"AswathDamodaran","rating":1,"text":"@rgizen  target d\/e","url":""}
+{"date":1389285684000,"author":"AswathDamodaran","rating":210,"text":"My annual data updating ritual is done: http:\/\/t.co\/uvIn0sOjR8. The 2014 data for countries, companies & sectors: http:\/\/t.co\/eFWnuslzhs","url":""}
+{"date":1388680029000,"author":"AswathDamodaran","rating":118,"text":"US stocks start 2014 on a high, with the ERP for the S&P 500 at 4.96%. A non-market-timer's market timing thoughts. http:\/\/t.co\/N1t56Hpz1I","url":""}
+{"date":1387204881000,"author":"AswathDamodaran","rating":1,"text":"@ThemisSal @CNBC \nSal, I have a favor to ask of you. Can I get your email address or phone number?","url":""}
+{"date":1386900551000,"author":"AswathDamodaran","rating":3,"text":"@virjvirj Replace payout ratio with g\/ ROE","url":""}
+{"date":1386900488000,"author":"AswathDamodaran","rating":3,"text":"@alexberry92 \nChapter in my strategic risk taking book, Wharton publishing, 2010","url":""}
+{"date":1386640468000,"author":"AswathDamodaran","rating":1,"text":"@JPucek4 are you suggesting trailing three quarters + q4 estimates? No reason why not but you can get this only for selected items","url":""}
+{"date":1386229699000,"author":"AswathDamodaran","rating":1,"text":"@alekseyvborisov Email me","url":""}
+{"date":1385821084000,"author":"AswathDamodaran","rating":14,"text":"@Darcy_Donelle if rise in Lt rate is matched by rise in LT growth, effect is muted. If rate rises faster or more than growth, trouble!","url":""}
+{"date":1385819930000,"author":"AswathDamodaran","rating":5,"text":"@Darcy_Donelle  The plow back is what is giving you growth. Can't have your cake & eat it too.","url":""}
+{"date":1385773289000,"author":"AswathDamodaran","rating":121,"text":"S&P was up 2.8% in November & ERP is down to 5.32%. Nothing concrete, but December scares me.  http:\/\/t.co\/NcAqwYQvBO.","url":""}
+{"date":1384887485000,"author":"AswathDamodaran","rating":190,"text":"The biggest payoff to valuation is when you feel most uncertain: during crises and with lots of unknowns. http:\/\/t.co\/uxUSyVThEw","url":""}
+{"date":1384794328000,"author":"AswathDamodaran","rating":8,"text":"@RichardBeddard \nThe more uncertainty there is, the more likely it is that others won't even try to value a stock.","url":""}
+{"date":1384789130000,"author":"AswathDamodaran","rating":9,"text":"@RichardBeddard \nThe more confident you feel in your estimate of value, the less point there is to getting that value.","url":""}
+{"date":1384787242000,"author":"AswathDamodaran","rating":153,"text":"Investors & traders' myths about young companies: that they cant be valued or that there is no point. I disagree. http:\/\/t.co\/1JXBz7cx7Q","url":""}
+{"date":1383835669000,"author":"AswathDamodaran","rating":1,"text":"@Lucy_C_P Lucy, I am sorry but I have an evening session in Budapest from 5.30-9.30 , Budapest time","url":""}
+{"date":1383818943000,"author":"AswathDamodaran","rating":1,"text":"@kate_vandy aswathdamodaran. I should be ready in about 15 minutes","url":""}
+{"date":1383817643000,"author":"AswathDamodaran","rating":1,"text":"@kate_vandy I can skype you in about 20 minutes. Skype address?","url":""}
+{"date":1383816564000,"author":"AswathDamodaran","rating":4,"text":"@kate_vandy Kate, I am sorry but I just got into Budapest. Won't be back in NY until Monday.","url":""}
+{"date":1383682904000,"author":"AswathDamodaran","rating":7,"text":"@SergioDaza I am not buying, but that does not mean that you should not.","url":""}
+{"date":1383394086000,"author":"AswathDamodaran","rating":1,"text":"@theRealWalters Try Apparel","url":""}
+{"date":1383334132000,"author":"AswathDamodaran","rating":1,"text":"@pramod_alpha Stay on entry page & scroll down.","url":""}
+{"date":1383327453000,"author":"AswathDamodaran","rating":1,"text":"@ehensim1 I don't know. I did not value it then.","url":""}
+{"date":1383327290000,"author":"AswathDamodaran","rating":50,"text":"Shutdown & Debt default grabbed headlines but stocks rose in October & the ERP for the S&P 500 dropped to 5.49%. http:\/\/t.co\/NcAqwYQvBO","url":""}
+{"date":1383182606000,"author":"AswathDamodaran","rating":2,"text":"@harshdeuskar220 See my paper on probabilistic approaches under research\/papers on my website.","url":""}
+{"date":1382966222000,"author":"AswathDamodaran","rating":160,"text":"Twitter priced at $17-$20!!! Analysts think it is too low!!! Excitement builds for IPO!!! Mission accomplished? http:\/\/t.co\/vwA2tF29Dh","url":""}
+{"date":1382487181000,"author":"AswathDamodaran","rating":4,"text":"@dealsmatee Use the 30-year rate then","url":""}
+{"date":1382487126000,"author":"AswathDamodaran","rating":1,"text":"@e62932 See my paper on equity r","url":""}
+{"date":1382466350000,"author":"AswathDamodaran","rating":104,"text":"NFL or sports fan? Bored with stocks? Try valuing an athlete's earnings stream, with Arian Foster shares. http:\/\/t.co\/OppCUZDy7k","url":""}
+{"date":1382448629000,"author":"AswathDamodaran","rating":1,"text":"@dealsmatee Just use the US 10-year T Bond rate. Works better than most macro economists' forecasts & cheaper","url":""}
+{"date":1382439457000,"author":"AswathDamodaran","rating":1,"text":"@dealsmatee Current ERP on my website http:\/\/t.co\/5FSisGw21F. I leave predictions to mkt timers","url":""}
+{"date":1382403692000,"author":"AswathDamodaran","rating":1,"text":"@e62932 I don't know of any that will do it with much success.","url":""}
+{"date":1382289014000,"author":"AswathDamodaran","rating":1,"text":"@vinitpaul Yes & Yes","url":""}
+{"date":1382099150000,"author":"AswathDamodaran","rating":1,"text":"@nmarquez Yes","url":""}
+{"date":1382052663000,"author":"AswathDamodaran","rating":1,"text":"@VijayAiyar Sure. Send it to me","url":""}
+{"date":1382041450000,"author":"AswathDamodaran","rating":1,"text":"@VijayAiyar Never heard of it, have not valued it and I never put buy\/sell labels on stocks.","url":""}
+{"date":1382039784000,"author":"AswathDamodaran","rating":4,"text":"@FSaveDP \nMozambique is in my July 2013 country risk premium update (on my website under updated data) for the first time.","url":""}
+{"date":1381967303000,"author":"AswathDamodaran","rating":1,"text":"@YaqoubBaqer @AbdullahAsousi they still work. Just makes for more work","url":""}
+{"date":1381959396000,"author":"AswathDamodaran","rating":1,"text":"@AbdullahAsousi @YaqoubBaqer it looks like the doubts have been there since 2008","url":""}
+{"date":1381950390000,"author":"AswathDamodaran","rating":82,"text":"Retry. Looks like the US may not default on its debt, but was the drama overstated? My take on the numbers: http:\/\/t.co\/yeDJZzk4b5","url":""}
+{"date":1381891102000,"author":"AswathDamodaran","rating":7,"text":"@BrentKWalker \nThe risk free rate is the risk free rate, but the T.bond rate may no longer be risk free and risk premiums will rise.","url":""}
+{"date":1381867140000,"author":"AswathDamodaran","rating":1,"text":"@FSaveDP \nI don't have an easy answer for you but look up their country risk score on PRS & you may have way out.","url":""}
+{"date":1381802560000,"author":"AswathDamodaran","rating":2,"text":"@OakDukeV \nDoes $GOOG even have a cycle to its earnings? It's margin today is not too shabby.","url":""}
+{"date":1381799905000,"author":"AswathDamodaran","rating":109,"text":"High market prices for social media cos justified by growing online ad market, but sum of the parts exceeds whole. http:\/\/t.co\/5qwikXs3Ty","url":""}
+{"date":1381421229000,"author":"AswathDamodaran","rating":141,"text":"Debating Twitter's worth? My take on why the stock can be a good trade & bad investment at the same time. http:\/\/t.co\/rSABKC3yZv","url":""}
+{"date":1381319000000,"author":"AswathDamodaran","rating":4,"text":"@ashwin_paul The riskfree rate is the only given. The rest are estimates","url":""}
+{"date":1381242611000,"author":"AswathDamodaran","rating":4,"text":"@vinitpaul \nAfter you get the cash flows (you really have to solve  for growth), what next? You gain nothing and lose perspective.","url":""}
+{"date":1381235743000,"author":"AswathDamodaran","rating":1,"text":"@vinitpaul What the heck is a reverse DCF? Are you just solving for an IRR given cashflows?","url":""}
+{"date":1381102138000,"author":"AswathDamodaran","rating":8,"text":"@SconsetCapital If you know which expenses would not pay off, you would not spend them in the first place. All cap ex is uncertain.","url":""}
+{"date":1381024549000,"author":"AswathDamodaran","rating":1,"text":"@DerivTrader1 @chasingthealpha I agree & I am assuming it will stay on as a capital expenditure.","url":""}
+{"date":1381023852000,"author":"AswathDamodaran","rating":1,"text":"@chasingthealpha \nI don't think it is hardware but they are opaque about it in the S1","url":""}
+{"date":1381023537000,"author":"AswathDamodaran","rating":2,"text":"@LondonTrades Will need a whole new post but you cannot use a barter system to pump up earnings\/ cash flows","url":""}
+{"date":1381022606000,"author":"AswathDamodaran","rating":1,"text":"@jakeroche My kids think so!","url":""}
+{"date":1381021337000,"author":"AswathDamodaran","rating":685,"text":"Twitter S1 is out. My value for company:a bargain at $6B, a fair deal at $10B, a moon shot at $20B. http:\/\/t.co\/ldcGybkn8o","url":""}
+{"date":1380990168000,"author":"AswathDamodaran","rating":1,"text":"@vinitpaul Coming on Monday!","url":""}
+{"date":1380988090000,"author":"AswathDamodaran","rating":1,"text":"@Rookie_Bookie__ @CFAinstitute Expected real growth + Expected inflation","url":""}
+{"date":1380845302000,"author":"AswathDamodaran","rating":5,"text":"@K_AGISO done right, it should give you same  value. Just more difficult to do APV right.","url":""}
+{"date":1380845174000,"author":"AswathDamodaran","rating":4,"text":"@geffbeck Working on the valuation. Monday, I hope.","url":""}
+{"date":1380802168000,"author":"AswathDamodaran","rating":1,"text":"@Brendan_Nosal duration matching. Your","url":""}
+{"date":1380757914000,"author":"AswathDamodaran","rating":79,"text":"S&P 500 up 3%, T.Bond rate down 0.18% and cash flows up 4.9% in September: ERP rises to 5.73% from 5.61%. http:\/\/t.co\/tP449Mslpb","url":""}
+{"date":1380670576000,"author":"AswathDamodaran","rating":1,"text":"@SachiVDesai Financials are not available yet.","url":""}
+{"date":1380666346000,"author":"AswathDamodaran","rating":100,"text":"Brand name gives pricing power, but valuing it can be messy. My estimates for $KO, cautionary notes & implications.  http:\/\/t.co\/RtkLZky7L5","url":""}
+{"date":1380413945000,"author":"AswathDamodaran","rating":1,"text":"@DvMoodley it should be in my FCFF ginzu models as minority interest.","url":""}
+{"date":1380381593000,"author":"AswathDamodaran","rating":1,"text":"@DvMoodley what is nci?","url":""}
+{"date":1380337078000,"author":"AswathDamodaran","rating":149,"text":"Lessons from $IBM & $AAPL escapes from death spiral. Acceptance+ Change Agent + Change Plan + Luck = Rebirth. http:\/\/t.co\/nyGUNDoX1c","url":""}
+{"date":1380067156000,"author":"AswathDamodaran","rating":159,"text":"Birth, growth & decline are natural, but companies fight aging at high cost. $BBRY's endgame and $MSFT as value trap. http:\/\/t.co\/cNUMC6G5sr","url":""}
+{"date":1379852346000,"author":"AswathDamodaran","rating":2,"text":"@jprotege \nCertainly. I am around NYU most weekdays. Send me an email.","url":""}
+{"date":1379804019000,"author":"AswathDamodaran","rating":5,"text":"@jonasQuinn23 \nI think its value is well above its price not, but your guess is as good as mine on where the price is going.","url":""}
+{"date":1379803978000,"author":"AswathDamodaran","rating":2,"text":"@DrunkEquityDude \nLast valued it more than a year ago at >$36. The more I see of the company, the less I like where it is going.","url":""}
+{"date":1379617685000,"author":"AswathDamodaran","rating":5,"text":"@oluka_1 Reinvestment = Cap ex - Depreciation + Change in WC. It is effectively adding back the depreciation.","url":""}
+{"date":1379551016000,"author":"AswathDamodaran","rating":229,"text":"Not enough info to value Twitter yet, but we can still price it. My cynical view of IPO process: http:\/\/t.co\/P5BhNdFzeP","url":""}
+{"date":1378922949000,"author":"AswathDamodaran","rating":55,"text":"Many a slip between forward value & value today for young firms, as risk, dilution and time act as drags on value.  http:\/\/t.co\/MKo7pR9pA2","url":""}
+{"date":1378769732000,"author":"AswathDamodaran","rating":113,"text":"Apple's big announcement is tomorrow. News is unlikely to change my updated value but price effect is anyone's guess. http:\/\/t.co\/kF80akpDcP","url":""}
+{"date":1378480074000,"author":"AswathDamodaran","rating":100,"text":"My Tesla post must have sit some raw nerves among Tesla bulls. Here is my peace offering. http:\/\/t.co\/CCYe7gD9Me","url":""}
+{"date":1378421477000,"author":"AswathDamodaran","rating":1,"text":"@DeidreZune Not a problem. Don't want to sound like a Cassandra, finding everything to be expensive.","url":""}
+{"date":1378416252000,"author":"AswathDamodaran","rating":12,"text":"@DeidreZune my value for aapl is closer to 600","url":""}
+{"date":1378342291000,"author":"AswathDamodaran","rating":551,"text":"Assuming Tesla grows to have Audi-like revenues ($67 b) & Porsche-like margins (12.5%), I can't get past $70\/sh. http:\/\/t.co\/FhhEyIRs8j","url":""}
+{"date":1377896695000,"author":"AswathDamodaran","rating":52,"text":"An eventful month: US T.Bond rate was up, emerging markets were down & ERP for S&P 500 was up from 5.46% to 5.62%. http:\/\/t.co\/NcAqwYQvBO","url":""}
+{"date":1377876894000,"author":"AswathDamodaran","rating":56,"text":"My first attempt at combining a book with a MOOC. Investment Philosophies with Wiley\/Symynd: http:\/\/t.co\/2VNXa2h6Qs","url":""}
+{"date":1377876672000,"author":"AswathDamodaran","rating":216,"text":"My Fall 2013 valuation class starts Sept 4. You are welcome to be part of it either on my website or on iTunes U: http:\/\/t.co\/KN4v311RYw.","url":""}
+{"date":1376451940000,"author":"AswathDamodaran","rating":7,"text":"@bea_locsin \nSee my post on Apple from the start of the year on my blog. My views have not changed much since then.","url":""}
+{"date":1375404806000,"author":"AswathDamodaran","rating":2,"text":"@idster \nThe 40% was from a blog post & valuation year ago, when FBI had about half of the revenues it has today.","url":""}
+{"date":1375301787000,"author":"AswathDamodaran","rating":22,"text":"Fed vacillates & stocks keep up their winning streak. S&P 500's gains lower ERP to 5.46% to start Aug '13. http:\/\/t.co\/NcAqwYQvBO","url":""}
+{"date":1375296294000,"author":"AswathDamodaran","rating":1,"text":"@johnelton \nI am on Facebook though I almost never post. Too lazy and too paranoid about privacy.","url":""}
+{"date":1375295899000,"author":"AswathDamodaran","rating":158,"text":"Facebook stock hit IPO price briefly this morning.  Great exhibit of market mood swings. Here is why I am out: http:\/\/t.co\/E2C0wLYIsu","url":""}
+{"date":1375239052000,"author":"AswathDamodaran","rating":9,"text":"@DrunkEquityDude \nIf you are going to use a CF multiple, stick with EV\/EBITDA. Price\/CF is not just inconsistent but meaningless.","url":""}
+{"date":1375210061000,"author":"AswathDamodaran","rating":2,"text":"@Jeodarkwa Try AFK. It is an Africa ETF.","url":""}
+{"date":1375208415000,"author":"AswathDamodaran","rating":105,"text":"Stocks in Zimbabwe and Kazakhstan look really cheap, but are they? A global comparison of PE, PBV and EV mulitples. http:\/\/t.co\/yJfvbVCuAo","url":""}
+{"date":1375107025000,"author":"AswathDamodaran","rating":121,"text":"Developed vs Emerging markets: After a decade of stock price convergence, what next? http:\/\/t.co\/vkm6l7Tln6","url":""}
+{"date":1374697586000,"author":"AswathDamodaran","rating":6,"text":"@ynggekko \n$600 early last year, but I bought it back again at the start of this year for $450.","url":""}
+{"date":1374285637000,"author":"AswathDamodaran","rating":6,"text":"@mikeydoubled\nThe terminal value can be zero or the liquidation value of remaining assets.","url":""}
+{"date":1373475304000,"author":"AswathDamodaran","rating":81,"text":"Follow up on emerging market risk: My mid-year update to Equity risk premium by country has a look up worksheet. http:\/\/t.co\/BCECQMLoEl","url":""}
+{"date":1373475159000,"author":"AswathDamodaran","rating":86,"text":"After a few years of inattention to emerging market risk, investors discover it still exists. Surprised? http:\/\/t.co\/rhu3u1xrHr","url":""}
+{"date":1372953256000,"author":"AswathDamodaran","rating":3,"text":"@beg011 \nNope. Just come fresh, rested & curious","url":""}
+{"date":1372729134000,"author":"AswathDamodaran","rating":1,"text":"@champforrest \nSpreads look inflated on munis but reflect concerns about public pension liabilities. Makes sense if you have high tax rate.","url":""}
+{"date":1372647413000,"author":"AswathDamodaran","rating":115,"text":"ERP for S&P 500 up to 5.74% on 6\/30\/13. Higher T.Bond + Higher ERP = Lower stock prices. More pain to come? http:\/\/t.co\/2G23ttw3sC","url":""}
+{"date":1372545164000,"author":"AswathDamodaran","rating":9,"text":"@champforrest \nTrying for a 4C contrarian strategy: commodity, currency, country & company. Starting with $PBR and $VALE","url":""}
+{"date":1372542758000,"author":"AswathDamodaran","rating":2,"text":"@_Scandal_Sheet_ \nYes but it will have option value only at mature firms with high debt","url":""}
+{"date":1372540072000,"author":"AswathDamodaran","rating":296,"text":"Is Google more valuable than Apple? Depends on how value is measured. Firm vs Enterprise vs Equity values. http:\/\/t.co\/PMgFu8HOgb","url":""}
+{"date":1371828152000,"author":"AswathDamodaran","rating":113,"text":"Investors cannot fight the Fed, but even the Fed cannot fight fundamentals. Bernanke, Wizard or Wizard of Oz? http:\/\/t.co\/8qDSOoIf19","url":""}
+{"date":1371171466000,"author":"AswathDamodaran","rating":4,"text":"@JockBrilliant \nFirm value is the value of the entire business. Stockholder wealth is just the equity stake in the business.","url":""}
+{"date":1370211017000,"author":"AswathDamodaran","rating":1,"text":"@robgillin \nIt cannot be one r for all companies. Higher for riskier companies.","url":""}
+{"date":1370038188000,"author":"AswathDamodaran","rating":83,"text":"S&P 500 rises & the ERP drops to 5.55%, but jump in T.Bond yield suggests that the Fed's party may be ending. http:\/\/t.co\/NcAqwYQvBO","url":""}
+{"date":1369942079000,"author":"AswathDamodaran","rating":30,"text":"Last call for my 3-day valuation seminar in New York next week (June 3-5). Hope to see you in person. http:\/\/t.co\/k31D8fNrxw","url":""}
+{"date":1369005078000,"author":"AswathDamodaran","rating":264,"text":"A high equity risk premium usually suggests stocks are cheap. Why a high ERP today may not pack the same punch: http:\/\/t.co\/8UmJ9vmnGE","url":""}
+{"date":1368133463000,"author":"AswathDamodaran","rating":25,"text":"@OzzieDollar \nWon't work if D0=0. Using Gordon model to value Google is like using hammer to do surgery. Lots of blood & ends badly.","url":""}
+{"date":1368131413000,"author":"AswathDamodaran","rating":1,"text":"@OzzieDollar","url":""}
+{"date":1368123691000,"author":"AswathDamodaran","rating":1,"text":"@OzzieDollar \nSo what is Google worth today?","url":""}
+{"date":1368123305000,"author":"AswathDamodaran","rating":66,"text":"Can you fit a 15-week valuation class into 3 days? I will try in New York on June 3,4 & 5. http:\/\/t.co\/k31D8fNrxw","url":""}
+{"date":1367633124000,"author":"AswathDamodaran","rating":51,"text":"Will be in Singapore for CFA keynote (http:\/\/t.co\/VmGIOl6FhR) and 2-day valuation seminar (http:\/\/t.co\/QNd2IYVgVC). Hope to see you there!","url":""}
+{"date":1367543182000,"author":"AswathDamodaran","rating":96,"text":"As S&P 500 hits new high, drop in T.Bond keeps ERP at 5.70%. Markets dancing the Fed's tune, but will the music stop? http:\/\/t.co\/MCctczghbH","url":""}
+{"date":1367346421000,"author":"AswathDamodaran","rating":200,"text":"With AAPL, lots of noise & news in the last earnings report. My attempt to see the good, bad & no news for value. http:\/\/t.co\/L3NTZBeIAA","url":""}
+{"date":1366665745000,"author":"AswathDamodaran","rating":7,"text":"@tradefast @microfundy @firstadopter @toddsullivan \nThought it was cheap at 450. Looks even cheaper now.","url":""}
+{"date":1366501192000,"author":"AswathDamodaran","rating":204,"text":"A novice's opinion on gold: It looks overpriced as an investment, it may still be good insurance. http:\/\/t.co\/F9oeiuJ7gP","url":""}
+{"date":1364855128000,"author":"AswathDamodaran","rating":1,"text":"@kuzia60 \nYes.","url":""}
+{"date":1364769872000,"author":"AswathDamodaran","rating":10,"text":"@spbaines \nI am a stock picker first & market timer second. in a world where macro risk dominates, foolhardy not to think about markets.","url":""}
+{"date":1364769097000,"author":"AswathDamodaran","rating":1,"text":"@efnbsbun \nYes. By lowering the riskfree rate, it raises ERP","url":""}
+{"date":1364769052000,"author":"AswathDamodaran","rating":2,"text":"@spbaines \nWhy can't you do both?","url":""}
+{"date":1364767326000,"author":"AswathDamodaran","rating":330,"text":"The equity risk premium is the key to investing & valuation. Everything I know about the number is at this link: http:\/\/t.co\/AqzBr9U90s","url":""}
+{"date":1364766877000,"author":"AswathDamodaran","rating":88,"text":"S&P 500 keep rising, but cash flows on index rising faster. ERP increases to 5.79% on April 1 from 5.43% in March. http:\/\/t.co\/IfY5XbzQfu","url":""}
+{"date":1364766584000,"author":"AswathDamodaran","rating":1,"text":"@haroldn62 \nYou cannot count buybacks & reduce share count. Would be double counting.","url":""}
+{"date":1364507857000,"author":"AswathDamodaran","rating":151,"text":"US stocks hit new highs! Don't look overvalued, but vulnerable to macro crisis or surge in rates. http:\/\/t.co\/rxXyVhS7Vl","url":""}
+{"date":1363377362000,"author":"AswathDamodaran","rating":4,"text":"@SonoSalvatore \nAll long term bonds have interest rate risk. US treasuries may not have default risk (though this is now open to question).","url":""}
+{"date":1363013236000,"author":"AswathDamodaran","rating":10,"text":"@DinahNatto \nIt is not the model, it is the user. A tool cannot be blamed for its misuse.","url":""}
+{"date":1362874240000,"author":"AswathDamodaran","rating":96,"text":"Activist investors make managers uncomfortable but they challenge the status quo & restore balance. http:\/\/t.co\/WvnmKBiFOV","url":""}
+{"date":1362276870000,"author":"AswathDamodaran","rating":76,"text":"ERP for S&P 500 dips to 5.43% on 3\/1\/13, down from 5.46% from 2\/1\/13: at lowest level since May 2011. http:\/\/t.co\/IfY5XbzQfu.","url":""}
+{"date":1361972038000,"author":"AswathDamodaran","rating":2,"text":"@panfeed \nStick with net income","url":""}
+{"date":1361972038000,"author":"AswathDamodaran","rating":2,"text":"@AshwinLobo \nThe ERPs built into those spreadsheets are implied premiums. Mature market premium is 5.80%, ERP for the S&P 500 on 1\/1\/13","url":""}
+{"date":1361190163000,"author":"AswathDamodaran","rating":12,"text":"@wisdomsingh \nThe balance sheet won't tell you much unless you read with income statement","url":""}
+{"date":1361022220000,"author":"AswathDamodaran","rating":1,"text":"@wisdomsingh \nNot much of a balance sheet fan but what are you trying to analyze?","url":""}
+{"date":1360774903000,"author":"AswathDamodaran","rating":1,"text":"@AlbertoLoddo1 \nI am puzzled. Did I claim otherwise?","url":""}
+{"date":1360767170000,"author":"AswathDamodaran","rating":77,"text":"A $100 bill on the floor? Never found one, but if I did, I would pick it up. http:\/\/t.co\/3klXAJpE","url":""}
+{"date":1360671534000,"author":"AswathDamodaran","rating":78,"text":"Is Dell a huge bargain at $13.65? I don't think so, but its stockholders should be cranky & suspicious. http:\/\/t.co\/5jTxgkcS","url":""}
+{"date":1360538398000,"author":"AswathDamodaran","rating":1,"text":"@panfeed \nDon't worry. There will be more!!!","url":""}
+{"date":1360340810000,"author":"AswathDamodaran","rating":1,"text":"@PCerveraRuiz \nWho am I dethroning?","url":""}
+{"date":1360334617000,"author":"AswathDamodaran","rating":132,"text":"No value out of thin air. Einhorn's proposal for Apple: No value added & convoluted catalyst for price. http:\/\/\nhttp:\/\/t.co\/etas6VMr","url":""}
+{"date":1360285313000,"author":"AswathDamodaran","rating":2,"text":"@Drewbert41 \nAnd what is the point of either if they don't show up in the financials?","url":""}
+{"date":1360283508000,"author":"AswathDamodaran","rating":1,"text":"@kohleyedgirl \nGood luck!","url":""}
+{"date":1360282062000,"author":"AswathDamodaran","rating":1,"text":"@sramt \nI did but you have to make your own judgment","url":""}
+{"date":1360280793000,"author":"AswathDamodaran","rating":163,"text":"You can be confident that  \nApple is a good value but still may not be a buyer. Thoughts of value vs price. http:\/\/t.co\/TPSh4jcw","url":""}
+{"date":1359745741000,"author":"AswathDamodaran","rating":209,"text":"New semester starts for my corporate finance & valuation classes. You are welcome to join in. http:\/\/t.co\/1BllPbCw","url":""}
+{"date":1359682536000,"author":"AswathDamodaran","rating":57,"text":"Good month for S&P 500 + Jump in T.Bond rate = Drop in US equity risk premium to 5.46% from 5.78% at start of month http:\/\/t.co\/4SMfTQkd","url":""}
+{"date":1359668902000,"author":"AswathDamodaran","rating":76,"text":"Lessons for Apple from market mayhem: less secrecy, make a choice & behave consistently, find new markets to disrupt. http:\/\/t.co\/7DgKBIBO","url":""}
+{"date":1359410027000,"author":"AswathDamodaran","rating":2,"text":"@tranquilcapital \nDid you look at the spreadsheet?","url":""}
+{"date":1359382739000,"author":"AswathDamodaran","rating":4,"text":"@manolosalceda \nIf that is your acid test, you will never invest in any technology, growth or emerging market company.","url":""}
+{"date":1359341735000,"author":"AswathDamodaran","rating":482,"text":"At $440\/share, Apple is cheap. Can you pull the trigger & buy the stock? Good test of whether you are a value investor. http:\/\/t.co\/hAoIYhSx","url":""}
+{"date":1358069451000,"author":"AswathDamodaran","rating":190,"text":"Just posted my 2013 data update for companies, aggregated by industry & region.A weapon for or against the dark side? http:\/\/t.co\/8czkrCTp","url":""}
+{"date":1357655293000,"author":"AswathDamodaran","rating":1,"text":"@FilippoDiIorio \nNo harm. No foul. It's okay","url":""}
+{"date":1357161921000,"author":"AswathDamodaran","rating":63,"text":"After good year for stocks, ERP for S&P 500 at start of 2013 is at 5.78%, down from 6.01% at the start of 2012. http:\/\/t.co\/YCnwGFkY","url":""}
+{"date":1356903673000,"author":"AswathDamodaran","rating":83,"text":"Are we going over the fiscal cliff? Who knows?  For my sanity, I am done obsessing over taxes. Time to move on: http:\/\/t.co\/9O7JMwo8","url":""}
+{"date":1356655043000,"author":"AswathDamodaran","rating":128,"text":"$AAPL dominated the financial news & cultural landscape in 2012. My retrospective of the ups and downs of the year: http:\/\/t.co\/mrYSMDxd","url":""}
+{"date":1356624291000,"author":"AswathDamodaran","rating":2,"text":"@tomyfs \nBoth CF and Valn classes will be online in spring 2013","url":""}
+{"date":1355936014000,"author":"AswathDamodaran","rating":2,"text":"@himank_jain \nTry it now","url":""}
+{"date":1355933706000,"author":"AswathDamodaran","rating":106,"text":"Acquisitions can work, if you go where the odds favor you, do your homework, stay disciplined and follow through. http:\/\/t.co\/U2WidzEF","url":""}
+{"date":1355713782000,"author":"AswathDamodaran","rating":142,"text":"Goodwill wreaks more havoc on valuations than any other accounting variable. It is more plug variable than asset. http:\/\/t.co\/xQdrazg3","url":""}
+{"date":1354973462000,"author":"AswathDamodaran","rating":130,"text":"Good deal or bad deal? Depends on how much you pay, not whether you have EPS accretion or dilution. http:\/\/t.co\/hxmOX4Tp","url":""}
+{"date":1354742097000,"author":"AswathDamodaran","rating":101,"text":"Bankers get paid $ millions for advice in M&A deals, but dealmakers cannot be credible deal analysts. Process fixes: http:\/\/t.co\/AqRgrfLh","url":""}
+{"date":1354653707000,"author":"AswathDamodaran","rating":98,"text":"Decision first, analysis follows in many big acquisitions. Blame over confident CEOs and compliant boards. http:\/\/t.co\/jiOzPdZ9","url":""}
+{"date":1354472698000,"author":"AswathDamodaran","rating":109,"text":"HP's disastrous deal for Autonomy highlights the low odds of success of an acquisition-based growth strategy. http:\/\/t.co\/LOGWDUf9","url":""}
+{"date":1354415503000,"author":"AswathDamodaran","rating":114,"text":"Market unfazed by fiscal cliff or in denial? ERP for the S&P 500 for Dec 2012 at 6.02%; it was 6.01% in Nov 2012. http:\/\/t.co\/YCnwGFkY","url":""}
+{"date":1353950842000,"author":"AswathDamodaran","rating":106,"text":"HP's deal from hell: how Autonomy's value was \"premiumed\" up & then \"written down\". My attempt to allocate blame: http:\/\/t.co\/KVnxQ3uU","url":""}
+{"date":1353676745000,"author":"AswathDamodaran","rating":7,"text":"@IronMG \nNo surprise. Lazy value strategies (just buy low PE or low PBV) bring nothing to table & take nothing away.","url":""}
+{"date":1353356898000,"author":"AswathDamodaran","rating":47,"text":"Lockup period ends for 777 million shares in $FB and price jumps on news. The news in lockup expirations: http:\/\/t.co\/1pb3fbfv","url":""}
+{"date":1353208404000,"author":"AswathDamodaran","rating":4,"text":"@morleysc \nTo get FCFE for future, you need expected growth in cap ex and working capital. Substituting one problem with even bigger one.","url":""}
+{"date":1353204095000,"author":"AswathDamodaran","rating":1,"text":"@morleysc \nTrue, but no variable is more highly correlated with buybacks than earnings. If not earnings, what would you link buybacks to?","url":""}
+{"date":1353202492000,"author":"AswathDamodaran","rating":5,"text":"@morleysc \nDividends & buybacks are highly correlated with earnings. It is unlikely that one can keep growing when the other isn't.","url":""}
+{"date":1353025103000,"author":"AswathDamodaran","rating":60,"text":"Sandy, the super storm, has passed on but left behind lessons for investors on designing systems to withstand shocks. http:\/\/t.co\/nom8p7ue","url":""}
+{"date":1352850770000,"author":"AswathDamodaran","rating":13,"text":"If you are a Stern alumnus in India, I look forward to seeing you in Mumbai in January... #SternIndia http:\/\/t.co\/F7TkemaJ","url":""}
+{"date":1352151755000,"author":"AswathDamodaran","rating":52,"text":"ERP for November 1, 2012, for S&P 500 rises to 6.01% from 5.92% in October. Sorry for the delay! Sandy did it! http:\/\/t.co\/YCnwGFkY.","url":""}
+{"date":1351631141000,"author":"AswathDamodaran","rating":1,"text":"@stefanodemari \nSo what do you need?","url":""}
+{"date":1351369946000,"author":"AswathDamodaran","rating":4,"text":"@AswathDamodaran","url":""}
+{"date":1351299340000,"author":"AswathDamodaran","rating":176,"text":"The Yankee's A Rod problem illustrates the difficulty of ignoring sunk costs. Lessons for investors... http:\/\/t.co\/nrzWWPno","url":""}
+{"date":1350575053000,"author":"AswathDamodaran","rating":138,"text":"Private equity is often accused of being too disruptive. I think it is often too timid and not disruptive enough. http:\/\/t.co\/rINT92BO","url":""}
+{"date":1350329601000,"author":"AswathDamodaran","rating":130,"text":"Investor dilemma: The more disclosure we require of firms, the less informative their reports become. Less is more. http:\/\/t.co\/TQVytZhj","url":""}
+{"date":1349792188000,"author":"AswathDamodaran","rating":313,"text":"$RIM stock up 18% on $235 million loss. $AAPL down 8% on record breaking iPhone 5 sales. The power of expectations: http:\/\/t.co\/hcdre5i1","url":""}
+{"date":1349380982000,"author":"AswathDamodaran","rating":7,"text":"@MercurialMac \nControl premium = Lazy way of justifying paying 20% over market price. If control has value, value it. http:\/\/t.co\/oexdTAaI","url":""}
+{"date":1349273485000,"author":"AswathDamodaran","rating":2,"text":"@davidcharrisjr @mjmauboussin \nERP is an annual forward looking long-term measure (5 years and longer)","url":""}
+{"date":1349272910000,"author":"AswathDamodaran","rating":76,"text":"Market up for September, but cash flows up more.. Equity risk premium for S&P 500 up to 5.92% from 5.75%. http:http:\/\/t.co\/4SMfTQkd","url":""}
+{"date":1348759393000,"author":"AswathDamodaran","rating":1,"text":"@pramodsadalage \nAutomated traders don't trade for dividends or LT capital gains. No tax effect from cliff.","url":""}
+{"date":1348756929000,"author":"AswathDamodaran","rating":102,"text":"In the US, tax rates on dividends revert to pre-2003 levels in 2013. How will stocks react to the \"dividend\" cliff? http:\/\/t.co\/PvWWbhzh","url":""}
+{"date":1348661065000,"author":"AswathDamodaran","rating":4,"text":"@yinghongchen \nThe premium is forward looking. If the market is down, the premium will go up.","url":""}
+{"date":1348006661000,"author":"AswathDamodaran","rating":1,"text":"@alexia \nSure. On what & when?","url":""}
+{"date":1347922724000,"author":"AswathDamodaran","rating":102,"text":"Fed announces another QE! Market jumps! Feel like I am watching \"Groundhog Day\". http:\/\/t.co\/p90eCZQg","url":""}
+{"date":1347059252000,"author":"AswathDamodaran","rating":283,"text":"First week of my 15-week valuation class! Four ways you can follow it: my website, on Lore , iTunes U or YouTube. http:\/\/t.co\/7YYONb6Q","url":""}
+{"date":1346538537000,"author":"AswathDamodaran","rating":81,"text":"After an unusually good month, especially for summer, equity risk premium for the S&P 500 drops to 5.75% from 5.88%. http:\/\/t.co\/YCnwGFkY","url":""}
+{"date":1346271009000,"author":"AswathDamodaran","rating":157,"text":"The $AAPL iPhone is insanely profitable and dominates competition. Is it the most valuable franchise ever? I think so.\nhttp:\/\/t.co\/VBoh2kIN","url":""}
+{"date":1346271009000,"author":"AswathDamodaran","rating":157,"text":"The $AAPL iPhone is insanely profitable and dominates competition. Is it the most valuable franchise ever? I think so.\nhttp:\/\/t.co\/VBoh2kIN","url":""}
+{"date":1345858805000,"author":"AswathDamodaran","rating":109,"text":"$GRPN down to $4.44\/share from post-IPO $29\/share. May be the deal of the day but still looks expensive to me. http:\/\/t.co\/KdUtYiTD","url":""}
+{"date":1345485586000,"author":"AswathDamodaran","rating":168,"text":"Facebook stock price is down, earnings report disappoints and insiders are selling. Time to friend the company? http:\/\/t.co\/7QlCPkgR","url":""}
+{"date":1343157926000,"author":"AswathDamodaran","rating":69,"text":"Apple's earnings report nears! Will it beat analyst estimates? Whispered estimates? My thoughts on earnings reports: http:\/\/t.co\/4UspzHjn","url":""}
+{"date":1341242394000,"author":"AswathDamodaran","rating":132,"text":"Euro crisis is a reminder of why valuations should reflect country risk exposure. My midyear update of risk premiums: http:\/\/t.co\/X8kQC798","url":""}
+{"date":1341005415000,"author":"AswathDamodaran","rating":26,"text":"Relief rally? TGIF? After big up day in market, ERP for S&P 500 on 6\/29\/12 is 6.11% (down from 6.54% last month). http:\/\/t.co\/YCnwGFkY.","url":""}
+{"date":1340979660000,"author":"AswathDamodaran","rating":57,"text":"How much value does \"active\" value investing add? Not much, at least across value investors. Are you the exception?  http:\/\/t.co\/MgX9lUG2","url":""}
+{"date":1340646910000,"author":"AswathDamodaran","rating":58,"text":"Activist value investors act as catalysts of change in badly managed, misplaced firms and reap the benefits. http:\/\/t.co\/EQkwYG27","url":""}
+{"date":1339986150000,"author":"AswathDamodaran","rating":113,"text":"Can the biggest stock market losers be your biggest winners? Exploring strands of contrarian investing. http:\/\/t.co\/PLcEWsX6","url":""}
+{"date":1339673386000,"author":"AswathDamodaran","rating":1,"text":"@hitesh_gulati \nYes. Fewer shares outstanding","url":""}
+{"date":1339538470000,"author":"AswathDamodaran","rating":143,"text":"With easy access to data and screening tools, anyone can screen for cheap stocks. So, what's your competitive moat? http:\/\/t.co\/oiutVlE9","url":""}
+{"date":1339187107000,"author":"AswathDamodaran","rating":182,"text":"If every one is a value investor, no one is a value investor. Thoughts on the core of value investing and its strands. http:\/\/t.co\/SI1BcIob","url":""}
+{"date":1338584503000,"author":"AswathDamodaran","rating":1,"text":"@billygriffin22 \nAssuming  mean reversion is dangerous in shifting markets","url":""}
+{"date":1338571435000,"author":"AswathDamodaran","rating":1,"text":"@billygriffin22 \nIt is only relevant number since it reflects those \"extraordinary\" events. It is the historical premium that is irrelevant.","url":""}
+{"date":1338571284000,"author":"AswathDamodaran","rating":1,"text":"@investerasmart \nI misunderstood what you meant by PE10. Only reason PE10 looks high is because 2009 was such an earnings disaster.","url":""}
+{"date":1338567557000,"author":"AswathDamodaran","rating":4,"text":"@investerasmart \nA PE of 10 for the S&P 500 is close to historic lows, especially given T Bond rate","url":""}
+{"date":1338566303000,"author":"AswathDamodaran","rating":2,"text":"@investerasmart \nThe lower the PE, the higher the expected equity risk premium...","url":""}
+{"date":1338565133000,"author":"AswathDamodaran","rating":48,"text":"After awful month, equity risk premium for S&P 500 at 6.54%, up from 6.06% at start of May. Today will push it higher. http:\/\/t.co\/bxdTAnNl.","url":""}
+{"date":1338468860000,"author":"AswathDamodaran","rating":11,"text":"@sandman_va \nThese are the slides for my first two sessions of valuation class. Webcasts of classes are here: http:\/\/t.co\/Irqj9bCC","url":""}
+{"date":1338409641000,"author":"AswathDamodaran","rating":1,"text":"@sandman_va \nWhat is the title on the cover slide?","url":""}
+{"date":1338381812000,"author":"AswathDamodaran","rating":86,"text":"Should growth command a premium? Way to measure the price of growth (http:\/\/t.co\/T9Mf75T8) and its value (http:\/\/t.co\/7S8vht1g).","url":""}
+{"date":1337799500000,"author":"AswathDamodaran","rating":1,"text":"@bizfirstmag \nI mean investors. Momentum plays can become long term value plays at the right price","url":""}
+{"date":1337799038000,"author":"AswathDamodaran","rating":283,"text":"Banks priced $FB, misplayed momentum & ignored value. In chaos, there will be opportunities for investors.  http:\/\/t.co\/02OOhAd6","url":""}
+{"date":1337612863000,"author":"AswathDamodaran","rating":8,"text":"@NihilarianZH \nRead my post. Big difference between pricing & valuing.","url":""}
+{"date":1337287220000,"author":"AswathDamodaran","rating":1,"text":"@VMHeba \nThe only people who have to reconcile are those who buy.. And most of them care little about value.","url":""}
+{"date":1337282089000,"author":"AswathDamodaran","rating":4,"text":"@VMHeba \nI would sell at that price but not buy","url":""}
+{"date":1337263272000,"author":"AswathDamodaran","rating":152,"text":"Facebook goes public tomorrow. Has all of the makings of a Goldilocks IPO but put me in the \"long term short\" column. http:\/\/t.co\/OEmSBA9W","url":""}
+{"date":1337113755000,"author":"AswathDamodaran","rating":1,"text":"@valuestocks\nYes and on the sidelines","url":""}
+{"date":1336422038000,"author":"AswathDamodaran","rating":33,"text":"Last session for my Corp Fin & Valuation class at NYU today. Both were online this semester: lessons that I learned. http:\/\/t.co\/GAHMItrb","url":""}
+{"date":1335875650000,"author":"AswathDamodaran","rating":36,"text":"S&P 500 down for the month and so is T.Bond rate. Equity risk premium for US stocks at 6.06%...Is 6% the new norm? http:\/\/t.co\/4SMkrql7.","url":""}
+{"date":1335815234000,"author":"AswathDamodaran","rating":104,"text":"Corruption reduces profits & increases risk for businesses... But it is a competitive advantage for firms good at it. http:\/\/t.co\/ZW8dIimQ","url":""}
+{"date":1335465628000,"author":"AswathDamodaran","rating":34,"text":"The government giveth and it taketh away. Subsidies can add to value but investing on that basis can be dangerous.  http:\/\/t.co\/vKBAHKRP","url":""}
+{"date":1335365402000,"author":"AswathDamodaran","rating":1,"text":"@utkudorduncu \nReinforces my reason for selling. All about momentum now.  Like riding on back of a tiger.  May the mo be with you!","url":""}
+{"date":1334691531000,"author":"AswathDamodaran","rating":85,"text":"YPF stock tumbles on nationalization. Too late for YPF, but ways to incorporate risk of expropriation into value. http:\/\/t.co\/soCoN0hF","url":""}
+{"date":1334334563000,"author":"AswathDamodaran","rating":78,"text":"Google slaps stockholders but griping about autocrats at Google = Marrying a Kardashian & bemoaning lack of privacy. http:\/\/t.co\/7a36QECO","url":""}
+{"date":1333760805000,"author":"AswathDamodaran","rating":91,"text":"You know my reasons for selling $AAPL. Here were my reasons for buying in 1997. And the dark side beckons. http:\/\/t.co\/it6GdmI4","url":""}
+{"date":1333540771000,"author":"AswathDamodaran","rating":4,"text":"@gpietersz \nTrue, but you have a problem when a significant proportion of your stockholders still think you are a growth company.","url":""}
+{"date":1333502728000,"author":"AswathDamodaran","rating":178,"text":"Still love $AAPL, the company.. but not a stockholder anymore. My reasons: http:\/\/t.co\/hAJa05VY","url":""}
+{"date":1333454058000,"author":"AswathDamodaran","rating":8,"text":"@marketmarc \nRave reviews for your sessions at Stern. Keep up the good work.","url":""}
+{"date":1333415950000,"author":"AswathDamodaran","rating":48,"text":"Keeping pattern for the year, cash flows rise more than stock prices. ERP for S&P 500 on April 1, 2012 is 6.19%. http:\/\/t.co\/G1Q2AQ1m","url":""}
+{"date":1332515121000,"author":"AswathDamodaran","rating":66,"text":"My annual update on equity risk premiums is ready: http:\/\/t.co\/dgu8jiqh. My blog post offers a condensed summary: http:\/\/t.co\/7DCj4EeI.","url":""}
+{"date":1332126058000,"author":"AswathDamodaran","rating":43,"text":"Per Greg Smith, $Goldman cares more about making money than its clients. Clients share blame and possible fixes: http:\/\/t.co\/xytPM1UY","url":""}
+{"date":1331857779000,"author":"AswathDamodaran","rating":1,"text":"@IronMG \nLots of assertions and opinions. Little of substance.","url":""}
+{"date":1331748144000,"author":"AswathDamodaran","rating":1,"text":"@GeorgeVT \nYes. Much of this is their trapped cash overseas.","url":""}
+{"date":1330655300000,"author":"AswathDamodaran","rating":122,"text":"$AAPL passes 2 thresholds: $ 500 billion in market cap and $ 100 billion in cash. Invest, dividend or buyback? http:\/\/t.co\/PCwkotyZ","url":""}
+{"date":1330614849000,"author":"AswathDamodaran","rating":24,"text":"After strong month for S&P 500, equity risk premium for index drops to 5.52%. Reverting to past norm or market blip? http:\/\/t.co\/4SMkrql7","url":""}
+{"date":1330041227000,"author":"AswathDamodaran","rating":57,"text":"Think $FB is expensive but feel you can make money on price pop on offering date? Odds are with you but I won't be. http:\/\/t.co\/J0kslw3K","url":""}
+{"date":1329848900000,"author":"AswathDamodaran","rating":2,"text":"@GauchoDon \nYes, from exercise of options & foreign revenues","url":""}
+{"date":1329477967000,"author":"AswathDamodaran","rating":1,"text":"@rohit_x_ \nFair enough. So, you see far slower revenue growth unless FB finds a creative way to sell\/ advertise.","url":""}
+{"date":1329445860000,"author":"AswathDamodaran","rating":1,"text":"@rohit_x_ \nOkay. Tell me how you see them making money, not how they will not.","url":""}
+{"date":1329409854000,"author":"AswathDamodaran","rating":237,"text":"To infinity and beyond! Ahead of the IPO, my attempt to value Facebook... And you can try your hand to... http:\/\/t.co\/PyqI8LWA","url":""}
+{"date":1328571695000,"author":"AswathDamodaran","rating":1,"text":"@javierirastorza \nThat will definitely put you to sleep. Acts like a sleeping pill.","url":""}
+{"date":1328537975000,"author":"AswathDamodaran","rating":1,"text":"@JessLustgarten \nPity. Will be jaw-dropping exciting session. Like Mario Manningham catch over & over for 80 minutes","url":""}
+{"date":1328537975000,"author":"AswathDamodaran","rating":1,"text":"@hopehelen \nScott already had his say but who naps or studies on Superbowl Sunday?","url":""}
+{"date":1328537974000,"author":"AswathDamodaran","rating":1,"text":"@adamborod \nAs Pedro would say, \"who is your daddy?\"","url":""}
+{"date":1328399725000,"author":"AswathDamodaran","rating":78,"text":"Facebook to save billions in taxes from Zuckerberg option exercise. Loophole? Outraged? Not and don't be! http:\/\/t.co\/T8SxHPqW","url":""}
+{"date":1328311784000,"author":"AswathDamodaran","rating":1,"text":"@adamborod \nEven Red Sox fans!!!!!","url":""}
+{"date":1328096499000,"author":"AswathDamodaran","rating":1,"text":"@mariog87x \nWhen stocks go up the exp return on stocks go down. The riskfree rate also went down. ERP is difference.","url":""}
+{"date":1328062624000,"author":"AswathDamodaran","rating":40,"text":"ERP for S&P 500 at 6.02% to start Feb 2012. Stocks up strongly in Jan but drop in risk free rate neutralizes effect. http:\/\/t.co\/G1Q2AQ1m","url":""}
+{"date":1327595426000,"author":"AswathDamodaran","rating":61,"text":"Like Billy Beane in Moneyball, I believe numbers trump stories. My 2012 data update: http:\/\/t.co\/N3aVzHzf & thoughts: http:\/\/t.co\/FrhdOj9C","url":""}
+{"date":1327515466000,"author":"AswathDamodaran","rating":145,"text":"If you are interested in my Valuation class, go to http:\/\/t.co\/8AJ7UVi8 and enter EH7WZN as your code. First class is on Monday (1\/30).","url":""}
+{"date":1327515316000,"author":"AswathDamodaran","rating":128,"text":"If you want to take my Corporate Finance class online, go to http:\/\/t.co\/ZuTQlrV5 and use RWHZYG as the code. First class is on Jan 30.","url":""}
+{"date":1327515028000,"author":"AswathDamodaran","rating":117,"text":"University model for delivering learning is inefficient & ripe for a takedown. My contribution to the revolution: http:\/\/t.co\/daZ3uoxb","url":""}
+{"date":1327496429000,"author":"AswathDamodaran","rating":1,"text":"@FKempf \nIValue was already taken","url":""}
+{"date":1327496397000,"author":"AswathDamodaran","rating":1,"text":"@_Diab_ \nThe app is a DCF valuation app","url":""}
+{"date":1327459934000,"author":"AswathDamodaran","rating":54,"text":"uValue Mobile, my valuation app with Anant Sundaram, for iPhone is now at iTunes store and still free. Let us know what you think.","url":""}
+{"date":1327196648000,"author":"AswathDamodaran","rating":1,"text":"@Adrian_H \nShoveling before snowstorms is unproductive. So is thinking about it.","url":""}
+{"date":1327193721000,"author":"AswathDamodaran","rating":60,"text":"After a snow storm, do you think of snowmen or shovels? The answer may determine your investing style & biases. http:\/\/t.co\/TPmZjCKF","url":""}
+{"date":1326640285000,"author":"AswathDamodaran","rating":1,"text":"@UncleWail \nYes. It is a new game","url":""}
+{"date":1326631893000,"author":"AswathDamodaran","rating":1,"text":"@UncleWail \nThe new VC owns nothing yet. How can he give you a larger share of anything?","url":""}
+{"date":1326581528000,"author":"AswathDamodaran","rating":1,"text":"@UncleWail \nWho would he ask?","url":""}
+{"date":1326578654000,"author":"AswathDamodaran","rating":154,"text":"Private equity may be the new bogey man, but it is a lot more diverse and productive than its critics think it is. http:\/\/t.co\/dSUIeoSG","url":""}
+{"date":1326290089000,"author":"AswathDamodaran","rating":1,"text":"@UncleWail \nOnly indirectly if the imputed value for the business has increased","url":""}
+{"date":1325390452000,"author":"AswathDamodaran","rating":58,"text":"My final thoughts about 2011.. http:\/\/t.co\/NJs26uMq. I hope you have a happy, healthy new year (and make some money too)!","url":""}
+{"date":1325291048000,"author":"AswathDamodaran","rating":36,"text":"While S&P unchanged for 2011, igher cash flows & lower T.Bond rate result in ERP of 6.04% as we head into 2012.","url":""}
+{"date":1324151082000,"author":"AswathDamodaran","rating":38,"text":"James Stewart thinks $AMZN is punished by market for long term focus. If this is what punishment is, I would like some! http:\/\/t.co\/HgCa9xgV","url":""}
+{"date":1324085942000,"author":"AswathDamodaran","rating":79,"text":"$RIM has had a rough year, with price down 75%. Time to forget about growth and act its age? http:\/\/t.co\/2vUmicnf","url":""}
+{"date":1323298566000,"author":"AswathDamodaran","rating":96,"text":"Mark Cuban thinks you are an idiot if you diversify. John Bogle thinks you are an one if you don't. Who's right?  http:\/\/t.co\/OER34EIn","url":""}
+{"date":1323219616000,"author":"AswathDamodaran","rating":1,"text":"@evelinlucht \nHow do you plan to get the returns for the project or is this an old project?","url":""}
+{"date":1323182823000,"author":"AswathDamodaran","rating":1,"text":"@evelinlucht \nYes","url":""}
+{"date":1323180216000,"author":"AswathDamodaran","rating":1,"text":"@evelinlucht \nYes.","url":""}
+{"date":1322687590000,"author":"AswathDamodaran","rating":26,"text":"After huge up day, ERP on S&P 500 ends month at 6.51%, barely changed from premium of 6.49% at start. http:\/\/t.co\/4SMkrql7","url":""}
+{"date":1322142876000,"author":"AswathDamodaran","rating":11,"text":"@tracygu2009 \nAccounting is rule-based and rigid, valuation is principle-based and flexible. Each has it's place.","url":""}
+{"date":1321966310000,"author":"AswathDamodaran","rating":1,"text":"@tracygu2009 \nWhy what?","url":""}
+{"date":1321544099000,"author":"AswathDamodaran","rating":4,"text":"@maryadamsICA \nLet's not wait for FASB\/IFRS. They will never get it, get it too late or get it wrong.. Accounting and valuation don't mix.","url":""}
+{"date":1321540696000,"author":"AswathDamodaran","rating":16,"text":"@maryadamsICA \nIf there was a contest for least informative item on balance sheet, goodwill would win.","url":""}
+{"date":1320668095000,"author":"AswathDamodaran","rating":5,"text":"@PedroEscobari \nCochrane is not contesting the view. He is just providing an argument for why there is no counter weight","url":""}
+{"date":1320607150000,"author":"AswathDamodaran","rating":1,"text":"@PedroEscobari \nThe  paper argues that because you cannot sell short, you can have a bubble. Does not explain why there is a bubble..","url":""}
+{"date":1320577530000,"author":"AswathDamodaran","rating":1,"text":"@prashgkp \nCan happen if ROE is improving... Efficiency growth.","url":""}
+{"date":1320577452000,"author":"AswathDamodaran","rating":1,"text":"@PedroEscobari \nOn what?","url":""}
+{"date":1320447648000,"author":"AswathDamodaran","rating":131,"text":"Groupon up 31% on offering date. Input error? Flawed DCF? Crazy buyers? Time to sell short? Follow up to valuation.. http:\/\/t.co\/2Q9IkErZ","url":""}
+{"date":1320316978000,"author":"AswathDamodaran","rating":1,"text":"@SconsetCapital \nYes.. In Greece as well. The riskfree rate in Greece is not the greek 10-year bond rate.","url":""}
+{"date":1320284207000,"author":"AswathDamodaran","rating":4,"text":"@SconsetCapital \nBecause the riskfree rate is your best measure of expected nominal GDP growth. See my earlier post on low riskfree rates.","url":""}
+{"date":1320264228000,"author":"AswathDamodaran","rating":1,"text":"Sorry about the double tweet, but I have been taken to task for not following Twitter convention (who sets them?) of using stock symbols...","url":""}
+{"date":1320264143000,"author":"AswathDamodaran","rating":99,"text":"After months of soap opera, $GRPN IPO is on Friday, with expected price of $16 to $18\/share. Worth it? My thoughts at http:\/\/t.co\/B7TvpVCj","url":""}
+{"date":1320264052000,"author":"AswathDamodaran","rating":52,"text":"After months of soap opera, Groupon IPO is on Friday, with expected price of $16-$18. is it worth it? My thoughts: http:\/\/t.co\/B7TvpVCj","url":""}
+{"date":1320149146000,"author":"AswathDamodaran","rating":25,"text":"Strong month for S&P 500 & earnings growth update drop equity risk premium to 6.49%.. Greek referendum wild card? http:\/\/t.co\/G1Q2AQ1m","url":""}
+{"date":1319822318000,"author":"AswathDamodaran","rating":26,"text":"Credible growth: For growth to have value, you have to trust managers, and they have to trust you back. http:\/\/t.co\/nOyT4009","url":""}
+{"date":1319750541000,"author":"AswathDamodaran","rating":53,"text":"Valuable growth: $AMZN and $NFLX are cautionary notes! Growth is fickle and expensive growth can destroy value. http:\/\/t.co\/d96RBdZ8","url":""}
+{"date":1319651581000,"author":"AswathDamodaran","rating":27,"text":"Scaleable growth: Scaling up is hard to do. Hope your company is the exception, but don't value it on that basis.  http:\/\/t.co\/Ab4ZFEB1","url":""}
+{"date":1319647275000,"author":"AswathDamodaran","rating":29,"text":"Feasible growth: Key question with a young, growth company: How big can a company get before it hits a wall? http:\/\/t.co\/wi80t3bG","url":""}
+{"date":1318987647000,"author":"AswathDamodaran","rating":35,"text":"Retry: Groupon, Google and Green Mountain: Checking out whether growth is feasible, scaleable, valuable and credible. http:\/\/t.co\/1wdWKlag","url":""}
+{"date":1318982955000,"author":"AswathDamodaran","rating":25,"text":"Groupon, Google and Green Mountain: Checking out whether growth is feasible, scaleable, valuable and credible. http:\/\/t.co\/G1Q2AQ1m","url":""}
+{"date":1318105056000,"author":"AswathDamodaran","rating":1,"text":"@mandamarket because you have to live through your high growth period to get to the terminal value","url":""}
+{"date":1317934100000,"author":"AswathDamodaran","rating":1,"text":"@mrugen88 yes","url":""}
+{"date":1317842491000,"author":"AswathDamodaran","rating":1,"text":"@tiwaryv regression betas are noisy and are meant for long term..so, 1.2 may not be true beta and on any given day predicts nothing","url":""}
+{"date":1317472220000,"author":"AswathDamodaran","rating":60,"text":"S&P 500 down, risk free rate and cash flows up. Equity risk premium surges to 7.64% on Oct 1 for S&P 500!  http:\/\/t.co\/G1Q2AQ1m","url":""}
+{"date":1317424531000,"author":"AswathDamodaran","rating":43,"text":"Government bond rates and risk free rates are at historic lows. Problem to solve in valuation or fact of life? http:\/\/t.co\/xxQAOIgm","url":""}
+{"date":1316964098000,"author":"AswathDamodaran","rating":1,"text":"@tiwaryv That is selective memory. Most dot companies that crashed never made it back","url":""}
+{"date":1316964040000,"author":"AswathDamodaran","rating":1,"text":"@tiwaryv Yes, they do but it is tough to spot them","url":""}
+{"date":1316784419000,"author":"AswathDamodaran","rating":37,"text":"A \"rogue trader\" at UBS?.... Think I've seen this movie before. The what, why, how & what next for rogue trading.. http:\/\/t.co\/0EUewQTQ","url":""}
+{"date":1316698051000,"author":"AswathDamodaran","rating":40,"text":"The Buffett tax: an apt name for a sanctimonious, hypocritical and superficial proposal. http:\/\/t.co\/CeGlIIRQ","url":""}
+{"date":1316636691000,"author":"AswathDamodaran","rating":60,"text":"Fed does the twist.. Market does the flop.. Happens when non-events get hyped up... I'll stick with my views.. http:\/\/t.co\/TuBvXDy7","url":""}
+{"date":1316628016000,"author":"AswathDamodaran","rating":30,"text":"Breaking up should be hard to do, right? Not for Kraft Foods, Netflix, Tyco and McGraw-Hill... Why? Who's next? http:\/\/t.co\/thfAmGQp","url":""}
+{"date":1316270061000,"author":"AswathDamodaran","rating":7,"text":"Oops! Link to my post on operation twist was bad . Here is the right one: http:\/\/t.co\/TuBvXDy7","url":""}
+{"date":1316190384000,"author":"AswathDamodaran","rating":5,"text":"What do the Fed and Chubby Checker have in common? One does the twist much better than the other... http:\/\/t.co\/tNBf9iaX","url":""}
+{"date":1315417774000,"author":"AswathDamodaran","rating":171,"text":"Started teaching my Fall 2011 Valuation class at Stern today. You are welcome to join in the fun... Really... http:\/\/t.co\/zxjIQBf","url":""}
+{"date":1314829152000,"author":"AswathDamodaran","rating":9,"text":"The implied premium spreadsheet attached to last tweet... May not work on mobile. Try this instead: http:\/\/t.co\/R40RJ6W","url":""}
+{"date":1314829037000,"author":"AswathDamodaran","rating":27,"text":"After month of gyrations and doom & gloom, equity risk premium for S&P 500 rises to 6.39% from 5.92%. http:\/\/t.co\/dJYxzqZ","url":""}
+{"date":1314324967000,"author":"AswathDamodaran","rating":116,"text":"If Buffett is playing poker, we are the patsies.. The BofA deal is sweet for him but stinks for BofA stockholders.  http:\/\/t.co\/N7oelu5","url":""}
+{"date":1313790642000,"author":"AswathDamodaran","rating":86,"text":"More than $1.5 trillion of cash trapped at US companies! By whom? Why? So what? Inquiring minds want to know..http:\/\/t.co\/hhHMILw","url":""}
+{"date":1312827915000,"author":"AswathDamodaran","rating":33,"text":"Just posted my thoughts on  the ERP..http:\/\/t.co\/iIThyVL. Heeding my own advice and taking a weeklong break from markets.","url":""}
+{"date":1312816702000,"author":"AswathDamodaran","rating":78,"text":"Equity risk premium update: Monday, 8\/8\/2011, 11.15 am. S&P 500 at 1166.84, 10 yr T.Bond at 2.41%. ERP is at 6.62%. Up from 5.92% on 8\/1\/11","url":""}
+{"date":1312667884000,"author":"AswathDamodaran","rating":133,"text":"S&P downgrades US! World ends!! NOT!!! http:\/\/t.co\/vdqeDdf","url":""}
+{"date":1312499267000,"author":"AswathDamodaran","rating":1,"text":"@tiwaryv Good catch.. Sometimes, less is more... Cryptic..","url":""}
+{"date":1312060744000,"author":"AswathDamodaran","rating":44,"text":"As debt-ceiling deadline looms, Equity Risk Premium for S&P 500 hits 5.92% on 7\/28\/11","url":""}
+{"date":1311867040000,"author":"AswathDamodaran","rating":1,"text":"@germangalindo I see fixes, not solutions.","url":""}
+{"date":1311866721000,"author":"AswathDamodaran","rating":1,"text":"@dilip_mishra link to spreadsheet should work now","url":""}
+{"date":1311866617000,"author":"AswathDamodaran","rating":1,"text":"@SconsetCapital that is correct","url":""}
+{"date":1311865939000,"author":"AswathDamodaran","rating":38,"text":"Work out the effect of US ratings downgrade on cost of equity, capital and value using your numbers or mine. http:\/\/t.co\/stnSOWL","url":""}
+{"date":1311864940000,"author":"AswathDamodaran","rating":121,"text":"Will the ratings agencies downgrade the US? If so, what happens? End of the world or bump in the road? My thoughts: http:\/\/t.co\/Tfn62ft","url":""}
+{"date":1311550384000,"author":"AswathDamodaran","rating":31,"text":"Stay private or go public? An old question upended by private share markets and shell company acquisitions. http:\/\/t.co\/juLjcU8","url":""}
+{"date":1310656199000,"author":"AswathDamodaran","rating":29,"text":"Forgot to mention that country risk premium link downloads as excel file. To see in your browser, click here: http:\/\/t.co\/7nXsp8Y","url":""}
+{"date":1310654643000,"author":"AswathDamodaran","rating":27,"text":"Country equity risk premiums on the move..  Just did a mid-year update of my estimates for 112 countries.. http:\/\/t.co\/0ipAIE4","url":""}
+{"date":1310649873000,"author":"AswathDamodaran","rating":67,"text":"Did Greece avoid default by passing austerity plan? Will the US default? Is default the worst option? My thoughts.... http:\/\/t.co\/BI4IUCl","url":""}
+{"date":1309466277000,"author":"AswathDamodaran","rating":29,"text":"Buybacks back to pre-crisis levels for S&P 500 but equity risk premium jumps to 5.72%.. Is Greece to blame? http:\/\/t.co\/j1uVOVm","url":""}
+{"date":1308147682000,"author":"AswathDamodaran","rating":98,"text":"Groupon turns $420 million operating loss into an operating profit by adding back acquisition costs. Accounting magic? http:\/\/t.co\/97jh4OS","url":""}
+{"date":1307671073000,"author":"AswathDamodaran","rating":4,"text":"#SubwayFana","url":""}
+{"date":1307624640000,"author":"AswathDamodaran","rating":113,"text":"Co-developed a valuation app for iPad (Sorry, no Androids yet) .. http:\/\/t.co\/mZyjDdO. Best of all, it is free. http:\/\/t.co\/kvC2AW1","url":""}
+{"date":1307549928000,"author":"AswathDamodaran","rating":75,"text":"Most valuation experts are really pricing experts... and not all assets can be valued (though they can be priced) http:\/\/bit.ly\/jJEXBH","url":""}
+{"date":1306925774000,"author":"AswathDamodaran","rating":45,"text":"Equity risk premium for S&P 500 at end of May 2011 is 5.27%... increase from 5.16% last month..http:\/\/bit.ly\/f1fCrB","url":""}
+{"date":1305905316000,"author":"AswathDamodaran","rating":47,"text":"Revisited my Linkedin valuation, allowing for dual classes of shares (voting vs non-voting) and options outstanding. http:\/\/bit.ly\/iARPXQ","url":""}
+{"date":1305818975000,"author":"AswathDamodaran","rating":63,"text":"Must be something in the air.. Linkedin doubles on first day.. Glad I don't own the stock, but perhaps you do..  http:\/\/bit.ly\/kc3qkb","url":""}
+{"date":1305728894000,"author":"AswathDamodaran","rating":78,"text":"Is Skype worth $8.5 billion to Microsoft? My view: possible but not probable... Do your own valuation of Skype. http:\/\/bit.ly\/lwodRb","url":""}
+{"date":1304450562000,"author":"AswathDamodaran","rating":26,"text":"Don't mean to toot my horn.. but my \"Little Book of Valuation\" is at bookstands... Kindle, iPad, iPhone versions too. http:\/\/amzn.to\/j5gMcx","url":""}
+{"date":1304206555000,"author":"AswathDamodaran","rating":26,"text":"End of April 2011, S&P 500 is up, T.Bond rate is down and Equity risk premium drops to 5.16% (from 5.31% last month). http:\/\/bit.ly\/6aCJQn","url":""}
+{"date":1304206555000,"author":"AswathDamodaran","rating":7,"text":"End of April 2011, S&P 500 is up, T.Bond rate is down and Equity risk premium drops to 5.16% (from 5.31% last month). http:\/\/bit.ly\/6aCJQn","url":""}
+{"date":1304206555000,"author":"AswathDamodaran","rating":1,"text":"End of April 2011, S&P 500 is up, T.Bond rate is down and Equity risk premium drops to 5.16% (from 5.31% last month). http:\/\/bit.ly\/6aCJQn","url":""}
+{"date":1304206555000,"author":"AswathDamodaran","rating":4,"text":"End of April 2011, S&P 500 is up, T.Bond rate is down and Equity risk premium drops to 5.16% (from 5.31% last month). http:\/\/bit.ly\/6aCJQn","url":""}
+{"date":1304179814000,"author":"AswathDamodaran","rating":56,"text":"So, you don't like using betas in corporate finance or valuation? Here are some alternatives. http:\/\/bit.ly\/5lWt6z","url":""}
+{"date":1302978789000,"author":"AswathDamodaran","rating":46,"text":"Like to buy at a 40% discount on intrinsic value? Who wouldn't? Is this \"margin of safety\" an alternative risk measure? http:\/\/bit.ly\/ez1BZE","url":""}
+{"date":1301613416000,"author":"AswathDamodaran","rating":25,"text":"Equity risk premium for S&P 500 jumps to 5.31% at end of March, as stock buybacks return to pre-crisis levels. http:\/\/bit.ly\/14kkYX","url":""}
+{"date":1301417192000,"author":"AswathDamodaran","rating":21,"text":"As trust in bank managers & regulators erodes, investors need to look past dividends and do their homework. http:\/\/bit.ly\/eagtSZ","url":""}
+{"date":1300809973000,"author":"AswathDamodaran","rating":49,"text":"Is it time to buy or sell Japanese stocks? My thoughts on catastrophes and their economic aftermath: http:\/\/bit.ly\/dTKbL5","url":""}
+{"date":1300065003000,"author":"AswathDamodaran","rating":74,"text":"Luck plays big role in life, but what you do with luck (good or bad) is what separates the great from the rest. http:\/\/bit.ly\/fAaNYG","url":""}
+{"date":1299954519000,"author":"AswathDamodaran","rating":63,"text":"A hedge fund manager makes a 300% return. Luck or skill? Tough to tell.. My criteria for differentiating the two: http:\/\/bit.ly\/flnxlx","url":""}
+{"date":1299261162000,"author":"AswathDamodaran","rating":12,"text":"RT @Graham_Howarth: @AswathDamodaran Take note of the first branch of this decision tree: http:\/\/bit.ly\/fIsH1s","url":""}
+{"date":1298986211000,"author":"AswathDamodaran","rating":14,"text":"Investors taking Middle East turmoil in stride? Equity risk premium for S&P 500 down to 4.90% on 2\/28\/11. http:\/\/bit.ly\/6aCJQn","url":""}
+{"date":1298938615000,"author":"AswathDamodaran","rating":62,"text":"Buffett thinks Black Scholes misvalues long term options... but does he really know what he is talking about? http:\/\/bit.ly\/gOOMnh","url":""}
+{"date":1298636255000,"author":"AswathDamodaran","rating":17,"text":"Just posted my 2011 update paper on equity risk premiums on SSRN: http:\/\/bit.ly\/dIfK10. For shorter synopsis: http:\/\/bit.ly\/howTPq.","url":""}
+{"date":1298230433000,"author":"AswathDamodaran","rating":30,"text":"Is is unpatriotic for companies to sit on cash? Is investing in R&D always good? My answer is no to both questions. http:\/\/bit.ly\/dZ6WCo","url":""}
+{"date":1298069285000,"author":"AswathDamodaran","rating":31,"text":"Companies in the US and Europe have kept absolute dividends stable and refused to cut dividends. Time for a reset? http:\/\/bit.ly\/eKgkXj","url":""}
+{"date":1297031321000,"author":"AswathDamodaran","rating":7,"text":"Unemployment data for US: few jobs added but drop in unemployment rate. Ruminations on sampling & statistical error. http:\/\/bit.ly\/dOz0vM","url":""}
+{"date":1296654763000,"author":"AswathDamodaran","rating":8,"text":"As US stocks post solid gains in January, the equity risk premium for the S&P 500 drops to 5.07% (from 5.20%). http:\/\/bit.ly\/f1fCrB","url":""}
+{"date":1296603943000,"author":"AswathDamodaran","rating":19,"text":"As companies shift to buybacks from dividends, investors and data services need to adapt to new reality. http:\/\/bit.ly\/e4KBMH","url":""}
+{"date":1296264605000,"author":"AswathDamodaran","rating":5,"text":"My tax rate data analyzed by NY Times. Here is my spin. US companies pay fair share but tax code distorts choices. http:\/\/bit.ly\/hmDMYt","url":""}
+{"date":1295975745000,"author":"AswathDamodaran","rating":31,"text":"Does a buyback increase stock price? Yes, for mature, poor performing firms, with debt capacity. No, for others. http:\/\/bit.ly\/e8QfU5","url":""}
+{"date":1295968616000,"author":"AswathDamodaran","rating":16,"text":"S&P 500 cos bought back $ 80 billion in 2010 3Q,  affirming long term shift away from dividends. Thoughts on why: http:\/\/bit.ly\/e8KeF5","url":""}
+{"date":1295458068000,"author":"AswathDamodaran","rating":67,"text":"Apple has $ 50 billion in cash. Should they return that cash to stockholders? How much cash it too much? My thoughts. http:\/\/bit.ly\/eFMnmN","url":""}
+{"date":1295121190000,"author":"AswathDamodaran","rating":61,"text":"Hedge funds copy each other. Herd behavior permeates portfolio management & corporate finance. Can you take advantage? http:\/\/bit.ly\/hLTUXh","url":""}
+{"date":1294672836000,"author":"AswathDamodaran","rating":23,"text":"Corrected ERP for S&P 500  at start of 2011 is 5.20%, not 4.74%. Mea culpa! (I like latin. Sounds so much better than \"I screwed up\")","url":""}
+{"date":1294372259000,"author":"AswathDamodaran","rating":35,"text":"Almost done with 2011 data updates. Sector betas and country premiums online. Hope you find it useful!  http:\/\/bit.ly\/6frKjm","url":""}
+{"date":1294261309000,"author":"AswathDamodaran","rating":65,"text":"Goldman (not God) invests $ 500 million for 1% of Facebook. Is Facebook worth $ 50 billion? Why no IPO? My thoughts. http:\/\/bit.ly\/gyzxTn","url":""}
+{"date":1294097860000,"author":"AswathDamodaran","rating":24,"text":"S&P 500 starts 2011 with equity risk premium of 4.74%, up from 4.36% a year ago. Market up 13% but cash flows up more. http:\/\/bit.ly\/dbyrT5","url":""}
+{"date":1293804965000,"author":"AswathDamodaran","rating":25,"text":"My full paper on illiquidity and its effects on investors and firms is available now. And a happy new year! http:\/\/bit.ly\/e1iPuE","url":""}
+{"date":1293639397000,"author":"AswathDamodaran","rating":20,"text":"Faced with illiquidity, firms invest less in long term projects, use less debt, hold more cash and pay more dividends. http:\/\/bit.ly\/i82EOY","url":""}
+{"date":1293472180000,"author":"AswathDamodaran","rating":13,"text":"Illiiquidity can be a money-maker, if you have a lesser need for it than other investors or are a liquidity timer. http:\/\/bit.ly\/hLEUhA","url":""}
+{"date":1293376979000,"author":"AswathDamodaran","rating":22,"text":"Illiquidity in intrinsic value: apply illiquidity discount to DCF value or add illiquidity premium to discount rate. http:\/\/bit.ly\/eVclEo","url":""}
+{"date":1293298033000,"author":"AswathDamodaran","rating":10,"text":"Risk return numbers on asset classes exposed to illiquidity (real estate, private equity, hedge funds) can be illusory. http:\/\/bit.ly\/e6UoIT","url":""}
+{"date":1292970728000,"author":"AswathDamodaran","rating":16,"text":"No asset is fully liquid and illiquidity varies across assets and over time. Investors pay less for illiquid assets.  http:\/\/bit.ly\/emnmAJ","url":""}
+{"date":1291223486000,"author":"AswathDamodaran","rating":1,"text":"Equity risk premium for S&P 500 barely moved last month: 5.08% at close of trading yesterday versus 5.11% a month ago... damodaran.com","url":""}
+{"date":1291173902000,"author":"AswathDamodaran","rating":38,"text":"Economic models have not worked well in forecasting crises. Are more complex models the answer? Only if you like chaos! http:\/\/bit.ly\/fE77if","url":""}
+{"date":1290648154000,"author":"AswathDamodaran","rating":11,"text":"Names surface in latest insider trading scandal. Are hedge fund managers more prone to insider trading? if so, why? http:\/\/bit.ly\/feC6F0","url":""}
+{"date":1290206483000,"author":"AswathDamodaran","rating":11,"text":"GM's IPO goes off without a hitch. As a taxpayer, I am happy about the outcome. As an investor, I have mixed feelings. http:\/\/bit.ly\/cCfRCe","url":""}
+{"date":1289854582000,"author":"AswathDamodaran","rating":13,"text":"NCAA's restrictions on college athletes are hypocritical. Colleges and networks make money while athletes risk futures. http:\/\/bit.ly\/d9jo5S","url":""}
+{"date":1289510205000,"author":"AswathDamodaran","rating":46,"text":"The key to investment success: It is not following others or a secret formula. It is knowing what makes you tick. http:\/\/bit.ly\/cE1mul","url":""}
+{"date":1289148444000,"author":"AswathDamodaran","rating":43,"text":"Brand name has become receptacle for all competitive advantages. My view: Brand name is all about pricing power.  http:\/\/on.mash.to\/btuy5X","url":""}
+{"date":1288888811000,"author":"AswathDamodaran","rating":25,"text":"Can QE2 work? With interest rates at historic lows, inflation fears bubbling and overlevered consumers, I am a skeptic. http:\/\/bit.ly\/bT5bdU","url":""}
+{"date":1288463955000,"author":"AswathDamodaran","rating":8,"text":"Good month for US stocks. S&P 500 up about 4.5%. Equity risk premium for US back down to 5.11% from 5.31% last month... http:\/\/bit.ly\/14kkYX","url":""}
+{"date":1287488554000,"author":"AswathDamodaran","rating":33,"text":"Nassim Taleb blames finance theorists for banking crisis but rogue bankers ignored finance first principles. http:\/\/bit.ly\/bNo1fk","url":""}
+{"date":1287053850000,"author":"AswathDamodaran","rating":29,"text":"Inflationary or deflationary times? Economists are split (no surprise..). As a stock investor, I fear inflation more...http:\/\/bit.ly\/c5e32d","url":""}
+{"date":1286459540000,"author":"AswathDamodaran","rating":24,"text":"Kerviel lost 4.9 billion, trading for SocGen. How do you lose billions? Why trading rooms are hard wired for disaster.. http:\/\/bit.ly\/aTM5U3","url":""}
+{"date":1286210259000,"author":"AswathDamodaran","rating":25,"text":"Is investing in a few high dividend yield stocks a better strategy than in an index fund, for a small investor? Maybe: http:\/\/bit.ly\/brs4OU","url":""}
+{"date":1285938258000,"author":"AswathDamodaran","rating":7,"text":"ERP for US increases to 5.31% at start of October. Market was up  but buybacks up even more strongly in 2nd qtr. http:\/\/bit.ly\/14kkYX","url":""}
+{"date":1285502004000,"author":"AswathDamodaran","rating":23,"text":"Managing risk is complicated. It is deciding which risks to take, which to pass through and which to hedge. http:\/\/bit.ly\/bbZ6Pn","url":""}
+{"date":1284904468000,"author":"AswathDamodaran","rating":13,"text":"Explosive growth of gold-laden Permanent Portfolio shows how investors chase last year's winners. Does it work? http:\/\/bit.ly\/aC6F8j","url":""}
+{"date":1284811058000,"author":"AswathDamodaran","rating":14,"text":"Changed my twitter name from adamodar to AswathDamodaran.. Just tired of being called Adam..","url":""}
+{"date":1284751356000,"author":"AswathDamodaran","rating":5,"text":"Michael Eisner's new book is out... His days as Disney CEO remind me of the need for checks and balances on power. http:\/\/bit.ly\/9XqLeq.","url":""}
+{"date":1284040006000,"author":"AswathDamodaran","rating":5,"text":"Blue chip borrowers back in the bond market..http:\/\/bit.ly\/b2CjBx). More opportunistic financing than optimal? http:\/\/bit.ly\/9kYFWZ.","url":""}
+{"date":1283954822000,"author":"AswathDamodaran","rating":9,"text":"Time for first session of Fall Valuation class. Just as excited as I was in 1986, before my 1st try. Join in the fun: http:\/\/bit.ly\/b6mR58","url":""}
+{"date":1283954822000,"author":"AswathDamodaran","rating":9,"text":"Time for first session of Fall Valuation class. Just as excited as I was in 1986, before my 1st try. Join in the fun: http:\/\/bit.ly\/b6mR58","url":""}
+{"date":1283738939000,"author":"AswathDamodaran","rating":5,"text":"Follow up on last tweet. If last attempt at downloading paper failed, please try again: http:\/\/bit.ly\/bh2Jl5. Screwed up last time. Sorry!","url":""}
+{"date":1283443721000,"author":"AswathDamodaran","rating":11,"text":"A new \"riskier\" world order? Risk premiums more unstable & linked across markets than ever before. My thoughts: http:\/\/bit.ly\/bh2Jl5","url":""}
+{"date":1283366496000,"author":"AswathDamodaran","rating":1,"text":"ERP at the start of September back up to 5.10% (from 4.78%). What will September bring? Your guess as good as mine... http:\/\/bit.ly\/dbyrT5","url":""}
+{"date":1281813363000,"author":"AswathDamodaran","rating":1,"text":"ERP on July 31, 2010 back down to 4.78%.... though the tide may be shifting again mid-August... http:\/\/bit.ly\/dbyrT5","url":""}
+{"date":1280023104000,"author":"AswathDamodaran","rating":26,"text":"A risk free investment (a government bond) is central to financial theory. What if nothing is risk free? My thoughts: http:\/\/bit.ly\/cr1tPb","url":""}
+{"date":1277980156000,"author":"AswathDamodaran","rating":10,"text":"On the roller coaster again! Equity risk premium in the US back up to 5.10% at the end of June 2010. http:\/\/bit.ly\/dbyrT5","url":""}
+{"date":1277829983000,"author":"AswathDamodaran","rating":10,"text":"Will the new financial reform bill make banks smaller and reduce bad risk taking? I don't think so. My thoughts at http:\/\/bit.ly\/5lWt6z","url":""}
+{"date":1277829838000,"author":"AswathDamodaran","rating":5,"text":"Will the proposed financial reform bill make banks smaller and reduce bad risk taking? I don't think so. My thoughts at http:\/\/bit.ly\/5lWt6z","url":""}
+{"date":1277041699000,"author":"AswathDamodaran","rating":21,"text":"Dozens of valuation approaches to pick from when valuing companies. How do you know which one is best ? My answer: http:\/\/bit.ly\/5lWt6z","url":""}
+{"date":1275408047000,"author":"AswathDamodaran","rating":10,"text":"The Eurozone debt crisis is affecting US equity risk premiums. ERP on May 31, 2010 back up to 4.54% (from 4.12%). http:\/\/www.damodaran.com.","url":""}
+{"date":1275052433000,"author":"AswathDamodaran","rating":1,"text":"Just got back from a trip to Slovenia, Croatia and India. Cash and cross holdings posed valuation headaches: http:\/\/bit.ly\/5lWt6z","url":""}
+{"date":1274121308000,"author":"AswathDamodaran","rating":10,"text":"Austin Powers in Kansas? The culprit for the Dow collapse on May 6 was a firm in Kansas trading e-minis? My thoughts at http:\/\/bit.ly\/5lWt6z","url":""}
+{"date":1272804712000,"author":"AswathDamodaran","rating":7,"text":"Markets now seem to think that the crisis is ancient history! Equity risk premium in US back down to 4.12%. http:\/\/bit.ly\/dbyrT5","url":""}
+{"date":1272654683000,"author":"AswathDamodaran","rating":17,"text":"So, Goldman is the new bad guy! Convenient (for politicians and other investment bankers) but unfair. My thoughts at http:\/\/bit.ly\/5lWt6z.","url":""}
+{"date":1270824212000,"author":"AswathDamodaran","rating":16,"text":"WSJ on banks hiding debt: http:\/\/bit.ly\/LsDTH. Balance sheet values are at point in time and are easily manipulated. http:\/\/bit.ly\/dgINMM.","url":""}
+{"date":1270178979000,"author":"AswathDamodaran","rating":6,"text":"Goodwill on an accounting balance sheet? More a plug variable than a meaningful asset. bit.ly\/5lWt6z","url":""}
+{"date":1270178854000,"author":"AswathDamodaran","rating":5,"text":"Equity risk premium in the US down to 4.16% at the start of April, 2010. http:\/\/bit.ly\/dbyrT5","url":""}
+{"date":1268942105000,"author":"AswathDamodaran","rating":7,"text":"How profitable are health care firms? Here is my take on the best ways of measuring the profitability of a business. http:\/\/bit.ly\/5lWt6z","url":""}
+{"date":1268154829000,"author":"AswathDamodaran","rating":7,"text":"Equity risk premium for S&P 500 drops back slightly to 4.44% at start of March.. Is the fear of catastrophe gone? http:\/\/bit.ly\/5lWt6z.","url":""}
+{"date":1267272615000,"author":"AswathDamodaran","rating":10,"text":"Central banks can influence stock prices, but only if markets view them as credible, informed and independent. http:\/\/bit.ly\/5lWt6z","url":""}
+{"date":1266795894000,"author":"AswathDamodaran","rating":1,"text":"Uploaded 2010 update to equity risk premium paper.. Gripping reading, not really! Useful, I hope so!! http:\/\/bit.ly\/bfwtxf","url":""}
+{"date":1266280854000,"author":"AswathDamodaran","rating":8,"text":"So many ways to beat the market on paper... So few seem to  do it.. Are transactions costs to blame? http:\/\/aswathdamodaran.blogspot.com\/","url":""}
+{"date":1266006041000,"author":"AswathDamodaran","rating":7,"text":"Greek government is making financial markets interesting. CDS market is responding. My thoughts on CDS: http:\/\/aswathdamodaran.blogspot.com\/","url":""}
+{"date":1264961001000,"author":"AswathDamodaran","rating":2,"text":"The gap between emerging market companies and developed market companies continues to shrink.. http:\/\/aswathdamodaran.blogspot.com\/","url":""}
+{"date":1264871123000,"author":"AswathDamodaran","rating":1,"text":"Equity risk premium for US end of January 2010 up to 4.56% from 4.36%. www.damodaran.com","url":""}
+{"date":1264379905000,"author":"AswathDamodaran","rating":2,"text":"Just put down my thoughts on the Berkshire Hathaway stock split and stock splits in general. http:\/\/aswathdamodaran.blogspot.com\/","url":""}
+{"date":1264379803000,"author":"AswathDamodaran","rating":1,"text":"Posted my annual data update for 2010. Risk premiums are back to pre-crisis levels and multiples have bounced back. http:\/\/www.damodaran.com","url":""}
+{"date":1264379803000,"author":"AswathDamodaran","rating":1,"text":"Posted my annual data update for 2010. Risk premiums are back to pre-crisis levels and multiples have bounced back. http:\/\/www.damodaran.com","url":""}

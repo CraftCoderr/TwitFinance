@@ -1,0 +1,3 @@
+server.tomcat.accesslog.directory=access_logs
+server.tomcat.accesslog.enabled=true
+server.tomcat.accesslog.pattern=common

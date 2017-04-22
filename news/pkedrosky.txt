@@ -1,0 +1,588 @@
+{"date":1490810726000,"author":"pkedrosky","rating":108,"text":"RT @parisreview: \u201CMy way of doing research is peculiar. I get all these books and I start reading them.\u201D \u2014Beryl Bainbridge","url":"https:\/\/t.co\/UJU\u2026"}
+{"date":1490809248000,"author":"pkedrosky","rating":32,"text":"From 2011, but evergreen from @mrmoneymustache: The true cost of commuting","url":"https:\/\/t.co\/O9aDime6UE"}
+{"date":1490803099000,"author":"pkedrosky","rating":14,"text":"Ranking the world\u2019s toughest outdoor sports. tl;dr: Nordic skiing wins. Of course.","url":"https:\/\/t.co\/zXfEDYjKe4"}
+{"date":1490735332000,"author":"pkedrosky","rating":40,"text":"This is how the world gets sick: The next pandemic","url":"https:\/\/t.co\/xo8dZUJjoY"}
+{"date":1490365588000,"author":"pkedrosky","rating":25,"text":"Clever work: Scientists evade the Heisenberg uncertainty principle \/v @joehas","url":"https:\/\/t.co\/BnVYHUubdo"}
+{"date":1490203526000,"author":"pkedrosky","rating":13,"text":"\u201CThe problem with a long-tailed phenom is that the longer we looked at it, the less we understood what to expect.\u201D","url":"https:\/\/t.co\/3BKTw2Izqb"}
+{"date":1490202485000,"author":"pkedrosky","rating":28,"text":"\u201CHaving social support, from an evolutionary standpoint, is far more important than knowing the truth.\u201D","url":"https:\/\/t.co\/nqjsmqA8Zi"}
+{"date":1490200260000,"author":"pkedrosky","rating":78,"text":"\u201CInsisting on absolute safety is for people who don't have the balls to live in the real world.\"  \n- Mary Shafer (NASA)","url":""}
+{"date":1490191577000,"author":"pkedrosky","rating":378,"text":"RT @herdyshepherd1: Crows in the snow","url":"https:\/\/t.co\/3jSK4HyiFW"}
+{"date":1490138957000,"author":"pkedrosky","rating":31,"text":"Wise words from dude crossing America barefoot: \"I think the secret to doing things is just doing things.\u201D","url":"https:\/\/t.co\/NRW9OHAalH"}
+{"date":1490105776000,"author":"pkedrosky","rating":9,"text":"Morse: \"The secret of a happy life is to know when to stop - and then go that bit further.\"","url":"https:\/\/t.co\/Q5PxT3UNf3"}
+{"date":1490064029000,"author":"pkedrosky","rating":27,"text":"My friend Harold's 2011 report on ETF market dangers is more pertinent than ever.","url":"https:\/\/t.co\/Ipa458kVSw"}
+{"date":1490052949000,"author":"pkedrosky","rating":54,"text":"If I can\u2019t blame the intersocialweb for every societal ill, what\u2019s the point of the intersocialweb?\u2026","url":"https:\/\/t.co\/PGjMpFGjT9"}
+{"date":1490038060000,"author":"pkedrosky","rating":618,"text":"RT @EricTopol: Understanding bias in science reports https:\/\/t.co\/HNjQy0pgNZ Ioannidis strikes again\nBeware small, highly-cited, early stud\u2026","url":""}
+{"date":1490037150000,"author":"pkedrosky","rating":10,"text":"I\u2019m Yuval-Noah-Harari-ed out, & can\u2019t get motivated to read new book, but his discussion with Sam Harris is solid.","url":"https:\/\/t.co\/lvQVtiyDy1"}
+{"date":1490025397000,"author":"pkedrosky","rating":5,"text":"Intellectual improv as idea \"tell\".","url":"https:\/\/t.co\/1JJ3sa6Iul"}
+{"date":1490022366000,"author":"pkedrosky","rating":312,"text":"Peak YC\/Artificial Intelligence\/Machine Learning\/Silicon Valley, right here \/v @ProductHunt","url":"https:\/\/t.co\/FjNaAqIIgc"}
+{"date":1490021686000,"author":"pkedrosky","rating":7,"text":"Got thinking about the _sustained_ otherworldly nature of some pro sports in reading about weekend\u2019s Milan-San Remo.","url":"https:\/\/t.co\/NZiyh7l8sG"}
+{"date":1490019375000,"author":"pkedrosky","rating":54,"text":"If the human brain were so simple that we could understand it, we would be so simple that we couldn't. \n- Emerson Pugh \/v @acotgreave","url":""}
+{"date":1489681640000,"author":"pkedrosky","rating":10,"text":"The invention of heterosexuality.","url":"https:\/\/t.co\/9QXkpNEpsq"}
+{"date":1489672923000,"author":"pkedrosky","rating":132,"text":"RT @Jeukendrup: Optiming speed versus preventing injury","url":"https:\/\/t.co\/y4y7t5VBq1"}
+{"date":1489539590000,"author":"pkedrosky","rating":8,"text":"OPEC efforts drove fracker technology innovation, and lowered costs. Oops.","url":"https:\/\/t.co\/CcvG8p2ewQ"}
+{"date":1489532858000,"author":"pkedrosky","rating":5,"text":"Railways, ftw: [19th c market] movements were attributed to geopolitical, monetary, railway, & financial-crisis news","url":"https:\/\/t.co\/ggPgtZ3iQn"}
+{"date":1489532523000,"author":"pkedrosky","rating":5,"text":"Timing of the decline in physical activity in childhood and adolescence","url":"https:\/\/t.co\/92oKUvhMz6"}
+{"date":1489531240000,"author":"pkedrosky","rating":11,"text":"Fun study: \nMost typical city in America: Lynchburg VA; least typical: Santa Fe NM.","url":"https:\/\/t.co\/lJAnbqJExS"}
+{"date":1489512038000,"author":"pkedrosky","rating":2,"text":"Any sufficiently deranged social network is indistinguishable from a cognitive cytokine storm.","url":""}
+{"date":1489451583000,"author":"pkedrosky","rating":17,"text":"Compelling claim, and not borne out by any actual data in attached article.","url":"https:\/\/t.co\/MOnpRGOlkX"}
+{"date":1489450394000,"author":"pkedrosky","rating":18,"text":"Danish professor: \"Stand Firm: Resisting the Self-Improvement Craze\"","url":"https:\/\/t.co\/XG8io9DWZw"}
+{"date":1489450270000,"author":"pkedrosky","rating":8,"text":"Just in case anyone somehow thought Canadian healthcare was all sweetness, light, and profligate funding.","url":"https:\/\/t.co\/d5Vi3DJatv"}
+{"date":1489419870000,"author":"pkedrosky","rating":9,"text":"Game demoing the apocalypse: We hang out more","url":"https:\/\/t.co\/MUNooExdwL"}
+{"date":1489419451000,"author":"pkedrosky","rating":25,"text":"In current shorting frenzy for mall-backed mortgage securities, noteworthy it took more than 20 years for this \"obvious\" Amazon consequence.","url":""}
+{"date":1489362668000,"author":"pkedrosky","rating":32,"text":"\"Traffic is backed up approximately 25 miles\". For wildflowers. You people.","url":"https:\/\/t.co\/aPqHDZA0TI"}
+{"date":1489331337000,"author":"pkedrosky","rating":19,"text":"Severe atopic dermatitis is debilitating, but $25k p.a. is absurd price","url":"https:\/\/t.co\/upNNAEL5Mz"}
+{"date":1489256520000,"author":"pkedrosky","rating":7,"text":"True, and deserved, but misleading: Only analysts at (mostly smaller) firms not in the underwriting syndicate","url":"https:\/\/t.co\/o0VFrbF8Gh"}
+{"date":1489256374000,"author":"pkedrosky","rating":49,"text":"Kudos, New Zealand: Global house prices","url":"https:\/\/t.co\/XJAROASch0"}
+{"date":1489242408000,"author":"pkedrosky","rating":30,"text":"Is this about safer models, better balance sheets, or a devious Goldman thing behind scenes?","url":"https:\/\/t.co\/GD8qIzQaAM"}
+{"date":1489155031000,"author":"pkedrosky","rating":53,"text":"Economists, bringing the wisdom","url":"https:\/\/t.co\/IImN08UKlu"}
+{"date":1488916348000,"author":"pkedrosky","rating":5,"text":"It\u2019s over \u2026 Shut me up, Sundance.","url":"https:\/\/t.co\/lJiGurkTGV"}
+{"date":1488901612000,"author":"pkedrosky","rating":56,"text":"Good thing they have politics to fall back on.","url":"https:\/\/t.co\/g8pCpdgBtq"}
+{"date":1488901533000,"author":"pkedrosky","rating":163,"text":"It's almost like people are distracted by something new. Radios? Air conditioners? Can't imagine what it might be","url":"https:\/\/t.co\/XZTJ3u4hnW"}
+{"date":1488839118000,"author":"pkedrosky","rating":24,"text":"Missed this when it came out a few months ago, but thoughtful \u2014 and unsettling  \u2014 reading: The Autumn of Democracy","url":"https:\/\/t.co\/z2AD576IVe"}
+{"date":1488838625000,"author":"pkedrosky","rating":29,"text":"Black and White Shows Big Surf At Its Most Dramatic","url":"https:\/\/t.co\/ngoZz1KFGE"}
+{"date":1488837555000,"author":"pkedrosky","rating":4,"text":"The mixolydian mode, Nirvana, and a holistic theory of Lorde\u2019s songwriting","url":"https:\/\/t.co\/eEm6VMKmoz"}
+{"date":1488837098000,"author":"pkedrosky","rating":3,"text":"Good new @omegataupodcast on societal complexity, and its consequences https:\/\/t.co\/zyPlNTKkN3 \/cc @GregorMacdonald","url":""}
+{"date":1488822049000,"author":"pkedrosky","rating":33,"text":"RT @pkedrosky: \"The country suffered from an excess of political engagement.\" \n - Richard J. Evans, The Coming of the Third Reich","url":""}
+{"date":1488816508000,"author":"pkedrosky","rating":1,"text":"Agree with @jeredgruber (his photo): the @StradeBianche is my favorite race of season. Spectacular and selective.","url":"https:\/\/t.co\/iR1QOYVJ1K"}
+{"date":1488727792000,"author":"pkedrosky","rating":120,"text":"Revisiting Stoppard's Arcadia today.","url":"https:\/\/t.co\/1JTwLxeHKm"}
+{"date":1488693795000,"author":"pkedrosky","rating":47,"text":"Dunning\u2013Kruger effects in reasoning: Theoretical implications of the failure to recognize incompetence","url":"https:\/\/t.co\/zcJZlpTVjx"}
+{"date":1488654876000,"author":"pkedrosky","rating":27,"text":"Crowds, interconnectedness, weirdness, & the law of truly large numbers \n- Diaconis and Mosteller, \"Methods of Stud\u2026","url":"https:\/\/t.co\/qCTBgIrCkW"}
+{"date":1488651261000,"author":"pkedrosky","rating":49,"text":"\"The country suffered from an excess of political engagement.\" \n - Richard J. Evans, The Coming of the Third Reich","url":""}
+{"date":1488644742000,"author":"pkedrosky","rating":13,"text":"Micro\/nanorobots for biomedicine: Delivery, surgery, sensing, and detoxification \/v @EricTopol #scifi","url":"https:\/\/t.co\/SZZWVAXnAJ"}
+{"date":1488643971000,"author":"pkedrosky","rating":92,"text":"I miss Hitch, and am often reminded of this when the powerful briefly feign powerlessness.","url":"https:\/\/t.co\/WiYbkdq1gZ"}
+{"date":1488642697000,"author":"pkedrosky","rating":37,"text":"Obesity Paradox, Obesity Orthodox, and the Metabolic Syndrome: Why the obese fight infections better","url":"https:\/\/t.co\/7pi5riSyRL"}
+{"date":1488640614000,"author":"pkedrosky","rating":72,"text":"RT @robinhanson: Excellent analysis shows US is much less of a medical spending outliner relative to individual consumption spending. https\u2026","url":""}
+{"date":1488638613000,"author":"pkedrosky","rating":690,"text":"Intellectual honesty consists in stating the precise conditions under which one will give up one's belief.\n- Imre Lakatos","url":""}
+{"date":1488578668000,"author":"pkedrosky","rating":9,"text":"Finally getting around to reading A.G. Street's classic of farming pseudo-ethnography, \"Farmer's Glory\" (1932). Prairie ag, ftw.","url":""}
+{"date":1488578268000,"author":"pkedrosky","rating":30,"text":"Truth will sooner come out from error than from confusion.\n- Francis Bacon","url":""}
+{"date":1488560327000,"author":"pkedrosky","rating":37,"text":"20\/ Here endeth the lecture.","url":""}
+{"date":1488560327000,"author":"pkedrosky","rating":61,"text":"19\/ When Snap cracks, it will be because the numbers and momentum crack, not because it's expensive, and not because of Fitbit or GoPro.","url":""}
+{"date":1488560327000,"author":"pkedrosky","rating":10,"text":"18\/ As a result, it should surprise people zero what Snapchat is doing, with stock currently touching $40b market cap.","url":""}
+{"date":1488560327000,"author":"pkedrosky","rating":15,"text":"17\/ Despite many leaning same way, it's all rhetoric: you can't short the thing yet, or buy puts. .","url":""}
+{"date":1488560326000,"author":"pkedrosky","rating":23,"text":"16\/ Will Snapchat likely show an uptick in user growth this quarter on back of slavish media fascination with the thing? Yes.","url":""}
+{"date":1488560326000,"author":"pkedrosky","rating":26,"text":"15\/ Does Snapchat likely have current quarter in the bag in anticipation of being public? Yes.","url":""}
+{"date":1488560326000,"author":"pkedrosky","rating":6,"text":"14\/ And they're not wrong. But it doesn't matter right now. Why? Three reasons:","url":""}
+{"date":1488560326000,"author":"pkedrosky","rating":9,"text":"13\/ Those two stocks have created bearish scar tissue that has wise guys drooling to take the bearishly satisfying side.","url":""}
+{"date":1488560326000,"author":"pkedrosky","rating":8,"text":"12\/ Many are still leaning same way on this, partly because of above, but also because of the post-IPO misadventures of Fitbit and GoPro.","url":""}
+{"date":1488560326000,"author":"pkedrosky","rating":23,"text":"11\/ The absence of a moat won't matter, until it matters. Similarly with governance: Irrelevant until relevant. And so on.","url":""}
+{"date":1488560326000,"author":"pkedrosky","rating":162,"text":"10\/ Stocks can stay irrational longer than you can stay solvent, as Keynes said.","url":""}
+{"date":1488560325000,"author":"pkedrosky","rating":35,"text":"9\/ As anyone who has shorted for a while will tell you, shorting stocks on valuation is a mug's game:","url":""}
+{"date":1488560325000,"author":"pkedrosky","rating":13,"text":"8\/ But all of these miss something important: This isn't the way it works.","url":""}
+{"date":1488560325000,"author":"pkedrosky","rating":17,"text":"7\/ All of these are true, of course: SNAP is stupid expensive, there is no moat, Zuck is gonna hit it hard, and governance is silly.","url":""}
+{"date":1488560325000,"author":"pkedrosky","rating":4,"text":"6\/ Finally, the company's governance structure makes investors passengers with no voice in anything.","url":""}
+{"date":1488560325000,"author":"pkedrosky","rating":5,"text":"5\/ Facebook will, they argue, cut off Snap's oxygen supply. It will beat it up in both ad and M&A markets.","url":""}
+{"date":1488560325000,"author":"pkedrosky","rating":9,"text":"4\/ Next, they argue, user growth recently decelerated, which will turn this into a Twitter story: All about jamming ads down DAUs.","url":""}
+{"date":1488560324000,"author":"pkedrosky","rating":14,"text":"3\/ Further, there is no moat, as the cool kids like to say: Its features are easily copied by Facebook, and are steadily being copied.","url":""}
+{"date":1488560324000,"author":"pkedrosky","rating":9,"text":"2\/ It is, they argue, wildly expensive on financial metrics, trading at more than 100x sales, has no profits, etc.","url":""}
+{"date":1488560324000,"author":"pkedrosky","rating":91,"text":"1\/ I am inundated with smart guys insistent that SNAP is a short here. Five reasons:","url":""}
+{"date":1488558745000,"author":"pkedrosky","rating":96,"text":"RT @emranmian: Is Consciousness an Illusion? Thomas Nagel gently smashes the new book by Daniel Dennett @nybooks","url":"https:\/\/t.co\/CFPzTLuFzD"}
+{"date":1488555474000,"author":"pkedrosky","rating":5,"text":"Where theory lags behind the facts, we are dealing with miserable degenerating research programmes.\n- Imre Lakatos (1978)","url":""}
+{"date":1488553556000,"author":"pkedrosky","rating":18,"text":"Find copy of Lo's \"What is an index?\" paper here","url":"https:\/\/t.co\/fWxlqrje0i"}
+{"date":1488484694000,"author":"pkedrosky","rating":11,"text":"See also: Equity research. I kid. Kinda.","url":"https:\/\/t.co\/bPbfpQByiE"}
+{"date":1488479014000,"author":"pkedrosky","rating":23,"text":"Running efficiency and flexibility may be inversely correlated, at least at the margin","url":"https:\/\/t.co\/Qz8DOT3XKX"}
+{"date":1488470585000,"author":"pkedrosky","rating":39,"text":"RT @jasonzweigwsj: If you think this can only be good, remember that Wall Street will find a way to make it end badly.","url":"https:\/\/t.co\/6uncCea\u2026"}
+{"date":1488467262000,"author":"pkedrosky","rating":26,"text":"The remnant fascination with how some tech IPOs open trading is bizarre to me. It's like watching initial flickers when you turn on a bulb.","url":""}
+{"date":1488411138000,"author":"pkedrosky","rating":722,"text":"Just gross. Make it stop.","url":"https:\/\/t.co\/Yif0s0BE1v"}
+{"date":1488410976000,"author":"pkedrosky","rating":0,"text":"Posit: Any sufficiently strange form of football is indistinguishable from science and\/or Stoke City league games","url":"https:\/\/t.co\/MqeVWyo4WE"}
+{"date":1488410821000,"author":"pkedrosky","rating":28,"text":"Repetition is the God particle of music: You can\u2019t unhear pop music tricks once you know them https:\/\/t.co\/lDBbpWYIF6 \/cc @ritholtz @DKThomp","url":""}
+{"date":1488407745000,"author":"pkedrosky","rating":60,"text":"\u201CSo you\u2019re telling me there\u2019s a chance?\u201D\n\nSigned,\n\nEntrepreneurs and VCs everywhere","url":"https:\/\/t.co\/ZF7INCznzC"}
+{"date":1488407645000,"author":"pkedrosky","rating":6,"text":"Speaking of things that didn\u2019t predict 2017, the coterie of Well Known Big Think Conferences seem tribal, vestigial, and lost.","url":""}
+{"date":1488407384000,"author":"pkedrosky","rating":31,"text":"Good list, and applies to more than running: 10 running myths that science says are slowing you down","url":"https:\/\/t.co\/1MAFkxfz3T"}
+{"date":1488407237000,"author":"pkedrosky","rating":1,"text":"2\/2 Mike was chiding some Nobel economists on a post-crisis panel, when saying the preceding. It was pleasing.","url":""}
+{"date":1488407178000,"author":"pkedrosky","rating":9,"text":"A favorite Mike Milken line from years ago his annual conference: \u201CYou only get full points for predicting cataclysms in advance\u201D.","url":""}
+{"date":1488397947000,"author":"pkedrosky","rating":70,"text":"Only in venture capital is it a \u201Cbanner year\u201D based on spending, not on returns. Where are the customers\u2019 canoes, e\u2026","url":"https:\/\/t.co\/Kw1WSBgakv"}
+{"date":1488393639000,"author":"pkedrosky","rating":43,"text":"If we are uncritical we shall always find what we want: we shall look for, and find, confirmations.\n- Karl Popper","url":""}
+{"date":1488390886000,"author":"pkedrosky","rating":12,"text":"Tip: If you\u2019re asked to do media for an outlet you don\u2019t watch, ask yourself why you\u2019d play trained seal for an audience you don\u2019t like.","url":""}
+{"date":1488390030000,"author":"pkedrosky","rating":14,"text":"Wall Street Finds a Way:\n\u201C\u2018You\u2019re not financing the dog, you\u2019re leasing.\u2019 \u2018You mean to tell me I\u2019m renting a dog?\u2019\u201D","url":"https:\/\/t.co\/jgXEiuoTPq"}
+{"date":1488389619000,"author":"pkedrosky","rating":5,"text":"In audio terms, most of opinion journalism has become a click track for partisans.","url":""}
+{"date":1488389062000,"author":"pkedrosky","rating":12,"text":"RT @seehafer: Partial deregulation often worse than none at all. For HSA concept to work requires blowing up our pre-paid care \"health insu\u2026","url":""}
+{"date":1488388429000,"author":"pkedrosky","rating":37,"text":"Single best way to learn why healthcare spending\/savings accounts (HSAs) and associated payment cards won\u2019t work for normals is to have one.","url":""}
+{"date":1488324771000,"author":"pkedrosky","rating":37,"text":"\u201CThey are not dreaming of America the way they used to in India\u201D","url":"https:\/\/t.co\/IJFQvG3cMP"}
+{"date":1488324430000,"author":"pkedrosky","rating":78,"text":"RT @DegenRolf: Scientists & students believe that almost half of all there is to know within their own discipline is already known. https:\/\u2026","url":""}
+{"date":1488319699000,"author":"pkedrosky","rating":24,"text":"RT @SarahZielinski: Today's word: diploendozoochory. It's when predators disperse plant seeds they consumed in the guts of their prey. http\u2026","url":""}
+{"date":1488319369000,"author":"pkedrosky","rating":7,"text":"Repeated muscle damage blunts the increase in heat strain during subsequent exercise heat stress","url":"https:\/\/t.co\/aSRIduSP4v"}
+{"date":1488304616000,"author":"pkedrosky","rating":13,"text":"Hate Vail Resorts back -- it's good for you: Rob Katz Is the Most Powerful Man in the Ski Industry\u2026","url":"https:\/\/t.co\/A82tWOj1p0"}
+{"date":1488301919000,"author":"pkedrosky","rating":4,"text":"Heterogeneous Climate Preferences of Migrants: Boiling Phoenix or Shivering Boston?","url":"https:\/\/t.co\/MR7lH3BGFF"}
+{"date":1488298751000,"author":"pkedrosky","rating":5,"text":"Linking Economic Complexity, Institutions, and Income Inequality","url":"https:\/\/t.co\/l9Ci8AIw4h"}
+{"date":1488295736000,"author":"pkedrosky","rating":10,"text":"Not that Paul is necessarily wrong, but it\u2019s at least worth considering what factors might make this comparison unf\u2026","url":"https:\/\/t.co\/ipzxGlFAHN"}
+{"date":1488295428000,"author":"pkedrosky","rating":32,"text":"Trends in life expectancy in 35 industrialized countries: South Korea headed to age 90","url":"https:\/\/t.co\/NtuAv00pi1"}
+{"date":1488294698000,"author":"pkedrosky","rating":171,"text":"RT @NEJM: Med & Society Data Watch: Prevalence of Heart Disease, Stroke, and Hypertension, by Family Income https:\/\/t.co\/VCdwidmz67 https:\/\u2026","url":""}
+{"date":1488294594000,"author":"pkedrosky","rating":4,"text":"Hermetically sealed science: fMRI study of people reading fMRI articles.","url":"https:\/\/t.co\/nhcSZsT0wn"}
+{"date":1488254545000,"author":"pkedrosky","rating":13,"text":"\u201CThe food at this place is really terrible.\" \n\n\u201DYeah, I know; and such small portions.\u201D","url":"https:\/\/t.co\/x68qMiloEt"}
+{"date":1488248759000,"author":"pkedrosky","rating":39,"text":"RT @chrismichel: Waiting.  Havana, Cuba.","url":"https:\/\/t.co\/cqKEFSMTUM"}
+{"date":1488248017000,"author":"pkedrosky","rating":25,"text":"More broadly useful than in medicine alone.","url":"https:\/\/t.co\/7XCyv2NLc3"}
+{"date":1488243405000,"author":"pkedrosky","rating":41,"text":"Success has many fathers, failed Las Vegas entrepreneurial utopias have none. Or, apparently, one.","url":"https:\/\/t.co\/t5YadA6YwC"}
+{"date":1488243196000,"author":"pkedrosky","rating":48,"text":"Here\u2019s clue that Lidar is the tech patent portfolio of the future: Google and Uber are fighting ferociously over it","url":"https:\/\/t.co\/kCSRK6GpG7"}
+{"date":1488241612000,"author":"pkedrosky","rating":8,"text":"Ignition nation: Humans are responsible for starting 84% of all US wildfires","url":"https:\/\/t.co\/sXgVyZBblB"}
+{"date":1488241002000,"author":"pkedrosky","rating":7,"text":"If becoming rich off excessive fees is wrong, who would want to be right?","url":"https:\/\/t.co\/lyMWeJ2KJj"}
+{"date":1488240708000,"author":"pkedrosky","rating":16,"text":"Fun with hedge funds:\n- Top 10 positions ~67% holdings\n- Alphabet, Facebook, & Amazon r everywhere\n- Apple fallen","url":"https:\/\/t.co\/F0BvWZ5lpF"}
+{"date":1488233390000,"author":"pkedrosky","rating":4,"text":"Can\u2019t say enough good things about @BlisterReview. If you\u2019re an outdoor gear person, just subscribe already. Here:","url":"https:\/\/t.co\/Lj717jOG7o"}
+{"date":1488229627000,"author":"pkedrosky","rating":6,"text":"Shhh, middle-aged normals are spooked easily.","url":"https:\/\/t.co\/RmPASbgvMS"}
+{"date":1488228835000,"author":"pkedrosky","rating":44,"text":"Say what you will about terrible  financial advice,  but at least it's an ethos","url":"https:\/\/t.co\/Ok6YPnmEVC"}
+{"date":1488224276000,"author":"pkedrosky","rating":120,"text":"Really well done: Interactive tool for learning basics of probability and statistics","url":"https:\/\/t.co\/Y3KQZuJVPR"}
+{"date":1488218143000,"author":"pkedrosky","rating":18,"text":"The death of expertise, and the merits of being told you just \u201Ckilled the patient\u201D https:\/\/t.co\/axcxWM00r2 \/v @JohnAllenPaulos","url":""}
+{"date":1488217624000,"author":"pkedrosky","rating":3,"text":"With average player tenure with football teams declining, Roma\u2019s Francesco Totti remains a delightful anomaly\u2026","url":"https:\/\/t.co\/l7yCI0J0av"}
+{"date":1488216638000,"author":"pkedrosky","rating":9,"text":"Regrowing natural teeth: Dentin Sialoprotein is a Novel Substrate of Matrix Metalloproteinase 9 in vitro and in vivo","url":"https:\/\/t.co\/BI067NGBrx"}
+{"date":1488214915000,"author":"pkedrosky","rating":74,"text":"I\u2019ve been trying on this argument too: The race for autonomous cars is over. Silicon Valley lost.","url":"https:\/\/t.co\/AYnheLLfXh"}
+{"date":1488210478000,"author":"pkedrosky","rating":192,"text":"RT @VintageAnchor: Cormac McCarthy on why you shouldn't go to work today (or any day): https:\/\/t.co\/0y8mNOWrjJ via @openculture https:\/\/t.c\u2026","url":""}
+{"date":1488205848000,"author":"pkedrosky","rating":3,"text":"For ease of communication reasons, there are only about a dozen good sheepdog names -- the debate.","url":"https:\/\/t.co\/RIZGuPPGxW"}
+{"date":1488167782000,"author":"pkedrosky","rating":198,"text":"Spending time away from Twitter and then returning feels increasingly like volunteering for a chronic, low-grade auto-inflammatory disorder.","url":""}
+{"date":1488129178000,"author":"pkedrosky","rating":14,"text":"Why We Love to Anthropomorphize Physics","url":"https:\/\/t.co\/zkFVdz0Gmt"}
+{"date":1488128562000,"author":"pkedrosky","rating":1,"text":"Resetting predator baselines in coral reef ecosystems","url":"https:\/\/t.co\/4bkKuAFxOU"}
+{"date":1488128177000,"author":"pkedrosky","rating":2,"text":"Investigation of kinematics of knuckling shot in soccer","url":"https:\/\/t.co\/Xy6atI5NJ7"}
+{"date":1488127620000,"author":"pkedrosky","rating":9,"text":"Shuttlecock detection system for fully-autonomous badminton robot with two high-speed video cameras","url":"https:\/\/t.co\/YXCouB7gDw"}
+{"date":1487946573000,"author":"pkedrosky","rating":150,"text":"Today in buried Mammoth ski lifts","url":"https:\/\/t.co\/2b5jzlChAP"}
+{"date":1487869731000,"author":"pkedrosky","rating":54,"text":"We're gonna need a taller window in this here  mountain lodge","url":"https:\/\/t.co\/EmPbjrOlaS"}
+{"date":1487813934000,"author":"pkedrosky","rating":54,"text":"DEAR PAUL: I WANT FRISBEE. DO YOU HAVE FRISBEE? I WILL TRADE FOR... FRISBEE","url":"https:\/\/t.co\/fdQwUWSjgi"}
+{"date":1487809124000,"author":"pkedrosky","rating":14,"text":"Good things come to skiers who wait: Caught post-storm rope drop on chair 3 late today.","url":"https:\/\/t.co\/1qyU3mHsJ2"}
+{"date":1487774960000,"author":"pkedrosky","rating":8,"text":"Not sure reducing Goldman's pace of innovation (sic.) is a bad thing, but I take your point.","url":"https:\/\/t.co\/x7vf2F1zXb"}
+{"date":1487632986000,"author":"pkedrosky","rating":4,"text":"Feels like Mammoth Lakes is sinking into the snow forever, like how Tanis was lost in that year-long sandstorm in Raiders of the Lost Ark.","url":""}
+{"date":1487602557000,"author":"pkedrosky","rating":16,"text":"\"...he would have much preferred to resign, and betake himself once again to the easy glories of opposition\"\n- Trollope. Phineas Finn.","url":""}
+{"date":1487476419000,"author":"pkedrosky","rating":16,"text":"Still interesting, but \u201C\u2026rare individuals resistant to inherited fatal diseases\u201D","url":"https:\/\/t.co\/HqrHjjWoHs"}
+{"date":1487475709000,"author":"pkedrosky","rating":5,"text":"\u201C\u2026feeding a diet of \u201Cold\u201D organisms to yeast, fruit flies, and mice shortened their lifespans by roughly 10 percent\u201D","url":"https:\/\/t.co\/fTPM0gyOz6"}
+{"date":1487462986000,"author":"pkedrosky","rating":22,"text":"Fascinating urban anthropology: Agreeing To Cross: How Drivers and Pedestrians Communicate","url":"https:\/\/t.co\/wRD7pewnFz"}
+{"date":1487370466000,"author":"pkedrosky","rating":35,"text":"BBC In Our Time\u2019s recent episode on Hannah Arendt & totalitarianism is sadly timely https:\/\/t.co\/eNKbLgY8Ce \/v @BBCInOurTime","url":""}
+{"date":1487368246000,"author":"pkedrosky","rating":12,"text":"Universal basic income, and other radical economic ideas, on the latest Alphachat podcast https:\/\/t.co\/OH0WWb9dj3 \/v @CardiffGarcia","url":""}
+{"date":1487368159000,"author":"pkedrosky","rating":26,"text":"Right. And I want a check from the dishwasher here.","url":"https:\/\/t.co\/m7LSxAbs2u"}
+{"date":1487367969000,"author":"pkedrosky","rating":14,"text":"The discovery in failing to successfully automate something that practitioners don\u2019t actually know how to do it. See also: Medicine.","url":""}
+{"date":1487364719000,"author":"pkedrosky","rating":230,"text":"Automation & its consequences: US is setting manufacturing output records as manufacturing jobs decline \/cc @mcuban","url":"https:\/\/t.co\/AX9fiPndnb"}
+{"date":1487360770000,"author":"pkedrosky","rating":13,"text":"Yale\u2019s @SKalyvas on lessons from Greece on surviving populism","url":"https:\/\/t.co\/eM8ZTG20JQ"}
+{"date":1487358012000,"author":"pkedrosky","rating":6,"text":"My kingdom for a better way to access US retail industry credit default swaps.","url":"https:\/\/t.co\/4pNA6AtQOF"}
+{"date":1487357507000,"author":"pkedrosky","rating":28,"text":"So Long And Thanks For All The Trash #EscapeFromDC","url":"https:\/\/t.co\/1YEI3Hzeue"}
+{"date":1487352310000,"author":"pkedrosky","rating":9,"text":"Intense river rapids create evolutionary islands","url":"https:\/\/t.co\/cg19EG1tJK"}
+{"date":1487351694000,"author":"pkedrosky","rating":1899,"text":"RT @paleofuture: Just a drone spewing fire to \"remove a piece of plastic\" from a high-voltage wire in China","url":"https:\/\/t.co\/fcNFz4GzcH"}
+{"date":1487342085000,"author":"pkedrosky","rating":5,"text":"Bringing the insider trading helpful, by @matt_levine","url":"https:\/\/t.co\/U70krhvhF1"}
+{"date":1487288618000,"author":"pkedrosky","rating":69,"text":"The great sucking sound that is overpaid ad-optimizing jobs at FaceInstaSnapTwiGoo is among banes of investors. A misallocation of talent.","url":""}
+{"date":1487286012000,"author":"pkedrosky","rating":94,"text":"\"I believe that has some significance for our problem.\"\n- Richard Feynman (Rogers Commission, 11 February 1986)","url":"https:\/\/t.co\/LzhsJ0xVuq"}
+{"date":1487277412000,"author":"pkedrosky","rating":17,"text":"\u201CStark raving sane\u201D","url":"https:\/\/t.co\/aKJWzys1cR"}
+{"date":1487269591000,"author":"pkedrosky","rating":8,"text":"Good context from Tyler: Industrial revolutions aren't comforting for automation enthusiasts","url":"https:\/\/t.co\/Pp3HWL5kEb"}
+{"date":1487269312000,"author":"pkedrosky","rating":19,"text":"Every bubble market in everything has a \u201Creason\u201D why this time it\u2019s different. It\u2019s neither news nor sufficient to change its bubble status.","url":""}
+{"date":1487268638000,"author":"pkedrosky","rating":12,"text":"RT @Salem_Oracle: Feb 16 1692: After Grigg\u2019s diagnosis of bewitchment, it no longer matters what ails the young girls, but who. \n\n#Salem #O\u2026","url":""}
+{"date":1487268224000,"author":"pkedrosky","rating":11,"text":"Fascinating: I\u2019m admittedly struck by appearance of lane paint, and disappearance of power\/phone cables","url":"https:\/\/t.co\/xyK42ERUTS"}
+{"date":1487257160000,"author":"pkedrosky","rating":68,"text":"Laughed out loud at all the sell-side names on the Snapchat IPO book. As a cynical friend points out, gonna be a lo\u2026","url":"https:\/\/t.co\/WNgUtKbt2M"}
+{"date":1487188683000,"author":"pkedrosky","rating":19,"text":"One of Google's least widely understood, and yet most transformational services. It is substrate for so much super\u2026","url":"https:\/\/t.co\/Hr6i8sBm8i"}
+{"date":1487186988000,"author":"pkedrosky","rating":10,"text":"It's a remarkable new paper.","url":"https:\/\/t.co\/pgXYt2IWyt"}
+{"date":1487185093000,"author":"pkedrosky","rating":21,"text":"Biggest two-year increase in 53 years: 40,000 people killed on U.S. highways last year, up 14% from 2014 https:\/\/t.co\/DnifTqPjOy #madness","url":""}
+{"date":1487180201000,"author":"pkedrosky","rating":53,"text":"A simple, old probability question \u2014 surprised so many (allegedly) get it wrong.","url":"https:\/\/t.co\/1iQeJZjomZ"}
+{"date":1487177993000,"author":"pkedrosky","rating":40,"text":"The hygiene hypothesis \u2014 we\u2019re too clean, & our immune system rebels \u2014 may be overdone","url":"https:\/\/t.co\/iIHp4YUj6w"}
+{"date":1487177631000,"author":"pkedrosky","rating":9,"text":"Still my favorite source\/service on energy.","url":"https:\/\/t.co\/ADeQGejTnk"}
+{"date":1487176975000,"author":"pkedrosky","rating":150,"text":"RT @jasonzweigwsj: An extraordinary & exemplary note from Danny Kahneman @R_INDEX\nhttps:\/\/t.co\/mIWAwg66Gf","url":"https:\/\/t.co\/oWh7RgDHiw"}
+{"date":1487176845000,"author":"pkedrosky","rating":13,"text":"Given this year\u2019s near-record California rains, good time to revisit the truly epic California storms of 1861-62.\u2026","url":"https:\/\/t.co\/qZzzAB74Ew"}
+{"date":1487176207000,"author":"pkedrosky","rating":3,"text":"Increasingly common given winter equipment\/personnel costs, reduced snow, etc. Bet Whistler is close also.","url":"https:\/\/t.co\/nEfSJJDuCc"}
+{"date":1487174872000,"author":"pkedrosky","rating":95,"text":"Me (tongue somewhat in cheek) explaining venture capital to a hedge fund friend today:","url":"https:\/\/t.co\/aaosUYKMGX"}
+{"date":1487173181000,"author":"pkedrosky","rating":8,"text":"Peak ETF. Again.","url":"https:\/\/t.co\/j1vTohzLGl"}
+{"date":1487125533000,"author":"pkedrosky","rating":9,"text":"\"The correction of prose, because it has no fixed laws, is endless, a poem comes right with a click like a closing box.\"\n- W. B. Yeats","url":""}
+{"date":1487125267000,"author":"pkedrosky","rating":11,"text":"Got to use manichaeism in a sentence today not about politics, religion, or Harry Potter, so I've got that going for me.","url":""}
+{"date":1487123858000,"author":"pkedrosky","rating":38,"text":"Quintessential feel-good hacker story: The making of \"More than a Feeling\", forty years later","url":"https:\/\/t.co\/5s6XTThf9E"}
+{"date":1487115138000,"author":"pkedrosky","rating":24,"text":"Good, critical review by @nickbilton","url":"https:\/\/t.co\/WgpbZ2swvW"}
+{"date":1487114921000,"author":"pkedrosky","rating":3,"text":"Your belly hates you.","url":"https:\/\/t.co\/K7BT8iDJiC"}
+{"date":1487106239000,"author":"pkedrosky","rating":14,"text":"Madoff\u2019s central claim in the series is that many victims looked other way while being enriched, knowingly his results weren\u2019t possible.","url":""}
+{"date":1487105938000,"author":"pkedrosky","rating":12,"text":"Ponzi Supernova excerpt on @radiolab did something I didn\u2019t think possible: It made me rethink Madoff. A little.","url":"https:\/\/t.co\/awLB7wQB2A"}
+{"date":1487095098000,"author":"pkedrosky","rating":4,"text":"After the Fall: The Tunnel Creek Avalanche, Five Years Later \/v @slugball","url":"https:\/\/t.co\/2AbHaBTShW"}
+{"date":1487093516000,"author":"pkedrosky","rating":4,"text":"Absorptive Capacity Of Forgotten Breakfast Cereals: Diagraming Proletarian Addiction and Fuzziness","url":""}
+{"date":1487092655000,"author":"pkedrosky","rating":81,"text":"RT @ProbFact: 'Nature abhors an unconditioned probability.' -- @jakevdp","url":""}
+{"date":1487092330000,"author":"pkedrosky","rating":7,"text":"Synergy from reproductive division of labor and complexity drive the evolution of sex https:\/\/t.co\/ggC34d3qiz \/v @cxdig","url":""}
+{"date":1487092239000,"author":"pkedrosky","rating":3,"text":"Fun new government corruption research: Why in corrupt states aren\u2019t all agencies equally corrupt?\u2026","url":"https:\/\/t.co\/FjeZWHjPoV"}
+{"date":1487091438000,"author":"pkedrosky","rating":10,"text":"Hello, trough of VR disillusionment","url":"https:\/\/t.co\/0uzChfbZN6"}
+{"date":1487089303000,"author":"pkedrosky","rating":38,"text":"If they were smart, they'd leave to start their own universities: that's a better hedge fund front.","url":"https:\/\/t.co\/uVjzoB5G7l"}
+{"date":1487010989000,"author":"pkedrosky","rating":26,"text":"Good discussion of Oroville CA dam at AGU","url":"https:\/\/t.co\/D4hUnClQxt"}
+{"date":1487009907000,"author":"pkedrosky","rating":10,"text":"A 20 cm (8\") snowfall associated with a 34 per cent relative increased risk of death. Skiing? No. Shoveling.","url":"https:\/\/t.co\/oEDUAWFeP8"}
+{"date":1486999499000,"author":"pkedrosky","rating":14,"text":"Any sufficiently high number of daily steps is indistinguishable from a felony  \/v @crampell","url":"https:\/\/t.co\/7J2t7oRn0r"}
+{"date":1486999370000,"author":"pkedrosky","rating":4,"text":"Body-powered ingestibles: Prolonged energy harvesting for ingestible devices","url":"https:\/\/t.co\/1EvVct9w4G"}
+{"date":1486923328000,"author":"pkedrosky","rating":993,"text":"RT @earth2christine: It's Charles Darwin's Birthday! Let's remember that even great scientists had bad days, too. https:\/\/t.co\/hl7AVT6QR9 #\u2026","url":""}
+{"date":1486923262000,"author":"pkedrosky","rating":17,"text":"Innumeracy and its life & death consequences  \/cc @hjluks @JohnAllenPaulos","url":"https:\/\/t.co\/h1ShzBGn74"}
+{"date":1486917360000,"author":"pkedrosky","rating":130,"text":"We're gonna need a taller ski lift #snowpocalypse","url":"https:\/\/t.co\/zCiksSPecO"}
+{"date":1486910978000,"author":"pkedrosky","rating":212,"text":"Pro tip: My kids are much more eager to load & run the washing machine & dishwasher here if I call both machines \"robots\". Which they are.","url":""}
+{"date":1486823847000,"author":"pkedrosky","rating":93,"text":"RT @Radiolab: New ep! We dive into a $65 billion black hole with the team behind @Audible_com's #PonziSupernova. https:\/\/t.co\/GcyEYOwaac ht\u2026","url":""}
+{"date":1486763454000,"author":"pkedrosky","rating":13,"text":"People who think (former) Fortune 50 CEOs don\u2019t get twisted over being publicly contradicted by orangutans haven\u2019t met many Fortune 50 CEOs.","url":""}
+{"date":1486762736000,"author":"pkedrosky","rating":61,"text":"A solution to the single-question crowd wisdom problem: Select answer more popular than people predict\u2026","url":"https:\/\/t.co\/UgnSR11JLN"}
+{"date":1486762590000,"author":"pkedrosky","rating":23,"text":"Predatory QotD: \u201CThere\u2019s always been fervent interest about how to profit off the pain of the student-loan market\u201D","url":"https:\/\/t.co\/sVo6XUaUkI"}
+{"date":1486762093000,"author":"pkedrosky","rating":3,"text":"As I was saying, the merits of having employment tied to illiquid asset classes \u2026","url":"https:\/\/t.co\/DGZ8f4BfaQ"}
+{"date":1486762093000,"author":"pkedrosky","rating":3,"text":"As I was saying, the merits of having employment tied to illiquid asset classes \u2026","url":"https:\/\/t.co\/DGZ8f4BfaQ"}
+{"date":1486759947000,"author":"pkedrosky","rating":12,"text":"Twitter has lowest share of buy ratings of all large-cap US tech stocks. Curious how that stat performance backtest\u2026","url":"https:\/\/t.co\/LYZkYgwhs8"}
+{"date":1486759531000,"author":"pkedrosky","rating":10,"text":"The untold story about endowments' HF allocs:\n- Model driven rather than capacity driven \n- Job protection thru hiding in illiquid assets","url":""}
+{"date":1486759091000,"author":"pkedrosky","rating":72,"text":"RT @robinhanson: \"The more scientifically curious a person, the less likely she was to show partisan bias in answering questions.\" https:\/\/\u2026","url":""}
+{"date":1486758746000,"author":"pkedrosky","rating":19,"text":"I agree that endowments should allocate much more to passive, but, again, this is one small school and one year onl\u2026","url":"https:\/\/t.co\/KjqWPgLBTn"}
+{"date":1486758497000,"author":"pkedrosky","rating":3,"text":"Not that I disagree, but ... bad example:\n- Small fund\n- Likely never got to its 25% allocation target\n- Likely nev\u2026","url":"https:\/\/t.co\/DVgmuYv2xs"}
+{"date":1486757701000,"author":"pkedrosky","rating":5,"text":"I retract my claim that business school & MBA programs don't pay.","url":"https:\/\/t.co\/xCTpwW5C9m"}
+{"date":1486743983000,"author":"pkedrosky","rating":144,"text":"RT @CharlesCMann: Reminder: most important news last fall may be the 1st US patient killed by a bug resistant to *all* antibiotics: https:\/\u2026","url":""}
+{"date":1486741849000,"author":"pkedrosky","rating":8,"text":"Fitch: US instability has sovereign debt rating implications for its closest trading partners, like Canada \/via @ft","url":"https:\/\/t.co\/PVrbeY6g7w"}
+{"date":1486694005000,"author":"pkedrosky","rating":9,"text":"Nordic skiing higher than almost all of these, so puzzling omission.","url":"https:\/\/t.co\/nOZapXFgkK"}
+{"date":1486683923000,"author":"pkedrosky","rating":27,"text":"\u201C\u2026the proponents of competing paradigms practice their trades in different worlds.\u201D\n- Thomas Kuhn, The Structure of Scientific Revolutions","url":""}
+{"date":1486679098000,"author":"pkedrosky","rating":67,"text":"How Americans get injured, by state","url":"https:\/\/t.co\/x3zzjdycFi"}
+{"date":1486677159000,"author":"pkedrosky","rating":106,"text":"The next time I hear a monied venture capitalist proselytize about the wonders of risk & failure to a broke entrepreneur, I\u2019m gonna snap.","url":""}
+{"date":1486676884000,"author":"pkedrosky","rating":25,"text":"Helpful, albeit mostly for people who care about facts and stuff: How to Spot Visualization Lies","url":"https:\/\/t.co\/cnIoqt0NJC"}
+{"date":1486676696000,"author":"pkedrosky","rating":43,"text":"It is a good bet that anything that allows people to escape or cocoon will do well over the next few years.","url":"https:\/\/t.co\/WQqZqkP3rc"}
+{"date":1486676287000,"author":"pkedrosky","rating":2,"text":"Just wrote an email about phlogiston theory, Hugh MacLennan, and bowling. Why yes, it must be to @GregorMacdonald.","url":""}
+{"date":1486665212000,"author":"pkedrosky","rating":4,"text":"My kids often bail out on Premier League mid-game to play same match on FIFA. How long until human athletes are a bad demo for the game?","url":""}
+{"date":1486663421000,"author":"pkedrosky","rating":2,"text":"The weak La Niña is no longer, according to latest NOAA update \/cc @JKempEnergy","url":"https:\/\/t.co\/4h28vB7qhF"}
+{"date":1486660257000,"author":"pkedrosky","rating":10,"text":"Interesting new computer vision work:  North Atlantic right whale recognition using  neural networks","url":"https:\/\/t.co\/zcYygtKaGZ"}
+{"date":1486659363000,"author":"pkedrosky","rating":13,"text":"A brief introduction to Smullyan\u2019s puzzles. But buy his books, if not for you then for your kids\/parents.","url":"https:\/\/t.co\/QCYLrvRDj5"}
+{"date":1486659256000,"author":"pkedrosky","rating":15,"text":"Broadly applicable in many socioeconomic domains.","url":"https:\/\/t.co\/iWjjmcxbev"}
+{"date":1486659044000,"author":"pkedrosky","rating":10,"text":"Raymond Smullyan, the master of logic puzzles, has died. Geeky pre-teen me adored his puzzles. \/v @JohnAllenPaulos  #knightsandknavesforever","url":""}
+{"date":1486658098000,"author":"pkedrosky","rating":10,"text":"I recall seeing this episode of Black Mirror. It doesn\u2019t turn out well for us.","url":"https:\/\/t.co\/fcAf2h5Xg1"}
+{"date":1486610364000,"author":"pkedrosky","rating":16,"text":"Outrageously cool.","url":"https:\/\/t.co\/E1fadlOLgB"}
+{"date":1486600527000,"author":"pkedrosky","rating":3,"text":"Slartibartfast: It's a sort of threat, you see. I've never been terribly good at them myself but I'm told they can\u2026","url":"https:\/\/t.co\/AcYIxcRxfS"}
+{"date":1486599286000,"author":"pkedrosky","rating":5,"text":"Let the queues commence....","url":"https:\/\/t.co\/vnf1YTymSA"}
+{"date":1486598396000,"author":"pkedrosky","rating":13,"text":"Speaking of avoided surgeries, recently had orthopedic surgeon friend tell me of a boom in knee\/hip work as people anticipate end of ACA.","url":""}
+{"date":1486598084000,"author":"pkedrosky","rating":24,"text":"Get those delayed surgeries now, boys and girls.","url":"https:\/\/t.co\/Yegnm6hqph"}
+{"date":1486577824000,"author":"pkedrosky","rating":14,"text":"Sequoia\u2019s Mike Moritz apparently doesn\u2019t like private equity very much.","url":"https:\/\/t.co\/OvkBYp0dOJ"}
+{"date":1486576508000,"author":"pkedrosky","rating":11,"text":"System wide US pension fund return reset continues rippling outward....","url":"https:\/\/t.co\/0cbXMFql1T"}
+{"date":1486571260000,"author":"pkedrosky","rating":3,"text":"Life imitates art imitates life imitates art, etc.","url":"https:\/\/t.co\/9Atu62vNPx"}
+{"date":1486567495000,"author":"pkedrosky","rating":20,"text":"Classic @HansRosling shining a light \/v @amcafee","url":"https:\/\/t.co\/SVaZuxL4kP"}
+{"date":1486528924000,"author":"pkedrosky","rating":161,"text":"Important new paper from Piketty et al. on global economic inequality. The US case is striking. \/v @bijans\u2026","url":"https:\/\/t.co\/V4ZjptRKBK"}
+{"date":1486528040000,"author":"pkedrosky","rating":46,"text":"This is some reading list, like a polisci curriculum curated by Peter Wiggin and Ted Kaczynski.","url":"https:\/\/t.co\/fMu4vhRjSe"}
+{"date":1486524039000,"author":"pkedrosky","rating":6,"text":"While true, uncertainty is underrated: Uncertainty is sweeping the globe","url":"https:\/\/t.co\/g3owmzRUGT"}
+{"date":1486513469000,"author":"pkedrosky","rating":195,"text":"RT @michael_hendrix: The financial crisis kicked off 10 years ago today","url":"https:\/\/t.co\/F1xFBvq4c8"}
+{"date":1486507499000,"author":"pkedrosky","rating":18,"text":"Good perspective: Neglected Big Problems, by @robinhanson","url":"https:\/\/t.co\/WnqxzHmC7I"}
+{"date":1486507219000,"author":"pkedrosky","rating":8,"text":"Just realized an entire mile-by-mile tract of La Jolla has newly been converted to hospitals. Feels like Sim City run amok.","url":""}
+{"date":1486500930000,"author":"pkedrosky","rating":40,"text":"I\u2019m torn between being skeptical about techies running hedge funds, & skeptical about AI hype. So, skeptical.","url":"https:\/\/t.co\/ZBL8Ho3f3w"}
+{"date":1486500702000,"author":"pkedrosky","rating":13,"text":"Our red blood cells \u201Cremember\u201D if we\u2019ve previously been at altitude, speeding up acclimatization\u2026","url":"https:\/\/t.co\/VE80v5KKOs"}
+{"date":1486500434000,"author":"pkedrosky","rating":109,"text":"The VXX is a nearly perfectly-engineered tool to separate worried investors from their money. It is the unfenced sw\u2026","url":"https:\/\/t.co\/fe4jaLBYdC"}
+{"date":1486498817000,"author":"pkedrosky","rating":30,"text":"Today in ski-related foreclosure: \u201CAt one point a group of repo men used a helicopter to take back a ski lift\u201D","url":"https:\/\/t.co\/DloLHxdXUf"}
+{"date":1486498723000,"author":"pkedrosky","rating":42,"text":"Provocative @nntaleb interview out: grocery stores, dead-lifting, populism, etc.","url":"https:\/\/t.co\/FMHwHX0G59"}
+{"date":1486498535000,"author":"pkedrosky","rating":28,"text":"Lots of chatter still about investor Seth Klarman\u2019s #omigodwearesoscrewed letter of  two wks ago. Made NYT yesterday","url":"https:\/\/t.co\/kuCOC7croS"}
+{"date":1486491540000,"author":"pkedrosky","rating":14,"text":"I've been yapping about computer vision advances endlessly. So much more exciting\/important than what's happening i\u2026","url":"https:\/\/t.co\/WgrVovzkCq"}
+{"date":1486482661000,"author":"pkedrosky","rating":56,"text":"Very sad news. He was smart, charismatic, and one of a kind. Rosling's TED talk:","url":"https:\/\/t.co\/cyIwFga1C0"}
+{"date":1486425400000,"author":"pkedrosky","rating":16,"text":"Everyone, stop writing freighted & strangely ominous sentences: the best one's now been done.\u2026","url":"https:\/\/t.co\/ZQQCZcAxEx"}
+{"date":1486414189000,"author":"pkedrosky","rating":35,"text":"Fukushima radiation now at highest since reactor meltdown: Two-meter hole under pressure vessel\u2026","url":"https:\/\/t.co\/8bPkaTQ8uR"}
+{"date":1486410381000,"author":"pkedrosky","rating":13,"text":"I knew it. I mean, I didn\u2019t know it \u2014 but I knew it: More people are watching you than you thought\u2026","url":"https:\/\/t.co\/9txtusmnqQ"}
+{"date":1486409696000,"author":"pkedrosky","rating":14,"text":"Whimsical, funny, discursive, & devastating new piece on losing things by @kathrynschulz in the @NewYorker\u2026","url":"https:\/\/t.co\/MatROpKs13"}
+{"date":1486408642000,"author":"pkedrosky","rating":23,"text":"Impressive, but next scan under my kids\u2019 clothes in bedroom: Lidar used to map ancient Mayan superhighway system","url":"https:\/\/t.co\/yJN4UwHGwj"}
+{"date":1486336770000,"author":"pkedrosky","rating":9,"text":"Joe Strummer once spit on my friend John, who then didn't shower for a week. Expectorational bliss.","url":"https:\/\/t.co\/MaLuvGmNOZ"}
+{"date":1486335727000,"author":"pkedrosky","rating":22,"text":"Training my border collie to herd sheep is profoundly satisfying. I think I could disappear into this for a decade or three.","url":""}
+{"date":1486272874000,"author":"pkedrosky","rating":96,"text":"This is so unsettling, like The Truman Show in reverse: TV networks hiking ad rates for shows Trump watches\u2026","url":"https:\/\/t.co\/vbn5LrnZSR"}
+{"date":1486252735000,"author":"pkedrosky","rating":27,"text":"Does kicking out immigrants raise Americans' wages? No -- the case of the braceros scheme","url":"https:\/\/t.co\/NqUPzv0RJs"}
+{"date":1486234085000,"author":"pkedrosky","rating":34,"text":"Caught shot of avalanche in progress today. That's fun.","url":"https:\/\/t.co\/f11oH2TAKr"}
+{"date":1486219100000,"author":"pkedrosky","rating":16,"text":"Seems a little too pat & Hari Seldon, but...: Human cycles and the 2020 conflict ahead","url":"https:\/\/t.co\/e1SkhtYro0"}
+{"date":1486184475000,"author":"pkedrosky","rating":38,"text":"How come none of you undoubtedly lovely people told me that's it's now possible to close all tabs in Safari on IOS?","url":"https:\/\/t.co\/yQ6fCNP7No"}
+{"date":1486177193000,"author":"pkedrosky","rating":8,"text":"Brings new meaning to \"pow\" \/v @EvolvingJuan","url":"https:\/\/t.co\/C2kgrpMiO3"}
+{"date":1486141939000,"author":"pkedrosky","rating":18,"text":"Why It\u2019s Good To Be Wrong (by David Deutsch)","url":"https:\/\/t.co\/VcIUjvBlQG"}
+{"date":1486097849000,"author":"pkedrosky","rating":41,"text":"Late, important, and sad","url":"https:\/\/t.co\/vueIZIyLEy"}
+{"date":1486080766000,"author":"pkedrosky","rating":64,"text":"Oh, now you tell us: Patients treated by foreign-educated doctors are less likely to die, study finds","url":"https:\/\/t.co\/zapcrVh4Qx"}
+{"date":1486073870000,"author":"pkedrosky","rating":21,"text":"Pension fund reset bomb continues to go off quietly in US, as another state says whoops and cuts targets","url":"https:\/\/t.co\/dR82XqwHVr"}
+{"date":1486069270000,"author":"pkedrosky","rating":13,"text":"\u201CDunbar loved shooting skeet because he hated every minute of it and the time passed so slowly.\u201D\n- Joseph Heller, \u201CCatch-22\u201D","url":""}
+{"date":1486067846000,"author":"pkedrosky","rating":156,"text":"Say what you will, but expecting the worst from someone, and having them always do even worse than that, is a kind of outperformance.","url":""}
+{"date":1486059311000,"author":"pkedrosky","rating":4,"text":"Super @TetonGravity profile of Jackson super-skier @DubJH in their Faces & Places series","url":"https:\/\/t.co\/Mcbm1dSj8F"}
+{"date":1486058704000,"author":"pkedrosky","rating":15,"text":"Love it. Robo-your-financial-life. (obDisc: Investor)","url":"https:\/\/t.co\/xlQWNwrzd4"}
+{"date":1486057653000,"author":"pkedrosky","rating":213,"text":"RT @EricTopol: 2 outstanding artificial intelligence in medicine studies #AI\n1","url":"https:\/\/t.co\/5qY9Q4\u2026"}
+{"date":1486052783000,"author":"pkedrosky","rating":28,"text":"\"We need to reverse...the trend of connecting everything to the Internet\"","url":"https:\/\/t.co\/n79s6D9NFV"}
+{"date":1486047878000,"author":"pkedrosky","rating":11,"text":"Reputation dynamics in the market for illegal drugs: \u201CDude\u2019s got bomber dank, man \u2014 check his Yelp rating\u201D\u2026","url":"https:\/\/t.co\/SXGgWQc1YJ"}
+{"date":1485990195000,"author":"pkedrosky","rating":31,"text":"Fascinating article about why American cars don\u2019t sell in Japan. Short answer: It isn\u2019t trade barriers.\u2026","url":"https:\/\/t.co\/DTEOHmYQvN"}
+{"date":1485985736000,"author":"pkedrosky","rating":66,"text":"RT @dbiello: The scientific method in action...","url":"https:\/\/t.co\/0gD8jby6jv"}
+{"date":1485981023000,"author":"pkedrosky","rating":26,"text":"Robo-chefs: More evidence aging societies tend to adopt automation sooner, giving them accidental advantage\u2026","url":"https:\/\/t.co\/gtLPD8V29Y"}
+{"date":1485980160000,"author":"pkedrosky","rating":15,"text":"Controversial claim, but data interesting: Family firms r more innovative","url":"https:\/\/t.co\/g7YuaGTb5F"}
+{"date":1485979543000,"author":"pkedrosky","rating":21,"text":"Also, when Bill Gates enters a room, everyone gets wealthier in $\/capita  terms, right? Right.","url":"https:\/\/t.co\/n7SCfoGYfE"}
+{"date":1485975451000,"author":"pkedrosky","rating":11,"text":"Tech sector belief repatriation of offshore mega-cap cash will lead to M&A wave is seductive, but share buybacks & dividends more likely.","url":""}
+{"date":1485970716000,"author":"pkedrosky","rating":26,"text":"The Self-Driving Car's Bicycle Problem","url":"https:\/\/t.co\/8Rai6VJGwD"}
+{"date":1485969954000,"author":"pkedrosky","rating":7,"text":"Most dermatologist-dense area of US somehow isn\u2019t La Jolla. My biases are shattered.","url":"https:\/\/t.co\/0jAe3uN7X6"}
+{"date":1485968394000,"author":"pkedrosky","rating":17,"text":"YETI, 50x returns, and the best PE fund of the millennium","url":"https:\/\/t.co\/h3WBdZGxhu"}
+{"date":1485968097000,"author":"pkedrosky","rating":6,"text":"Giving tripartite govt a pseudo-parliament system is like giving a teenager a locked door & unlimited data plan: Nothing good ahead.","url":""}
+{"date":1485961675000,"author":"pkedrosky","rating":22,"text":"IPhone autocorrect insists that I should replace \"robots\" with \"elves\". This appeals to me.","url":""}
+{"date":1485961179000,"author":"pkedrosky","rating":18,"text":"This bimodal usage pattern is worth keeping in mind in the coming H-1B reform storm \/v @mchui","url":"https:\/\/t.co\/yp9LaB2QLC"}
+{"date":1485902478000,"author":"pkedrosky","rating":144,"text":"Curse you Sequoia Capital, for being so damn rational and progressive about running a venture partnership","url":"https:\/\/t.co\/ODoA7OAqKk"}
+{"date":1485901489000,"author":"pkedrosky","rating":9,"text":"OH: \"Mutual acquaintances largely loathe him, and those are the ones that say nice things about him.\"","url":""}
+{"date":1485898456000,"author":"pkedrosky","rating":7,"text":"There are people who take clothes that don't fit you, and, for a modest fee, make them fit you. 2017 is full of wondrous things.","url":""}
+{"date":1485893234000,"author":"pkedrosky","rating":8,"text":"This. 100x. So important.","url":"https:\/\/t.co\/xLVCLrOimg"}
+{"date":1485891895000,"author":"pkedrosky","rating":11,"text":"Spectacular avi control footage from Telluride. Mute audio to avoid chorus of \u201CWhoa\u201D, \u201CDude\u201D, \u201DNo way\u201D, etc.","url":"https:\/\/t.co\/GEPAub5sPF"}
+{"date":1485891577000,"author":"pkedrosky","rating":116,"text":"Tinder for orangutans turns out to be just like Tinder for humans","url":"https:\/\/t.co\/RgwxlXK5FR"}
+{"date":1485891140000,"author":"pkedrosky","rating":6,"text":"Trying to reassure the worried well via imaging tests doesn\u2019t work.","url":"https:\/\/t.co\/1dXgw6FDHf"}
+{"date":1485883407000,"author":"pkedrosky","rating":8,"text":"Related to prior tweet, here is a horrifically unreadable list of my current podcast subscriptions. Note: Only a fe\u2026","url":"https:\/\/t.co\/pGrSqBMT43"}
+{"date":1485882174000,"author":"pkedrosky","rating":41,"text":"You people & your superstitious fondness for  $200k two-year personal improvement projects, plus lost salary & dubious ROI, are adorable.","url":""}
+{"date":1485880589000,"author":"pkedrosky","rating":15,"text":"tl;dr: Duh, no.","url":"https:\/\/t.co\/zoG686IfCl"}
+{"date":1485879578000,"author":"pkedrosky","rating":5,"text":"\"trying to build up his immune system to fight the cold weather\"","url":"https:\/\/t.co\/ZL66Y90iBq"}
+{"date":1485876041000,"author":"pkedrosky","rating":184,"text":"Panel on superintelligence & AI: Musk, Sam Harris, Nick Bostrom, Ray Kurzweil, David Chalmers, Demis Hassabis, etc.","url":"https:\/\/t.co\/Nj07xr7Wxn"}
+{"date":1485875449000,"author":"pkedrosky","rating":3,"text":"Using Landsat Imagery to Improve Nightlight-Based Measures of Local Economic Activity","url":"https:\/\/t.co\/H9oCBC8mlV"}
+{"date":1485875245000,"author":"pkedrosky","rating":7,"text":"Algorithmic detection of sexually provocative imagery","url":"https:\/\/t.co\/CLMI499SVM"}
+{"date":1485874814000,"author":"pkedrosky","rating":9,"text":"Effects of one year of soccer training in inactive mildly hypertensive middle-aged women","url":"https:\/\/t.co\/5aJ6oqormM"}
+{"date":1485839216000,"author":"pkedrosky","rating":68,"text":"F. Scott Fitzgerald, \"The Crack-Up\"","url":"https:\/\/t.co\/V3A6f0cmbx"}
+{"date":1485813658000,"author":"pkedrosky","rating":11,"text":"In happier news, Canada has newly combined my two favorite drinking-related winter sports: crokinole and curling","url":"https:\/\/t.co\/Wm6tjJHW8C"}
+{"date":1485812125000,"author":"pkedrosky","rating":13,"text":"Good @nickbilton piece on the end of Hollywood","url":"https:\/\/t.co\/501wOwQPzn"}
+{"date":1485809634000,"author":"pkedrosky","rating":11,"text":"60 Minutes on mechanical doping on pro cycling. Technology finds a way.","url":"https:\/\/t.co\/cNbO3p2y8m"}
+{"date":1485798544000,"author":"pkedrosky","rating":76,"text":"The syllabus from that aforementioned \u201CCalling Bullshit\u201D course at @UW is classic:","url":"https:\/\/t.co\/eW9xa6ZQ0O"}
+{"date":1485798385000,"author":"pkedrosky","rating":76,"text":"This upcoming @uw course should be core curriculum, not elective: Calling Bullshit in the Age of Big Data","url":"https:\/\/t.co\/icvv0bZRA8"}
+{"date":1485795574000,"author":"pkedrosky","rating":14,"text":"Burning confidence on a funeral pyre doesn\u2019t, no matter how bright, give you the right to call it a signal fire.","url":""}
+{"date":1485790381000,"author":"pkedrosky","rating":35,"text":"\"Everybody matters or nobody matters.\"\n- Harry Bosch by Michael Connelly","url":""}
+{"date":1485788993000,"author":"pkedrosky","rating":6,"text":"Micro Satellites Usher in New Era in Ocean Wind Measurements","url":"https:\/\/t.co\/PM7ZVpLGIe"}
+{"date":1485788735000,"author":"pkedrosky","rating":15,"text":"Don't entirely disagree, but bet some might have wrongly said same thing at one point about alternating current.\u2026","url":"https:\/\/t.co\/4hH7b0ij1t"}
+{"date":1485736331000,"author":"pkedrosky","rating":9,"text":"Harvesting the era of less \/cc @chrisnelder","url":"https:\/\/t.co\/fStl174MzX"}
+{"date":1485624194000,"author":"pkedrosky","rating":2,"text":"Even Pretending To Be A Professional Tennis Player Is Terrifying (from 2015)","url":"https:\/\/t.co\/JXE55XR8GS"}
+{"date":1485584091000,"author":"pkedrosky","rating":186,"text":"RT @DegenRolf: The false certainty of knowing \"the truth\" worsens with increasing age. \nhttps:\/\/t.co\/B6LBDZy1bb","url":"https:\/\/t.co\/pQANbZCckr"}
+{"date":1485565071000,"author":"pkedrosky","rating":10,"text":"Sedasys story remains as cautionary as ever wrt the biggest barrier to medtech innovation: Powerful incumbents","url":"https:\/\/t.co\/H9QZiRdGmd"}
+{"date":1485558442000,"author":"pkedrosky","rating":15,"text":"Stunning 2016 retrospective from Surfer magazine photographers","url":"https:\/\/t.co\/YVgQYk9MBy"}
+{"date":1485558044000,"author":"pkedrosky","rating":24,"text":"Important, as pension plans adjust returns down: Cleveland pension plan cuts benefits promised to retirees","url":"https:\/\/t.co\/dQgqbnnYJy"}
+{"date":1485555159000,"author":"pkedrosky","rating":10,"text":"The longshoremen\u2019s lottery: Californians compete for blue-collar union job paying up to $200,000\u2026","url":"https:\/\/t.co\/se3Tlhd48F"}
+{"date":1485554825000,"author":"pkedrosky","rating":148,"text":"Association of Facebook Use With Compromised Well-Being: A Longitudinal Study","url":"https:\/\/t.co\/dE3vKaAtDE"}
+{"date":1485554593000,"author":"pkedrosky","rating":27,"text":"Hunter-gatherers and farming villagers sleep slightly less at night than smartphone-toting urbanites\u2026","url":"https:\/\/t.co\/G4HjvFG1xd"}
+{"date":1485554218000,"author":"pkedrosky","rating":7,"text":"How Life (and Death) Spring From Disorder","url":"https:\/\/t.co\/MUNwSbhLCS"}
+{"date":1485541051000,"author":"pkedrosky","rating":30,"text":"Fascinating: Why (many) aging countries grow faster than expected: Faster adoption of automation\u2026","url":"https:\/\/t.co\/ScZkwb4rOU"}
+{"date":1485532696000,"author":"pkedrosky","rating":19,"text":"Blame me not,\" said the scorpion, \"it is not my fault; it is that of my nature\"","url":"https:\/\/t.co\/N79d5ga3wG"}
+{"date":1485490721000,"author":"pkedrosky","rating":0,"text":"THE HEROES DEPART IN SEARCH OF A NEW PRINCIPLE\nHEIGH-HO \n- Donald Barthelme, \"Snow White\" (1967)","url":""}
+{"date":1485489830000,"author":"pkedrosky","rating":41,"text":"Nature finds a way.","url":"https:\/\/t.co\/b1SMnTjoCi"}
+{"date":1485453580000,"author":"pkedrosky","rating":10,"text":"From 2015, but evergreen and well done.","url":"https:\/\/t.co\/olPfDeS9Ic"}
+{"date":1485452967000,"author":"pkedrosky","rating":99,"text":"Voice UI impact is vastly overhyped, and computer vision impact is vastly underhyped. #TodayInVastly","url":""}
+{"date":1485451287000,"author":"pkedrosky","rating":149,"text":"Best. Canadian. Housing. Bubble. Euphemism. Ever.","url":"https:\/\/t.co\/Z3mvaC7wuL"}
+{"date":1485450937000,"author":"pkedrosky","rating":4,"text":"Combines dogs and skiing, so I'm all over it, but still excellent: Sun Dog","url":"https:\/\/t.co\/AKRR28kcAD"}
+{"date":1485450298000,"author":"pkedrosky","rating":27,"text":"Dermatologists, radiologists, etc.: Computer vision is going to transform image-related medicine.","url":"https:\/\/t.co\/xCbe4s95Is"}
+{"date":1485448718000,"author":"pkedrosky","rating":14,"text":"I'm as much of a fan of apocalypse as the next short-seller, but the Doomsday Clock always leaves me cold. False precision & broken y-axis.","url":""}
+{"date":1485446271000,"author":"pkedrosky","rating":43,"text":"The end of the multinational firm arbitrage, from @theeconomist","url":"https:\/\/t.co\/t9gHBdtvBF"}
+{"date":1485445300000,"author":"pkedrosky","rating":24,"text":"What record snow looks like as you drive the streets of Mammoth Lakes this week","url":"https:\/\/t.co\/GhDGg3jYg7"}
+{"date":1485444879000,"author":"pkedrosky","rating":16,"text":"Just finished Evans'\n\"The Coming of the Third Reich\", on how shards can coalesce & re-fracture in horrific ways.\u2026","url":"https:\/\/t.co\/SpLKQeRRQA"}
+{"date":1485443901000,"author":"pkedrosky","rating":6,"text":"Equity analysts bringing the heat","url":"https:\/\/t.co\/rf5A5iYszM"}
+{"date":1485443849000,"author":"pkedrosky","rating":15,"text":"Technology is deflationary; people\/cartels aren't","url":"https:\/\/t.co\/kL4B3rHO7q"}
+{"date":1485306257000,"author":"pkedrosky","rating":1,"text":"\u201CWithout bubaru, I can\u2019t make my superconductors.\u201C","url":"https:\/\/t.co\/DCuoFwewZK"}
+{"date":1485305623000,"author":"pkedrosky","rating":45,"text":"RT @mcgowankat: Oxford's Donnelly: roughly 100K people today have had genome sequenced. 10 years? It'll be 1 B people. #PMWC17","url":""}
+{"date":1485304996000,"author":"pkedrosky","rating":2,"text":"The CBOE Skew index \u2014 S&P 500 tail risk \u2014 has been (re-)discovered by media. Does it, you know, predict anything th\u2026","url":"https:\/\/t.co\/3rxHRd2nPX"}
+{"date":1485304395000,"author":"pkedrosky","rating":8,"text":"An oral history of Fox\u2019s dalliance with glowing pucks when covering hockey. https:\/\/t.co\/F2iuEt4ynh #MostCanadianClickbaitEver","url":""}
+{"date":1485301334000,"author":"pkedrosky","rating":14,"text":".@tferriss on why social media is hurting you","url":"https:\/\/t.co\/o94wIcX5RL"}
+{"date":1485300882000,"author":"pkedrosky","rating":13,"text":"If you\u2019re really into the latest in all-season tire tech \u2014 sunflower oil rubber, ftw \u2014 be sure to check my podcast, PaulTalksTireTech.","url":""}
+{"date":1485300404000,"author":"pkedrosky","rating":13,"text":"I love my Michelin Premier A\/S tires. AMA about why the best 2017 all-season tires are better in snow than 2007 win\u2026","url":"https:\/\/t.co\/ffYZH5Ajuq"}
+{"date":1485296710000,"author":"pkedrosky","rating":39,"text":"Snow banks are fairly tall in some parts of these here Sierra Nevadas","url":"https:\/\/t.co\/9VTzetTWgF"}
+{"date":1485213415000,"author":"pkedrosky","rating":30,"text":"RT @PNASNews: Browse timeless scientific research articles on the PNAS Classics Portal. Uncover more than 100 years of content at https:\/\/t\u2026","url":""}
+{"date":1485191338000,"author":"pkedrosky","rating":42,"text":"Interesting new paper out from JPM\u2019s Cembalest on declining marginal return to regulation in the US.\u2026","url":"https:\/\/t.co\/WvTGYV0ltX"}
+{"date":1485190884000,"author":"pkedrosky","rating":38,"text":"Again, a reminder that claim that healthcare tech is definitionally inflationary is mistaken.\u2026","url":"https:\/\/t.co\/aPdzcWBr8z"}
+{"date":1485190293000,"author":"pkedrosky","rating":6,"text":"Fun piece by @katiebakes about my talented ski buddy @codytownsend\u2019s film efforts. Somehow @sacca & I rate mentions\u2026","url":"https:\/\/t.co\/5Otjqu7jfj"}
+{"date":1485189609000,"author":"pkedrosky","rating":9,"text":"This is the pitch for the most unsettling meet-cute movie ever: When Carl Met Donny.","url":"https:\/\/t.co\/2WGQRjRg3z"}
+{"date":1485185287000,"author":"pkedrosky","rating":34,"text":"\"Robo-advisors\" is a stupid name for obvious progress. Brought to you by same naming nitwits as \"horseless carriages\" & \"wireless networks\".","url":""}
+{"date":1485184840000,"author":"pkedrosky","rating":88,"text":"Why is technology a strong deflationary force everywhere in economy, except healthcare, where it is inflationary?","url":"https:\/\/t.co\/gd9uFWBroY"}
+{"date":1484961386000,"author":"pkedrosky","rating":9,"text":"Okay, @RedBullTV is on a hell of a roll: The Streif is superb","url":"https:\/\/t.co\/2UVjwzWKhN)"}
+{"date":1484950010000,"author":"pkedrosky","rating":6,"text":"New study materially ups rainfall estimates from the Sahara\u2019s green period, 11,000 - 5,000 years ago.\u2026","url":"https:\/\/t.co\/fpUhFcDCQm"}
+{"date":1484949469000,"author":"pkedrosky","rating":16,"text":"I keep recommending Ed\u2019s super new book out next week (https:\/\/t.co\/8UXFulJgou), and here is the man himself.","url":"https:\/\/t.co\/TKgfL4RLmc"}
+{"date":1484949170000,"author":"pkedrosky","rating":51,"text":"Fascinating new NBER paper: The Rise of American Ingenuity: Innovation and Inventors of the Golden Age\u2026","url":"https:\/\/t.co\/FyPgA1S4es"}
+{"date":1484948330000,"author":"pkedrosky","rating":7,"text":"On disconfirmation bias: It\u2019s so exciting for me to think I might be wrong about something that I convince myself I\u2019m wrong too often.","url":""}
+{"date":1484948170000,"author":"pkedrosky","rating":69,"text":"What\u2019s opposite of confirmation bias? Something that describes people who love finding out they\u2019re wrong: Disconfirmation bias? I have that.","url":""}
+{"date":1484930699000,"author":"pkedrosky","rating":7,"text":"This @RedBullTV series comes highly recommended: The Horn \u2014 following a Swiss mountain rescue team","url":"https:\/\/t.co\/TbpihHTfdb"}
+{"date":1484929959000,"author":"pkedrosky","rating":10,"text":"In media counter-programming, the BBC series \"50 Things that Made the Modern Economy\" is compressed & interesting. \nhttps:\/\/t.co\/u5KFLGemvJ","url":""}
+{"date":1484925488000,"author":"pkedrosky","rating":6,"text":"Interesting FDA study: 22 drugs that crashed and burned in Phase III trials. Some remarkable II\/III divergences.","url":"https:\/\/t.co\/zigKvEv8Qm"}
+{"date":1484874448000,"author":"pkedrosky","rating":35,"text":"Candide Thovex outtakes here are just madness. Check the ski jump into a hatchback.","url":"https:\/\/t.co\/EfIq59fHom"}
+{"date":1484873594000,"author":"pkedrosky","rating":6,"text":"Speaking of avalanche airbags, it\u2019s interesting\/unsettling that in 2017 backpacks now come with updatable firmware.\u2026","url":"https:\/\/t.co\/UG328nrOBZ"}
+{"date":1484873101000,"author":"pkedrosky","rating":20,"text":"Poor choices; lucky outcome: Snowboarder in Whistler Survives Avalanche with Inflatable Backpack","url":"https:\/\/t.co\/DV8SkdQgUO"}
+{"date":1484872590000,"author":"pkedrosky","rating":76,"text":"Having now finished it, I highly recommend Ed Thorpe\u2019s \u201CA Man For All Markets\u201D. Smart, curious, and Feynman-ian.","url":"https:\/\/t.co\/8UXFum0Rg2"}
+{"date":1484858856000,"author":"pkedrosky","rating":26,"text":"The Howard Marks effect: Investors like their fund managers to sound miserable","url":"https:\/\/t.co\/eiG1mqTZMg"}
+{"date":1484858670000,"author":"pkedrosky","rating":8,"text":"Outcome proportions, numeracy, and attribute-framing bias","url":"https:\/\/t.co\/MxtShuElb4"}
+{"date":1484853903000,"author":"pkedrosky","rating":40,"text":"At its peak, Nortel was a staggering 35% of the TSE 300 in Toronto.","url":"https:\/\/t.co\/hN6Rx2e2HL"}
+{"date":1484853449000,"author":"pkedrosky","rating":27,"text":"Where are the LPs\u2019 boats: Fees mean average time before a hedge fund\u2019s capital exceeds client capital is ~17 yrs\u2026","url":"https:\/\/t.co\/oQAdbUkk1T"}
+{"date":1484853272000,"author":"pkedrosky","rating":100,"text":"Fascinating @KuperSimon piece in FT about the role of English itself in creating a cross-country attack surface\u2026","url":"https:\/\/t.co\/ZSqyQG5AJX"}
+{"date":1484852739000,"author":"pkedrosky","rating":31,"text":"Moshe Levy: The distribution of wealth at the highest end of the \u201Crichness\u201D scale is consistent with pure luck\u2026","url":"https:\/\/t.co\/kC0OzxS7Sm"}
+{"date":1484793205000,"author":"pkedrosky","rating":14,"text":"Super: John Shocklee \u2014 the life of a no-compromise mountain guide https:\/\/t.co\/JxhEKrpAtF \/v @slugball \/cc @codytownsend","url":""}
+{"date":1484792942000,"author":"pkedrosky","rating":189,"text":"RT @DegenRolf: Study about the benefits of reading fiction, loved and touted by the media, earns four failed replications at one go https:\/\u2026","url":""}
+{"date":1484767231000,"author":"pkedrosky","rating":8,"text":"Man returns 1.2 billion yuan mistakenly sent by Chinese bank","url":"https:\/\/t.co\/HmVuj4zJwe"}
+{"date":1484752526000,"author":"pkedrosky","rating":54,"text":"RT @robinhanson: Folks who visit local pub regularly are more socially engaged, feel more contented, & more likely to trust others in their\u2026","url":""}
+{"date":1484752249000,"author":"pkedrosky","rating":57,"text":"RT @DegenRolf: Even over multiple comparisons, ethics professors did not behave any more morally than non-ethicists.","url":"https:\/\/t.co\/DY0S2l9Lr\u2026"}
+{"date":1484715660000,"author":"pkedrosky","rating":429,"text":"RT @tqbf: Contender for best Matt Levine quote ever:","url":"https:\/\/t.co\/Yr9bqJGnlY"}
+{"date":1484701462000,"author":"pkedrosky","rating":10,"text":"Government abetted price inelasticity of demand is a funny thing. And not haha funny.","url":"https:\/\/t.co\/oIlstHlV4H"}
+{"date":1484699326000,"author":"pkedrosky","rating":125,"text":"Higher education is an excellent racket.","url":"https:\/\/t.co\/mKLYkbXgG3"}
+{"date":1484699199000,"author":"pkedrosky","rating":34,"text":"Almost 70% of public pension funds have reduced, or are considering reducing, assumed future returns\u2026","url":"https:\/\/t.co\/QT1qSWrp94"}
+{"date":1484666472000,"author":"pkedrosky","rating":8,"text":"Intellectual jumps, eclecticism, and changing reading habits","url":"https:\/\/t.co\/h4xTWfjlM8"}
+{"date":1484665890000,"author":"pkedrosky","rating":37,"text":"Some vacant space in malls is being filled by online outfits needing places for pickup and returns","url":"https:\/\/t.co\/9ch6AsbBLy"}
+{"date":1484665715000,"author":"pkedrosky","rating":3,"text":"Of course, nothing economic  declines monotonically, so this belated realization probably signals temporary improve\u2026","url":"https:\/\/t.co\/j9fEyrh2lE"}
+{"date":1484665581000,"author":"pkedrosky","rating":19,"text":"Everyone finally figuring (department) store sales going the way of... news, or something","url":"https:\/\/t.co\/wLEs3nEHnV"}
+{"date":1484665128000,"author":"pkedrosky","rating":22,"text":"From @jmeacham's fascinating new NYTBR column, The Long View","url":"https:\/\/t.co\/s0k0vhS4lU"}
+{"date":1484586014000,"author":"pkedrosky","rating":12,"text":"Quiet morning","url":"https:\/\/t.co\/37uXEa8FoY"}
+{"date":1484577825000,"author":"pkedrosky","rating":22,"text":"Ragnarok is here, it's just not evenly distributed \/v","url":"https:\/\/t.co\/A5PRY8nWoT"}
+{"date":1484575698000,"author":"pkedrosky","rating":33,"text":"The British pound is having an excellent adventure on hard Brexit fears","url":"https:\/\/t.co\/roZbqu29Xa"}
+{"date":1484574602000,"author":"pkedrosky","rating":18,"text":"RT @TomOrlik: A \"caveat of economists\"","url":"https:\/\/t.co\/JNGtpycD37"}
+{"date":1484437947000,"author":"pkedrosky","rating":10,"text":"[Audio] BILLY Bookcase - 50 Things That Made the Modern Economy","url":"https:\/\/t.co\/eQO3HeTodU"}
+{"date":1484402394000,"author":"pkedrosky","rating":24,"text":"Elevation gradient effects in urban America","url":"https:\/\/t.co\/UEu0D3JwDh"}
+{"date":1484320544000,"author":"pkedrosky","rating":182,"text":"Tried another door. No better, really.","url":"https:\/\/t.co\/6jNOzZ7Qcy"}
+{"date":1484320189000,"author":"pkedrosky","rating":86,"text":"My first task on this snowy morning: figuring out how to get out the door.","url":"https:\/\/t.co\/k57FnFzynI"}
+{"date":1484253610000,"author":"pkedrosky","rating":8,"text":"The continuing metastasis of the US public pension fund mess as, post-CalPERS, funds rejig expected returns in the\u2026","url":"https:\/\/t.co\/4thAA53fye"}
+{"date":1484253106000,"author":"pkedrosky","rating":21,"text":"Reacting to unexpected losses in an uncertain world: How some become even more risk-seeking","url":"https:\/\/t.co\/2pz8IDI2X2"}
+{"date":1484250713000,"author":"pkedrosky","rating":3,"text":"Likely my inner Canadian, but this was fascinating in Phil. Trans. R. Soc. A: Theme issue \u201CMicrodynamics of ice\u201D","url":"https:\/\/t.co\/avNKuZVGW0"}
+{"date":1484234867000,"author":"pkedrosky","rating":57,"text":"This is weirdly interesting: The intersecting set of people followed by some of most twitter-active VCs on the Mida\u2026","url":"https:\/\/t.co\/y0zyK9RW1z"}
+{"date":1484194105000,"author":"pkedrosky","rating":6,"text":"There will come a day -- ok, years ago -- when 150W in-car power inverters with AC110v & dual USB aren't way cool, but today is not that day","url":""}
+{"date":1484193365000,"author":"pkedrosky","rating":7,"text":"Dude!: Parkour athletes provide new insights into locomotion energetics of arboreal apes","url":"https:\/\/t.co\/gYJjy2NV63"}
+{"date":1484192933000,"author":"pkedrosky","rating":5,"text":"Walking is just a weird earth thing: Bouncing on Mars and the Moon\u2014the role of gravity on neuromuscular control\u2026","url":"https:\/\/t.co\/YJBYR5cCis"}
+{"date":1484192547000,"author":"pkedrosky","rating":28,"text":"Master Athletes Are Extending the Limits of Human Endurance","url":"https:\/\/t.co\/m3XTP9BWxx"}
+{"date":1484189096000,"author":"pkedrosky","rating":9,"text":"What is it about ear wax that makes humans barking mad: Doctors admonish us to leave earwax alone -- and we won't","url":"https:\/\/t.co\/6maiH2Ep2J"}
+{"date":1484156107000,"author":"pkedrosky","rating":19,"text":"Fear and Loathing across Party Lines: New Evidence on Group Polarization","url":"https:\/\/t.co\/0hNrLBbMuL"}
+{"date":1484147437000,"author":"pkedrosky","rating":4,"text":"Howard Marks on expert opinion","url":"https:\/\/t.co\/yzU8pYCoHq"}
+{"date":1484100266000,"author":"pkedrosky","rating":29,"text":"Evergreen: almost all US cities, almost all US states. The public pension mess continues to metastasize.","url":"https:\/\/t.co\/IJBxuS3dLb"}
+{"date":1484100266000,"author":"pkedrosky","rating":29,"text":"Evergreen: almost all US cities, almost all US states. The public pension mess continues to metastasize.","url":"https:\/\/t.co\/IJBxuS3dLb"}
+{"date":1484094306000,"author":"pkedrosky","rating":6,"text":"fan fic·tion\nnoun: fanfiction\n1.fiction written by a fan of, and featuring characters from, a particular TV series, movie, etc.","url":""}
+{"date":1484085854000,"author":"pkedrosky","rating":19,"text":"\u201CI respect you as a person too much to respect your ridiculous beliefs.\u201D\n\u2015 Johann Hari","url":""}
+{"date":1484066323000,"author":"pkedrosky","rating":111,"text":"RT @EricTopol: The relentless, remarkable global creep in blood pressure elevation https:\/\/t.co\/eQ2vHZg8Ab @JAMA_current @IHME_UW https:\/\/t\u2026","url":""}
+{"date":1484065734000,"author":"pkedrosky","rating":12,"text":"We never learn: Ballooning energy-conscious loans ignore borrowers\u2019 credit, contractors act as loan brokers\u2026","url":"https:\/\/t.co\/Y0IgfotGIn"}
+{"date":1484060966000,"author":"pkedrosky","rating":94,"text":"\"I wore men\u2019s clothes for a month \u2013 and it changed my life\": We need to talk about pockets","url":"https:\/\/t.co\/nomlrtPkUb"}
+{"date":1484027088000,"author":"pkedrosky","rating":17,"text":"I go back to this again and again: D.H. Lawrence on Melville's \"Moby Dick\"","url":"https:\/\/t.co\/kBTwf8gatM"}
+{"date":1484026150000,"author":"pkedrosky","rating":0,"text":"Óðinn kvað:\n\n\"Fjölð ek fór,\nfjölð ek freistaðak,\nfjölð ek of reynda regin:\nHvat lifir manna,\nþá er inn mæra líðr\nfimbulvetr með firum?\"","url":""}
+{"date":1484016305000,"author":"pkedrosky","rating":5,"text":"Political life today, in one Mturk study: Our Followers Are Lions, Theirs Are Sheep","url":"https:\/\/t.co\/QqRz4UPGxr"}
+{"date":1484003653000,"author":"pkedrosky","rating":26,"text":"Just received my (autographed!) copy of investing legend Ed Thorp\u2019s \u201CA Man For All Markets\u201D. Can\u2019t wait to read.\u2026","url":"https:\/\/t.co\/e5Vfh8zupz"}
+{"date":1483992092000,"author":"pkedrosky","rating":6,"text":"The Man Against Everything: Philosopher Mark Greif vs. health, youth, & happiness","url":"https:\/\/t.co\/Y88DVz5YvG"}
+{"date":1483988069000,"author":"pkedrosky","rating":5,"text":"Also interesting, looking back, how Jobs et al. missed that iPhone launch & persistent net access marked peak of downloaded music market..","url":""}
+{"date":1483987751000,"author":"pkedrosky","rating":27,"text":"Interesting how, in looking back ten years later at the iPhone launch, Jobs undersells the camera","url":"https:\/\/t.co\/reNBzNsly6"}
+{"date":1483985398000,"author":"pkedrosky","rating":2,"text":"Migration from mobile operator voice and text services will cost operators $104b this year, sayeth Jupiter","url":"https:\/\/t.co\/Tv0eMEfVlR"}
+{"date":1483985159000,"author":"pkedrosky","rating":7,"text":"\u2018Cause it came up in discussing the current atavistic ardor for Ruralology, the classic Four Yorkshiremen sketch","url":"https:\/\/t.co\/b0IAoVUwrr"}
+{"date":1483984451000,"author":"pkedrosky","rating":5,"text":"Interesting paper: Science and complexity (1947) \/v @cxdig","url":"https:\/\/t.co\/14owF9TzUG"}
+{"date":1483983776000,"author":"pkedrosky","rating":1,"text":"Ecoevolutionary feedbacks on our timescales: Urban signatures of phenotypic change in animal & plant populations","url":"https:\/\/t.co\/XetYHrVOTd"}
+{"date":1483983529000,"author":"pkedrosky","rating":3,"text":"[Audio]  Good discussion : The best sports book of all time \/v @offtheball","url":"https:\/\/t.co\/fMeyqeYvke"}
+{"date":1483975672000,"author":"pkedrosky","rating":5,"text":"Turns out being a guru doesn't protect you from poor recent performance","url":"https:\/\/t.co\/K1JgmhISfc"}
+{"date":1483974573000,"author":"pkedrosky","rating":63,"text":"Worth musing what happens and what weird new markets open when LiDAR becomes  (effectively) free","url":"https:\/\/t.co\/K8PsBhc4Xv"}
+{"date":1483916656000,"author":"pkedrosky","rating":43,"text":"Amusing that digerati are only now realizing that much mall retail is going the way of newspapers. Been a favorite hedge short for years.","url":""}
+{"date":1483815551000,"author":"pkedrosky","rating":174,"text":"RT @nick_bunker: According to the Katz & Krueger data, not measuring gig economy well has us undercounting EPOP & LFPR by 0.8 percentage po\u2026","url":""}
+{"date":1483749319000,"author":"pkedrosky","rating":38,"text":"Keep trying and failing to find a replacement for the indispensable @simplenoteapp. No idea why I bother. It\u2019s just \u2026 indispensable.","url":""}
+{"date":1483748213000,"author":"pkedrosky","rating":47,"text":"Remarkable and sad story of epic (no pun intended) software installation mismanagement.","url":"https:\/\/t.co\/3i3iTdlnXa"}
+{"date":1483745625000,"author":"pkedrosky","rating":28,"text":"We spoke to five millennials about teleportation. \u201CI don\u2019t want to have to use cars\u201D.","url":"https:\/\/t.co\/W9hLGqQjVE"}
+{"date":1483744273000,"author":"pkedrosky","rating":6,"text":"","url":"https:\/\/t.co\/SuTrHjd24B"}
+{"date":1483718159000,"author":"pkedrosky","rating":93,"text":"RT @leedrutman: Forget about the median voter. This is the part of Downs' An Economic Theory of Democracy that is relevant today https:\/\/t.\u2026","url":""}
+{"date":1483716443000,"author":"pkedrosky","rating":87,"text":"A Month Without Sugar","url":"https:\/\/t.co\/dC723qo3JY"}
+{"date":1483654629000,"author":"pkedrosky","rating":7,"text":"On Progress and Historical Change","url":"https:\/\/t.co\/MrZhcAVKNl"}
+{"date":1483645741000,"author":"pkedrosky","rating":9,"text":"\u201CThe past is a foreign country; they do things differently there.\u201D\n \u2014L. P. Hartley, The Go-Between (1953)","url":""}
+{"date":1483644839000,"author":"pkedrosky","rating":28,"text":"United Van Lines has out its 2016 \u201Cwho moved where\u201D report. Apparently New Jersey is on path to being uninhabited.\u2026","url":"https:\/\/t.co\/iZqDkLgWsG"}
+{"date":1483644555000,"author":"pkedrosky","rating":3,"text":"Henry could just be making this up, but I want it to be true.","url":"https:\/\/t.co\/xf9in09hEB"}
+{"date":1483632848000,"author":"pkedrosky","rating":28,"text":"Judging by all the timeline geeksplaining how bitcoin is both a store of value _and_ a medium of exchange, it must be ready to burst again.","url":""}
+{"date":1483629997000,"author":"pkedrosky","rating":14,"text":"Two of my most overused words lately both come from medicine: iatrogenic and incidentaloma. So handy. Join me in abusing them. \/cc @hjluks","url":""}
+{"date":1483628775000,"author":"pkedrosky","rating":18,"text":"Speaking of Sokal, there is a super new oral history out of the Sokal hoax in Chronicle of Higher Education","url":"https:\/\/t.co\/JxmFaQjWNC"}
+{"date":1483594361000,"author":"pkedrosky","rating":11,"text":"Venetians, Volcker and Value-at-Risk: 8 centuries of bond market reversals","url":"https:\/\/t.co\/5fHATDuzcH"}
+{"date":1483588644000,"author":"pkedrosky","rating":33,"text":"From mice \u2014 hyper-intelligent pan-dimensional beings \u2014 but \u2026 pigeons?: Pigeons, Humans, and the Monty Hall Dilemma\u2026","url":"https:\/\/t.co\/wRPhiqQQiJ"}
+{"date":1483575716000,"author":"pkedrosky","rating":12,"text":"As cynically as I can mull it, I don\u2019t get the ardor among large-cap US techs for investing in SoftBank\u2019s $100b+ fund. What am I missing?","url":""}
+{"date":1483569230000,"author":"pkedrosky","rating":46,"text":"Cute story: How Cormac McCarthy helped Brian Arthur come up with his seminal HBR article on increasing returns\u2026","url":"https:\/\/t.co\/OWC1n6DqNb"}
+{"date":1483568873000,"author":"pkedrosky","rating":38,"text":"California\u2019s pension funding problems are getting worse, and the rhetoric is more deranged by day\u2026","url":"https:\/\/t.co\/Zk6wgjZ7sd"}
+{"date":1483557489000,"author":"pkedrosky","rating":17,"text":"I\u2019m sure that will work out fine, right? Right?","url":"https:\/\/t.co\/5hshUCeKnA"}
+{"date":1483554674000,"author":"pkedrosky","rating":5,"text":"Malaria\u2019s long tail: \nMalaria Suitability, Urbanization & Persistence: Evidence From China Over More Than 2000 Year\u2026","url":"https:\/\/t.co\/tUZC7RqD8J"}
+{"date":1483554164000,"author":"pkedrosky","rating":24,"text":"RT @robinhanson: \"In US >100% of increase in leisure '65 to '03 can be accounted for by the increase in the time spent watching TV\" https:\/\u2026","url":""}
+{"date":1483549825000,"author":"pkedrosky","rating":24,"text":"Sadly, will likely stop no-one from embracing detox quackery.","url":"https:\/\/t.co\/u2n0LduEvw"}
+{"date":1483549758000,"author":"pkedrosky","rating":5,"text":"I have two doctors \u2014 okay, one\u2019s a vet \u2014 that call personally after appointments  \u201CJust to see how things are going\u201D. It\u2019s unnerving.","url":""}
+{"date":1483544198000,"author":"pkedrosky","rating":42,"text":"Fascinating cardiovascular work: heart disease and voice. \/cc @EricTopol \/v @azeem","url":"https:\/\/t.co\/ndcKvVsBFR"}
+{"date":1483543534000,"author":"pkedrosky","rating":31,"text":"Clever work on fame, death, and media technology: How many famous people will die in 2017?","url":"https:\/\/t.co\/4uf409Myio"}
+{"date":1483542184000,"author":"pkedrosky","rating":43,"text":"Drumbeat of discontent gets louder among the Apple faithful.","url":"https:\/\/t.co\/XooaJKvS25"}
+{"date":1483540214000,"author":"pkedrosky","rating":17,"text":"Great moments in tech product naming: Garmin Fenix5","url":"https:\/\/t.co\/gBd4GI5Hzz"}
+{"date":1483495822000,"author":"pkedrosky","rating":43,"text":"What the Luddites can teach us about the coming war in the job market","url":"https:\/\/t.co\/wekqiY2z74"}
+{"date":1483489262000,"author":"pkedrosky","rating":5,"text":"Always interesting seeing what apps ate all our vacation bandwidth over Christmas holidays.","url":"https:\/\/t.co\/rSkaecUblV"}
+{"date":1483486857000,"author":"pkedrosky","rating":97,"text":"tl;dr: Automation is only a minor part of story. \n\nDisappearing Routine Jobs: Who, How, and Why?\u2026","url":"https:\/\/t.co\/TGE40MbYFw"}
+{"date":1483483106000,"author":"pkedrosky","rating":19,"text":"I\u2019m fond of financial markets participants\u2019 chiding conceit that their business is fact-based. Go on, tell me more, blinkered one.","url":""}
+{"date":1483481554000,"author":"pkedrosky","rating":15,"text":"RT @AnnieHandler: Why did evolution give us allergens? Research hints to protect us from toxins. Check out Venemous by @NerdyChristie\nhttps\u2026","url":""}
+{"date":1483481398000,"author":"pkedrosky","rating":29,"text":"Isaac Asimov on creativity, making the important point that it\u2019s about both solitude and collisions\u2026","url":"https:\/\/t.co\/NULWSSqf7T"}
+{"date":1483480888000,"author":"pkedrosky","rating":13,"text":"Great book, made even better by Yvon Chouinard\u2019s voice.","url":"https:\/\/t.co\/L5ntgAESsb"}
+{"date":1483480720000,"author":"pkedrosky","rating":262,"text":"100 most-discussed scientific articles of 2016. Full article","url":"https:\/\/t.co\/ltrPKLHv20"}
+{"date":1483477526000,"author":"pkedrosky","rating":18,"text":"RT @JohnAllenPaulos: The whole philosophy community is mourning Derek Parfit. Here's why he mattered. https:\/\/t.co\/qIk3BygP3L via @voxdotcom","url":""}
+{"date":1483477394000,"author":"pkedrosky","rating":16,"text":"Sometimes you just have to get the hell off the flood plain, both literally and metaphorically.","url":"https:\/\/t.co\/qk6g6rCvtB"}
+{"date":1483477250000,"author":"pkedrosky","rating":57,"text":"Arguing there is no information overload, only filter failure, is like arguing there are no floods, only dam failure. Odious & technocratic.","url":""}
+{"date":1483465659000,"author":"pkedrosky","rating":43,"text":"Granted, it\u2019s only January 3rd, but I\u2019m pre-nominating \u201Ckayfabe\u201D for word of the year. I know, it\u2019s not a new word,\u2026","url":"https:\/\/t.co\/wmfjV7f7Ic"}
+{"date":1483457102000,"author":"pkedrosky","rating":9,"text":"Is there a reason all the planets orbit the sun in approximately the same plane and direction? \/v \/r\/askscience","url":"https:\/\/t.co\/zwktttc3ov"}
+{"date":1483456428000,"author":"pkedrosky","rating":896,"text":"Spelling error searches by US state","url":"https:\/\/t.co\/keC0Y97zio"}
+{"date":1483419763000,"author":"pkedrosky","rating":25,"text":"Tinder, but for heliski trip cabin roommates","url":""}
+{"date":1483369444000,"author":"pkedrosky","rating":2,"text":"Just because it came up recently \u2026  Veronica, a search engine system for the Gopher protocol","url":"https:\/\/t.co\/Rkir2Ranye"}
+{"date":1483335983000,"author":"pkedrosky","rating":24,"text":"If Cormac McCarthy rewrote Ice Station Zebra after binge watching John Carpenter's oeuvre, you'd get the darkly powerful The North Water.","url":""}
+{"date":1483326682000,"author":"pkedrosky","rating":46,"text":"Comparing the Snowdrift game with the Prisoner\u2019s Dilemma","url":"https:\/\/t.co\/gZxoC36Hcs"}
+{"date":1483326386000,"author":"pkedrosky","rating":11,"text":"I somehow missed the impressive Motion Stills app from Google.","url":"https:\/\/t.co\/R3XXK9I8Jo"}
+{"date":1483326214000,"author":"pkedrosky","rating":37,"text":"SSRN top papers of 2016","url":"https:\/\/t.co\/opc16p4oej"}
+{"date":1483326119000,"author":"pkedrosky","rating":16,"text":"Why Were the Dark Ages so Dark?","url":"https:\/\/t.co\/wcbE0cz2NL"}
+{"date":1483325118000,"author":"pkedrosky","rating":6,"text":"RT @zwinst: link is broken, but the goal is unreal","url":"https:\/\/t.co\/ypo7qYEfAM"}
+{"date":1483286670000,"author":"pkedrosky","rating":7,"text":"Can only be days until the hot takes combining actuarial data and anti-boomer sneering to explain 2016 was predictable wrt celebrity deaths.","url":""}
+{"date":1483286243000,"author":"pkedrosky","rating":5,"text":"A minor twitter celebrity is getting undue attention by being wrong & politicized about science's claims and methods. #EvergreenMetatweet","url":""}
+{"date":1483286030000,"author":"pkedrosky","rating":24,"text":"Weird how this went  from  accurate, to laughably dated, to accurate again. Telephones are evil.","url":"https:\/\/t.co\/lWrThFGrFE"}
+{"date":1483285920000,"author":"pkedrosky","rating":25,"text":"Nice -- if episodically passive aggressive -- profile of writer Michael Lewis","url":"https:\/\/t.co\/TQCZhKVsZf"}
+{"date":1483284214000,"author":"pkedrosky","rating":20,"text":"Anger and decisions","url":"https:\/\/t.co\/UAxDz2g5Nl"}
+{"date":1483205157000,"author":"pkedrosky","rating":3,"text":"RT @pkedrosky: Warning: Was huge fun to do, but end product contains a lot of my annoying voice. #TruthBombsRUs","url":"https:\/\/t.co\/KBeb5DDAWB"}
+{"date":1483200667000,"author":"pkedrosky","rating":7,"text":"Black Plague and horrors of WWI were indeed despair inducing,  but there was the invention of the toggle light swit\u2026","url":"https:\/\/t.co\/oFczynWGZO"}
+{"date":1483159627000,"author":"pkedrosky","rating":59,"text":"Fascinating: \"Noroviruses are perhaps the perfect human pathogens\"","url":"https:\/\/t.co\/hk6VNb3r3A"}
+{"date":1483144095000,"author":"pkedrosky","rating":5,"text":"Build a decent short-neck 75PAR30 LED pot light and owners of over-priced homes will beat a path to your mocha-stained door.","url":""}
+{"date":1483136423000,"author":"pkedrosky","rating":0,"text":"Interesting, but not a particularly fair comparison given relatively unbounded nature of diagnostic vignettes.","url":"https:\/\/t.co\/CFvfgr2yno"}
+{"date":1483136013000,"author":"pkedrosky","rating":15,"text":"Simplifying assumption: All of it. \n\nTowards Automatic Real Time Detection of Malicious Content on Facebook","url":"https:\/\/t.co\/yNSM3Es3TQ"}
+{"date":1483129983000,"author":"pkedrosky","rating":11,"text":"Warning: Was huge fun to do, but end product contains a lot of my annoying voice. #TruthBombsRUs","url":"https:\/\/t.co\/KBeb5DDAWB"}
+{"date":1483112661000,"author":"pkedrosky","rating":222,"text":"Mercator projections distort polar regions, but most still surprised Africa is 14x Greenland","url":"https:\/\/t.co\/zB5CGGFVVj"}
+{"date":1483109767000,"author":"pkedrosky","rating":57,"text":"RT @FTMarkets: Hindsight Capital\u2019s winners and losers over past 10 years: Shorting oil and buying US small-caps was trade of decade https:\/\u2026","url":""}
+{"date":1483069389000,"author":"pkedrosky","rating":18,"text":"Mia eclectic amigo @BrianNorgard gets the NYT profile treatment. Congrats, my friend.","url":"https:\/\/t.co\/s7uL26iSjv"}
+{"date":1483035735000,"author":"pkedrosky","rating":44,"text":"Only see this sort of bizarre Beware of Post-Employment Anomie headline in an incurious society lacking any inner l\u2026","url":"https:\/\/t.co\/KTFyQh6nPT"}
+{"date":1483023102000,"author":"pkedrosky","rating":17,"text":"Reverse shipping: Clever. Does it work for teenagers? \n\nAmazon will pay for you to ship unwanted items to Goodwill","url":"https:\/\/t.co\/nMhGhCUmoo"}
+{"date":1482945273000,"author":"pkedrosky","rating":15,"text":"Out touring on the skate skis today. Dead quiet.","url":"https:\/\/t.co\/lrvwZz6ozt"}
+{"date":1482936241000,"author":"pkedrosky","rating":12,"text":"Mountains and the paradise paradox: Why Are Ski Towns Seeing More Suicides?","url":"https:\/\/t.co\/Q2cGqX4tG1"}
+{"date":1482932247000,"author":"pkedrosky","rating":31,"text":"Whole thread worth scannng. \/v @ritholtz","url":"https:\/\/t.co\/nbvNoDwHI1"}
+{"date":1482881304000,"author":"pkedrosky","rating":276,"text":"RT @interfluidity: not only must you read widely, you must read widely charitably. that, it turns out, is the hard part.","url":""}
+{"date":1482881266000,"author":"pkedrosky","rating":32,"text":"That sad mountain town coffee shop conversation when late-20s types who stayed one winter too long try to justify their life choices.","url":""}
+{"date":1482850580000,"author":"pkedrosky","rating":10,"text":"\"420 Friendly\": Revealing Marijuana Use via Craigslist Rental Ads","url":"https:\/\/t.co\/B2SV7s5PEQ"}
+{"date":1482763871000,"author":"pkedrosky","rating":10,"text":"This hygge phenomenon can't decline too soon. \/cc @jonasnolsen","url":"https:\/\/t.co\/YcftVINtcy"}
+{"date":1482678260000,"author":"pkedrosky","rating":7,"text":"The most universally applicable sentence fragment in all of Wikipedia  \/v @DavidBCollum","url":"https:\/\/t.co\/Dp5WGPbD8I"}
+{"date":1482677794000,"author":"pkedrosky","rating":33,"text":"We are all just seminude tweeting in front of Christmas trees, no?","url":"https:\/\/t.co\/iK3bS6zvEB"}
+{"date":1482676335000,"author":"pkedrosky","rating":11,"text":"tl;dr: Nordic skiing over open ocean swimming and ultra running, but still worth a read.","url":"https:\/\/t.co\/DsSvTJGHhg"}
+{"date":1482506713000,"author":"pkedrosky","rating":25,"text":"If you successfully spread malware to American think tanks, how would anyone tell the difference? I'll take my answer off the air. Thanks.","url":""}
+{"date":1482506265000,"author":"pkedrosky","rating":7,"text":"Just earning returns from specialization, really \/by @vinodsreeharsha","url":"https:\/\/t.co\/pe91xphngB"}
+{"date":1482505352000,"author":"pkedrosky","rating":15,"text":"Year-in-review writing is usually safely ignored, but I always make an exception for @DavidBCollum's contributions","url":"https:\/\/t.co\/iEZVjRcIF0"}
+{"date":1482384153000,"author":"pkedrosky","rating":84,"text":"Worth reminding that even CalPERS thinks CalPERS' reduced return target is still unachievable\u2026","url":"https:\/\/t.co\/WJFxiKNt0L"}
+{"date":1482371084000,"author":"pkedrosky","rating":12,"text":"Cracks will spread from here for years, given higher taxes and lower benefits, with  consequences for Democrats' ho\u2026","url":"https:\/\/t.co\/0ebVlgkLOZ"}
+{"date":1482250417000,"author":"pkedrosky","rating":39,"text":"Out getting some morning  corduroy #mammothmountain","url":"https:\/\/t.co\/30bpEUAa4l"}
+{"date":1481827346000,"author":"pkedrosky","rating":32,"text":"Everyone in, the Vancouver bubble\u2019s fine: B.C. offers interest-free loans up to $37,500 to first-time homebuyers","url":"https:\/\/t.co\/68u3z5vqKP"}
+{"date":1481824147000,"author":"pkedrosky","rating":5,"text":"Of course, according to same BoC report, Vancouver isn\u2019t much better than Toronto with respect to mortgage leverage","url":"https:\/\/t.co\/PGcWYZztvV"}
+{"date":1481824012000,"author":"pkedrosky","rating":113,"text":"Move along, nothing mad to see here: Nearly half of mortgagees in Toronto have home debt >450% of their incomes\u2026","url":"https:\/\/t.co\/w8xH8D9ebS"}
+{"date":1481823519000,"author":"pkedrosky","rating":1,"text":"Eleganz sei die Sache der Schuster und Schneider. (Elegance should be left to shoemakers and tailors.)\n\u2014 Ludwig Boltzmann (attrib.)","url":""}
+{"date":1481822032000,"author":"pkedrosky","rating":13,"text":"I was griping earlier about human quirks, and a friend recited this classic TNG Q dialog to me verbatim, as respons\u2026","url":"https:\/\/t.co\/nO75JeJgRQ"}
+{"date":1481821636000,"author":"pkedrosky","rating":7,"text":"Well, they are merely the protrusion into our dimension of vast hyperintelligent pandimensional beings: Ageless mice","url":"https:\/\/t.co\/P3b7nECJaO"}
+{"date":1481814484000,"author":"pkedrosky","rating":5,"text":"Fun with crap studies: Why fMRI inferences for spatial extent have inflated false-positive rates https:\/\/t.co\/rsJaLEFyGO \/v @jhagel","url":""}
+{"date":1481768498000,"author":"pkedrosky","rating":36,"text":"Solar panels today are responsible for ~20 grams of CO2 per kWh of energy; in 1975 that was 400-500 grams.\u2026","url":"https:\/\/t.co\/iFaTu8P3gV"}
+{"date":1481756723000,"author":"pkedrosky","rating":101,"text":"Freeman Dyson: The time when I did my best work was when I was most ignorant. Knowing too much is a great handicap.","url":"https:\/\/t.co\/AtIzgi48o0"}
+{"date":1481756472000,"author":"pkedrosky","rating":21,"text":"RT @NAChristakis: \"cellphones meet need for social connection in same way that vending machines play to our need for calories\" https:\/\/t.co\u2026","url":""}
+{"date":1481755692000,"author":"pkedrosky","rating":18,"text":"We are in Shaun of the Dead, no?  \u201CZombie\u201D Outbreak Caused by Synthetic Cannabinoid AMB-FUBINACA in NYC\u2026","url":"https:\/\/t.co\/tP4rnw8kpA"}
+{"date":1481745494000,"author":"pkedrosky","rating":46,"text":"A 17-fold error, sort of like thinking Barstow CA is somewhere in New Jersey as you drive from Los Angeles.","url":"https:\/\/t.co\/otmhj0QGaW"}
+{"date":1481743290000,"author":"pkedrosky","rating":9,"text":"Steve Feinberg has died. The co-founder of the indispensable journal CHANCE, & a deep statistical thinker. Sad loss.","url":"https:\/\/t.co\/JXfIxUg2VE"}
+{"date":1481741516000,"author":"pkedrosky","rating":4,"text":"News that China is installing weapons on artificial islands is classic Get Smart https:\/\/t.co\/f0cYUu9Wce #SchwartzsIsland","url":""}
+{"date":1481731954000,"author":"pkedrosky","rating":73,"text":"An act of contrarian thinking I sometimes engage in -- whether in politics, medicine, or investing -- is WHAT IF EVERYTHING TURNS OUT OK?","url":""}
+{"date":1481731727000,"author":"pkedrosky","rating":24,"text":"RT @pkedrosky: \"Thou shalt not make a machine in the likeness of a human mind.\"\n- O.C. Bible","url":""}
+{"date":1481667373000,"author":"pkedrosky","rating":26,"text":"Sadly, very few individual investors take advantage of that temporal edge.","url":"https:\/\/t.co\/iAQ4oHonKO"}
+{"date":1481653946000,"author":"pkedrosky","rating":48,"text":"My favorite thing about people who quit Twitter is how they talk & blog endlessly about having quit Twitter. Hey, maybe tweet about it.","url":""}
+{"date":1481653694000,"author":"pkedrosky","rating":12,"text":"\u201CThieves respect property; they merely wish the property to become their property that they may more perfectly respect it.\u201D\n-G.K. Chesterton","url":""}
+{"date":1481581727000,"author":"pkedrosky","rating":11,"text":"Running reduces knee inflammation","url":"https:\/\/t.co\/l92A91sl4J"}
+{"date":1481581499000,"author":"pkedrosky","rating":63,"text":"Humans are a mess: Half of us prone to believing in false, suggested events. See","url":"https:\/\/t.co\/xg1zEkmirD"}
+{"date":1481565280000,"author":"pkedrosky","rating":7,"text":"I spent the weekend in an Irvine, California neighborhood where complete strangers walk up to you on the street and talk to you. AMA.","url":""}
+{"date":1481564903000,"author":"pkedrosky","rating":13,"text":"\u201CThe beatings will continue until morale increases\u201D: The corporate wellness racket","url":"https:\/\/t.co\/j9JwaCGXGU"}
+{"date":1481555152000,"author":"pkedrosky","rating":1,"text":"And they'll have panels and roundtables too.","url":"https:\/\/t.co\/vzpSPF39Pp"}
+{"date":1481554848000,"author":"pkedrosky","rating":53,"text":"Weirdly hilarious watching coastal America belatedly discover rest of country and earnestly pushing Hillbilly Elegy on one another.","url":""}
+{"date":1481480117000,"author":"pkedrosky","rating":7,"text":"","url":"https:\/\/t.co\/um9EBJH5uQ"}
+{"date":1481480037000,"author":"pkedrosky","rating":35,"text":"\"Thou shalt not make a machine in the likeness of a human mind.\"\n- O.C. Bible","url":""}
+{"date":1481479431000,"author":"pkedrosky","rating":143,"text":"AI, people skills, and fears of an automated planet","url":"https:\/\/t.co\/AwWr76NDad"}
+{"date":1481323718000,"author":"pkedrosky","rating":8,"text":"Why is it not possible to transparently assemble 20 videos of same event into single immersive video? #YesAmAtKidsSchoolConcert","url":""}
+{"date":1481300980000,"author":"pkedrosky","rating":126,"text":"Dear all:\n\nNot every hyped tech that doesn't work properly is the \"Next Theranos\". You can stop writing hot takes now.\n\nLove,\n\nP.","url":""}
+{"date":1481296332000,"author":"pkedrosky","rating":14,"text":"What do you do at business lunches? Is it okay to shake hands, feign illness, & leave? Should one be loaded in advance? Asking for a friend.","url":""}
+{"date":1481238628000,"author":"pkedrosky","rating":5,"text":"Good look at how changed information flows altered media\u2019s relationship with politicians in 1960s.\u2026","url":"https:\/\/t.co\/Hf18DoZ9Mz"}
+{"date":1481215777000,"author":"pkedrosky","rating":751,"text":"This graphic is cute, from that Bloomberg BusinessWeek piece on Google","url":"https:\/\/t.co\/RapjqXf22h"}
+{"date":1481215485000,"author":"pkedrosky","rating":470,"text":"On Google: \u201CNo one wants to face the reality that this is an advertising company with a bunch of hobbies\u201D","url":"https:\/\/t.co\/pfHPndRbBD"}
+{"date":1481171574000,"author":"pkedrosky","rating":22,"text":"Fun how people who put such stock in 5% disagreement in one area of science, applaud 95% consensus in others. Hello, motivated reasoning.","url":""}
+{"date":1481160294000,"author":"pkedrosky","rating":9,"text":"Changing lanes & harmonizing habits, in The Economist. I think we will see less of this in near future, sadly.\u2026","url":"https:\/\/t.co\/uVLm2CwY1P"}
+{"date":1481136611000,"author":"pkedrosky","rating":2,"text":"Joel Mokyr and Bob Gordon on innovation and growth https:\/\/t.co\/YO4Har8orl \/v @joehas","url":""}
+{"date":1481134763000,"author":"pkedrosky","rating":20,"text":"Life in Vancouver's bubble: Tax assessments rising 30-50%, & even as much as 361% in one case\u2026","url":"https:\/\/t.co\/13f0GjitgY"}
+{"date":1481131220000,"author":"pkedrosky","rating":31,"text":"In audio production terms, we have entered the brick-walling period of public rhetoric: zero dynamics, transients flattened, loud as f**k.","url":""}
+{"date":1481064538000,"author":"pkedrosky","rating":52,"text":"Kudos to @greg_ip, who is single-handedly trying to troll @pmarca back onto Twitter: We\u2019re out of big ideas\u2026","url":"https:\/\/t.co\/mD3uF3ZoLk"}
+{"date":1481050166000,"author":"pkedrosky","rating":37,"text":"Feels like we are back to Laffer-ian debates about marginal tax rates & govt income. I\u2019m bored already, so two bad\u2026","url":"https:\/\/t.co\/7ZTvSXo04r"}
+{"date":1480993296000,"author":"pkedrosky","rating":8,"text":"[Audio] BBC Documentaries on Duterte: Trolls, 'the Devil', and Death","url":"https:\/\/t.co\/N9ReJKa6vC"}
+{"date":1480982874000,"author":"pkedrosky","rating":14,"text":"Ignore the dates, but still interesting: Microsoft researchers on what to expect in 2017 and 2027","url":"https:\/\/t.co\/aDeJTCjsk3"}
+{"date":1480982320000,"author":"pkedrosky","rating":9,"text":"On that China event risk basket, note that Apple has more market cap at risk than any of the names I mentioned given its China supply chain.","url":""}
+{"date":1480974552000,"author":"pkedrosky","rating":88,"text":"Bill Gates: My favorite books of 2016 https:\/\/t.co\/cmQps7oLLO \/via @Deeep_Blue","url":""}
+{"date":1480955300000,"author":"pkedrosky","rating":8,"text":"\"Erst bricht man Fenster. Dann wird man selbst eines.\"\n- Heimito von Doderer","url":""}
+{"date":1480954102000,"author":"pkedrosky","rating":106,"text":"Immigrants are 3.4% of global population, but 9.4% of GDP: Largest regional immigration flows, \/v @McKinsey_MGI\u2026","url":"https:\/\/t.co\/44mzAj0k22"}
+{"date":1480952066000,"author":"pkedrosky","rating":14,"text":"\"Dust clouds. Yips. The lowing of porcupines.\"","url":""}
+{"date":1480951862000,"author":"pkedrosky","rating":4,"text":"Imagining Barthelme's \"Porcupines at the University\", but with Chinese capital flight playing the porcupines.\u2026","url":"https:\/\/t.co\/9niEQDBMFi"}
+{"date":1480720564000,"author":"pkedrosky","rating":41,"text":"Neill Strauss: Why We're Living in the Age of Fear","url":"https:\/\/t.co\/4ALJughfnS"}
+{"date":1480711088000,"author":"pkedrosky","rating":9,"text":"Very good episode.","url":"https:\/\/t.co\/J8PZRk36Ov"}
+{"date":1480701984000,"author":"pkedrosky","rating":18,"text":"Best movie I saw in 2016: \nThe Barkley Marathons: The Race That Eats Its Young","url":"https:\/\/t.co\/FYyNkCbABB"}
+{"date":1480700708000,"author":"pkedrosky","rating":51,"text":"People upset that Facebook data is used for business ends are gonna go bananas when they find out earth is a computer run by mice. #HHGTTG","url":""}
+{"date":1480698517000,"author":"pkedrosky","rating":59,"text":"Interesting source of energy\/economic fragility: A single ship\u2019s anchor","url":"https:\/\/t.co\/VkEMnH8goU"}
+{"date":1480657817000,"author":"pkedrosky","rating":58,"text":"Robert Gordon: Robots will not decimate human jobs any time soon \nhttps:\/\/t.co\/Gj5UG74iIt","url":"https:\/\/t.co\/EkYFYFrCIl"}
+{"date":1480637064000,"author":"pkedrosky","rating":65,"text":"A: Spinal Tap drummers, defense against dark arts teachers, & twitter head of product. \nQ: Who never last a year?","url":"https:\/\/t.co\/O5dhpThFN1"}
+{"date":1480611078000,"author":"pkedrosky","rating":67,"text":"Say what you will about Sauron, but at least he was willing to sweat the details","url":"https:\/\/t.co\/SXJjnBmBpb"}
+{"date":1480609183000,"author":"pkedrosky","rating":27,"text":"The \"Goldman Sachs buys penny stock promoter\" jokes write themselves. I kid. Mostly.","url":"https:\/\/t.co\/0Ge9k23ZeP"}
+{"date":1480609001000,"author":"pkedrosky","rating":11,"text":"Annually search the NYT review of best books of the year for \"funny\". Always the same result.\u2026","url":"https:\/\/t.co\/1eQaNldaaA"}
+{"date":1480520171000,"author":"pkedrosky","rating":12,"text":"Schrödinger's Brexit \/by @econbuttonwood","url":"https:\/\/t.co\/42SsCWwhms"}
+{"date":1480464181000,"author":"pkedrosky","rating":38,"text":"The American public corporation is in trouble: More concentrated profits, payouts too high, & fewer of them\u2026","url":"https:\/\/t.co\/YcbmNWwc9a"}
+{"date":1480447836000,"author":"pkedrosky","rating":3,"text":"Endurance sports, human limits, and athlete depression: The redemption of Tyler Hamilton","url":"https:\/\/t.co\/meJrY6TwnD"}
+{"date":1480447309000,"author":"pkedrosky","rating":62,"text":"If CalPERS cut to 6%, expect a flood of \u201Cfast follower\u201D public pension fund forecast reductions. And then the mess really starts.","url":""}
+{"date":1480447160000,"author":"pkedrosky","rating":21,"text":"CalPERS\u2019 year-ago 7.5% assumed annual return forecast? Yeah, that was too high too. Let\u2019s try 6% this time.","url":"https:\/\/t.co\/GHJO51dNeY"}
+{"date":1480380910000,"author":"pkedrosky","rating":17,"text":"This is quite the video interview from a month ago with DFJ investor Steve Jurvetson on Theranos.","url":"https:\/\/t.co\/3ueMLYsYMJ"}
+{"date":1480361103000,"author":"pkedrosky","rating":57,"text":"Who\u2019s this \u201CMarc Andreessen\u201D guy? Ran across a smart interview with him from a week ago.","url":"https:\/\/t.co\/upLjZVC13H"}
+{"date":1480356066000,"author":"pkedrosky","rating":18,"text":"Feels increasingly like the U.S. has a kind of age-related tendinosis: its connective tissues are fraying.","url":""}
+{"date":1480193386000,"author":"pkedrosky","rating":62,"text":"Skiing with my son on some high mountain wind buff. Not bad for low snow and November.","url":"https:\/\/t.co\/7siWi0g5pF"}
+{"date":1480027603000,"author":"pkedrosky","rating":59,"text":"All medical dietary knowledge, in two tweets","url":"https:\/\/t.co\/yexlRldvdH"}
+{"date":1479934063000,"author":"pkedrosky","rating":12,"text":"Good reminder to grow up and stop acting your age: The science of aging and mindset","url":"https:\/\/t.co\/IH6sgUMg1V"}
+{"date":1479915554000,"author":"pkedrosky","rating":11,"text":"Wish path from bursting of US railroad bubble & panic of 1873 to rise of German antisemitism got more than a few paras in histories.","url":""}
+{"date":1479787031000,"author":"pkedrosky","rating":47,"text":"John Kenneth Galbraith on \"the bezzle\":","url":"https:\/\/t.co\/fwJfVtclVm"}
+{"date":1479615362000,"author":"pkedrosky","rating":15,"text":"On woodpiles and their relationship to optimal outhouse locations \n- Chic Sale, \"The Specialist\" (1930)","url":"https:\/\/t.co\/OCVo9PADGY"}
+{"date":1479510503000,"author":"pkedrosky","rating":16,"text":"[Audio] Here Are The Signs That A Civilization Is About To Collapse (@tracyalloway & @TheStalwart)","url":"https:\/\/t.co\/SNLF4e80Ih"}
+{"date":1479491224000,"author":"pkedrosky","rating":19,"text":"Joel Mokyr: How progress isn\u2019t natural and how humans invented it\u2014and not that long ago https:\/\/t.co\/7Buuz64qwe \/v @jhagel","url":""}
+{"date":1479357906000,"author":"pkedrosky","rating":6,"text":"What keeps me going as a songwriter is my  ignorance of the instruments I\u2019m using. \n- Thom Yorke paraphrasing Tom Waits #Shoshin","url":""}
+{"date":1479326789000,"author":"pkedrosky","rating":48,"text":"From the The More Things Change files, this quote from 1836 critical of the dumbed-down media world (Source:\u2026","url":"https:\/\/t.co\/oYx5750UzR"}
+{"date":1479226010000,"author":"pkedrosky","rating":12,"text":"Like these from Rick Perlstein's \"Nixonland\": Nixon was \"an old man\u2019s idea of a young man\", and a \"serial collector of resentments\".","url":""}
+{"date":1478800994000,"author":"pkedrosky","rating":31,"text":"Temporal maladaptation: The avocado is in evolutionary terms clueless that the great mammals are gone","url":"https:\/\/t.co\/ybGUmcHuBm"}
+{"date":1478789051000,"author":"pkedrosky","rating":31,"text":"Extreme events, resilience, and confirmation bias, from @timharford","url":"https:\/\/t.co\/EhswIqZvLD"}
+{"date":1478713221000,"author":"pkedrosky","rating":119,"text":"Tweetstormed this six months ago. Stands up unnervingly well today.","url":"https:\/\/t.co\/HyeaWemi4B"}
+{"date":1478618351000,"author":"pkedrosky","rating":6,"text":"Timely: Regime shifts and permanent criticality in coupled human\u2013environment systems \/v @cxdig\u2026","url":"https:\/\/t.co\/TSCPitVp2F"}
+{"date":1478536333000,"author":"pkedrosky","rating":1781,"text":"I'm a simple guy: I just want the Sierra Nevada winter of 2005\/06 one more time before I die. Is that too much to a\u2026","url":"https:\/\/t.co\/GxQY5Y07qS"}
+{"date":1478536333000,"author":"pkedrosky","rating":1781,"text":"I'm a simple guy: I just want the Sierra Nevada winter of 2005\/06 one more time before I die. Is that too much to a\u2026","url":"https:\/\/t.co\/GxQY5Y07qS"}

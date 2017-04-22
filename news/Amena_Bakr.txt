@@ -1,0 +1,636 @@
+{"date":1465496341000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: #Gas to Win Big From #Saudi Transition https:\/\/t.co\/5JQXDqvMw2 via @energyintel @Amena_Bakr #SaudiArabia #SaudiVision203\u2026","url":""}
+{"date":1465368508000,"author":"Amena_Bakr","rating":6,"text":"RT @Oliver_Klaus1: Saudis Lift Lid on Transformation Plan https:\/\/t.co\/Rx7fFtus3J via @energyintel @Amena_Bakr\n#SaudiArabia #Saudivision203\u2026","url":""}
+{"date":1465283697000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Opec's Price Quest Continues https:\/\/t.co\/KiKjGt3NKo via @energyintel @Amena_Bakr @RafiqLatta #OPEC #oil #crude #oilpric\u2026","url":""}
+{"date":1463401253000,"author":"Amena_Bakr","rating":9,"text":"RT @Oliver_Klaus1: Exploration and production spending to drop by half, #OPEC says https:\/\/t.co\/ussrxFZiqR via @crudeoilprices #oil #crude","url":""}
+{"date":1462712332000,"author":"Amena_Bakr","rating":546,"text":"RT @WaelMahdi: وزير البترول النعيمي ونائب الوزير عبدالعزيز بن سلمان ومستشار الوزير فيصل بن تركي يستقبلون الفالح\n#شكرا_علي_النعيمي https:\/\/t\u2026","url":""}
+{"date":1462712233000,"author":"Amena_Bakr","rating":51,"text":"RT @WaelMahdi: وزير بترول #السعودية السابق علي النعيمي في حديث مع الموظفين في اخر يوم له في الوزارة.\n#شكراً_علي_النعيمي","url":"https:\/\/t.co\/knGk9S\u2026"}
+{"date":1462341088000,"author":"Amena_Bakr","rating":6,"text":"RT @Oliver_Klaus1: Saudis Ease Bourse Rules Ahead of Aramco IPO https:\/\/t.co\/BQiwNaawsY via @energyintel\n@Amena_Bakr #SaudiArabia #SaudiVis\u2026","url":""}
+{"date":1460992410000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Doha Talks End in Chaos as Saudis Play Hardball https:\/\/t.co\/gptIhovLvy via @energyintel @Amena_Bakr @iainpackham #Doham\u2026","url":""}
+{"date":1460992406000,"author":"Amena_Bakr","rating":9,"text":"RT @cs_energyintel: Behind the Saudi Shift at Doha: The New Politics of #Oil by my colleagues @dhbpike @Amena_Bakr","url":"https:\/\/t.co\/BWpaEKvFIw\u2026"}
+{"date":1456896221000,"author":"Amena_Bakr","rating":6,"text":"RT @Oliver_Klaus1: Aramco Grabs Discounts to Revive Major Projects https:\/\/t.co\/3nsYAuHav1 via @energyintel @Amena_Bakr #SaudiArabia #oil #\u2026","url":""}
+{"date":1456755279000,"author":"Amena_Bakr","rating":147,"text":"RT @Saudi_Aramco: #SaudiAramco Chairman named the 2016 \"Energy Intelligence Petroleum Executive of the Year\"","url":"https:\/\/t.co\/ARknievLv6"}
+{"date":1456416722000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: #Iraq 'Won't Flood Market,' Seeks Price Recovery https:\/\/t.co\/JkOt6QNSqL @energyintel @Amena_Bakr #OPEC #oil #crude #Sau\u2026","url":""}
+{"date":1455721265000,"author":"Amena_Bakr","rating":0,"text":"@R_Zandi is there a deal to freeze production at jan levels?","url":""}
+{"date":1455720921000,"author":"Amena_Bakr","rating":285,"text":"RT @R_Zandi: #Iran refuses #Dohe's meeting proposal.","url":""}
+{"date":1455720895000,"author":"Amena_Bakr","rating":66,"text":"RT @R_Zandi: Zangeneh Says in in a small press conference : \"we support efforts by OPEC members to keep the prices stable.\"","url":""}
+{"date":1455716618000,"author":"Amena_Bakr","rating":57,"text":"RT @A_DiPaola17: Iran #oil meeting w #OPEC members Iraq, Venezuela, Qatar stretches into 3rd hour","url":"https:\/\/t.co\/6idhMp4NAP"}
+{"date":1455716493000,"author":"Amena_Bakr","rating":30,"text":"RT @JavierBlas2: All smiles between #Iran and #Qatar #oil ministers - would it lead to a deal? \n#OPEC #SaudiArabia #Russia #Venezuela https\u2026","url":""}
+{"date":1452666307000,"author":"Amena_Bakr","rating":6,"text":"RT @Kindape: Great reporting by my colleagues @Amena_Bakr, @RafiqLatta showing Kurdish crude trade via Iran","url":"https:\/\/t.co\/IfkBqwOXjc"}
+{"date":1452666282000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: #Opec Remains Split Over Emergency Meeting https:\/\/t.co\/msnsweDT0L via @energyintel @Amena_Bakr #Nigeria #UAE #SaudiArab\u2026","url":""}
+{"date":1452576675000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Aramco Studies How to List $3 Trillion Firm https:\/\/t.co\/RskTj4LLtm via @energyintel @Amena_Bakr #SaudiArabia #Saudi #en\u2026","url":""}
+{"date":1451460633000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: #Saudi #Energy Reforms Damage #Downstream https:\/\/t.co\/dymuhX7F4I via @energyintel @Amena_Bakr #SaudiBudget #oilprices #\u2026","url":""}
+{"date":1451397743000,"author":"Amena_Bakr","rating":6,"text":"RT @Oliver_Klaus1: #Saudi Budget Sees #Oil at $26, Scraps Subsidies https:\/\/t.co\/r4FxZgZGbk via @energyintel @Amena_Bakr #SaudiBudget #Saud\u2026","url":""}
+{"date":1451371852000,"author":"Amena_Bakr","rating":3,"text":"RT @iainpackham: #Saudi #Budget Sees #Oil at $26, Scraps #Subsidies: https:\/\/t.co\/YVAFxjWZAB #KSA @energyintel @amena_bakr Amena Bakr Energ\u2026","url":""}
+{"date":1450249844000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: No Need for Emergency Meeting: #OPEC Delegates https:\/\/t.co\/Hs9N76TAMW via @energyintel @Amena_Bakr #oil #crude #energy \u2026","url":""}
+{"date":1449481304000,"author":"Amena_Bakr","rating":3,"text":"the worst customer service award in the uae should go to #etisalat","url":""}
+{"date":1449213131000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Saudis to Propose #Opec Cut, With a Twist https:\/\/t.co\/pOIkqu2W0L via @energyintel @Amena_Bakr #SaudiArabia #oil #crude \u2026","url":""}
+{"date":1447247919000,"author":"Amena_Bakr","rating":3,"text":"RT @iainpackham: Gulf #Opec Bets on #Oil Price Recovery in 2016: https:\/\/t.co\/MsXgv0ne7C @Amena_Bakr  @RafiqLatta  #AMER6, #ADIPEC Energy I\u2026","url":""}
+{"date":1446712074000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: No 'Dire Need' to Hike #Saudi #Energy Prices: Naimi https:\/\/t.co\/ZxDM562LPe via @energyintel @Amena_Bakr #fuel #oil #Sau\u2026","url":""}
+{"date":1446712070000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Gulf #OPEC Backs #Carbon Capture But Little Else Ahead of #Climate Summit https:\/\/t.co\/vQ9duOmJNW via @energyintel @Amen\u2026","url":""}
+{"date":1446534499000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Aramco Touts CO2 Scheme at World's Largest Field https:\/\/t.co\/6om80CIQo8 via @energyintel @Amena_Bakr #SaudiArabia #oil \u2026","url":""}
+{"date":1446113664000,"author":"Amena_Bakr","rating":6,"text":"RT @Oliver_Klaus1: Chevron to Lay Off Hundreds From Neutral Zone Impasse https:\/\/t.co\/9b7njeHH9C via @energyintel @Amena_Bakr #SaudiArabia \u2026","url":""}
+{"date":1446009066000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Saudis See More Balanced #Oil Market in Q1 https:\/\/t.co\/EoeR4qwejX via @energyintel @Amena_Bakr #oilprices #crude #OPEC \u2026","url":""}
+{"date":1445868062000,"author":"Amena_Bakr","rating":0,"text":"The Supreme Court in #Saudi Arabia has confirmed the death sentence against Shiite cleric Sheikh #Nimr al-Nimr","url":""}
+{"date":1444718722000,"author":"Amena_Bakr","rating":3,"text":"RT @iainpackham: #Aramco Names Upstream Chief in #Energy #Restructure: http:\/\/t.co\/h93miw5yDM Energy Intelligence Amena Bakr @energyintel @\u2026","url":""}
+{"date":1444718719000,"author":"Amena_Bakr","rating":3,"text":"RT @iainpackham: #Saudi to Hold #Oil Output Over 10M b\/d: http:\/\/t.co\/FQfHYeRmig Amena Bakr Energy Intelligence @Amena_Bakr @energyintel","url":""}
+{"date":1444295278000,"author":"Amena_Bakr","rating":9,"text":"RT @ALChapino: OIL&MONEY: After hours @ChinaTangLondon with this handsome bunch @cs_energyintel @Oliver_Klaus1 @Amena_Bakr #OM2015 http:\/\/t\u2026","url":""}
+{"date":1444117560000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Traders Get Bolder With #Iran #Gasoline Trade http:\/\/t.co\/xIDBb8D29q via @energyintel @Amena_Bakr #oilproducts #om2015 @\u2026","url":""}
+{"date":1444114648000,"author":"Amena_Bakr","rating":0,"text":"#oil&money about to kick off in #london #oil http:\/\/t.co\/eXtMbETzi5","url":""}
+{"date":1444076417000,"author":"Amena_Bakr","rating":0,"text":"funpawcare's photo https:\/\/t.co\/vuQVEALWgO \n#lol","url":""}
+{"date":1442908530000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Saudi Production Dips From Lower Demand http:\/\/t.co\/tQBCIPuHkq via @energyintel @Amena_Bakr #SaudiArabia #crude #oil #OP\u2026","url":""}
+{"date":1441084462000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Huge Eni Find Boosts #Egypt #Gas Fortunes http:\/\/t.co\/vevPr9P5Rx via @energyintel @Amena_Bakr #natgas #LNG #MiddleEast #\u2026","url":""}
+{"date":1440666690000,"author":"Amena_Bakr","rating":3,"text":"RT @iainpackham: #Saudi Firms Await Direction on #Solar Program http:\/\/t.co\/BRMJBmxbZU @Amena_Bakr  @energyintel #renewables #SaudiArabia","url":""}
+{"date":1440666688000,"author":"Amena_Bakr","rating":3,"text":"RT @iainpackham: #Kuwait Complains Over #Iran #Gas Field Plans http:\/\/t.co\/CIixfGjm08 @Amena_Bakr @energyintel #oilandgas","url":""}
+{"date":1440666228000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: #Saudi Firms Await Direction on #Solar Program http:\/\/t.co\/ePQciWPiUL @energyintel @Amena_Bakr #solarenergy #renewables \u2026","url":""}
+{"date":1440665986000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: #Kuwait Complains Over #Iran #Gas Field Plans http:\/\/t.co\/n45gHTSDKZ via @energyintel @Amena_Bakr #natgas #oil #SaudiAra\u2026","url":""}
+{"date":1440665984000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Aramco's #Shaybah #NGL Project Faces Delays http:\/\/t.co\/Q5a85LleCq via @energyintel @Amena_Bakr #SaudiArabia #gas #oil #\u2026","url":""}
+{"date":1440358221000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: #Iran: Loophole for US Service Companies? http:\/\/t.co\/EXX3M6CPQT via @energyintel #IranDeal #MiddleEast #oil #gas #IOCs \u2026","url":""}
+{"date":1440358204000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Low Prices Prompt Aramco to Slow Project Timetable http:\/\/t.co\/xlkiOJ12jL via @energyintel @Amena_Bakr #SaudiArabia #oil\u2026","url":""}
+{"date":1439878221000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Officials Flock to #Iran to Scout for Post-Sanction Deals http:\/\/t.co\/GTYILIeMqn via @energyintel @Amena_Bakr #IranDeal \u2026","url":""}
+{"date":1439878219000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: #Iran: Gulf States Wary of Iranian Model http:\/\/t.co\/K8aycajhIY via @energyintel @Amena_Bakr #IranDeal #GCC #MiddleEast \u2026","url":""}
+{"date":1439878216000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Gulf Opec Stays Course on 'No Cut' Strategy http:\/\/t.co\/kcgf7lN3Ds via @energyintel @Amena_Bakr #OPEC #oil #crude #oilpr\u2026","url":""}
+{"date":1439878213000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: #SaudiArabia to Finalize #Solar Investment Guidelines Soon http:\/\/t.co\/hNWhrchYmh via @energyintel @Amena_Bakr #renewabl\u2026","url":""}
+{"date":1439878211000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: #Saudi Aramco Moves Forward on Delayed Khurais Expansion http:\/\/t.co\/TjkxZePcoe via @energyintel @Amena_Bakr #oilfield #\u2026","url":""}
+{"date":1439878209000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: @Sabic Won't Let #Oil Price Slide Deter Long-Term Growth Plans http:\/\/t.co\/P0EG4VzMyS via @energyintel @Amena_Bakr #petr\u2026","url":""}
+{"date":1438062431000,"author":"Amena_Bakr","rating":21,"text":"RT @robinenergy: #Oman petrol stations in border areas to witness rush of UAE visitors after UAE lifts fuel subsidies http:\/\/t.co\/E81im74eSD","url":""}
+{"date":1437919997000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Saudis See Production Pullback After Summer http:\/\/t.co\/WpLt0bYjy9 via @energyintel @Amena_Bakr #SaudiArabia #OPEC #crud\u2026","url":""}
+{"date":1437544549000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: #SaudiArabia #Crude Exports Drop in May, Recover in June http:\/\/t.co\/1tCJlUzuks via @energyintel @Amena_Bakr #oil #OilPr\u2026","url":""}
+{"date":1436906460000,"author":"Amena_Bakr","rating":3,"text":"RT @iainpackham: Iran, World Powers Strike Nuclear Deal @Amena_Bakr @energyintel @Oliver_Klaus1 #irandeal http:\/\/t.co\/BJ6K2xo3Rv","url":""}
+{"date":1436861737000,"author":"Amena_Bakr","rating":0,"text":"#IranDeal reached, arms embargo will remain for 5 years","url":""}
+{"date":1436858962000,"author":"Amena_Bakr","rating":195,"text":"RT @Iran: #BREAKING: #Iran, 6 major powers reach #IranDeal, says Iranian diplomat. via @Reuters\n\n#IranTalksVienna http:\/\/t.co\/NeZeyaVAnz","url":""}
+{"date":1436858956000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: #SaudiArabia oil production hit a record high of 10.56M b\/d in June, up from 10.33M in May via @energyintel @Amena_Bakr \u2026","url":""}
+{"date":1436858952000,"author":"Amena_Bakr","rating":6,"text":"RT @Oliver_Klaus1: #Yemen fighting has laid waste to vital components of revenue-generating #oil infrastructure http:\/\/t.co\/jtvbTGpDGP via \u2026","url":""}
+{"date":1436735358000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: #SaudiArabia: No #Yemen Endgame in Sight http:\/\/t.co\/B3wvJxNB8E via @energyintel @Amena_Bakr #YemenCrisis #MiddleEast #O\u2026","url":""}
+{"date":1436075939000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Refineries Help Saudis Manage Power Demand http:\/\/t.co\/B1xxFZVDJE via @energyintel @Amena_Bakr #SaudiArabia #oil #crude \u2026","url":""}
+{"date":1435511094000,"author":"Amena_Bakr","rating":3,"text":"RT @Oliver_Klaus1: Kuwait: Obstacles Aplenty http:\/\/t.co\/iwrvLFyOH6 via @energyintel #Kuwait #MiddleEast #oil #crude #gas","url":""}
+{"date":1435478492000,"author":"Amena_Bakr","rating":6,"text":"RT @Oliver_Klaus1: #SaudiArabia: Pacts Unlikely to Shift Russian Foreign Policy http:\/\/t.co\/ZECCZZMbQA via @energyintel @Amena_Bakr #oilpri\u2026","url":""}
+{"date":1435265235000,"author":"Amena_Bakr","rating":1101,"text":"RT @tomgara: The lengths the FBI goes to in entrapping innocent American Muslims in fake terror plots is incredible.","url":"https:\/\/t.co\/W4DYkAgx3n"}
+{"date":1425330869000,"author":"Amena_Bakr","rating":0,"text":"There's no pedigree dog food in all of #Qatar. I've been searching in all supermarkets for months.","url":""}
+{"date":1425330773000,"author":"Amena_Bakr","rating":0,"text":"\"The world has been battering us from all directions, we've become immune to criticism,\" according to  one Qatari. #Doha","url":""}
+{"date":1425330558000,"author":"Amena_Bakr","rating":0,"text":"some Qataris still fear travelling to the #UAE #Doha #GCC","url":""}
+{"date":1425330370000,"author":"Amena_Bakr","rating":0,"text":"Some of the worst traffic ever in #Doha tonight #oldairport","url":""}
+{"date":1423679566000,"author":"Amena_Bakr","rating":0,"text":"Qatar's World Cup committee will hold a board meeting on 25 February #qatar #fifa","url":""}
+{"date":1423679480000,"author":"Amena_Bakr","rating":0,"text":"There's no way this storm will clear up by Friday #doha","url":""}
+{"date":1422807364000,"author":"Amena_Bakr","rating":0,"text":"@DrJassimSultan I agree but what if there's no democracy in the first place. What's there to save?","url":""}
+{"date":1422807252000,"author":"Amena_Bakr","rating":0,"text":"Insane traffic tonight. What's going on in #doha?","url":""}
+{"date":1421671058000,"author":"Amena_Bakr","rating":0,"text":"Iran oil min says he's ok with 25 dollar oil #opec #iran","url":""}
+{"date":1421579523000,"author":"Amena_Bakr","rating":0,"text":"Egypt's Sisi meets MBZ in Abu Dhabi #egypt","url":""}
+{"date":1421340588000,"author":"Amena_Bakr","rating":0,"text":"@Charles_Lister can you plz send me your contact number tks. Amena.bakr@reuters.com","url":""}
+{"date":1420792208000,"author":"Amena_Bakr","rating":0,"text":"@tomgara I don't see the contradiction. Condemning murder is one thing, supporting freedom of speech is a different issue.","url":""}
+{"date":1420656913000,"author":"Amena_Bakr","rating":372,"text":"RT @BlueSam2011: الصورة لشخص اخر\n\nلماذا المباحث ينشرون صور قديمة او مكذوبة ؟ http:\/\/t.co\/cWRCDLO2mD","url":""}
+{"date":1420655354000,"author":"Amena_Bakr","rating":1,"text":"\u201C@qatarliving: http:\/\/t.co\/DuXsxENpr4 http:\/\/t.co\/c9LWJdvAN7\u201D THE daily nightmare of getting to the pearl","url":""}
+{"date":1420654699000,"author":"Amena_Bakr","rating":78,"text":"RT @wisnefski: The sequence of events in the Charlie Hebdo attack http:\/\/t.co\/IwqfS0F7Jl","url":""}
+{"date":1420654307000,"author":"Amena_Bakr","rating":0,"text":"#hamas leader still in #doha and has no plans to leave","url":""}
+{"date":1420654245000,"author":"Amena_Bakr","rating":0,"text":"#qatar airways to cut airfares following #oil price drop #doha","url":""}
+{"date":1418879978000,"author":"Amena_Bakr","rating":39,"text":"RT @AmbDana: the camel corps! #QND2014 http:\/\/t.co\/9r0KgVG6YQ","url":""}
+{"date":1415205678000,"author":"Amena_Bakr","rating":3,"text":"Pipeline explosion in Saudi due to technical problem not terrorist attack according to a security source. #saudi #oil #explosion","url":""}
+{"date":1415202336000,"author":"Amena_Bakr","rating":0,"text":"Scoop of the day: long term parking at Hamad Airport is free! #Qatar","url":""}
+{"date":1411488939000,"author":"Amena_Bakr","rating":0,"text":"#saudi to issue statement on #syria air strikes","url":""}
+{"date":1409600617000,"author":"Amena_Bakr","rating":0,"text":"#isis is believed to be self funding now #iraq","url":""}
+{"date":1409600495000,"author":"Amena_Bakr","rating":0,"text":"I'm noticing a large number of stray cats on the pearl #Qatar","url":""}
+{"date":1409600370000,"author":"Amena_Bakr","rating":0,"text":"I'm discovering the world of Instagram shopping in #qatar. No wonder the malls are boring here, you can buy anything u want online!","url":""}
+{"date":1409599974000,"author":"Amena_Bakr","rating":0,"text":"Domestic Saudi flights already fully booked ahead of haj, I need another wasta great!","url":""}
+{"date":1409599769000,"author":"Amena_Bakr","rating":0,"text":"Arabs should avoid wearing army pants to airports these days, I know someone who briefing got questioned about it today.","url":""}
+{"date":1409599350000,"author":"Amena_Bakr","rating":0,"text":"From what I hear the business community in #qatar isn't really happy with the proposed labor reforms.","url":""}
+{"date":1409599242000,"author":"Amena_Bakr","rating":0,"text":"Censorship really discourages me from going to the cinema in Doha. It just ruins the movie.","url":""}
+{"date":1409599056000,"author":"Amena_Bakr","rating":2109,"text":"RT @WhiteHouse: \"No one who works full-time should ever have to raise a family in poverty.\" \u2014President Obama #RaiseTheWage #LaborDay http:\/\u2026","url":""}
+{"date":1409598788000,"author":"Amena_Bakr","rating":0,"text":"#Qatar is mediating in the release of UN staff held by #nusra #syria","url":""}
+{"date":1409598706000,"author":"Amena_Bakr","rating":0,"text":"One of the worst decision I've made tonight is going to fat burger. #baddohafood","url":""}
+{"date":1409410429000,"author":"Amena_Bakr","rating":0,"text":"No process at #gcc meeting to resolve rift. #Qatar","url":""}
+{"date":1409205708000,"author":"Amena_Bakr","rating":1,"text":"The brotherly meeting wasn't so brotherly","url":""}
+{"date":1409203179000,"author":"Amena_Bakr","rating":0,"text":"#Saudi 300 riyal fine to anyone who takes a #selfie while driving","url":""}
+{"date":1409036959000,"author":"Amena_Bakr","rating":0,"text":"Reason for the fire at civil defense min still unknown #qatarfire","url":""}
+{"date":1409036882000,"author":"Amena_Bakr","rating":0,"text":"Qatar fire at old civil min of defense building under control #qatarfire","url":""}
+{"date":1408562353000,"author":"Amena_Bakr","rating":0,"text":"#qatar emir to meet Abbas and Meshaal tomorrow in Doha. #Gaza","url":""}
+{"date":1408562214000,"author":"Amena_Bakr","rating":0,"text":"Hajaj al ajmi arrested at #kuwait airport after returning from #qatar #US #terrorfinance","url":""}
+{"date":1408304172000,"author":"Amena_Bakr","rating":759,"text":"RT @ArabVoicesSpeak: Dear #italy a message from #Gaza http:\/\/t.co\/wtGzX554lB","url":""}
+{"date":1408304138000,"author":"Amena_Bakr","rating":186,"text":"RT @AlArabiya_Eng: \u201CThe immigration thought I am Black Magic,\u201D pierced man's arrival to #Dubai sparks #headlines http:\/\/t.co\/vw9LB6LqxR htt\u2026","url":""}
+{"date":1408303678000,"author":"Amena_Bakr","rating":0,"text":"Five to six power cuts in #cairo everyday","url":""}
+{"date":1408287828000,"author":"Amena_Bakr","rating":0,"text":"I live in the CIA building, the bellboys track how many times I walk the dog and what time I come back from work each day #creepy","url":""}
+{"date":1408287611000,"author":"Amena_Bakr","rating":36,"text":"RT @maifizzle: My new motto is fries before guys.","url":""}
+{"date":1408287453000,"author":"Amena_Bakr","rating":0,"text":"#iraq's al hashimi's name being thrown around as possible Sunni leader.","url":""}
+{"date":1408287350000,"author":"Amena_Bakr","rating":0,"text":"#qatar might have improved surface relations with #saudi but still no real sign of the ambassador returning.","url":""}
+{"date":1408287182000,"author":"Amena_Bakr","rating":3,"text":"Rasgas donates 2 million dollars to #Gaza","url":""}
+{"date":1408287111000,"author":"Amena_Bakr","rating":0,"text":"Doha needs more hairdressers, just came back from one at a five star hotel who claim they ran out of hair dye. #qatar","url":""}
+{"date":1408286896000,"author":"Amena_Bakr","rating":0,"text":"I've decided to pre-clean the house before the maid comes, just to avoid telling her I hosted yet another \"kid's party\" #whitelies","url":""}
+{"date":1408044344000,"author":"Amena_Bakr","rating":0,"text":"Just a random guess, Mel Gibson is next on the suicide list #RobinWilliams","url":""}
+{"date":1408044180000,"author":"Amena_Bakr","rating":0,"text":"I don't care what they say qatarairways does charge more than other airlines.","url":""}
+{"date":1408044065000,"author":"Amena_Bakr","rating":0,"text":"I never knew the difference between Sunni and Shiite before I came to the gulf. I still think there no difference.","url":""}
+{"date":1408043773000,"author":"Amena_Bakr","rating":0,"text":"The jobs of some religious clerics in this region is to start wars and breed hatred","url":""}
+{"date":1407960870000,"author":"Amena_Bakr","rating":3,"text":"RT @ahmed: People are taking photos of statues that cleverly make it look as though the statues are taking selfies http:\/\/t.co\/EwDtV6d3nc","url":""}
+{"date":1407960120000,"author":"Amena_Bakr","rating":0,"text":"The new fat burger on the pearl serves cold burgers, terrible fries and the diet coke wasn't really diet. Fat mess. #doha","url":""}
+{"date":1407959991000,"author":"Amena_Bakr","rating":0,"text":"Hope #sisi brings back another jacket from Russia","url":""}
+{"date":1407959477000,"author":"Amena_Bakr","rating":0,"text":"GCC joint statement is vague as always, giving the committee another week to discuss the rift matter #qatar","url":""}
+{"date":1407959159000,"author":"Amena_Bakr","rating":0,"text":"@tomgara PDFs are so hard to edit!","url":""}
+{"date":1407959073000,"author":"Amena_Bakr","rating":1,"text":"It's official the gulf summer has arrived, I opened the window today and it set off the fire alarm. #inferno","url":""}
+{"date":1407876032000,"author":"Amena_Bakr","rating":1,"text":"Sad about #RobinWilliams but at least the free tv channels will get better now by airing his movies","url":""}
+{"date":1407875131000,"author":"Amena_Bakr","rating":0,"text":"@JKhashoggi it was more impact than ever before, people are too tired to question things.","url":""}
+{"date":1407870757000,"author":"Amena_Bakr","rating":0,"text":"@tomgara wow!","url":""}
+{"date":1407863307000,"author":"Amena_Bakr","rating":0,"text":"@StephNebehay I thought the drug didn't work, some priest died today","url":""}
+{"date":1407862362000,"author":"Amena_Bakr","rating":8601,"text":"RT @AlexHortonTX: ISIS supporters talking Robin Williams. Twitter has reached the singularity http:\/\/t.co\/6PtbQ4xcEX","url":""}
+{"date":1407862124000,"author":"Amena_Bakr","rating":339,"text":"RT @borzou: Summer holiday in #Syria: Dad takes 10 & 11yo boys to jihad; tells mom they will go to heaven http:\/\/t.co\/PwO9cNz4kw http:\/\/t.c\u2026","url":""}
+{"date":1407861849000,"author":"Amena_Bakr","rating":0,"text":"@SultanAlQassemi a security reason perhaps","url":""}
+{"date":1407861259000,"author":"Amena_Bakr","rating":0,"text":"I promised myself to go on a diet last night. I just ate a large triple cheese pizza and a liter of coke. Doom.","url":""}
+{"date":1407861100000,"author":"Amena_Bakr","rating":0,"text":"Every time I walk foxy some SUV stops and I get an offer to buy foxy the latest one was $10000, not sure if the offer was for foxy or me!","url":""}
+{"date":1407860684000,"author":"Amena_Bakr","rating":2,"text":"My huge unexplained fear of #ebola is making me see fruit bats living in the trees on the pearl #doha","url":""}
+{"date":1407859696000,"author":"Amena_Bakr","rating":0,"text":"#qatar sends five cargoes of aid to #gaza today via Jordan","url":""}
+{"date":1407859624000,"author":"Amena_Bakr","rating":0,"text":"Seems like #iran, the US and most Gulf states are welcoming the nomination of the new Iraqi pm","url":""}
+{"date":1407858545000,"author":"Amena_Bakr","rating":0,"text":"Qaradawi sends greetings to #Erdogan","url":""}
+{"date":1407765468000,"author":"Amena_Bakr","rating":0,"text":"There's a cupcake ATM ending soon in #Dubai. Love it","url":""}
+{"date":1407701612000,"author":"Amena_Bakr","rating":0,"text":"#qatar celebrates #Erdogan's victory","url":""}
+{"date":1407701504000,"author":"Amena_Bakr","rating":0,"text":"Clooney is getting married in sept! There's no messing around with middle eastern women","url":""}
+{"date":1407701363000,"author":"Amena_Bakr","rating":3,"text":"Qaradawi's website was hacked by an Iraqi group a while ago #ISIS","url":""}
+{"date":1407701098000,"author":"Amena_Bakr","rating":21009,"text":"RT @Alwaleed_Talal: http:\/\/t.co\/ZaHlptolSY\nبدعوة من أخي المشير عبدالفتاح السيسي اجتمعنا اليوم في القاهرة\nوأكدت له دعمي التام لمصر ولشعبها h\u2026","url":""}
+{"date":1407700437000,"author":"Amena_Bakr","rating":783,"text":"RT @jaberalharmi: قطر ترفع التهاني للرئيس رجب طيب أردوغان بمناسبة انتخابه رئيسا للجمهورية التركية الشقيقة .. متمنين لتركيا وشعبها الشقيق مز\u2026","url":""}
+{"date":1407700292000,"author":"Amena_Bakr","rating":0,"text":"Eating bush meat is wrong on so many levels #ebola","url":""}
+{"date":1407688973000,"author":"Amena_Bakr","rating":0,"text":"So glad the suspected #ebola case in #saudi was negative","url":""}
+{"date":1407688878000,"author":"Amena_Bakr","rating":1,"text":"Looks like the #qatar #turkey alliance will continue with #Erdogan's win","url":""}
+{"date":1407688596000,"author":"Amena_Bakr","rating":0,"text":"I couldn't bring myself to buy veal cubes yesterday images of a cute calf running around then being slaughtered disturbed me. No more meat!","url":""}
+{"date":1407688233000,"author":"Amena_Bakr","rating":0,"text":"@tomgara I'll book you an appointment yalla!","url":""}
+{"date":1407688113000,"author":"Amena_Bakr","rating":0,"text":"I love our new office, but it's a 10 min walk to the nearest bathroom, you really have to plan ahead.","url":""}
+{"date":1407687990000,"author":"Amena_Bakr","rating":0,"text":"Some idiot today compared me to a kiwi \"once people get past you're brown furry outside you're actually quite sweet\". Vomit.","url":""}
+{"date":1407686923000,"author":"Amena_Bakr","rating":1,"text":"#biotin supplements cause the worst skin breakouts in the world","url":""}
+{"date":1407686706000,"author":"Amena_Bakr","rating":0,"text":"#taliban in #doha spotted over Eid praying in the city's largest Wahhabi mosque","url":""}
+{"date":1407686651000,"author":"Amena_Bakr","rating":0,"text":"#taliban in #doha like to shop at lulu Gharafa...just in case you were wondering where the best bargains were","url":""}
+{"date":1407686208000,"author":"Amena_Bakr","rating":3,"text":"I've gained for respect for people who had to live in the #gulf before ac, today I spent 2 mins in 50c heat it was enough to melt my brain","url":""}
+{"date":1407685926000,"author":"Amena_Bakr","rating":0,"text":"Still no concrete info on the #saudi ambassador returning to Doha. However relations seem to have improved at least with Saudi....","url":""}
+{"date":1407685790000,"author":"Amena_Bakr","rating":0,"text":"@tomgara yes! Come get one:)","url":""}
+{"date":1407685661000,"author":"Amena_Bakr","rating":0,"text":"#Hamas not willing to make any compromises on their demands","url":""}
+{"date":1407685581000,"author":"Amena_Bakr","rating":3,"text":"#sadam's personal doctor of 20 years lives in Doha and works as a plastic surgeon","url":""}
+{"date":1407685509000,"author":"Amena_Bakr","rating":3,"text":"So looks like #sisi won't be asking #saudi for money for the #suez canal project","url":""}
+{"date":1407261093000,"author":"Amena_Bakr","rating":372,"text":"RT @Dima_Khatib: Entire families in Gaza have now vanished from life. 20 or more families. Entire families. Why does this remind me of the \u2026","url":""}
+{"date":1405696161000,"author":"Amena_Bakr","rating":255,"text":"RT @DaliaEzzat_: Reporters in Gaza are risking it all to tell the story only to have editorial politics try and obscure their reporting. Sh\u2026","url":""}
+{"date":1405622476000,"author":"Amena_Bakr","rating":8250,"text":"RT @AymanM: #Gaza Victims\n1) Ahed Atef Bakr 10 yrs old\n2) Zakaria Ahed Bakr 10 yrs old\n3) Mohamed Ramez Bakr 11 yrs old\n4) Ismael Mohamed B\u2026","url":""}
+{"date":1405622393000,"author":"Amena_Bakr","rating":1290,"text":"RT @Mogaza: Terrifying scenes. Child now arrives to Shifa hospital without head... #GazaUnderAttack","url":""}
+{"date":1405594914000,"author":"Amena_Bakr","rating":918,"text":"RT @Doylech: 4 kids alive then 4 kids blown up photo on beach in #Gaza Do they look like a threat? Well do they? http:\/\/t.co\/jTr5NX98jH","url":""}
+{"date":1405009913000,"author":"Amena_Bakr","rating":4347,"text":"RT @naiflss: \"you dont need to be Muslim to stand up for Gaza, you just need to be human.\" #PrayForGaza #GazaUnderAttack http:\/\/t.co\/vEByxl\u2026","url":""}
+{"date":1404927835000,"author":"Amena_Bakr","rating":0,"text":"@shabinakhatri Ramadan Kareem to you too!","url":""}
+{"date":1404925217000,"author":"Amena_Bakr","rating":1,"text":"@shabinakhatri detained yes, but no mention of the torture or what their charge is. Sources say they were 3 young Qatari men on holiday","url":""}
+{"date":1404922437000,"author":"Amena_Bakr","rating":0,"text":"#Qatar sources say no travel warning for nationals travelling to the #UAE, following news of 3 Qataris arrest.","url":""}
+{"date":1404922324000,"author":"Amena_Bakr","rating":0,"text":"#BrazilvsGermany was the worst game I've ever seen","url":""}
+{"date":1404922250000,"author":"Amena_Bakr","rating":0,"text":"The five #Taliban men are living in the West Bay #Doha. I might run into them at Lagoona mall","url":""}
+{"date":1404922172000,"author":"Amena_Bakr","rating":0,"text":"#Hamas leader Khaled Meshaal calls on the Palestinian people to defend themselves. No sign of a ceasefire soon  #AlJazeera","url":""}
+{"date":1401177294000,"author":"Amena_Bakr","rating":0,"text":"@strousetj he lives in lebanon","url":""}
+{"date":1397191602000,"author":"Amena_Bakr","rating":0,"text":"#qaradawi won't be giving his planned friday sermon today because he says he has a cold. (Whatever!)","url":""}
+{"date":1395465031000,"author":"Amena_Bakr","rating":0,"text":"@ryan1414 thanks!","url":""}
+{"date":1393615301000,"author":"Amena_Bakr","rating":0,"text":"@sonobobo send me ur number to amenabakr@hotmail.com","url":""}
+{"date":1391765732000,"author":"Amena_Bakr","rating":0,"text":"#qaradawi didn't show up for the friday sermon today #doha","url":""}
+{"date":1391545863000,"author":"Amena_Bakr","rating":0,"text":"Who ever is claiming that support for #Sisi is fabricated should go to Egypt for a day and see what people really think.","url":""}
+{"date":1391545203000,"author":"Amena_Bakr","rating":0,"text":"The percentage of terrible movies mbc streams is on the rise","url":""}
+{"date":1391544771000,"author":"Amena_Bakr","rating":0,"text":"Journalists are not supposed to become the story, but governments should also be accountable for their mistakes.","url":""}
+{"date":1391544287000,"author":"Amena_Bakr","rating":0,"text":"I need to limit my coffee intake, 10 mugs a day is a bit much","url":""}
+{"date":1391544041000,"author":"Amena_Bakr","rating":0,"text":"And when you invite rabid dogs to live in your house, they'll turn against you even if you feed them.","url":""}
+{"date":1391543926000,"author":"Amena_Bakr","rating":0,"text":"If you're born rich and don't have a natural role as a leader among your peers you will try buy power, but sadly bought power is temporary.","url":""}
+{"date":1391543662000,"author":"Amena_Bakr","rating":0,"text":"@AlexKunawicz haha yeah joining FIFA will be my next move.","url":""}
+{"date":1391543215000,"author":"Amena_Bakr","rating":0,"text":"Planning to attend #qaradawi's sermon on friday in #doha, let's see what he says this time","url":""}
+{"date":1391543001000,"author":"Amena_Bakr","rating":0,"text":"Just to change the subject, I'm craving McDonald's fries","url":""}
+{"date":1391542729000,"author":"Amena_Bakr","rating":0,"text":"#Qatar and the Brotherhood have a lot in common, both small and over ambitious and will soon have to face their reality soon.","url":""}
+{"date":1391542389000,"author":"Amena_Bakr","rating":0,"text":"Between the UAE and Saudi, #Qatar risks being sidelined in the GCC union","url":""}
+{"date":1391542274000,"author":"Amena_Bakr","rating":0,"text":"#mursi's son was stopped at the cairo airport as he tired to travel to #qatar","url":""}
+{"date":1391542161000,"author":"Amena_Bakr","rating":0,"text":"Qatar's foreign policy is getting it in trouble again","url":""}
+{"date":1391541889000,"author":"Amena_Bakr","rating":0,"text":"@DrOz #OzSpiration the cheesy hope for a better tomorrow","url":""}
+{"date":1387808024000,"author":"Amena_Bakr","rating":0,"text":"Never thought I needed a heater in #Doha must be 9C tonight","url":""}
+{"date":1387807923000,"author":"Amena_Bakr","rating":0,"text":"Rand and #Qatar Foundation split after ten years, maybe the yanks are being booted out diplomatically.","url":""}
+{"date":1387807150000,"author":"Amena_Bakr","rating":0,"text":"I just found out that #qatar has a nationwide trapping campaign for stray animals. I wonder of that applies to Islamists running around Doha","url":""}
+{"date":1386950618000,"author":"Amena_Bakr","rating":0,"text":"It's snowing in #cairo!","url":""}
+{"date":1386878876000,"author":"Amena_Bakr","rating":0,"text":"Meaningless story on dow jones today saying #saudi won't cut its #oil production alone, plz tell us something we don't know.","url":""}
+{"date":1386878561000,"author":"Amena_Bakr","rating":0,"text":"#Qatar's Ashgal is due to launch a huge infrastructure project on monday","url":""}
+{"date":1386878413000,"author":"Amena_Bakr","rating":0,"text":"Some men in the gulf think whatever they lack in penis size they can make up for in expensive cars and driving like idiots","url":""}
+{"date":1386878205000,"author":"Amena_Bakr","rating":0,"text":"Al Jazeera denies report of their #cairo office being raided by security","url":""}
+{"date":1386877902000,"author":"Amena_Bakr","rating":12,"text":"Its getting so cold in #cairo even the donkeys need a coat http:\/\/t.co\/WPLYXcGF7L","url":""}
+{"date":1386877902000,"author":"Amena_Bakr","rating":12,"text":"Its getting so cold in #cairo even the donkeys need a coat http:\/\/t.co\/WPLYXcGF7L","url":""}
+{"date":1386688450000,"author":"Amena_Bakr","rating":0,"text":"#qatar is encouraging organ donation through a very creepy radio ad","url":""}
+{"date":1384615974000,"author":"Amena_Bakr","rating":0,"text":"#qatar plans to build \"dhow inspired\" stadium by 2018","url":""}
+{"date":1384075884000,"author":"Amena_Bakr","rating":0,"text":"#UN human rights rep says labor camps in #qatar are \"slums\".","url":""}
+{"date":1384075756000,"author":"Amena_Bakr","rating":0,"text":"#UN human rights rep finds that unmarried women who get pregnant in #qatar are sent to jail with their babies","url":""}
+{"date":1384012987000,"author":"Amena_Bakr","rating":0,"text":"#fifa president in Doha met with the new emir, who promised to \"amend\" the labor law...still don't know what that means","url":""}
+{"date":1383768838000,"author":"Amena_Bakr","rating":0,"text":"@HazemSika people escaping I guess","url":""}
+{"date":1383761229000,"author":"Amena_Bakr","rating":0,"text":"Suha araft and her daughter in #doha http:\/\/t.co\/iDQOltXArR","url":""}
+{"date":1383646290000,"author":"Amena_Bakr","rating":0,"text":"Special security checks at airport for passengers traveling from #cairo to #doha","url":""}
+{"date":1383159953000,"author":"Amena_Bakr","rating":0,"text":"I'm planning to be #Mursi for #halloween that's the scariest costume ever","url":""}
+{"date":1383043189000,"author":"Amena_Bakr","rating":0,"text":"#qatar airways plan to place more aircraft orders next month at the dubai air show","url":""}
+{"date":1383031031000,"author":"Amena_Bakr","rating":0,"text":"Huge teddy bear at Hamad airport in #doha http:\/\/t.co\/LVQwJxiJwo","url":""}
+{"date":1382901076000,"author":"Amena_Bakr","rating":0,"text":"#egypt's Adly Mansour heading to the #uae on wednesday","url":""}
+{"date":1382900984000,"author":"Amena_Bakr","rating":0,"text":"Three more corona virus cases found in #Saudi","url":""}
+{"date":1382900784000,"author":"Amena_Bakr","rating":0,"text":"Finding a petrol station in #doha is a total nightmare","url":""}
+{"date":1382790879000,"author":"Amena_Bakr","rating":3,"text":"Proud of all the #saudi women who are driving today","url":""}
+{"date":1382746437000,"author":"Amena_Bakr","rating":0,"text":"#Qatar Airways inclusion 'disgraces oneworld alliance'- ITF","url":""}
+{"date":1382746370000,"author":"Amena_Bakr","rating":0,"text":"#Saudi Arabia: Threats and cyber attack will not deter women from driving- Amnesty","url":""}
+{"date":1382746247000,"author":"Amena_Bakr","rating":0,"text":"#Al-Qaeda's Marqishi threatened Yemeni gov that they'll deliver a \"painful\" response if inmates who rioted in a political prison r harmed.","url":""}
+{"date":1382744594000,"author":"Amena_Bakr","rating":0,"text":"Brahimi in Doha, will meet Emir tomorrow on #syria talks http:\/\/t.co\/9n25jI2pQz","url":""}
+{"date":1371808251000,"author":"Amena_Bakr","rating":0,"text":"@alexchitty sure email me on amena.bakr@reuters.com and yes I was on the site.","url":""}
+{"date":1371540044000,"author":"Amena_Bakr","rating":0,"text":"#taliban to open a peace-talks office in #qatar today","url":""}
+{"date":1371493566000,"author":"Amena_Bakr","rating":0,"text":"#saudi opens the tap to advanced weapons into #syria. http:\/\/t.co\/uVkj6pT34M","url":""}
+{"date":1366862805000,"author":"Amena_Bakr","rating":27,"text":"RT @tomgara: Cat wearing a shark costume chases a duckling while riding a zoomba. Flawless victory, internet. FINISH HIM http:\/\/t.co\/tnmrBK\u2026","url":""}
+{"date":1366556599000,"author":"Amena_Bakr","rating":0,"text":"One of the worst things in the #gulf is the terrible obsession of controlling the press.","url":""}
+{"date":1366291146000,"author":"Amena_Bakr","rating":0,"text":"#Taliban say the US has not made any contact with their delegation in #qatar this year","url":""}
+{"date":1366224045000,"author":"Amena_Bakr","rating":0,"text":"This makes me really sad http:\/\/t.co\/U765HcMeqs #saudi mecca","url":""}
+{"date":1366206776000,"author":"Amena_Bakr","rating":0,"text":"Sinfully good looking men get kicked out of #saudi http:\/\/t.co\/yxedyJqfdh","url":""}
+{"date":1366109970000,"author":"Amena_Bakr","rating":0,"text":"Another earthquake hits #qatar","url":""}
+{"date":1365447401000,"author":"Amena_Bakr","rating":0,"text":"#qatar's emir heading to ethiopia tomorrow","url":""}
+{"date":1364914702000,"author":"Amena_Bakr","rating":0,"text":"#egypt's agriculture minister said that we have enough wheat in stock till june","url":""}
+{"date":1363809596000,"author":"Amena_Bakr","rating":0,"text":"@hughesroland at the time you told me he was a great guy! I trusted you roland","url":""}
+{"date":1363084754000,"author":"Amena_Bakr","rating":0,"text":"#uae's oil minister al-hamli replaced by suhail al mazroui in a reshuffle on tuesday","url":""}
+{"date":1362968315000,"author":"Amena_Bakr","rating":0,"text":"The reason #saudi is switching to shooting from chopping heads for executions,  is because they're swords men are too short","url":""}
+{"date":1362679073000,"author":"Amena_Bakr","rating":0,"text":"#yemen's coast guard capture an arms vessel coming from #iran south of the red sea- al jazeera tv","url":""}
+{"date":1362677657000,"author":"Amena_Bakr","rating":0,"text":"#Shell may pull out of saudi's empty quarter soon, over term disagreements with the gov","url":""}
+{"date":1362639979000,"author":"Amena_Bakr","rating":0,"text":"#qatar's emir buys 6 greek islands for 8.5 million euros","url":""}
+{"date":1362500008000,"author":"Amena_Bakr","rating":0,"text":"# Qatari pm says arms supplied to syria were for \"self defence\"","url":""}
+{"date":1362499951000,"author":"Amena_Bakr","rating":0,"text":"Taking the #Dubai rta road test on thursday, I wonder how many \"minor\" mistakes I'll make","url":""}
+{"date":1362499785000,"author":"Amena_Bakr","rating":0,"text":"#Dubai at a stand still, sheikh zayed blocked by what looks (and smells) like a sewage flooding","url":""}
+{"date":1362141231000,"author":"Amena_Bakr","rating":0,"text":"Musharaf hold press conf in dubai to announce his return to #pakistan this month http:\/\/t.co\/kDPZUseH8l","url":""}
+{"date":1361538382000,"author":"Amena_Bakr","rating":0,"text":"20 year old #bahraini protester dies today from injuries during the feb 14 protests","url":""}
+{"date":1361538294000,"author":"Amena_Bakr","rating":0,"text":"Official sources in kuwait say reports of the #egyptians being arresting for trying to overthrow the regime are not true","url":""}
+{"date":1361522268000,"author":"Amena_Bakr","rating":0,"text":"#kuwait arrests 3 egyptians liked with the muslim brotherhood- al watan newspaper","url":""}
+{"date":1361517657000,"author":"Amena_Bakr","rating":0,"text":"#Egypt allows policemen to grow beards...can it get worse?!","url":""}
+{"date":1361424481000,"author":"Amena_Bakr","rating":3,"text":"Some of the worst #traffic I've seen in #dubai is coming out the gardens this morning","url":""}
+{"date":1361373987000,"author":"Amena_Bakr","rating":0,"text":"#oil prices ease following news of #saudi arabia lifting production by Q2","url":""}
+{"date":1361373880000,"author":"Amena_Bakr","rating":0,"text":"Ahmed #shafik might be moving to the uk, following the call for his arrest in #egypt","url":""}
+{"date":1360511244000,"author":"Amena_Bakr","rating":0,"text":"#egypt's ambasador to the #uae says the islamists who were arrested in the uae are being \"treated well\". Wtf does that mean?!","url":""}
+{"date":1360511124000,"author":"Amena_Bakr","rating":0,"text":"#japan never singed a oil security pact with #saudi","url":""}
+{"date":1360146822000,"author":"Amena_Bakr","rating":0,"text":"Met ahmed shafik in abu dhabi, he said he will return to #egypt when the time is right","url":""}
+{"date":1359535931000,"author":"Amena_Bakr","rating":0,"text":"@jgupte you have to avoid all carbs, just eat protein (ie eggs) and salad.","url":""}
+{"date":1359470535000,"author":"Amena_Bakr","rating":0,"text":"#saudi says it doesn't need to build its spare oil capacity till 2030","url":""}
+{"date":1359470432000,"author":"Amena_Bakr","rating":0,"text":"The sweetest monkey ever! I gave him one of my bracelets:) http:\/\/t.co\/C8WHpG2D","url":""}
+{"date":1359470325000,"author":"Amena_Bakr","rating":0,"text":"#uae's labour ministry says there's no ban on egyptians getting work visas","url":""}
+{"date":1359470085000,"author":"Amena_Bakr","rating":3,"text":"#egypt on the brink of a civil war...thanks #morsi","url":""}
+{"date":1359470015000,"author":"Amena_Bakr","rating":0,"text":"The egg #diet works but its really hard to follow, lost 1.5 kgs in 3 days.","url":""}
+{"date":1359449917000,"author":"Amena_Bakr","rating":0,"text":"#opec's badri says 2013 market conditions are the same as 2012","url":""}
+{"date":1359449868000,"author":"Amena_Bakr","rating":0,"text":"Abu dhabi's #taqa sacks 5 percent of their staff in canada","url":""}
+{"date":1359449799000,"author":"Amena_Bakr","rating":0,"text":"#saudi religious police clamp down on immorality across the animal kingdom","url":""}
+{"date":1359389139000,"author":"Amena_Bakr","rating":0,"text":"#iran sends another monkey into space, wonder is this one was caught from the mountains in saudi too.","url":""}
+{"date":1359235141000,"author":"Amena_Bakr","rating":75,"text":"RT @Sarahcarr: My new Avacarr is the Morsy Twitter bird. The Twitter bird is not the Nahda bird, dear heart.","url":""}
+{"date":1359234876000,"author":"Amena_Bakr","rating":654,"text":"RT @DrOz: After a 200k-stong petition by 15-year-old Sarah Kavanaugh and consumer response, PepsiCo is removing BVO from Gatorade http:\/ ...","url":""}
+{"date":1359234618000,"author":"Amena_Bakr","rating":0,"text":"The movie zero dark thirty gives muslims more reason to hate the cia and side with jihad.","url":""}
+{"date":1359234362000,"author":"Amena_Bakr","rating":0,"text":"Over 40 people killed in #portsaid, egypt.","url":""}
+{"date":1358918726000,"author":"Amena_Bakr","rating":0,"text":"A ten year study shows fizzy drinks cause depression","url":""}
+{"date":1358871605000,"author":"Amena_Bakr","rating":0,"text":"#Mursi goes on his 3rd omra in saudi since his time as president...he'll need a lot more than prayers.","url":""}
+{"date":1358871425000,"author":"Amena_Bakr","rating":0,"text":"@tomgara I think omm bashar would have more to complain about!","url":""}
+{"date":1358871204000,"author":"Amena_Bakr","rating":0,"text":"@tomgara that was the plan!","url":""}
+{"date":1358870989000,"author":"Amena_Bakr","rating":0,"text":"Bashar's mother is in dubai with her daughter #syria","url":""}
+{"date":1358866387000,"author":"Amena_Bakr","rating":0,"text":"Traffic around ibn battuta mall is a bitch #dubaitraffic","url":""}
+{"date":1358667527000,"author":"Amena_Bakr","rating":0,"text":"One of the most painful things in the world is trying to get an egyptian into the uae #dubaivisa","url":""}
+{"date":1358410583000,"author":"Amena_Bakr","rating":0,"text":"#uae complicates visit visa process for egyptians, more security checks needed now.","url":""}
+{"date":1358192943000,"author":"Amena_Bakr","rating":0,"text":"#saudi said  their oil production cut in december was not to raise prices, and was just a response to slower demand","url":""}
+{"date":1358066815000,"author":"Amena_Bakr","rating":0,"text":"A lot of emarati sales women working at mall of the emirates over the weekend, looks like #emiratisation kicked in.","url":""}
+{"date":1357644642000,"author":"Amena_Bakr","rating":24,"text":"RT @Hammonda1: Uprising verdict shows #Bahrain courts can't protect rights: groups - Yahoo! News http:\/\/t.co\/8w0cAfds","url":""}
+{"date":1355893930000,"author":"Amena_Bakr","rating":54,"text":"RT @ahmed: If you don't want Western media to write about our tragedies then stop creating them.","url":""}
+{"date":1355893874000,"author":"Amena_Bakr","rating":0,"text":"@tomgara I always knew there was something fishy about that downward dog position. So \"inappropriate\" Gara:)","url":""}
+{"date":1355890239000,"author":"Amena_Bakr","rating":0,"text":"Just found out that the back of an Oreo cookie has an imprint of the mayan calendar. #endoftheworld","url":""}
+{"date":1355295284000,"author":"Amena_Bakr","rating":0,"text":"#opec plans to sit and rollover today...so obedient","url":""}
+{"date":1354963758000,"author":"Amena_Bakr","rating":0,"text":"There's no way #mursi can win people over at this point, why can't he admit failure and step down like a man","url":""}
+{"date":1354730904000,"author":"Amena_Bakr","rating":0,"text":"@tarekshalaby stay safe","url":""}
+{"date":1354690911000,"author":"Amena_Bakr","rating":0,"text":"@AIRistocrat u have to take the ring road","url":""}
+{"date":1354643910000,"author":"Amena_Bakr","rating":0,"text":"Du must be one of the world's worst cable companies.","url":""}
+{"date":1354642852000,"author":"Amena_Bakr","rating":0,"text":"#Musri time to tell omm ahmed to pack the bags, the muslim brotherhood's big moment is over.","url":""}
+{"date":1354641295000,"author":"Amena_Bakr","rating":0,"text":"Most roads leading to the #cairo airport now blocked by the army","url":""}
+{"date":1354639215000,"author":"Amena_Bakr","rating":3,"text":"#Musri take a hint, we don't want you as our dictator, time to go.","url":""}
+{"date":1354638669000,"author":"Amena_Bakr","rating":0,"text":"Only an egyptian could kick a cobra to death http:\/\/t.co\/bEug5p7Q","url":""}
+{"date":1354638504000,"author":"Amena_Bakr","rating":3,"text":"#opec heading for a clear rollover in december, even though demand in the fist half to 2013 is lower than 30 million bpd","url":""}
+{"date":1354524382000,"author":"Amena_Bakr","rating":0,"text":"F15 planes crashed in #saudi's eastern province","url":""}
+{"date":1354112872000,"author":"Amena_Bakr","rating":0,"text":"#saudi king appears on tv, for the first time since his 11 hour back operation","url":""}
+{"date":1354106361000,"author":"Amena_Bakr","rating":0,"text":"@tomgara they are amazing!","url":""}
+{"date":1353865533000,"author":"Amena_Bakr","rating":0,"text":"@AdHiLa101 amr !","url":""}
+{"date":1353865507000,"author":"Amena_Bakr","rating":0,"text":"@mebiary a bit of both","url":""}
+{"date":1353851543000,"author":"Amena_Bakr","rating":23,"text":"What can we expect from a guy that scratches his balls in public? #egypt","url":""}
+{"date":1353724900000,"author":"Amena_Bakr","rating":0,"text":"Heard from friends at #tahrir last night, that a woman was raped behind pizza hut. #cairo","url":""}
+{"date":1353215800000,"author":"Amena_Bakr","rating":0,"text":"Huge fire at the Tamwel tower in JLT, #Dubai","url":""}
+{"date":1353215649000,"author":"Amena_Bakr","rating":0,"text":"Israeli rockets hit media buildings in #Gaza","url":""}
+{"date":1353140078000,"author":"Amena_Bakr","rating":75,"text":"RT @amirahoweidy: Israel kills 38 Palestinians.\nEgypt: More than 30 school children killed this morning in tragic crash w\/train. We don' ...","url":""}
+{"date":1353085511000,"author":"Amena_Bakr","rating":0,"text":"#Iraq made a call to Arab League to use oil as a weapon to pressure Israel, U.S. over Gaza.","url":""}
+{"date":1352920963000,"author":"Amena_Bakr","rating":0,"text":"#qatar's foreign min says israel's attack in #gaza should not pass unpunished","url":""}
+{"date":1352821417000,"author":"Amena_Bakr","rating":18,"text":"RT @tarekshalaby: Egyptian man jailed for 2 years for sexual harassment http:\/\/t.co\/N83nfSrD via @ahramonline - Hopefully one of many me ...","url":""}
+{"date":1352736208000,"author":"Amena_Bakr","rating":0,"text":"#Total has no plan to pull out of the south of #iraq like exxon did","url":""}
+{"date":1352736048000,"author":"Amena_Bakr","rating":0,"text":"#ADNOC wants the structure of the oil concessions to remain the same...no one likes change","url":""}
+{"date":1352735962000,"author":"Amena_Bakr","rating":0,"text":"Following the UK prime minister's visit to the #UAE, BP's relation with abu dhabi seems to be better","url":""}
+{"date":1352735790000,"author":"Amena_Bakr","rating":0,"text":"#saudi oil minister said he's optimistic about the global economy healing","url":""}
+{"date":1352735709000,"author":"Amena_Bakr","rating":0,"text":"Adnoc petrol stations expected to open in #dubai, another sign of #abu dhabi taking over","url":""}
+{"date":1352563702000,"author":"Amena_Bakr","rating":147,"text":"RT @angryarabiya: The martyrs mother hands me Ali's picture and says \"look at him, isn't he a beautiful child, they took him from me\" #B ...","url":""}
+{"date":1352561655000,"author":"Amena_Bakr","rating":0,"text":"No one is safe in a #dubai cab","url":""}
+{"date":1352552628000,"author":"Amena_Bakr","rating":0,"text":"70 percent of fish sold in #saudi markets isn't fit for human consumption--al arabiya tv","url":""}
+{"date":1352524928000,"author":"Amena_Bakr","rating":0,"text":"#Kuwait\u2019s authorities should revoke a ministerial order to ban all demonstrations- HRW","url":""}
+{"date":1352312519000,"author":"Amena_Bakr","rating":0,"text":"#egypt is banning porn websites, I wonder what 99 percent of male population will watch now?","url":""}
+{"date":1352312364000,"author":"Amena_Bakr","rating":0,"text":"#Saudi is expected to open a #movie theatre in riyadh this summer (2013)- tourism private sector source","url":""}
+{"date":1352272302000,"author":"Amena_Bakr","rating":0,"text":"#obama wants to stop dependence on foreign oil imports...good luck with that!","url":""}
+{"date":1352267562000,"author":"Amena_Bakr","rating":3072,"text":"RT @UberFacts: The \u201CGet Naked Bikini\u201D is a bikini that completely dissolves in the water, leaving the person completely nude.","url":""}
+{"date":1352262299000,"author":"Amena_Bakr","rating":3,"text":"#Obama wins! 275 vs 201","url":""}
+{"date":1352210513000,"author":"Amena_Bakr","rating":0,"text":"Uk's #Cameron visit to the uae expected to improve BP relations  with ADNOC","url":""}
+{"date":1352210202000,"author":"Amena_Bakr","rating":0,"text":"Oil refineries that are using #iranian oil are making better margins...just  proves that iran is discounting their crude","url":""}
+{"date":1352210084000,"author":"Amena_Bakr","rating":0,"text":"#obama plz win so we don't have to deal with another shit head","url":""}
+{"date":1351886106000,"author":"Amena_Bakr","rating":0,"text":"The F1 track in #abu dhabi is very impressive http:\/\/t.co\/a1qZPxid","url":""}
+{"date":1351796056000,"author":"Amena_Bakr","rating":6,"text":"RT @Drkhenaizan: «الرقابة»: 70٪ من المدارس الأميركية في دبي غير معتمدة دولياً http:\/\/t.co\/DIzRgpSA #kuwait #saudi #qatar @oglooo","url":""}
+{"date":1351748846000,"author":"Amena_Bakr","rating":0,"text":"#riyadh explosion caused buy a truck filled with gasoline hitting a large barrier","url":""}
+{"date":1351748746000,"author":"Amena_Bakr","rating":0,"text":"@alex_malouf still checking with officials","url":""}
+{"date":1351693495000,"author":"Amena_Bakr","rating":0,"text":"I really want this http:\/\/t.co\/qNUMij2K","url":""}
+{"date":1351686729000,"author":"Amena_Bakr","rating":1,"text":"Finding a cab in media city after 4pm is a nightmare.#dubai traffic","url":""}
+{"date":1351678518000,"author":"Amena_Bakr","rating":0,"text":"Saddat said it all in one of his speeches \"the Muslim brotherhood are liars\" #egypt","url":""}
+{"date":1351678335000,"author":"Amena_Bakr","rating":0,"text":"#Mursi has to realize #cairo will never shutdown at 10pm","url":""}
+{"date":1351670741000,"author":"Amena_Bakr","rating":0,"text":"#yemen's lng gas pipeline blown up for the 9th time this year","url":""}
+{"date":1351623266000,"author":"Amena_Bakr","rating":0,"text":"Nothing is worse than paris hilton in the hottie and the nottie","url":""}
+{"date":1351620688000,"author":"Amena_Bakr","rating":0,"text":"#qatar airways is planning to fuel all their air crafts with natural gas, as qatar's limited oil output is mainly exported","url":""}
+{"date":1351618674000,"author":"Amena_Bakr","rating":0,"text":"Netanyahu says strike on #Iran would be good for Arabs...yeah right!","url":""}
+{"date":1351529173000,"author":"Amena_Bakr","rating":252,"text":"RT @Reuters: Hurricane Sandy strengthens as it nears East Coast; Wall Street shut http:\/\/t.co\/eVFbvL0E -our latest story","url":""}
+{"date":1351529152000,"author":"Amena_Bakr","rating":63,"text":"RT @Reuters: Air strikes in Damascus wreck last day of Syria \"truce\" http:\/\/t.co\/86VMVge0","url":""}
+{"date":1351517264000,"author":"Amena_Bakr","rating":0,"text":"Sand storm hits #dubai!","url":""}
+{"date":1351406256000,"author":"Amena_Bakr","rating":264,"text":"RT @Reuters: Saudi authorities disperse anti-Assad protest in Mecca http:\/\/t.co\/CmNRhssn","url":""}
+{"date":1351405404000,"author":"Amena_Bakr","rating":0,"text":"Looks like #opec's new secretary general will be selected by the president, rather than the ministers","url":""}
+{"date":1346841618000,"author":"Amena_Bakr","rating":0,"text":"@alex_malouf wala ana :)","url":""}
+{"date":1346841199000,"author":"Amena_Bakr","rating":0,"text":"Aramco says no damage done to its network following cyber attack #saudi","url":""}
+{"date":1330164601000,"author":"Amena_Bakr","rating":0,"text":"I had no idea what to do when the yoga instructor asked us to \"contract our anus\"!","url":""}
+{"date":1330147618000,"author":"Amena_Bakr","rating":33,"text":"RT @rzj: UAE, Qatar, Oman to buy $2b electricity from Iran. Forouz B gas field to export \"most\" of 3GW electricity output http:\/\/t.co\/rQ ...","url":""}
+{"date":1330004768000,"author":"Amena_Bakr","rating":0,"text":"#Iran oil output is unaffected by the sanction, production is still at 3.5 million bps","url":""}
+{"date":1329817247000,"author":"Amena_Bakr","rating":0,"text":"#iran says will act against its enemies pre-emptively if it feels its national interests are theatened","url":""}
+{"date":1329724194000,"author":"Amena_Bakr","rating":0,"text":"@megandetrie you are insane! :)","url":""}
+{"date":1329723097000,"author":"Amena_Bakr","rating":3,"text":"since the gulf aren't giving #egypt the money promised for investment, #iran stepped in and invested 5 bn dollars","url":""}
+{"date":1329419001000,"author":"Amena_Bakr","rating":0,"text":"@srijann sure no problem.","url":""}
+{"date":1329311779000,"author":"Amena_Bakr","rating":0,"text":"#iran's oil ministry denied the europe oil ban","url":""}
+{"date":1329310766000,"author":"Amena_Bakr","rating":0,"text":"#iran bans oil exports to spain, france, italy, the netherlands","url":""}
+{"date":1329284723000,"author":"Amena_Bakr","rating":0,"text":"Glad #kuwait's new oil minister came from the energy industry, just hope he's more talkative than the last one.","url":""}
+{"date":1329284428000,"author":"Amena_Bakr","rating":84,"text":"RT @simeonkerr: #Bahrain feels as divided as ever, one year on http:\/\/t.co\/8JH6qf20","url":""}
+{"date":1329244154000,"author":"Amena_Bakr","rating":0,"text":"Turkey has no plans to cut off #iran oil imports","url":""}
+{"date":1329154846000,"author":"Amena_Bakr","rating":0,"text":"#QP and qapco announced a new petchem complex in ras laffan today, which I think is  a replacement for the shell plant","url":""}
+{"date":1329154294000,"author":"Amena_Bakr","rating":0,"text":"#qatar places bid for the 2022 olympics, I don't what they're thinking","url":""}
+{"date":1329154072000,"author":"Amena_Bakr","rating":0,"text":"#Israel links #iran to embassy bombings, a textbook example of how to start a war.","url":""}
+{"date":1329067701000,"author":"Amena_Bakr","rating":0,"text":"I'd love to know what the #GCC plan is if #Iran shuts Hormuz, they keep saying we have plan! we have plan! and give no details.","url":""}
+{"date":1328803706000,"author":"Amena_Bakr","rating":0,"text":"#Saudi forces open fire on a peaceful march in Qatif Fallout one martyr and wounding 15 people injured- activist","url":""}
+{"date":1328355571000,"author":"Amena_Bakr","rating":0,"text":"@tomgara ur older monster:)","url":""}
+{"date":1328348161000,"author":"Amena_Bakr","rating":0,"text":"This season trends include a lot of lace, I don't like lace makes u look old.","url":""}
+{"date":1328341343000,"author":"Amena_Bakr","rating":0,"text":"#pakistan's pm to attend the #taliban peace talks in #qatar","url":""}
+{"date":1328334473000,"author":"Amena_Bakr","rating":0,"text":"The Grey was v cool, I'm so glad the wolves (who are really just misunderstood puppies) won in the end.","url":""}
+{"date":1328303093000,"author":"Amena_Bakr","rating":39,"text":"RT @tarekshalaby: At Mohamed Mahmoud, tens of thousands of revolutionaries covering the entire street! #Ahly #MOI","url":""}
+{"date":1328292181000,"author":"Amena_Bakr","rating":0,"text":"Bubbles and boba now open in dubai mall. http:\/\/t.co\/BnmtJyI3","url":""}
+{"date":1328277675000,"author":"Amena_Bakr","rating":0,"text":"Just found out my cousin was setting fire to the stadium with the ultras in#cairo","url":""}
+{"date":1328177243000,"author":"Amena_Bakr","rating":0,"text":"@emangoma I agree ya eman, they just don't  care anymore. Scaf needs to fucking leave!","url":""}
+{"date":1328176932000,"author":"Amena_Bakr","rating":0,"text":"Looking forward to seeing The Grey this weekend, nothing beats bad-ass wolves hunting humans","url":""}
+{"date":1328176737000,"author":"Amena_Bakr","rating":0,"text":"#egypt central banks bans interaction with iranian banks, could this be sucking up to the imf or the gulfies?","url":""}
+{"date":1328086530000,"author":"Amena_Bakr","rating":0,"text":"@tomgara I have no idea what that is","url":""}
+{"date":1328084525000,"author":"Amena_Bakr","rating":0,"text":"@Soli_grams yes but we are not used to having this level of crime in cairo, that's the problem","url":""}
+{"date":1328084341000,"author":"Amena_Bakr","rating":0,"text":"@tomgara is it hard? Round and brown?","url":""}
+{"date":1328027616000,"author":"Amena_Bakr","rating":3,"text":"The crime level in #cairo is just insane, my mom doesn't feel safe leaving the house.","url":""}
+{"date":1328025886000,"author":"Amena_Bakr","rating":0,"text":"#Saudi nominated its opec governor to be the new secretary general of the cartel, let's see what iran thinks","url":""}
+{"date":1327933842000,"author":"Amena_Bakr","rating":0,"text":"Interfax saying #U.S. is deploying third aircraft carrier battle group to persian gulf","url":""}
+{"date":1327923298000,"author":"Amena_Bakr","rating":0,"text":"#saudi's Naimi gives oil markets a pat on the back in london, saying everything will be ok.","url":""}
+{"date":1327922447000,"author":"Amena_Bakr","rating":3,"text":"#saudi oil min says domestic growth won't impact exports","url":""}
+{"date":1327915933000,"author":"Amena_Bakr","rating":0,"text":"@tomgara he'll be walking the fox too","url":""}
+{"date":1327915673000,"author":"Amena_Bakr","rating":0,"text":"@tomgara he'll be hanging out in diamond 5 2night:)","url":""}
+{"date":1327915562000,"author":"Amena_Bakr","rating":0,"text":"#syria's assad might flee with his family soon","url":""}
+{"date":1327910592000,"author":"Amena_Bakr","rating":3,"text":"All four oil tankers were freed by#sudan, but the conflict over transit fees is far from over","url":""}
+{"date":1327904100000,"author":"Amena_Bakr","rating":0,"text":"#Sudan frees 2 vitol tankers late on sunday","url":""}
+{"date":1327855951000,"author":"Amena_Bakr","rating":0,"text":"@etharkamal being is crisis is fun ethar! I love being in crisis:)","url":""}
+{"date":1327845673000,"author":"Amena_Bakr","rating":0,"text":"Kabul saying Afghan gov is planning to meet the Taliban in #Saudi  in coming weeks to jump-start peace talks","url":""}
+{"date":1327842441000,"author":"Amena_Bakr","rating":0,"text":"Johnny depp and venessa living separate lives...this is the best Ahlan news!:)","url":""}
+{"date":1327839027000,"author":"Amena_Bakr","rating":0,"text":"#iran waring that oil prices will jump to 150 if the EU places ban","url":""}
+{"date":1327838984000,"author":"Amena_Bakr","rating":0,"text":"2 tankers belonging to vitol being held by #sudan might be freed today","url":""}
+{"date":1327838940000,"author":"Amena_Bakr","rating":3,"text":"#uae's fal oil is behind south sudan oil deals.","url":""}
+{"date":1327817396000,"author":"Amena_Bakr","rating":0,"text":"#iran may decide to ban oil sales to europe today","url":""}
+{"date":1327680870000,"author":"Amena_Bakr","rating":0,"text":"No date on musharraf return, he says when political tension eases! Great!","url":""}
+{"date":1327673988000,"author":"Amena_Bakr","rating":0,"text":"Musharraf shortly announcing when he'll return to #pakistan","url":""}
+{"date":1327600433000,"author":"Amena_Bakr","rating":0,"text":"The chinese built a crap pipeline for the #uae, so more delays expected in the project that aims to bypass hormuz.","url":""}
+{"date":1327555642000,"author":"Amena_Bakr","rating":0,"text":"#dubai bringing in penguins to be displayed at the mall of the emirates on tuesday","url":""}
+{"date":1327521097000,"author":"Amena_Bakr","rating":0,"text":"I found the most effective stomach acid medication ever! in chewing gum form.","url":""}
+{"date":1327520578000,"author":"Amena_Bakr","rating":0,"text":"@tomgara sheikh thugs","url":""}
+{"date":1327486729000,"author":"Amena_Bakr","rating":0,"text":"Kol sana wenti dayman tayeba ya #masr!","url":""}
+{"date":1327324237000,"author":"Amena_Bakr","rating":0,"text":"Indian exploring all options to pay #iran for its oil, paying them in bags of basmati rice might be even an option!","url":""}
+{"date":1327295770000,"author":"Amena_Bakr","rating":0,"text":"Saleh says he'll leave to the #US in jan and just in case anyone misses him in #yemen he'll be back there in feb","url":""}
+{"date":1327258175000,"author":"Amena_Bakr","rating":0,"text":"الأمير سعود الفيصل يُعلن سحب المملكة مراقبيها من بعثة المراقبين العرب إلى سوري","url":""}
+{"date":1327253278000,"author":"Amena_Bakr","rating":0,"text":"@tomgara I'm freezing!","url":""}
+{"date":1327253152000,"author":"Amena_Bakr","rating":0,"text":"@alex_malouf where are u?","url":""}
+{"date":1327252938000,"author":"Amena_Bakr","rating":0,"text":"@ScottBetan interesting scott glad to know men like makeup:) where do u work?!","url":""}
+{"date":1327252665000,"author":"Amena_Bakr","rating":0,"text":"Saleh didn't leave #yemen yet","url":""}
+{"date":1327241881000,"author":"Amena_Bakr","rating":0,"text":"#saudi women shopping at bobbi brown in dubai tell the saleswoman \"we really hate men selling us makeup in saudi, but we have no choice\"","url":""}
+{"date":1327241881000,"author":"Amena_Bakr","rating":0,"text":"#saudi women shopping at bobbi brown in dubai tell the saleswoman \"we really hate men selling us makeup in saudi, but we have no choice\"","url":""}
+{"date":1327238017000,"author":"Amena_Bakr","rating":0,"text":"No woman should accept a man selling her bras and underpants","url":""}
+{"date":1327237918000,"author":"Amena_Bakr","rating":0,"text":"Mubarak is still #egypt's president!! This man really plans to kill us all!","url":""}
+{"date":1327236259000,"author":"Amena_Bakr","rating":0,"text":"Basic food commodities should never be under monopoly, said #dubai's sheikh mo.","url":""}
+{"date":1327235940000,"author":"Amena_Bakr","rating":0,"text":"#Pakistan's army doesn't want to take over- say some ppp members.","url":""}
+{"date":1327235847000,"author":"Amena_Bakr","rating":0,"text":"#Pakistan's Gillani gov won't be able to survive till 1st March, says a gulf-based musharraf  supporter","url":""}
+{"date":1327235539000,"author":"Amena_Bakr","rating":0,"text":"#yemen's saleh keeps saying that he'll leave to oman \"soon\" but it just doesn't happen!","url":""}
+{"date":1327165588000,"author":"Amena_Bakr","rating":0,"text":"#dubai is really getting cold!","url":""}
+{"date":1327165273000,"author":"Amena_Bakr","rating":0,"text":"@tomgara yup is tub ya gara:)","url":""}
+{"date":1327165128000,"author":"Amena_Bakr","rating":0,"text":"@alex_malouf haha! Alex I'm just saying women have options now:)","url":""}
+{"date":1327164261000,"author":"Amena_Bakr","rating":0,"text":"@hughesroland roland the fox has to be cloned:) we need more foxes in the world","url":""}
+{"date":1327155663000,"author":"Amena_Bakr","rating":0,"text":"Somebody needs to invent longer life batteries for these \"smart phones\".","url":""}
+{"date":1327137000000,"author":"Amena_Bakr","rating":0,"text":"Cloning doesn't  require any male parts, just a single egg and cells from the donor. We don't need men anymore!","url":""}
+{"date":1327136217000,"author":"Amena_Bakr","rating":3,"text":"Injaz is 3 years old now:) http:\/\/t.co\/TmQfg7h4","url":""}
+{"date":1327136115000,"author":"Amena_Bakr","rating":3,"text":"Just saw injaz the world's first cloned camel. #dubai","url":""}
+{"date":1327062568000,"author":"Amena_Bakr","rating":0,"text":"Some insane farsi music concert is going on in media city","url":""}
+{"date":1327061883000,"author":"Amena_Bakr","rating":0,"text":"Turkey's tupras looks to #saudi for oil to replace iran's crude","url":""}
+{"date":1327060876000,"author":"Amena_Bakr","rating":0,"text":"Activists reports of shiite tensions in medina #Saudi","url":""}
+{"date":1327060243000,"author":"Amena_Bakr","rating":0,"text":"Working on a friday is really crap.","url":""}
+{"date":1327048910000,"author":"Amena_Bakr","rating":0,"text":"My washing machine is about to take off and land in the living room. These noises can't be normal.","url":""}
+{"date":1326986306000,"author":"Amena_Bakr","rating":0,"text":"Sheikh zayed road 2night is just pure doom. I hate thursdays in #dubai","url":""}
+{"date":1326985779000,"author":"Amena_Bakr","rating":3,"text":"And now #iran is said to be helping syria sell its oil! The blind are leading the blind.","url":""}
+{"date":1326982815000,"author":"Amena_Bakr","rating":0,"text":"Companies that venture into the empty quarter are insane. Its called the empty quarter for a reason.","url":""}
+{"date":1326973739000,"author":"Amena_Bakr","rating":3,"text":"#musharraf might delay his plans to go back to pakistan for now","url":""}
+{"date":1326973691000,"author":"Amena_Bakr","rating":0,"text":"An animal cloning project is being funded by the #dubai gov.","url":""}
+{"date":1326973538000,"author":"Amena_Bakr","rating":6,"text":"#Saudi fears oil prices will spike over 100 dollars","url":""}
+{"date":1326955283000,"author":"Amena_Bakr","rating":0,"text":"Asians in panic mode over possible# iran oil sanctions. They keep flooding into the gulf asking for more oil","url":""}
+{"date":1326954685000,"author":"Amena_Bakr","rating":0,"text":"Still no petrol in egypt! Gulfies yalla its donation time","url":""}
+{"date":1325143825000,"author":"Amena_Bakr","rating":0,"text":"The west should just back off and not impose more sanctions on Iran","url":""}
+{"date":1325143738000,"author":"Amena_Bakr","rating":0,"text":"Iran said closing Hormuz is as \"easy as drinking a glass of water\", but if they do that it'll be their last glass","url":""}
+{"date":1324995667000,"author":"Amena_Bakr","rating":0,"text":"The US would be shooting its self in the foot if it decides to block Iran's CB","url":""}
+{"date":1324388263000,"author":"Amena_Bakr","rating":0,"text":"This is my fav quote out of the #GCC meeting \"we are all being targeted\" no shit!","url":""}
+{"date":1324383840000,"author":"Amena_Bakr","rating":0,"text":"#GCC will move to have united security force","url":""}
+{"date":1324295472000,"author":"Amena_Bakr","rating":0,"text":"I'm sad for Egypt","url":""}
+{"date":1324295415000,"author":"Amena_Bakr","rating":0,"text":"@JKhashoggi any idea why he bought the stake now?","url":""}
+{"date":1324295260000,"author":"Amena_Bakr","rating":0,"text":"take a look at this http:\/\/t.co\/9v3Ny4I6","url":""}
+{"date":1323329359000,"author":"Amena_Bakr","rating":0,"text":"Indian energy min didn't know who the ceo of Saudi Aramco was at WPC in Doha","url":""}
+{"date":1323169954000,"author":"Amena_Bakr","rating":0,"text":"\"Things will continue to be bad in bahrain if real reforms dont take place,\" said a lovely exec from Bahrain during the wpc","url":""}
+{"date":1323169839000,"author":"Amena_Bakr","rating":0,"text":"WPC in Doha is going great so far,  security isn't kicking reporters out.","url":""}
+{"date":1322926071000,"author":"Amena_Bakr","rating":0,"text":"Victory for the brotherhood in Egypt.","url":""}
+{"date":1322480909000,"author":"Amena_Bakr","rating":0,"text":"On 1 Dec Amnesty International is releasing a new report Saudi Arabia: Repression in the name of Security.","url":""}
+{"date":1322480827000,"author":"Amena_Bakr","rating":0,"text":"Don\u2019t understand how people eat horses, that\u2019s like eating ur dog","url":""}
+{"date":1322480507000,"author":"Amena_Bakr","rating":0,"text":"Really happy that a gypo Koshari shop will soon be opening in Dubai Marina!","url":""}
+{"date":1322480419000,"author":"Amena_Bakr","rating":0,"text":"Yalla 2011 please end!","url":""}
+{"date":1322480301000,"author":"Amena_Bakr","rating":0,"text":"I would probably support the brotherhood more if they promise women equal rights with men...but thats not gonna happen!","url":""}
+{"date":1322480198000,"author":"Amena_Bakr","rating":0,"text":"UAE pardons 5 activists for insulting leaders, after making their point.","url":""}
+{"date":1322480056000,"author":"Amena_Bakr","rating":0,"text":"I really don\u2019t want the military to step down now. #Egypt","url":""}
+{"date":1322479978000,"author":"Amena_Bakr","rating":0,"text":"I burnt my face with a curling iron, and I\u2019m pretty sure it\u2019ll leave a scar. F****!","url":""}
+{"date":1322479501000,"author":"Amena_Bakr","rating":0,"text":"Human Rights Watch (HRW), accused the UAE government last week of failing to investigate what they described as a campaign of death threats","url":""}
+{"date":1322479245000,"author":"Amena_Bakr","rating":0,"text":"I really dont know who to vote for in Egypt, its all a big mess","url":""}
+{"date":1321262666000,"author":"Amena_Bakr","rating":0,"text":"Scary. http:\/\/t.co\/bIO8YHZi","url":""}
+{"date":1320938758000,"author":"Amena_Bakr","rating":0,"text":"I can't help being evil, it's just too much fun!","url":""}
+{"date":1320914877000,"author":"Amena_Bakr","rating":0,"text":"The Egyptian military has not investigated or prosecuted anyone for the sexual assault of seven women by military officers on March 10","url":""}
+{"date":1320856559000,"author":"Amena_Bakr","rating":0,"text":"@tomgara did u pick up the dead cat foxy loved so much?","url":""}
+{"date":1320855313000,"author":"Amena_Bakr","rating":0,"text":"@hughesroland this is too much!","url":""}
+{"date":1320854990000,"author":"Amena_Bakr","rating":0,"text":"I did something really selfless and good today, very proud of myself","url":""}
+{"date":1320854787000,"author":"Amena_Bakr","rating":3,"text":"Finding it very hard to pin down how much money #Mubarak has in foreign banks","url":""}
+{"date":1320854008000,"author":"Amena_Bakr","rating":0,"text":"Omar Suliman was is said to be very depressed during his hajj trip, and he was in no mood to talk about security job offers. Shame!","url":""}
+{"date":1320325593000,"author":"Amena_Bakr","rating":0,"text":"Take this quick quiz and find out which gypo party u support. http:\/\/t.co\/jeBSbret","url":""}
+{"date":1320318264000,"author":"Amena_Bakr","rating":0,"text":"Canadian doctors see face in testicle.http:\/\/au.news.yahoo.com\/world\/a\/-\/world\/11300490\/canadian-doctors-see-face-in-testicle\/","url":""}
+{"date":1320250650000,"author":"Amena_Bakr","rating":0,"text":"@rupertus less time. ok:)","url":""}
+{"date":1320163805000,"author":"Amena_Bakr","rating":0,"text":"ok now i hate twitter, i'll go home","url":""}
+{"date":1320163779000,"author":"Amena_Bakr","rating":0,"text":"ahhhhhhhhhhhhhhhhhhh! ok thats better","url":""}
+{"date":1320163732000,"author":"Amena_Bakr","rating":0,"text":"there's something really freaky about cows in the fog","url":""}
+{"date":1320163714000,"author":"Amena_Bakr","rating":0,"text":"time to take a million trains home","url":""}
+{"date":1320163677000,"author":"Amena_Bakr","rating":0,"text":"I want to fast forward 1-2 years of my life","url":""}
+{"date":1320163627000,"author":"Amena_Bakr","rating":0,"text":"I've never liked November, such a shit month","url":""}
+{"date":1320163570000,"author":"Amena_Bakr","rating":0,"text":"some days are crap, today is one of them","url":""}
+{"date":1320054838000,"author":"Amena_Bakr","rating":0,"text":"if i can make it through this year, i can do anything!","url":""}
+{"date":1319710091000,"author":"Amena_Bakr","rating":0,"text":"I hate du...its like the mafia of money collection","url":""}
+{"date":1319704050000,"author":"Amena_Bakr","rating":0,"text":"@tomgara hahah! well i'm hearing the fox did much better than you","url":""}
+{"date":1319703999000,"author":"Amena_Bakr","rating":0,"text":"A kuwati lady who read my palm a few days ago expects a huge crisis to happen by the end of the year. Great!","url":""}
+{"date":1319703860000,"author":"Amena_Bakr","rating":0,"text":"Thinking of buying a gun, I need one.","url":""}
+{"date":1319703814000,"author":"Amena_Bakr","rating":0,"text":"It'll take weeks for the saudis to make an annoucement about the new crown prince","url":""}
+{"date":1319703747000,"author":"Amena_Bakr","rating":0,"text":"Qatar hedged about 200,000 barrels per day (bpd), fearing that the oil price might fall next year","url":""}
+{"date":1319633932000,"author":"Amena_Bakr","rating":0,"text":"@tomgara GARA! the Fox is not felool! and why does she look so thin? are u feeding my baby Gara?! :)","url":""}
+{"date":1319633259000,"author":"Amena_Bakr","rating":0,"text":"So apparently the UN thinks that if Catholics start using condoms that wont reduce the world's population which is now heading towards 7bn","url":""}
+{"date":1319556818000,"author":"Amena_Bakr","rating":0,"text":"@ahmed nothing so far but it'll be nayef for sure. dont expect we'll see any big cabinet changes, and the annoucment wont be made 2night.","url":""}
+{"date":1319547519000,"author":"Amena_Bakr","rating":0,"text":"Libya's oil output now at 500,000 bpd, still was ways off from 1.6","url":""}
+{"date":1319533898000,"author":"Amena_Bakr","rating":0,"text":"I'm sick of #Gassafi's dead body news.","url":""}
+{"date":1319533759000,"author":"Amena_Bakr","rating":0,"text":"@tomgara thats cute!","url":""}
+{"date":1319533679000,"author":"Amena_Bakr","rating":0,"text":"I really wonder why #saudi's sultan wasn't burried earlier...very strange.","url":""}
+{"date":1319533633000,"author":"Amena_Bakr","rating":0,"text":"#Saudi: They say he was charming, charitable and corrupt.","url":""}
+{"date":1319533536000,"author":"Amena_Bakr","rating":0,"text":"I highly doubt that the #saudi king will make any big changes to the cabinet","url":""}
+{"date":1319532962000,"author":"Amena_Bakr","rating":0,"text":"Shooting motorcycle drivers by live fire continuously in Qatif  without any justifiable reason - last night recorded victim No. 11","url":""}
+{"date":1319469361000,"author":"Amena_Bakr","rating":0,"text":"Radiotherapy is a bitch","url":""}
+{"date":1319448056000,"author":"Amena_Bakr","rating":0,"text":"Fatwa from a sheikh in Cairo, saying its haram to marry el felool! I totally agree:)","url":""}
+{"date":1319447973000,"author":"Amena_Bakr","rating":0,"text":"wondering if the #saudi king will ever have a cabinet change","url":""}
+{"date":1319201394000,"author":"Amena_Bakr","rating":0,"text":"#Egyptian copts protesting outside the UN building in Geneva, saying that their rights are being violated in Egypt","url":""}
+{"date":1319201308000,"author":"Amena_Bakr","rating":0,"text":"http:\/\/t.co\/a3VtBXJS","url":""}
+{"date":1319192405000,"author":"Amena_Bakr","rating":0,"text":"I really dont care how #Gaddafi was killed, the imporant part is that he's dead","url":""}
+{"date":1319124292000,"author":"Amena_Bakr","rating":0,"text":"Plety of Arab leaders are peeing in their pants now","url":""}
+{"date":1319124034000,"author":"Amena_Bakr","rating":0,"text":"I'm glad  #Gaddafi got shot, people dont have the patience for another messy trial","url":""}
+{"date":1319120688000,"author":"Amena_Bakr","rating":0,"text":"I got so angry at my bberry today so decided to pour water all over the buttons, shocking it still works","url":""}
+{"date":1319120382000,"author":"Amena_Bakr","rating":0,"text":"I really hate CNN...its not news is a fake drama show","url":""}
+{"date":1319117582000,"author":"Amena_Bakr","rating":3,"text":"#Gaddafi's last words \"Who are you? what are you doing here?\" according to CNN","url":""}
+{"date":1319117419000,"author":"Amena_Bakr","rating":0,"text":"We need a DNA test to confirm this..#Gaddafi had way too many body doubles","url":""}
+{"date":1319117302000,"author":"Amena_Bakr","rating":0,"text":"I bet #Bashar will turn into a wild animal after this #Gaddafi news","url":""}
+{"date":1319117168000,"author":"Amena_Bakr","rating":0,"text":"Its strange that #Gaddafi was still in Libya","url":""}
+{"date":1319117130000,"author":"Amena_Bakr","rating":0,"text":"I really can't believe #Gadaffi is dead","url":""}
+{"date":1318931860000,"author":"Amena_Bakr","rating":0,"text":"Ban-Ki-moon says release of #Shalit will have a possitive impact on Middle East peace","url":""}
+{"date":1318859403000,"author":"Amena_Bakr","rating":0,"text":"Any action against #Iran will made via the UN Security Council","url":""}
+{"date":1318755872000,"author":"Amena_Bakr","rating":0,"text":"Maybe the US has no options against Iran, what will they do? nuke them? when saudi is just next door...pointless really","url":""}
+{"date":1318720569000,"author":"Amena_Bakr","rating":0,"text":"The UAE is testing to see how the public would react to another fuel hike by the end of the year","url":""}
+{"date":1318720216000,"author":"Amena_Bakr","rating":0,"text":"one of the worst of many shitty things in life is cancer","url":""}
+{"date":1318704385000,"author":"Amena_Bakr","rating":0,"text":"Thugs are attacking hospitals in #Cairo and stealing equipment, really makes me sick!","url":""}
+{"date":1318148982000,"author":"Amena_Bakr","rating":0,"text":"I highly doubt that Saleh will be leaving power within a few days #Yemen","url":""}
+{"date":1318147789000,"author":"Amena_Bakr","rating":18,"text":"RT @Asma_Alsharif: Medina woman beaten by #Saudi religius police  http:\/\/t.co\/dS3PL56h","url":""}
+{"date":1318146011000,"author":"Amena_Bakr","rating":0,"text":"I really can\u2019t wait for this year to end\u2026it\u2019s been miserable","url":""}
+{"date":1317886901000,"author":"Amena_Bakr","rating":0,"text":"Saudi says no live rounds were used on protestors in Awwamiya","url":""}
+{"date":1317795318000,"author":"Amena_Bakr","rating":0,"text":"@tomgara yeah i've heard that before","url":""}
+{"date":1317542052000,"author":"Amena_Bakr","rating":0,"text":"Foxy is much cuter than Boo http:\/\/t.co\/qKk5bb9W","url":""}
+{"date":1317542013000,"author":"Amena_Bakr","rating":0,"text":"#DEWA bills are getting insane! when did they hike up the rates?","url":""}
+{"date":1317533781000,"author":"Amena_Bakr","rating":0,"text":"Saudi oil mininster Naimi says oil markets are balaced...looks like the Saudis will keep their output steady this month #OPEC","url":""}
+{"date":1317296813000,"author":"Amena_Bakr","rating":0,"text":"@tomgara this is bs","url":""}
+{"date":1317287948000,"author":"Amena_Bakr","rating":0,"text":"Bahrain has jailed 20 doctors for between five and 15 years for stealing medicine and stockpiling weapons","url":""}
+{"date":1317284453000,"author":"Amena_Bakr","rating":0,"text":"@HalaSarhan @AddThis This is terrible!","url":""}
+{"date":1317284205000,"author":"Amena_Bakr","rating":0,"text":"@AmeerahAltaweel Does Shaima still have to go to court on saturday?","url":""}
+{"date":1317284050000,"author":"Amena_Bakr","rating":0,"text":"Yesterday the US warned of a possible Saudi abduction plot of westerners, which is pissing off the authorities there, who claim its baseless","url":""}
+{"date":1317283905000,"author":"Amena_Bakr","rating":0,"text":"A saudi official told me that the FT story about Saleh tricking the Saudis is all bs","url":""}
+{"date":1317283362000,"author":"Amena_Bakr","rating":0,"text":"@NAlShaikh maybe its time for UAE nationals to get a bit more politically active","url":""}
+{"date":1317283034000,"author":"Amena_Bakr","rating":0,"text":"@Saudiwoman did the minister of Justice say this today?","url":""}
+{"date":1317218186000,"author":"Amena_Bakr","rating":0,"text":"I ate way too many dry figs today...hate those seeds that get stuck in ur teeth","url":""}
+{"date":1317218072000,"author":"Amena_Bakr","rating":0,"text":"Gulf Arab OPEC may tolerate oil below $90","url":""}
+{"date":1317217989000,"author":"Amena_Bakr","rating":0,"text":"The Gulfies think they can influence Egypt\u2019s politics by throwing a few dollars at us\u2026I say try harder","url":""}
+{"date":1317207413000,"author":"Amena_Bakr","rating":279,"text":"RT @DrOz: Amazing strides in the fight against cervical cancer http:\/\/t.co\/z3RplC9Z","url":""}
+{"date":1317190455000,"author":"Amena_Bakr","rating":0,"text":"@tomgara momken ya monster:) I'll try to find out today","url":""}
+{"date":1317189906000,"author":"Amena_Bakr","rating":0,"text":"@tomgara Its a US official who said it...FT story","url":""}
+{"date":1317189712000,"author":"Amena_Bakr","rating":0,"text":"Here's the petition launched last night by Saudi Women for Driving asking King Abdullah to lift the driving ban: http:\/\/t.co\/jlbjPqRg","url":""}
+{"date":1317189598000,"author":"Amena_Bakr","rating":0,"text":"Saleh left Riyadh without telling the Saudis #Yemen","url":""}
+{"date":1317130261000,"author":"Amena_Bakr","rating":0,"text":"@Hammonda1 very fking sad!","url":""}
+{"date":1317114347000,"author":"Amena_Bakr","rating":0,"text":"Saudi also has plans to build 16 nuc reactors which will cost them around $100bn, according to Prince Turki Al Faisal","url":""}
+{"date":1317114274000,"author":"Amena_Bakr","rating":0,"text":"Saudi expects to earn $300bn in oil revenues this year","url":""}
+{"date":1317102102000,"author":"Amena_Bakr","rating":0,"text":"Sad to say that the Strays of Abu Dhabi group, for adopting animals has shutdown. If you want to adopt a pet go to: http:\/\/t.co\/CzaJ7YkR","url":""}
+{"date":1317024757000,"author":"Amena_Bakr","rating":0,"text":"Saleh is such a liar, his speech yesterday makes me sick","url":""}
+{"date":1317021980000,"author":"Amena_Bakr","rating":0,"text":"@tomgara now thats sad!","url":""}
+{"date":1317013836000,"author":"Amena_Bakr","rating":0,"text":"I\u2019m seriously considering buying a BB gun, the devil birds keep attacking me and foxy every morning!","url":""}
+{"date":1317013506000,"author":"Amena_Bakr","rating":0,"text":"@tomgara haha! yeah just cover up!","url":""}
+{"date":1317013312000,"author":"Amena_Bakr","rating":0,"text":"A guest sues Emirates Palace for Dh20m after part of the wardrobe in the room fell and knocked her out","url":""}
+{"date":1317012952000,"author":"Amena_Bakr","rating":0,"text":"The worst look ever is when a guy shows up with heaps of shaving cuts and little bits of loo paper dangling from his face","url":""}
+{"date":1317011977000,"author":"Amena_Bakr","rating":0,"text":"The Brotherhood are pissed that the Salafis now head the uni that Sayyid Qutb and Ali al Banna graduated from, also seen as a Saudi victory","url":""}
+{"date":1317010349000,"author":"Amena_Bakr","rating":0,"text":"So the Saudi King grants women voting rights...its too little too late","url":""}
+{"date":1316685493000,"author":"Amena_Bakr","rating":6,"text":"RT @MFQahtani: I met a man last night, one of his relatives was detained and tortured by #Saudi MOI agents!\n\nWent insane, held in a psyc ...","url":""}
+{"date":1316679754000,"author":"Amena_Bakr","rating":0,"text":"@NaguibSawiris I agree!","url":""}
+{"date":1316678235000,"author":"Amena_Bakr","rating":0,"text":"Random fact for the day, green tea and red grape seeds kill cancer cells","url":""}
+{"date":1316677354000,"author":"Amena_Bakr","rating":0,"text":"Nuts for each other...very cute. http:\/\/t.co\/mTJcLZpg","url":""}
+{"date":1316677106000,"author":"Amena_Bakr","rating":0,"text":"All eyes on the gold price as sone traders expect a crash by today or 2morrow","url":""}
+{"date":1316670454000,"author":"Amena_Bakr","rating":0,"text":"@tomgara more like 3014! Me and the fox are joining the dance!","url":""}
+{"date":1316670198000,"author":"Amena_Bakr","rating":0,"text":"It\u2019s heartbreaking when your dog is on the constant prowl for new owners\u2026today she was going for two ladies with giant sun hats","url":""}
+{"date":1316521450000,"author":"Amena_Bakr","rating":0,"text":"There's an oil field in Saudi called Bakr...thats it im claiming it! its all mine!","url":""}
+{"date":1316512780000,"author":"Amena_Bakr","rating":0,"text":"@tomgara i want to!","url":""}
+{"date":1316511822000,"author":"Amena_Bakr","rating":0,"text":"the eu debt crisis seems to the main concern for opec producers today...but dont think shit will hit the fan before the start of 2012","url":""}
+{"date":1316499424000,"author":"Amena_Bakr","rating":0,"text":"The UAE should introduce therapy dogs at dental clinics...that'll make me happy","url":""}
+{"date":1316434677000,"author":"Amena_Bakr","rating":0,"text":"despite what the opec sec gen said today i really dont think gulf opec members will lower output anytime soon","url":""}
+{"date":1316434564000,"author":"Amena_Bakr","rating":0,"text":"cinnamon apple tea sounds like a great idea now","url":""}
+{"date":1316434380000,"author":"Amena_Bakr","rating":0,"text":"This is unconfirmed but the UAE might be looking into building a pipeline to import fresh water...sounds a bit odd","url":""}
+{"date":1316434288000,"author":"Amena_Bakr","rating":0,"text":"Heads of oil IOC's in Dubai today saying that $80 per barrel is a fair price for investment","url":""}
+{"date":1316434207000,"author":"Amena_Bakr","rating":0,"text":"hearing a few jitters from gold traders that a possible crash of price might be coming soon","url":""}
+{"date":1316434052000,"author":"Amena_Bakr","rating":0,"text":"everyone in dubai seems to have a cold..really sux","url":""}
+{"date":1316434009000,"author":"Amena_Bakr","rating":0,"text":"opec sec gen expects Gulf countries to drop their output once libya is back online","url":""}
+{"date":1316433971000,"author":"Amena_Bakr","rating":0,"text":"opec sec gen thinks libya's oil output will reach 1 million bpd in 6 months","url":""}
+{"date":1315991272000,"author":"Amena_Bakr","rating":0,"text":"I had no idea how stress can be the main casue for cancer...really makes you rethink how you live","url":""}
+{"date":1315990992000,"author":"Amena_Bakr","rating":0,"text":"Turkish PM now holding private meeting in Cairo with Amr Moussa","url":""}
+{"date":1315971434000,"author":"Amena_Bakr","rating":0,"text":"Random fact...porcupines float in water","url":""}
+{"date":1315829733000,"author":"Amena_Bakr","rating":699,"text":"RT @ElBaradei: Egypt' s salvation will be through genuine transition to democracy and not through repressive measures; don't clone old r ...","url":""}
+{"date":1315829654000,"author":"Amena_Bakr","rating":0,"text":"Life in Dubai seems very strange after spending 3 weeks in Cairo","url":""}
+{"date":1315829577000,"author":"Amena_Bakr","rating":0,"text":"Looks like Saudi might keep oil output steady till the end of the year, until Libya recovers","url":""}
+{"date":1315713537000,"author":"Amena_Bakr","rating":0,"text":"The Dubai airport today was a nightmare, dont know if it has something to do with 9\/11, spent a good 2 hours to get my passport stamped","url":""}
+{"date":1315713456000,"author":"Amena_Bakr","rating":0,"text":"I'm really sad, Egypt is turning into a war zone","url":""}
+{"date":1315563368000,"author":"Amena_Bakr","rating":0,"text":"protestors heading to tahrir after friday prayers","url":""}
+{"date":1315222386000,"author":"Amena_Bakr","rating":0,"text":"i doubt that the Gulf will cut down their oil production before Libya's output is back to normal...then again who knows","url":""}
+{"date":1315222247000,"author":"Amena_Bakr","rating":0,"text":"I'm getting sick of the pro-Mubarak thugs who are storming the streets of Cairo. Who is paying these people?!","url":""}
+{"date":1315222202000,"author":"Amena_Bakr","rating":0,"text":"Mubarak has a pink blanket today! #mubaraktrial","url":""}
+{"date":1315222147000,"author":"Amena_Bakr","rating":3,"text":"The pro-Mubarak supporters are getting very very aggressive in Cairo, beating up reporters if they dont like the questions!","url":""}
+{"date":1315222103000,"author":"Amena_Bakr","rating":12,"text":"Yesterday a  reporter was beat up at a press conf  in Cairo for asking a number of Kuwaiti lawyers why they have come to defend Mubarak?","url":""}
+{"date":1314978147000,"author":"Amena_Bakr","rating":0,"text":"So Kuwait is planning to send 10 lawyers to defend Mubarak on Monday...so that brings the total lawyer count to 1700!","url":""}
+{"date":1314638475000,"author":"Amena_Bakr","rating":0,"text":"@simeonkerr @addthis British and American arms exporters, the Saudis are loading up from the US","url":""}
+{"date":1314637922000,"author":"Amena_Bakr","rating":0,"text":"wondering what other suprises this year has for us","url":""}
+{"date":1314475415000,"author":"Amena_Bakr","rating":0,"text":"Donate to Egypt's children cancer hospital 57357","url":""}
+{"date":1313494688000,"author":"Amena_Bakr","rating":0,"text":"we want the #mubaraktrial back on tv again !","url":""}
+{"date":1313494589000,"author":"Amena_Bakr","rating":0,"text":"A recent North Sea oil discovery may be the world's biggest so far this year","url":""}
+{"date":1313400167000,"author":"Amena_Bakr","rating":0,"text":"@tomgara thats really sweet!","url":""}
+{"date":1313399724000,"author":"Amena_Bakr","rating":0,"text":"@tomgara do u see the war going on outside? rocks flying all over the place","url":""}
+{"date":1313399562000,"author":"Amena_Bakr","rating":0,"text":"@bradleyhope they were there all week, i kinda feel sorry for them standing in sun all day and fasting","url":""}
+{"date":1313399370000,"author":"Amena_Bakr","rating":0,"text":"and they roll him away #mubaraktrial","url":""}
+{"date":1313399204000,"author":"Amena_Bakr","rating":24,"text":"RT @moftasa: You should watch this trial lying down. Very different feeling. #Mubaraktrial","url":""}
+{"date":1313399092000,"author":"Amena_Bakr","rating":0,"text":"F me...this case will get side tracked by the sharm villas","url":""}
+{"date":1313398636000,"author":"Amena_Bakr","rating":0,"text":"the judge seems to have better command this time #mubaraktrial","url":""}
+{"date":1313398478000,"author":"Amena_Bakr","rating":0,"text":"a fly woke him up! #mubaraktrial","url":""}
+{"date":1313398378000,"author":"Amena_Bakr","rating":0,"text":"shit he's still sleeping! #mubaraktrial","url":""}
+{"date":1313397867000,"author":"Amena_Bakr","rating":0,"text":"crazy things happening outside the court, heaps of people throwing rocks. #mubaraktrial","url":""}
+{"date":1313397681000,"author":"Amena_Bakr","rating":0,"text":"this time its just \"mowgood\" #mubaraktrail. He seems grumpy awi","url":""}
+{"date":1313397467000,"author":"Amena_Bakr","rating":0,"text":"As they try to adjust the bed they woke him up from his nap:) #mubaraktrial","url":""}
+{"date":1313396923000,"author":"Amena_Bakr","rating":0,"text":"Alaa and Gamal try to cover up Mubarak as he naps. #mubaraktrial","url":""}
+{"date":1313396822000,"author":"Amena_Bakr","rating":0,"text":"Alaa and Gamal are in a cheerful mood #mubaraktrial","url":""}
+{"date":1313396651000,"author":"Amena_Bakr","rating":0,"text":"Mubarak taking a nap till the trial starts. #mubaraktrail","url":""}
+{"date":1313396591000,"author":"Amena_Bakr","rating":0,"text":"Mubarak wearing dark blue with an iv in his hand #mubaraktrial","url":""}
+{"date":1313396541000,"author":"Amena_Bakr","rating":0,"text":"@tomgara hahaha! me too!","url":""}
+{"date":1313384319000,"author":"Amena_Bakr","rating":0,"text":"\"Imitating others, I failed to find myself. I looked and discovered I only knew my name.\" #Rumi","url":""}
+{"date":1313384103000,"author":"Amena_Bakr","rating":3,"text":"Mubarak in the cage take two! #mubaracktrial","url":""}
+{"date":1313384103000,"author":"Amena_Bakr","rating":3,"text":"Mubarak in the cage take two! #mubaracktrial","url":""}
+{"date":1313173899000,"author":"Amena_Bakr","rating":0,"text":"Song writer Amr Mostafa is an idiot, he was on tv saying the devil was behind the killing of the protestors not mubarak","url":""}
+{"date":1313173692000,"author":"Amena_Bakr","rating":0,"text":"@tarekshalaby did they allow people to protest today? I was there an hour ago and it was closed off","url":""}
+{"date":1313094240000,"author":"Amena_Bakr","rating":0,"text":"It's getting really really hot in Cairo...almost as bad as the Gulf","url":""}
+{"date":1313061034000,"author":"Amena_Bakr","rating":0,"text":"looks like gold will go over the $2000 mark by the end of the year...too bad i dont own any","url":""}
+{"date":1313009260000,"author":"Amena_Bakr","rating":0,"text":"Amr Moussa to appear shortly on Orbit, the biggest hypocrite of our time...let's see what he has to say","url":""}
+{"date":1313008819000,"author":"Amena_Bakr","rating":0,"text":"There's a new breed of ministers in Egypt, all really nice uni profs that never expected to be ministers","url":""}
+{"date":1313008616000,"author":"Amena_Bakr","rating":0,"text":"I hate the Cottonil ad, that claims that underpants are like ur best friend...some are tight and others make u look good! #ramadanads","url":""}
+{"date":1312983234000,"author":"Amena_Bakr","rating":0,"text":"wondering if the army will allow a protest in tahrir next friday","url":""}
+{"date":1312982476000,"author":"Amena_Bakr","rating":0,"text":"@etharkamal traffic is getting worse and worse every year.At this rate we'll reach a complete stop by 2015","url":""}
+{"date":1312910089000,"author":"Amena_Bakr","rating":0,"text":"Had my wisdom tooth taken out today..ahhhhhh!","url":""}
+{"date":1312909985000,"author":"Amena_Bakr","rating":0,"text":"I fear the case against #gamalmubarak is only about 2 villas","url":""}
+{"date":1312802566000,"author":"Amena_Bakr","rating":0,"text":"@Jessica  gold  tends to go up when economies are not stable and is known for being a store of value. So prices are expected to go up","url":""}
+{"date":1312730277000,"author":"Amena_Bakr","rating":0,"text":"Israel welcomes Mubarak to move there. Do you think he'll go? #mubaraltrial","url":""}
+{"date":1312702074000,"author":"Amena_Bakr","rating":0,"text":"The papers today are saying that Mubarak is in a better mood, he's eating well and watching tv #mubaraktrial","url":""}
+{"date":1312701921000,"author":"Amena_Bakr","rating":0,"text":"@MFQahtani i hope so","url":""}
+{"date":1312638859000,"author":"Amena_Bakr","rating":0,"text":"Happy to be back in Cairo!","url":""}
+{"date":1312619008000,"author":"Amena_Bakr","rating":0,"text":"Tahrir square closed off by the army. Random gunfire heard in Garden City at night","url":""}
+{"date":1312436064000,"author":"Amena_Bakr","rating":0,"text":"I was a bit shocked yesterday some people\u2019s sympathetic reactions to Mubarak\u2026truly shameless  #mubaraktrial","url":""}
+{"date":1312435616000,"author":"Amena_Bakr","rating":0,"text":"Saudi  interior minister accepted damages over an article in The Independent accusing him of ordering police to shoot protesters.","url":""}
+{"date":1312372623000,"author":"Amena_Bakr","rating":0,"text":"is this trail only for the men? where is mama Suzanne? #mubaraktrial","url":""}
+{"date":1312371722000,"author":"Amena_Bakr","rating":0,"text":"The #mubaraktrial beats all the other ramadan shows!","url":""}
+{"date":1312370807000,"author":"Amena_Bakr","rating":9,"text":"RT @MFQahtani: Can you imagine holding similar trial to #Muabaraktrial in #saudi Arabia!\n\nI think prosecutors will take months to list a ...","url":""}
+{"date":1312370336000,"author":"Amena_Bakr","rating":0,"text":"I wonder what Tantawi will say in court? #mubaraktrial","url":""}
+{"date":1312369869000,"author":"Amena_Bakr","rating":0,"text":"@JessicaSwann yeah! its either that or a hunting dog!","url":""}
+{"date":1312369465000,"author":"Amena_Bakr","rating":0,"text":"yalla fazouret ramadan, will they find  #mubarak guilty or innocent? #mubaraktrail","url":""}
+{"date":1312367574000,"author":"Amena_Bakr","rating":3,"text":"oh poor thing he's bored...checkn his watch every 5 mins....we had 30 years of you! #mubaraktrial","url":""}
+{"date":1312366874000,"author":"Amena_Bakr","rating":0,"text":"Choas in the courtroom #mubaraktrial","url":""}
+{"date":1312366657000,"author":"Amena_Bakr","rating":0,"text":"He's pulling arrogant faces! #mubaraktrial","url":""}
+{"date":1312366400000,"author":"Amena_Bakr","rating":0,"text":"And he spoke and I wish we never have to hear that voice again! #mubaraktrail","url":""}
+{"date":1312364109000,"author":"Amena_Bakr","rating":0,"text":"I would love to see Gaddafi and Bashar\u2019s face while watching the old man in the cage\u2026its your turn next!  #MubarakTrial","url":""}
+{"date":1312363842000,"author":"Amena_Bakr","rating":0,"text":"when is the bathroom break over?! #Mubarak trail","url":""}
+{"date":1312363789000,"author":"Amena_Bakr","rating":3,"text":"RT @Hammonda1: On bed in cage #mubaraktrial http:\/\/lockerz.com\/s\/126161526","url":""}
+{"date":1312363391000,"author":"Amena_Bakr","rating":0,"text":"So he shows up on a sharm sun recliner and expect us to feel sorry for him?","url":""}
+{"date":1311062459000,"author":"Amena_Bakr","rating":0,"text":"After much resistance I\u2019ve finally decided to join the world of tweets","url":""}
+{"date":1311062459000,"author":"Amena_Bakr","rating":0,"text":"After much resistance I\u2019ve finally decided to join the world of tweets","url":""}
