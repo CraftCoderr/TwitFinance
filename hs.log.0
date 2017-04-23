@@ -1,0 +1,2004 @@
+01:34:42 [INFO] Enabling HackathonServer..
+01:34:42 [INFO] -===Entering exchange rates preloading section===-
+01:34:42 [INFO] Ignoring er-info file named .DS_Store
+01:34:42 [INFO] Parsing file eur usd 2013.csv
+01:34:44 [INFO] Parsing file eur usd 2014.csv
+01:34:45 [INFO] Parsing file eur usd 2015.csv
+01:34:46 [INFO] Parsing file eur usd 2016.csv
+01:34:47 [INFO] Parsing file gbp usd 2013.csv
+01:34:47 [INFO] Parsing file gbp usd 2014.csv
+01:34:48 [INFO] Parsing file gbp usd 2015.csv
+01:34:48 [INFO] Parsing file gbp usd 2016.csv
+01:34:49 [INFO] -===Entering news preloading section===-
+01:34:49 [INFO] Reading news from file allstarcharts.txt..
+01:34:50 [INFO] Reading news from file Amena_Bakr.txt..
+01:34:50 [INFO] Reading news from file AswathDamodaran.txt..
+01:34:50 [INFO] Reading news from file auaurelija.txt..
+01:34:50 [INFO] Reading news from file barnejek.txt..
+01:34:50 [INFO] Reading news from file benzinga.txt..
+01:34:50 [INFO] Reading news from file BondVigilantes.txt..
+01:34:50 [INFO] Reading news from file brianmlucey.txt..
+01:34:50 [INFO] Reading news from file BrianSozzi.txt..
+01:34:50 [INFO] Reading news from file bySamRo.txt..
+01:34:50 [INFO] Reading news from file Carl_C_Icahn.txt..
+01:34:50 [INFO] Reading news from file CitronResearch.txt..
+01:34:50 [INFO] Reading news from file conorsen.txt..
+01:34:50 [INFO] Reading news from file Cullenroche.txt..
+01:34:50 [INFO] Reading news from file davidjpowell24.txt..
+01:34:50 [INFO] Reading news from file DavidSchawel.txt..
+01:34:50 [INFO] Reading news from file dvolatility.txt..
+01:34:51 [INFO] Reading news from file economistmeg.txt..
+01:34:51 [INFO] Reading news from file EddyElfenbein.txt..
+01:34:51 [INFO] Reading news from file EnisTaner.txt..
+01:34:51 [INFO] Reading news from file ericjackon.txt..
+01:34:51 [INFO] Reading news from file Fullcarry.txt..
+01:34:51 [INFO] Reading news from file fwred.txt..
+01:34:51 [INFO] Reading news from file GoldmanSachs.txt..
+01:34:51 [INFO] Reading news from file groditi.txt..
+01:34:51 [INFO] Reading news from file howardlindzon.txt..
+01:34:51 [INFO] Reading news from file InterestArb.txt..
+01:34:51 [INFO] Reading news from file IvanTheK.txt..
+01:34:51 [INFO] Reading news from file JeffMacke.txt..
+01:34:52 [INFO] Reading news from file JLyonsFundMgmt.txt..
+01:34:52 [INFO] Reading news from file John_Hempton.txt..
+01:34:52 [INFO] Reading news from file KeithMcCullough.txt..
+01:34:52 [INFO] Reading news from file kiffmeister.txt..
+01:34:52 [INFO] Reading news from file kitjuckes.txt..
+01:34:52 [INFO] Reading news from file Lavorgnanomics.txt..
+01:34:52 [INFO] Reading news from file LizAnnSonders.txt..
+01:34:52 [INFO] Reading news from file mark_dow.txt..
+01:34:52 [INFO] Reading news from file MarketPlunger.txt..
+01:34:52 [INFO] Reading news from file MarkYusko.txt..
+01:34:52 [INFO] Reading news from file mbusigin.txt..
+01:34:52 [INFO] Reading news from file mebfaber.txt..
+01:34:52 [INFO] Reading news from file michaelkitces.txt..
+01:34:53 [INFO] Reading news from file muddywatersre.txt..
+01:34:53 [INFO] Reading news from file pkedrosky.txt..
+01:34:53 [INFO] Reading news from file prchovanec.txt..
+01:34:53 [INFO] Reading news from file RaoulGMI.txt..
+01:34:53 [INFO] Reading news from file ReformedBroker.txt..
+01:34:53 [INFO] Reading news from file RiskReversal.txt..
+01:34:53 [INFO] Reading news from file ritholtz.txt..
+01:34:53 [INFO] Reading news from file RyanDetrick.txt..
+01:34:53 [INFO] Reading news from file stlouisfed.txt..
+01:34:53 [INFO] Reading news from file stt2318.txt..
+01:34:53 [INFO] Reading news from file TDANSherrod.txt..
+01:34:53 [INFO] Reading news from file TFMkts.txt..
+01:34:53 [INFO] Reading news from file TheArmoTrader.txt..
+01:34:54 [INFO] Reading news from file TheSkeptic21.txt..
+01:34:54 [INFO] Reading news from file TheStalwart.txt..
+01:34:54 [INFO] Reading news from file TMTanalyst.txt..
+01:34:54 [INFO] Reading news from file ukarlewitz.txt..
+01:34:54 [INFO] Reading news from file WallStCynic.txt..
+01:34:54 [INFO] Reading news from file Wu_Tang_Financial.txt..
+01:34:54 [INFO] Reading news from file zerohedge.txt..
+01:34:54 [SEVERE] Exception in thread "main" 
+01:34:54 [SEVERE] java.lang.NullPointerException
+01:34:54 [SEVERE] 	at com.qvim.hs.news.NewsCache.preloadNews(NewsCache.java:38)
+01:34:54 [SEVERE] 	at com.qvim.hs.HackathonServer.<init>(HackathonServer.java:46)
+01:34:54 [SEVERE] 	at com.qvim.hs.Launcher.main(Launcher.java:12)
+01:34:54 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+01:34:54 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+01:34:54 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+01:34:54 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:498)
+01:34:54 [SEVERE] 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140)
+01:35:14 [INFO] §eStopping the server..
+01:35:57 [INFO] Enabling HackathonServer..
+01:35:57 [INFO] -===Entering exchange rates preloading section===-
+01:35:57 [INFO] Ignoring er-info file named .DS_Store
+01:35:57 [INFO] Parsing file eur usd 2013.csv
+01:35:58 [INFO] Parsing file eur usd 2014.csv
+01:35:59 [INFO] Parsing file eur usd 2015.csv
+01:36:00 [INFO] Parsing file eur usd 2016.csv
+01:36:01 [INFO] Parsing file gbp usd 2013.csv
+01:36:01 [INFO] Parsing file gbp usd 2014.csv
+01:36:02 [INFO] Parsing file gbp usd 2015.csv
+01:36:03 [INFO] Parsing file gbp usd 2016.csv
+01:36:03 [INFO] -===Entering news preloading section===-
+01:36:03 [INFO] Reading news from file business.txt..
+01:36:04 [INFO] Reading news from file clusterstock.txt..
+01:36:04 [INFO] Reading news from file ftfinancenews.txt..
+01:36:04 [INFO] Reading news from file MarketWatch.txt..
+01:36:04 [INFO] Reading news from file NYT.txt..
+01:36:04 [INFO] Reading news from file NYT2016.txt..
+01:36:04 [INFO] Reading news from file NYT201602.txt..
+01:36:04 [INFO] Reading news from file TheEconomist.txt..
+01:36:04 [INFO] Reading news from file WSJ.txt..
+01:36:04 [INFO] Reading news from file YahooFinance.txt..
+01:36:04 [INFO] Reading news from file allstarcharts.txt..
+01:36:04 [INFO] Reading news from file Amena_Bakr.txt..
+01:36:04 [INFO] Reading news from file AswathDamodaran.txt..
+01:36:04 [INFO] Reading news from file auaurelija.txt..
+01:36:04 [INFO] Reading news from file barnejek.txt..
+01:36:04 [INFO] Reading news from file benzinga.txt..
+01:36:04 [INFO] Reading news from file BondVigilantes.txt..
+01:36:04 [INFO] Reading news from file brianmlucey.txt..
+01:36:04 [INFO] Reading news from file BrianSozzi.txt..
+01:36:04 [INFO] Reading news from file bySamRo.txt..
+01:36:04 [INFO] Reading news from file Carl_C_Icahn.txt..
+01:36:04 [INFO] Reading news from file CitronResearch.txt..
+01:36:04 [INFO] Reading news from file conorsen.txt..
+01:36:04 [INFO] Reading news from file Cullenroche.txt..
+01:36:04 [INFO] Reading news from file davidjpowell24.txt..
+01:36:04 [INFO] Reading news from file DavidSchawel.txt..
+01:36:04 [INFO] Reading news from file dvolatility.txt..
+01:36:05 [INFO] Reading news from file economistmeg.txt..
+01:36:05 [INFO] Reading news from file EddyElfenbein.txt..
+01:36:05 [INFO] Reading news from file EnisTaner.txt..
+01:36:05 [INFO] Reading news from file ericjackon.txt..
+01:36:05 [INFO] Reading news from file Fullcarry.txt..
+01:36:05 [INFO] Reading news from file fwred.txt..
+01:36:05 [INFO] Reading news from file GoldmanSachs.txt..
+01:36:05 [INFO] Reading news from file groditi.txt..
+01:36:05 [INFO] Reading news from file howardlindzon.txt..
+01:36:05 [INFO] Reading news from file InterestArb.txt..
+01:36:05 [INFO] Reading news from file IvanTheK.txt..
+01:36:05 [INFO] Reading news from file JeffMacke.txt..
+01:36:05 [INFO] Reading news from file JLyonsFundMgmt.txt..
+01:36:05 [INFO] Reading news from file John_Hempton.txt..
+01:36:05 [INFO] Reading news from file KeithMcCullough.txt..
+01:36:05 [INFO] Reading news from file kiffmeister.txt..
+01:36:05 [INFO] Reading news from file kitjuckes.txt..
+01:36:05 [INFO] Reading news from file Lavorgnanomics.txt..
+01:36:05 [INFO] Reading news from file LizAnnSonders.txt..
+01:36:05 [INFO] Reading news from file mark_dow.txt..
+01:36:05 [INFO] Reading news from file MarketPlunger.txt..
+01:36:05 [INFO] Reading news from file MarkYusko.txt..
+01:36:06 [INFO] Reading news from file mbusigin.txt..
+01:36:06 [INFO] Reading news from file mebfaber.txt..
+01:36:06 [INFO] Reading news from file michaelkitces.txt..
+01:36:06 [INFO] Reading news from file muddywatersre.txt..
+01:36:06 [INFO] Reading news from file pkedrosky.txt..
+01:36:06 [INFO] Reading news from file prchovanec.txt..
+01:36:06 [INFO] Reading news from file RaoulGMI.txt..
+01:36:06 [INFO] Reading news from file ReformedBroker.txt..
+01:36:06 [INFO] Reading news from file RiskReversal.txt..
+01:36:06 [INFO] Reading news from file ritholtz.txt..
+01:36:06 [INFO] Reading news from file RyanDetrick.txt..
+01:36:06 [INFO] Reading news from file stlouisfed.txt..
+01:36:06 [INFO] Reading news from file stt2318.txt..
+01:36:06 [INFO] Reading news from file TDANSherrod.txt..
+01:36:06 [INFO] Reading news from file TFMkts.txt..
+01:36:06 [INFO] Reading news from file TheArmoTrader.txt..
+01:36:06 [INFO] Reading news from file TheSkeptic21.txt..
+01:36:06 [INFO] Reading news from file TheStalwart.txt..
+01:36:06 [INFO] Reading news from file TMTanalyst.txt..
+01:36:06 [INFO] Reading news from file ukarlewitz.txt..
+01:36:06 [INFO] Reading news from file WallStCynic.txt..
+01:36:06 [INFO] Reading news from file Wu_Tang_Financial.txt..
+01:36:06 [INFO] Reading news from file zerohedge.txt..
+01:36:07 [INFO]   .   ____          _            __ _ _
+01:36:07 [INFO]  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+01:36:07 [INFO] ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+01:36:07 [INFO]  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+01:36:07 [INFO]   '  |____| .__|_| |_|_| |_\__, | / / / /
+01:36:07 [INFO]  =========|_|==============|___/=/_/_/_/
+01:36:07 [INFO]  :: Spring Boot ::        (v1.4.2.RELEASE)
+01:36:07 [INFO] 2017-04-23 01:36:07.869  INFO 87570 --- [           main] com.qvim.hs.Launcher                     : Starting Launcher on MacBook-Pro.local with PID 87570 (/Users/RinesThaix/Desktop/Coding/IQ_HACKATHON/target/classes started by RinesThaix in /Users/RinesThaix/Desktop/Coding/IQ_HACKATHON)
+
+01:36:07 [INFO] 2017-04-23 01:36:07.876  INFO 87570 --- [           main] com.qvim.hs.Launcher                     : No active profile set, falling back to default profiles: default
+
+01:36:08 [INFO] 2017-04-23 01:36:08.037  INFO 87570 --- [           main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 01:36:08 MSK 2017]; root of context hierarchy
+
+01:36:11 [INFO] 2017-04-23 01:36:11.678  INFO 87570 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 722 (http)
+
+01:36:11 [INFO] 2017-04-23 01:36:11.707  INFO 87570 --- [           main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+
+01:36:11 [INFO] 2017-04-23 01:36:11.709  INFO 87570 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.6
+
+01:36:11 [INFO] 2017-04-23 01:36:11.854  INFO 87570 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+
+01:36:11 [INFO] 2017-04-23 01:36:11.855  INFO 87570 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3824 ms
+
+01:36:12 [INFO] 2017-04-23 01:36:12.366  INFO 87570 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+
+01:36:12 [INFO] 2017-04-23 01:36:12.368  INFO 87570 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+
+01:36:12 [INFO] 2017-04-23 01:36:12.368  INFO 87570 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+
+01:36:12 [INFO] 2017-04-23 01:36:12.368  INFO 87570 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+
+01:36:12 [INFO] 2017-04-23 01:36:12.370  INFO 87570 --- [ost-startStop-1] .s.DelegatingFilterProxyRegistrationBean : Mapping filter: 'springSecurityFilterChain' to: [/*]
+
+01:36:12 [INFO] 2017-04-23 01:36:12.371  INFO 87570 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+
+01:36:13 [INFO] 2017-04-23 01:36:13.313  INFO 87570 --- [           main] b.a.s.AuthenticationManagerConfiguration : 
+
+Using default security password: 7aebf6c3-adba-4001-9503-c5a3c752c9ea
+
+
+01:36:13 [INFO] 2017-04-23 01:36:13.702  INFO 87570 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7a2e0858, org.springframework.security.web.context.SecurityContextPersistenceFilter@7351a16e, org.springframework.security.web.header.HeaderWriterFilter@773e2eb5, org.springframework.security.web.authentication.logout.LogoutFilter@2b4786dd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3ac04654, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@66ec9390, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@aac3f4e, org.springframework.security.web.session.SessionManagementFilter@336365bc, org.springframework.security.web.access.ExceptionTranslationFilter@723ed581]
+
+01:36:13 [INFO] 2017-04-23 01:36:13.922  INFO 87570 --- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 01:36:08 MSK 2017]; root of context hierarchy
+
+01:36:14 [INFO] 2017-04-23 01:36:14.109  INFO 87570 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getMainPage()
+
+01:36:14 [INFO] 2017-04-23 01:36:14.110  INFO 87570 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getError()
+
+01:36:14 [INFO] 2017-04-23 01:36:14.121  INFO 87570 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/{method:.+}],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError(java.lang.String)
+
+01:36:14 [INFO] 2017-04-23 01:36:14.123  INFO 87570 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError()
+
+01:36:14 [INFO] 2017-04-23 01:36:14.124  INFO 87570 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/retrieveData],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.retrieveData(java.lang.String,java.lang.String,java.lang.Long,java.lang.Long,java.lang.Integer,java.lang.Boolean)
+
+01:36:14 [INFO] 2017-04-23 01:36:14.127  INFO 87570 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/currencies],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.currencies()
+
+01:36:14 [INFO] 2017-04-23 01:36:14.129  INFO 87570 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/tool],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getToolPage()
+
+01:36:14 [INFO] 2017-04-23 01:36:14.129  INFO 87570 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/about],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getAboutPage()
+
+01:36:14 [INFO] 2017-04-23 01:36:14.132  INFO 87570 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/method/{name:.+}]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.handle(java.lang.String,org.springframework.ui.Model)
+
+01:36:14 [INFO] 2017-04-23 01:36:14.155  INFO 87570 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getMainPage(org.springframework.ui.Model)
+
+01:36:14 [INFO] 2017-04-23 01:36:14.156  INFO 87570 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/help]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getGeneralHelp()
+
+01:36:14 [INFO] 2017-04-23 01:36:14.228  INFO 87570 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:36:14 [INFO] 2017-04-23 01:36:14.228  INFO 87570 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:36:14 [INFO] 2017-04-23 01:36:14.318  INFO 87570 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:36:14 [INFO] 2017-04-23 01:36:14.727  INFO 87570 --- [           main] o.s.w.s.v.f.FreeMarkerConfigurer         : ClassTemplateLoader for Spring macros added to FreeMarker configuration
+
+01:36:15 [INFO] 2017-04-23 01:36:15.064  INFO 87570 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+
+01:36:15 [INFO] 2017-04-23 01:36:15.258 ERROR 87570 --- [           main] o.a.coyote.http11.Http11NioProtocol      : Failed to start end point associated with ProtocolHandler [http-nio-722]
+
+java.net.SocketException: Permission denied
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_92]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:228) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:874) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:590) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:969) [tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) [tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) [tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:233) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:178) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:545) [spring-context-4.3.4.RELEASE.jar:4.3.4.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at com.qvim.hs.Launcher.main(Launcher.java:16) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_92]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_92]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_92]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_92]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140) [idea_rt.jar:na]
+
+
+01:36:15 [INFO] 2017-04-23 01:36:15.262 ERROR 87570 --- [           main] o.apache.catalina.core.StandardService   : Failed to start connector [Connector[HTTP/1.1-722]]
+
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-722]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:233) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:178) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:545) [spring-context-4.3.4.RELEASE.jar:4.3.4.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at com.qvim.hs.Launcher.main(Launcher.java:16) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_92]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_92]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_92]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_92]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140) [idea_rt.jar:na]
+Caused by: org.apache.catalina.LifecycleException: service.getName(): "Tomcat";  Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:976) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	... 17 common frames omitted
+Caused by: java.net.SocketException: Permission denied
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_92]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:228) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:874) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:590) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:969) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	... 18 common frames omitted
+
+
+01:36:15 [INFO] 2017-04-23 01:36:15.326  INFO 87570 --- [           main] o.apache.catalina.core.StandardService   : Stopping service Tomcat
+
+01:36:15 [INFO] 2017-04-23 01:36:15.346  WARN 87570 --- [ost-startStop-1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:43)
+
+01:36:15 [INFO] 2017-04-23 01:36:15.364  INFO 87570 --- [           main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+
+01:36:15 [INFO] 2017-04-23 01:36:15.369 ERROR 87570 --- [           main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 722 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 722, or configure this application to listen on another port.
+
+
+01:36:15 [INFO] 2017-04-23 01:36:15.370  INFO 87570 --- [           main] ationConfigEmbeddedWebApplicationContext : Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 01:36:08 MSK 2017]; root of context hierarchy
+
+01:36:15 [INFO] 2017-04-23 01:36:15.372  INFO 87570 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+
+01:36:39 [INFO] §eStopping the server..
+01:37:09 [INFO] Enabling HackathonServer..
+01:37:09 [INFO] -===Entering exchange rates preloading section===-
+01:37:09 [INFO] Ignoring er-info file named .DS_Store
+01:37:09 [INFO] Parsing file eur usd 2013.csv
+01:37:09 [INFO] Parsing file eur usd 2014.csv
+01:37:10 [INFO] Parsing file eur usd 2015.csv
+01:37:10 [INFO] Parsing file eur usd 2016.csv
+01:37:10 [INFO] Parsing file gbp usd 2013.csv
+01:37:10 [INFO] Parsing file gbp usd 2014.csv
+01:37:10 [INFO] Parsing file gbp usd 2015.csv
+01:37:11 [INFO] Parsing file gbp usd 2016.csv
+01:37:11 [INFO] -===Entering news preloading section===-
+01:37:11 [INFO] Reading news from file business.txt..
+01:37:11 [INFO] Reading news from file clusterstock.txt..
+01:37:11 [INFO] Reading news from file ftfinancenews.txt..
+01:37:11 [INFO] Reading news from file MarketWatch.txt..
+01:37:11 [INFO] Reading news from file NYT.txt..
+01:37:11 [INFO] Reading news from file NYT2016.txt..
+01:37:11 [INFO] Reading news from file NYT201602.txt..
+01:37:11 [INFO] Reading news from file TheEconomist.txt..
+01:37:11 [INFO] Reading news from file WSJ.txt..
+01:37:11 [INFO] Reading news from file YahooFinance.txt..
+01:37:11 [INFO] Reading news from file allstarcharts.txt..
+01:37:11 [INFO] Reading news from file Amena_Bakr.txt..
+01:37:11 [INFO] Reading news from file AswathDamodaran.txt..
+01:37:11 [INFO] Reading news from file auaurelija.txt..
+01:37:11 [INFO] Reading news from file barnejek.txt..
+01:37:11 [INFO] Reading news from file benzinga.txt..
+01:37:11 [INFO] Reading news from file BondVigilantes.txt..
+01:37:11 [INFO] Reading news from file brianmlucey.txt..
+01:37:11 [INFO] Reading news from file BrianSozzi.txt..
+01:37:11 [INFO] Reading news from file bySamRo.txt..
+01:37:11 [INFO] Reading news from file Carl_C_Icahn.txt..
+01:37:11 [INFO] Reading news from file CitronResearch.txt..
+01:37:11 [INFO] Reading news from file conorsen.txt..
+01:37:11 [INFO] Reading news from file Cullenroche.txt..
+01:37:11 [INFO] Reading news from file davidjpowell24.txt..
+01:37:11 [INFO] Reading news from file DavidSchawel.txt..
+01:37:11 [INFO] Reading news from file dvolatility.txt..
+01:37:11 [INFO] Reading news from file economistmeg.txt..
+01:37:11 [INFO] Reading news from file EddyElfenbein.txt..
+01:37:11 [INFO] Reading news from file EnisTaner.txt..
+01:37:11 [INFO] Reading news from file ericjackon.txt..
+01:37:11 [INFO] Reading news from file Fullcarry.txt..
+01:37:11 [INFO] Reading news from file fwred.txt..
+01:37:11 [INFO] Reading news from file GoldmanSachs.txt..
+01:37:12 [INFO] Reading news from file groditi.txt..
+01:37:12 [INFO] Reading news from file howardlindzon.txt..
+01:37:12 [INFO] Reading news from file InterestArb.txt..
+01:37:12 [INFO] Reading news from file IvanTheK.txt..
+01:37:12 [INFO] Reading news from file JeffMacke.txt..
+01:37:12 [INFO] Reading news from file JLyonsFundMgmt.txt..
+01:37:12 [INFO] Reading news from file John_Hempton.txt..
+01:37:12 [INFO] Reading news from file KeithMcCullough.txt..
+01:37:12 [INFO] Reading news from file kiffmeister.txt..
+01:37:12 [INFO] Reading news from file kitjuckes.txt..
+01:37:12 [INFO] Reading news from file Lavorgnanomics.txt..
+01:37:12 [INFO] Reading news from file LizAnnSonders.txt..
+01:37:12 [INFO] Reading news from file mark_dow.txt..
+01:37:12 [INFO] Reading news from file MarketPlunger.txt..
+01:37:12 [INFO] Reading news from file MarkYusko.txt..
+01:37:12 [INFO] Reading news from file mbusigin.txt..
+01:37:12 [INFO] Reading news from file mebfaber.txt..
+01:37:12 [INFO] Reading news from file michaelkitces.txt..
+01:37:12 [INFO] Reading news from file muddywatersre.txt..
+01:37:12 [INFO] Reading news from file pkedrosky.txt..
+01:37:12 [INFO] Reading news from file prchovanec.txt..
+01:37:12 [INFO] Reading news from file RaoulGMI.txt..
+01:37:12 [INFO] Reading news from file ReformedBroker.txt..
+01:37:12 [INFO] Reading news from file RiskReversal.txt..
+01:37:12 [INFO] Reading news from file ritholtz.txt..
+01:37:12 [INFO] Reading news from file RyanDetrick.txt..
+01:37:12 [INFO] Reading news from file stlouisfed.txt..
+01:37:12 [INFO] Reading news from file stt2318.txt..
+01:37:12 [INFO] Reading news from file TDANSherrod.txt..
+01:37:12 [INFO] Reading news from file TFMkts.txt..
+01:37:12 [INFO] Reading news from file TheArmoTrader.txt..
+01:37:12 [INFO] Reading news from file TheSkeptic21.txt..
+01:37:12 [INFO] Reading news from file TheStalwart.txt..
+01:37:12 [INFO] Reading news from file TMTanalyst.txt..
+01:37:12 [INFO] Reading news from file ukarlewitz.txt..
+01:37:12 [INFO] Reading news from file WallStCynic.txt..
+01:37:12 [INFO] Reading news from file Wu_Tang_Financial.txt..
+01:37:12 [INFO] Reading news from file zerohedge.txt..
+01:37:13 [INFO]   .   ____          _            __ _ _
+01:37:13 [INFO]  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+01:37:13 [INFO] ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+01:37:13 [INFO]  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+01:37:13 [INFO]   '  |____| .__|_| |_|_| |_\__, | / / / /
+01:37:13 [INFO]  =========|_|==============|___/=/_/_/_/
+01:37:13 [INFO]  :: Spring Boot ::        (v1.4.2.RELEASE)
+01:37:13 [INFO] 2017-04-23 01:37:13.389  INFO 87613 --- [           main] com.qvim.hs.Launcher                     : Starting Launcher on MacBook-Pro.local with PID 87613 (/Users/RinesThaix/Desktop/Coding/IQ_HACKATHON/target/classes started by RinesThaix in /Users/RinesThaix/Desktop/Coding/IQ_HACKATHON)
+
+01:37:13 [INFO] 2017-04-23 01:37:13.395  INFO 87613 --- [           main] com.qvim.hs.Launcher                     : No active profile set, falling back to default profiles: default
+
+01:37:13 [INFO] 2017-04-23 01:37:13.527  INFO 87613 --- [           main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 01:37:13 MSK 2017]; root of context hierarchy
+
+01:37:15 [INFO] 2017-04-23 01:37:15.744  INFO 87613 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 722 (http)
+
+01:37:15 [INFO] 2017-04-23 01:37:15.767  INFO 87613 --- [           main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+
+01:37:15 [INFO] 2017-04-23 01:37:15.768  INFO 87613 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.6
+
+01:37:15 [INFO] 2017-04-23 01:37:15.899  INFO 87613 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+
+01:37:15 [INFO] 2017-04-23 01:37:15.900  INFO 87613 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2383 ms
+
+01:37:16 [INFO] 2017-04-23 01:37:16.141  INFO 87613 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+
+01:37:16 [INFO] 2017-04-23 01:37:16.142  INFO 87613 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+
+01:37:16 [INFO] 2017-04-23 01:37:16.142  INFO 87613 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+
+01:37:16 [INFO] 2017-04-23 01:37:16.142  INFO 87613 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+
+01:37:16 [INFO] 2017-04-23 01:37:16.144  INFO 87613 --- [ost-startStop-1] .s.DelegatingFilterProxyRegistrationBean : Mapping filter: 'springSecurityFilterChain' to: [/*]
+
+01:37:16 [INFO] 2017-04-23 01:37:16.144  INFO 87613 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+
+01:37:16 [INFO] 2017-04-23 01:37:16.586  INFO 87613 --- [           main] b.a.s.AuthenticationManagerConfiguration : 
+
+Using default security password: 5534d556-58ba-4096-8fc7-479d46b57882
+
+
+01:37:16 [INFO] 2017-04-23 01:37:16.709  INFO 87613 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7a2e0858, org.springframework.security.web.context.SecurityContextPersistenceFilter@7351a16e, org.springframework.security.web.header.HeaderWriterFilter@773e2eb5, org.springframework.security.web.authentication.logout.LogoutFilter@2b4786dd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3ac04654, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@66ec9390, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@aac3f4e, org.springframework.security.web.session.SessionManagementFilter@336365bc, org.springframework.security.web.access.ExceptionTranslationFilter@723ed581]
+
+01:37:16 [INFO] 2017-04-23 01:37:16.803  INFO 87613 --- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 01:37:13 MSK 2017]; root of context hierarchy
+
+01:37:16 [INFO] 2017-04-23 01:37:16.885  INFO 87613 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getError()
+
+01:37:16 [INFO] 2017-04-23 01:37:16.886  INFO 87613 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getMainPage()
+
+01:37:16 [INFO] 2017-04-23 01:37:16.891  INFO 87613 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/{method:.+}],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError(java.lang.String)
+
+01:37:16 [INFO] 2017-04-23 01:37:16.893  INFO 87613 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError()
+
+01:37:16 [INFO] 2017-04-23 01:37:16.894  INFO 87613 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/retrieveData],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.retrieveData(java.lang.String,java.lang.String,java.lang.Long,java.lang.Long,java.lang.Integer,java.lang.Boolean)
+
+01:37:16 [INFO] 2017-04-23 01:37:16.895  INFO 87613 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/currencies],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.currencies()
+
+01:37:16 [INFO] 2017-04-23 01:37:16.896  INFO 87613 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/tool],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getToolPage()
+
+01:37:16 [INFO] 2017-04-23 01:37:16.897  INFO 87613 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/about],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getAboutPage()
+
+01:37:16 [INFO] 2017-04-23 01:37:16.899  INFO 87613 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/method/{name:.+}]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.handle(java.lang.String,org.springframework.ui.Model)
+
+01:37:16 [INFO] 2017-04-23 01:37:16.899  INFO 87613 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getMainPage(org.springframework.ui.Model)
+
+01:37:16 [INFO] 2017-04-23 01:37:16.900  INFO 87613 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/help]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getGeneralHelp()
+
+01:37:16 [INFO] 2017-04-23 01:37:16.944  INFO 87613 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:37:16 [INFO] 2017-04-23 01:37:16.944  INFO 87613 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:37:16 [INFO] 2017-04-23 01:37:16.985  INFO 87613 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:37:17 [INFO] 2017-04-23 01:37:17.206  INFO 87613 --- [           main] o.s.w.s.v.f.FreeMarkerConfigurer         : ClassTemplateLoader for Spring macros added to FreeMarker configuration
+
+01:37:17 [INFO] 2017-04-23 01:37:17.341  INFO 87613 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+
+01:37:17 [INFO] 2017-04-23 01:37:17.393 ERROR 87613 --- [           main] o.a.coyote.http11.Http11NioProtocol      : Failed to start end point associated with ProtocolHandler [http-nio-722]
+
+java.net.SocketException: Permission denied
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_92]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:228) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:874) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:590) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:969) [tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) [tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) [tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:233) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:178) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:545) [spring-context-4.3.4.RELEASE.jar:4.3.4.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at com.qvim.hs.Launcher.main(Launcher.java:16) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_92]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_92]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_92]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_92]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140) [idea_rt.jar:na]
+
+
+01:37:17 [INFO] 2017-04-23 01:37:17.396 ERROR 87613 --- [           main] o.apache.catalina.core.StandardService   : Failed to start connector [Connector[HTTP/1.1-722]]
+
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-722]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:233) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:178) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:545) [spring-context-4.3.4.RELEASE.jar:4.3.4.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at com.qvim.hs.Launcher.main(Launcher.java:16) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_92]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_92]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_92]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_92]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140) [idea_rt.jar:na]
+Caused by: org.apache.catalina.LifecycleException: service.getName(): "Tomcat";  Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:976) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	... 17 common frames omitted
+Caused by: java.net.SocketException: Permission denied
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_92]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:228) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:874) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:590) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:969) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	... 18 common frames omitted
+
+
+01:37:17 [INFO] 2017-04-23 01:37:17.406  INFO 87613 --- [           main] o.apache.catalina.core.StandardService   : Stopping service Tomcat
+
+01:37:17 [INFO] 2017-04-23 01:37:17.418  WARN 87613 --- [ost-startStop-1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:43)
+
+01:37:17 [INFO] 2017-04-23 01:37:17.433  INFO 87613 --- [           main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+
+01:37:17 [INFO] 2017-04-23 01:37:17.437 ERROR 87613 --- [           main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 722 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 722, or configure this application to listen on another port.
+
+
+01:37:17 [INFO] 2017-04-23 01:37:17.438  INFO 87613 --- [           main] ationConfigEmbeddedWebApplicationContext : Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 01:37:13 MSK 2017]; root of context hierarchy
+
+01:37:17 [INFO] 2017-04-23 01:37:17.440  INFO 87613 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+
+01:37:52 [INFO] §eStopping the server..
+01:38:58 [INFO] Enabling HackathonServer..
+01:38:58 [INFO] -===Entering exchange rates preloading section===-
+01:38:58 [INFO] Ignoring er-info file named .DS_Store
+01:38:58 [INFO] Parsing file eur usd 2013.csv
+01:38:59 [INFO] Parsing file eur usd 2014.csv
+01:39:00 [INFO] Parsing file eur usd 2015.csv
+01:39:00 [INFO] Parsing file eur usd 2016.csv
+01:39:00 [INFO] Parsing file gbp usd 2013.csv
+01:39:00 [INFO] Parsing file gbp usd 2014.csv
+01:39:00 [INFO] Parsing file gbp usd 2015.csv
+01:39:01 [INFO] Parsing file gbp usd 2016.csv
+01:39:01 [INFO] -===Entering news preloading section===-
+01:39:01 [INFO] Reading news from file business.txt..
+01:39:01 [INFO] Reading news from file clusterstock.txt..
+01:39:01 [INFO] Reading news from file ftfinancenews.txt..
+01:39:01 [INFO] Reading news from file MarketWatch.txt..
+01:39:01 [INFO] Reading news from file NYT.txt..
+01:39:01 [INFO] Reading news from file NYT2016.txt..
+01:39:01 [INFO] Reading news from file NYT201602.txt..
+01:39:01 [INFO] Reading news from file TheEconomist.txt..
+01:39:01 [INFO] Reading news from file WSJ.txt..
+01:39:01 [INFO] Reading news from file YahooFinance.txt..
+01:39:01 [INFO] Reading news from file allstarcharts.txt..
+01:39:01 [INFO] Reading news from file Amena_Bakr.txt..
+01:39:01 [INFO] Reading news from file AswathDamodaran.txt..
+01:39:01 [INFO] Reading news from file auaurelija.txt..
+01:39:01 [INFO] Reading news from file barnejek.txt..
+01:39:01 [INFO] Reading news from file benzinga.txt..
+01:39:01 [INFO] Reading news from file BondVigilantes.txt..
+01:39:01 [INFO] Reading news from file brianmlucey.txt..
+01:39:01 [INFO] Reading news from file BrianSozzi.txt..
+01:39:01 [INFO] Reading news from file bySamRo.txt..
+01:39:01 [INFO] Reading news from file Carl_C_Icahn.txt..
+01:39:01 [INFO] Reading news from file CitronResearch.txt..
+01:39:01 [INFO] Reading news from file conorsen.txt..
+01:39:01 [INFO] Reading news from file Cullenroche.txt..
+01:39:01 [INFO] Reading news from file davidjpowell24.txt..
+01:39:01 [INFO] Reading news from file DavidSchawel.txt..
+01:39:01 [INFO] Reading news from file dvolatility.txt..
+01:39:01 [INFO] Reading news from file economistmeg.txt..
+01:39:01 [INFO] Reading news from file EddyElfenbein.txt..
+01:39:01 [INFO] Reading news from file EnisTaner.txt..
+01:39:01 [INFO] Reading news from file ericjackon.txt..
+01:39:01 [INFO] Reading news from file Fullcarry.txt..
+01:39:01 [INFO] Reading news from file fwred.txt..
+01:39:02 [INFO] Reading news from file GoldmanSachs.txt..
+01:39:02 [INFO] Reading news from file groditi.txt..
+01:39:02 [INFO] Reading news from file howardlindzon.txt..
+01:39:02 [INFO] Reading news from file InterestArb.txt..
+01:39:02 [INFO] Reading news from file IvanTheK.txt..
+01:39:02 [INFO] Reading news from file JeffMacke.txt..
+01:39:02 [INFO] Reading news from file JLyonsFundMgmt.txt..
+01:39:02 [INFO] Reading news from file John_Hempton.txt..
+01:39:02 [INFO] Reading news from file KeithMcCullough.txt..
+01:39:02 [INFO] Reading news from file kiffmeister.txt..
+01:39:02 [INFO] Reading news from file kitjuckes.txt..
+01:39:02 [INFO] Reading news from file Lavorgnanomics.txt..
+01:39:02 [INFO] Reading news from file LizAnnSonders.txt..
+01:39:02 [INFO] Reading news from file mark_dow.txt..
+01:39:02 [INFO] Reading news from file MarketPlunger.txt..
+01:39:02 [INFO] Reading news from file MarkYusko.txt..
+01:39:02 [INFO] Reading news from file mbusigin.txt..
+01:39:02 [INFO] Reading news from file mebfaber.txt..
+01:39:02 [INFO] Reading news from file michaelkitces.txt..
+01:39:02 [INFO] Reading news from file muddywatersre.txt..
+01:39:02 [INFO] Reading news from file pkedrosky.txt..
+01:39:02 [INFO] Reading news from file prchovanec.txt..
+01:39:02 [INFO] Reading news from file RaoulGMI.txt..
+01:39:02 [INFO] Reading news from file ReformedBroker.txt..
+01:39:02 [INFO] Reading news from file RiskReversal.txt..
+01:39:02 [INFO] Reading news from file ritholtz.txt..
+01:39:02 [INFO] Reading news from file RyanDetrick.txt..
+01:39:02 [INFO] Reading news from file stlouisfed.txt..
+01:39:02 [INFO] Reading news from file stt2318.txt..
+01:39:02 [INFO] Reading news from file TDANSherrod.txt..
+01:39:02 [INFO] Reading news from file TFMkts.txt..
+01:39:02 [INFO] Reading news from file TheArmoTrader.txt..
+01:39:02 [INFO] Reading news from file TheSkeptic21.txt..
+01:39:02 [INFO] Reading news from file TheStalwart.txt..
+01:39:02 [INFO] Reading news from file TMTanalyst.txt..
+01:39:02 [INFO] Reading news from file ukarlewitz.txt..
+01:39:02 [INFO] Reading news from file WallStCynic.txt..
+01:39:02 [INFO] Reading news from file Wu_Tang_Financial.txt..
+01:39:02 [INFO] Reading news from file zerohedge.txt..
+01:39:03 [INFO]   .   ____          _            __ _ _
+01:39:03 [INFO]  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+01:39:03 [INFO] ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+01:39:03 [INFO]  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+01:39:03 [INFO]   '  |____| .__|_| |_|_| |_\__, | / / / /
+01:39:03 [INFO]  =========|_|==============|___/=/_/_/_/
+01:39:03 [INFO]  :: Spring Boot ::        (v1.4.2.RELEASE)
+01:39:03 [INFO] 2017-04-23 01:39:03.218  INFO 87674 --- [           main] com.qvim.hs.Launcher                     : Starting Launcher on MacBook-Pro.local with PID 87674 (/Users/RinesThaix/Desktop/Coding/IQ_HACKATHON/target/classes started by RinesThaix in /Users/RinesThaix/Desktop/Coding/IQ_HACKATHON)
+
+01:39:03 [INFO] 2017-04-23 01:39:03.222  INFO 87674 --- [           main] com.qvim.hs.Launcher                     : No active profile set, falling back to default profiles: default
+
+01:39:03 [INFO] 2017-04-23 01:39:03.335  INFO 87674 --- [           main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 01:39:03 MSK 2017]; root of context hierarchy
+
+01:39:05 [INFO] 2017-04-23 01:39:05.089  INFO 87674 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 722 (http)
+
+01:39:05 [INFO] 2017-04-23 01:39:05.102  INFO 87674 --- [           main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+
+01:39:05 [INFO] 2017-04-23 01:39:05.103  INFO 87674 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.6
+
+01:39:05 [INFO] 2017-04-23 01:39:05.209  INFO 87674 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+
+01:39:05 [INFO] 2017-04-23 01:39:05.209  INFO 87674 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1882 ms
+
+01:39:05 [INFO] 2017-04-23 01:39:05.416  INFO 87674 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+
+01:39:05 [INFO] 2017-04-23 01:39:05.416  INFO 87674 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+
+01:39:05 [INFO] 2017-04-23 01:39:05.417  INFO 87674 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+
+01:39:05 [INFO] 2017-04-23 01:39:05.417  INFO 87674 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+
+01:39:05 [INFO] 2017-04-23 01:39:05.420  INFO 87674 --- [ost-startStop-1] .s.DelegatingFilterProxyRegistrationBean : Mapping filter: 'springSecurityFilterChain' to: [/*]
+
+01:39:05 [INFO] 2017-04-23 01:39:05.420  INFO 87674 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+
+01:39:05 [INFO] 2017-04-23 01:39:05.792  INFO 87674 --- [           main] b.a.s.AuthenticationManagerConfiguration : 
+
+Using default security password: 171f0f71-5438-400f-a398-12e76f7982c9
+
+
+01:39:05 [INFO] 2017-04-23 01:39:05.889  INFO 87674 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@746b18fd, org.springframework.security.web.context.SecurityContextPersistenceFilter@4567e53d, org.springframework.security.web.header.HeaderWriterFilter@2c306a57, org.springframework.security.web.authentication.logout.LogoutFilter@14e2e1c3, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5bb7643d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5e268ce6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7a2e0858, org.springframework.security.web.session.SessionManagementFilter@38a1c423, org.springframework.security.web.access.ExceptionTranslationFilter@3e7dfd44]
+
+01:39:05 [INFO] 2017-04-23 01:39:05.960  INFO 87674 --- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 01:39:03 MSK 2017]; root of context hierarchy
+
+01:39:06 [INFO] 2017-04-23 01:39:06.033  INFO 87674 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getError()
+
+01:39:06 [INFO] 2017-04-23 01:39:06.035  INFO 87674 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getMainPage()
+
+01:39:06 [INFO] 2017-04-23 01:39:06.038  INFO 87674 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/retrieveData],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.retrieveData(java.lang.String,java.lang.String,java.lang.Long,java.lang.Long,java.lang.Integer,java.lang.Boolean)
+
+01:39:06 [INFO] 2017-04-23 01:39:06.040  INFO 87674 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/currencies],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.currencies()
+
+01:39:06 [INFO] 2017-04-23 01:39:06.041  INFO 87674 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError()
+
+01:39:06 [INFO] 2017-04-23 01:39:06.041  INFO 87674 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/{method:.+}],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError(java.lang.String)
+
+01:39:06 [INFO] 2017-04-23 01:39:06.042  INFO 87674 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/tool],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getToolPage()
+
+01:39:06 [INFO] 2017-04-23 01:39:06.043  INFO 87674 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/about],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getAboutPage()
+
+01:39:06 [INFO] 2017-04-23 01:39:06.045  INFO 87674 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/method/{name:.+}]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.handle(java.lang.String,org.springframework.ui.Model)
+
+01:39:06 [INFO] 2017-04-23 01:39:06.045  INFO 87674 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/help]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getGeneralHelp()
+
+01:39:06 [INFO] 2017-04-23 01:39:06.046  INFO 87674 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getMainPage(org.springframework.ui.Model)
+
+01:39:06 [INFO] 2017-04-23 01:39:06.079  INFO 87674 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:39:06 [INFO] 2017-04-23 01:39:06.079  INFO 87674 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:39:06 [INFO] 2017-04-23 01:39:06.128  INFO 87674 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:39:06 [INFO] 2017-04-23 01:39:06.342  INFO 87674 --- [           main] o.s.w.s.v.f.FreeMarkerConfigurer         : ClassTemplateLoader for Spring macros added to FreeMarker configuration
+
+01:39:06 [INFO] 2017-04-23 01:39:06.450  INFO 87674 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+
+01:39:06 [INFO] 2017-04-23 01:39:06.492 ERROR 87674 --- [           main] o.a.coyote.http11.Http11NioProtocol      : Failed to start end point associated with ProtocolHandler [http-nio-722]
+
+java.net.SocketException: Permission denied
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_92]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:228) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:874) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:590) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:969) [tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) [tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) [tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:233) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:178) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:545) [spring-context-4.3.4.RELEASE.jar:4.3.4.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at com.qvim.hs.Launcher.main(Launcher.java:16) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_92]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_92]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_92]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_92]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140) [idea_rt.jar:na]
+
+
+01:39:06 [INFO] 2017-04-23 01:39:06.494 ERROR 87674 --- [           main] o.apache.catalina.core.StandardService   : Failed to start connector [Connector[HTTP/1.1-722]]
+
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-722]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:233) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:178) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:545) [spring-context-4.3.4.RELEASE.jar:4.3.4.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at com.qvim.hs.Launcher.main(Launcher.java:16) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_92]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_92]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_92]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_92]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140) [idea_rt.jar:na]
+Caused by: org.apache.catalina.LifecycleException: service.getName(): "Tomcat";  Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:976) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	... 17 common frames omitted
+Caused by: java.net.SocketException: Permission denied
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_92]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:228) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:874) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:590) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:969) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	... 18 common frames omitted
+
+
+01:39:06 [INFO] 2017-04-23 01:39:06.508  INFO 87674 --- [           main] o.apache.catalina.core.StandardService   : Stopping service Tomcat
+
+01:39:06 [INFO] 2017-04-23 01:39:06.516  WARN 87674 --- [ost-startStop-1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:43)
+
+01:39:06 [INFO] 2017-04-23 01:39:06.525  INFO 87674 --- [           main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+
+01:39:06 [INFO] 2017-04-23 01:39:06.528 ERROR 87674 --- [           main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 722 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 722, or configure this application to listen on another port.
+
+
+01:39:06 [INFO] 2017-04-23 01:39:06.529  INFO 87674 --- [           main] ationConfigEmbeddedWebApplicationContext : Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 01:39:03 MSK 2017]; root of context hierarchy
+
+01:39:06 [INFO] 2017-04-23 01:39:06.530  INFO 87674 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+
+01:39:10 [INFO] §eStopping the server..
+01:39:36 [INFO] Enabling HackathonServer..
+01:39:37 [INFO] -===Entering exchange rates preloading section===-
+01:39:37 [INFO] Ignoring er-info file named .DS_Store
+01:39:37 [INFO] Parsing file eur usd 2013.csv
+01:39:37 [INFO] Parsing file eur usd 2014.csv
+01:39:37 [INFO] Parsing file eur usd 2015.csv
+01:39:38 [INFO] Parsing file eur usd 2016.csv
+01:39:38 [INFO] Parsing file gbp usd 2013.csv
+01:39:38 [INFO] Parsing file gbp usd 2014.csv
+01:39:38 [INFO] Parsing file gbp usd 2015.csv
+01:39:38 [INFO] Parsing file gbp usd 2016.csv
+01:39:38 [INFO] -===Entering news preloading section===-
+01:39:38 [INFO] Reading news from file business.txt..
+01:39:39 [INFO] Reading news from file clusterstock.txt..
+01:39:39 [INFO] Reading news from file ftfinancenews.txt..
+01:39:39 [INFO] Reading news from file MarketWatch.txt..
+01:39:39 [INFO] Reading news from file NYT.txt..
+01:39:39 [INFO] Reading news from file NYT2016.txt..
+01:39:39 [INFO] Reading news from file NYT201602.txt..
+01:39:39 [INFO] Reading news from file TheEconomist.txt..
+01:39:39 [INFO] Reading news from file WSJ.txt..
+01:39:39 [INFO] Reading news from file YahooFinance.txt..
+01:39:39 [INFO] Reading news from file allstarcharts.txt..
+01:39:39 [INFO] Reading news from file Amena_Bakr.txt..
+01:39:39 [INFO] Reading news from file AswathDamodaran.txt..
+01:39:39 [INFO] Reading news from file auaurelija.txt..
+01:39:39 [INFO] Reading news from file barnejek.txt..
+01:39:39 [INFO] Reading news from file benzinga.txt..
+01:39:39 [INFO] Reading news from file BondVigilantes.txt..
+01:39:39 [INFO] Reading news from file brianmlucey.txt..
+01:39:39 [INFO] Reading news from file BrianSozzi.txt..
+01:39:39 [INFO] Reading news from file bySamRo.txt..
+01:39:39 [INFO] Reading news from file Carl_C_Icahn.txt..
+01:39:39 [INFO] Reading news from file CitronResearch.txt..
+01:39:39 [INFO] Reading news from file conorsen.txt..
+01:39:39 [INFO] Reading news from file Cullenroche.txt..
+01:39:39 [INFO] Reading news from file davidjpowell24.txt..
+01:39:39 [INFO] Reading news from file DavidSchawel.txt..
+01:39:39 [INFO] Reading news from file dvolatility.txt..
+01:39:39 [INFO] Reading news from file economistmeg.txt..
+01:39:39 [INFO] Reading news from file EddyElfenbein.txt..
+01:39:39 [INFO] Reading news from file EnisTaner.txt..
+01:39:39 [INFO] Reading news from file ericjackon.txt..
+01:39:39 [INFO] Reading news from file Fullcarry.txt..
+01:39:39 [INFO] Reading news from file fwred.txt..
+01:39:39 [INFO] Reading news from file GoldmanSachs.txt..
+01:39:39 [INFO] Reading news from file groditi.txt..
+01:39:39 [INFO] Reading news from file howardlindzon.txt..
+01:39:39 [INFO] Reading news from file InterestArb.txt..
+01:39:39 [INFO] Reading news from file IvanTheK.txt..
+01:39:39 [INFO] Reading news from file JeffMacke.txt..
+01:39:39 [INFO] Reading news from file JLyonsFundMgmt.txt..
+01:39:39 [INFO] Reading news from file John_Hempton.txt..
+01:39:39 [INFO] Reading news from file KeithMcCullough.txt..
+01:39:39 [INFO] Reading news from file kiffmeister.txt..
+01:39:39 [INFO] Reading news from file kitjuckes.txt..
+01:39:39 [INFO] Reading news from file Lavorgnanomics.txt..
+01:39:39 [INFO] Reading news from file LizAnnSonders.txt..
+01:39:39 [INFO] Reading news from file mark_dow.txt..
+01:39:39 [INFO] Reading news from file MarketPlunger.txt..
+01:39:39 [INFO] Reading news from file MarkYusko.txt..
+01:39:39 [INFO] Reading news from file mbusigin.txt..
+01:39:39 [INFO] Reading news from file mebfaber.txt..
+01:39:39 [INFO] Reading news from file michaelkitces.txt..
+01:39:39 [INFO] Reading news from file muddywatersre.txt..
+01:39:39 [INFO] Reading news from file pkedrosky.txt..
+01:39:39 [INFO] Reading news from file prchovanec.txt..
+01:39:39 [INFO] Reading news from file RaoulGMI.txt..
+01:39:39 [INFO] Reading news from file ReformedBroker.txt..
+01:39:39 [INFO] Reading news from file RiskReversal.txt..
+01:39:39 [INFO] Reading news from file ritholtz.txt..
+01:39:39 [INFO] Reading news from file RyanDetrick.txt..
+01:39:39 [INFO] Reading news from file stlouisfed.txt..
+01:39:39 [INFO] Reading news from file stt2318.txt..
+01:39:39 [INFO] Reading news from file TDANSherrod.txt..
+01:39:40 [INFO] Reading news from file TFMkts.txt..
+01:39:40 [INFO] Reading news from file TheArmoTrader.txt..
+01:39:40 [INFO] Reading news from file TheSkeptic21.txt..
+01:39:40 [INFO] Reading news from file TheStalwart.txt..
+01:39:40 [INFO] Reading news from file TMTanalyst.txt..
+01:39:40 [INFO] Reading news from file ukarlewitz.txt..
+01:39:40 [INFO] Reading news from file WallStCynic.txt..
+01:39:40 [INFO] Reading news from file Wu_Tang_Financial.txt..
+01:39:40 [INFO] Reading news from file zerohedge.txt..
+01:39:40 [INFO]   .   ____          _            __ _ _
+01:39:40 [INFO]  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+01:39:40 [INFO] ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+01:39:40 [INFO]  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+01:39:40 [INFO]   '  |____| .__|_| |_|_| |_\__, | / / / /
+01:39:40 [INFO]  =========|_|==============|___/=/_/_/_/
+01:39:40 [INFO]  :: Spring Boot ::        (v1.4.2.RELEASE)
+01:39:40 [INFO] 2017-04-23 01:39:40.530  INFO 87699 --- [           main] com.qvim.hs.Launcher                     : Starting Launcher on MacBook-Pro.local with PID 87699 (/Users/RinesThaix/Desktop/Coding/IQ_HACKATHON/target/classes started by RinesThaix in /Users/RinesThaix/Desktop/Coding/IQ_HACKATHON)
+
+01:39:40 [INFO] 2017-04-23 01:39:40.534  INFO 87699 --- [           main] com.qvim.hs.Launcher                     : No active profile set, falling back to default profiles: default
+
+01:39:40 [INFO] 2017-04-23 01:39:40.599  INFO 87699 --- [           main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@1e683a3e: startup date [Sun Apr 23 01:39:40 MSK 2017]; root of context hierarchy
+
+01:39:42 [INFO] 2017-04-23 01:39:42.113  INFO 87699 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 723 (http)
+
+01:39:42 [INFO] 2017-04-23 01:39:42.126  INFO 87699 --- [           main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+
+01:39:42 [INFO] 2017-04-23 01:39:42.127  INFO 87699 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.6
+
+01:39:42 [INFO] 2017-04-23 01:39:42.208  INFO 87699 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+
+01:39:42 [INFO] 2017-04-23 01:39:42.209  INFO 87699 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1613 ms
+
+01:39:42 [INFO] 2017-04-23 01:39:42.410  INFO 87699 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+
+01:39:42 [INFO] 2017-04-23 01:39:42.411  INFO 87699 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+
+01:39:42 [INFO] 2017-04-23 01:39:42.411  INFO 87699 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+
+01:39:42 [INFO] 2017-04-23 01:39:42.411  INFO 87699 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+
+01:39:42 [INFO] 2017-04-23 01:39:42.412  INFO 87699 --- [ost-startStop-1] .s.DelegatingFilterProxyRegistrationBean : Mapping filter: 'springSecurityFilterChain' to: [/*]
+
+01:39:42 [INFO] 2017-04-23 01:39:42.412  INFO 87699 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+
+01:39:42 [INFO] 2017-04-23 01:39:42.698  INFO 87699 --- [           main] b.a.s.AuthenticationManagerConfiguration : 
+
+Using default security password: aa5b1f58-0cf9-4b70-80c2-08ec0324a1cc
+
+
+01:39:42 [INFO] 2017-04-23 01:39:42.786  INFO 87699 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@34dc85a, org.springframework.security.web.context.SecurityContextPersistenceFilter@257cc1fc, org.springframework.security.web.header.HeaderWriterFilter@213860b8, org.springframework.security.web.authentication.logout.LogoutFilter@3015db78, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@57adfab0, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@31da6b2e, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@67403656, org.springframework.security.web.session.SessionManagementFilter@e4d2696, org.springframework.security.web.access.ExceptionTranslationFilter@15fdd1f2]
+
+01:39:42 [INFO] 2017-04-23 01:39:42.849  INFO 87699 --- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@1e683a3e: startup date [Sun Apr 23 01:39:40 MSK 2017]; root of context hierarchy
+
+01:39:42 [INFO] 2017-04-23 01:39:42.904  INFO 87699 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getError()
+
+01:39:42 [INFO] 2017-04-23 01:39:42.905  INFO 87699 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getMainPage()
+
+01:39:42 [INFO] 2017-04-23 01:39:42.910  INFO 87699 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/retrieveData],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.retrieveData(java.lang.String,java.lang.String,java.lang.Long,java.lang.Long,java.lang.Integer,java.lang.Boolean)
+
+01:39:42 [INFO] 2017-04-23 01:39:42.912  INFO 87699 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/currencies],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.currencies()
+
+01:39:42 [INFO] 2017-04-23 01:39:42.912  INFO 87699 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/{method:.+}],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError(java.lang.String)
+
+01:39:42 [INFO] 2017-04-23 01:39:42.912  INFO 87699 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError()
+
+01:39:42 [INFO] 2017-04-23 01:39:42.913  INFO 87699 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/tool],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getToolPage()
+
+01:39:42 [INFO] 2017-04-23 01:39:42.914  INFO 87699 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/about],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getAboutPage()
+
+01:39:42 [INFO] 2017-04-23 01:39:42.916  INFO 87699 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/method/{name:.+}]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.handle(java.lang.String,org.springframework.ui.Model)
+
+01:39:42 [INFO] 2017-04-23 01:39:42.916  INFO 87699 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/help]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getGeneralHelp()
+
+01:39:42 [INFO] 2017-04-23 01:39:42.916  INFO 87699 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getMainPage(org.springframework.ui.Model)
+
+01:39:42 [INFO] 2017-04-23 01:39:42.956  INFO 87699 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:39:42 [INFO] 2017-04-23 01:39:42.956  INFO 87699 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:39:42 [INFO] 2017-04-23 01:39:42.998  INFO 87699 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:39:43 [INFO] 2017-04-23 01:39:43.167  INFO 87699 --- [           main] o.s.w.s.v.f.FreeMarkerConfigurer         : ClassTemplateLoader for Spring macros added to FreeMarker configuration
+
+01:39:43 [INFO] 2017-04-23 01:39:43.263  INFO 87699 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+
+01:39:43 [INFO] 2017-04-23 01:39:43.300 ERROR 87699 --- [           main] o.a.coyote.http11.Http11NioProtocol      : Failed to start end point associated with ProtocolHandler [http-nio-723]
+
+java.net.SocketException: Permission denied
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_92]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:228) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:874) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:590) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:969) [tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) [tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) [tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:233) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:178) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:545) [spring-context-4.3.4.RELEASE.jar:4.3.4.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at com.qvim.hs.Launcher.main(Launcher.java:16) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_92]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_92]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_92]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_92]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140) [idea_rt.jar:na]
+
+
+01:39:43 [INFO] 2017-04-23 01:39:43.303 ERROR 87699 --- [           main] o.apache.catalina.core.StandardService   : Failed to start connector [Connector[HTTP/1.1-723]]
+
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-723]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:233) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:178) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:545) [spring-context-4.3.4.RELEASE.jar:4.3.4.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186) [spring-boot-1.4.2.RELEASE.jar:1.4.2.RELEASE]
+	at com.qvim.hs.Launcher.main(Launcher.java:16) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_92]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_92]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_92]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_92]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140) [idea_rt.jar:na]
+Caused by: org.apache.catalina.LifecycleException: service.getName(): "Tomcat";  Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:976) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	... 17 common frames omitted
+Caused by: java.net.SocketException: Permission denied
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_92]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_92]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_92]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:228) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:874) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:590) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:969) ~[tomcat-embed-core-8.5.6.jar:8.5.6]
+	... 18 common frames omitted
+
+
+01:39:43 [INFO] 2017-04-23 01:39:43.315  INFO 87699 --- [           main] o.apache.catalina.core.StandardService   : Stopping service Tomcat
+
+01:39:43 [INFO] 2017-04-23 01:39:43.324  WARN 87699 --- [ost-startStop-1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:43)
+
+01:39:43 [INFO] 2017-04-23 01:39:43.333  INFO 87699 --- [           main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+
+01:39:43 [INFO] 2017-04-23 01:39:43.335 ERROR 87699 --- [           main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 723 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 723, or configure this application to listen on another port.
+
+
+01:39:43 [INFO] 2017-04-23 01:39:43.336  INFO 87699 --- [           main] ationConfigEmbeddedWebApplicationContext : Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@1e683a3e: startup date [Sun Apr 23 01:39:40 MSK 2017]; root of context hierarchy
+
+01:39:43 [INFO] 2017-04-23 01:39:43.338  INFO 87699 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+
+01:39:51 [INFO] §eStopping the server..
+01:40:04 [INFO] Enabling HackathonServer..
+01:40:04 [INFO] -===Entering exchange rates preloading section===-
+01:40:04 [INFO] Ignoring er-info file named .DS_Store
+01:40:04 [INFO] Parsing file eur usd 2013.csv
+01:40:04 [INFO] Parsing file eur usd 2014.csv
+01:40:04 [INFO] Parsing file eur usd 2015.csv
+01:40:05 [INFO] Parsing file eur usd 2016.csv
+01:40:05 [INFO] Parsing file gbp usd 2013.csv
+01:40:05 [INFO] Parsing file gbp usd 2014.csv
+01:40:05 [INFO] Parsing file gbp usd 2015.csv
+01:40:05 [INFO] Parsing file gbp usd 2016.csv
+01:40:06 [INFO] -===Entering news preloading section===-
+01:40:06 [INFO] Reading news from file business.txt..
+01:40:06 [INFO] Reading news from file clusterstock.txt..
+01:40:06 [INFO] Reading news from file ftfinancenews.txt..
+01:40:06 [INFO] Reading news from file MarketWatch.txt..
+01:40:06 [INFO] Reading news from file NYT.txt..
+01:40:06 [INFO] Reading news from file NYT2016.txt..
+01:40:06 [INFO] Reading news from file NYT201602.txt..
+01:40:06 [INFO] Reading news from file TheEconomist.txt..
+01:40:06 [INFO] Reading news from file WSJ.txt..
+01:40:06 [INFO] Reading news from file YahooFinance.txt..
+01:40:06 [INFO] Reading news from file allstarcharts.txt..
+01:40:06 [INFO] Reading news from file Amena_Bakr.txt..
+01:40:06 [INFO] Reading news from file AswathDamodaran.txt..
+01:40:06 [INFO] Reading news from file auaurelija.txt..
+01:40:06 [INFO] Reading news from file barnejek.txt..
+01:40:06 [INFO] Reading news from file benzinga.txt..
+01:40:06 [INFO] Reading news from file BondVigilantes.txt..
+01:40:06 [INFO] Reading news from file brianmlucey.txt..
+01:40:06 [INFO] Reading news from file BrianSozzi.txt..
+01:40:06 [INFO] Reading news from file bySamRo.txt..
+01:40:06 [INFO] Reading news from file Carl_C_Icahn.txt..
+01:40:06 [INFO] Reading news from file CitronResearch.txt..
+01:40:06 [INFO] Reading news from file conorsen.txt..
+01:40:06 [INFO] Reading news from file Cullenroche.txt..
+01:40:06 [INFO] Reading news from file davidjpowell24.txt..
+01:40:06 [INFO] Reading news from file DavidSchawel.txt..
+01:40:06 [INFO] Reading news from file dvolatility.txt..
+01:40:06 [INFO] Reading news from file economistmeg.txt..
+01:40:06 [INFO] Reading news from file EddyElfenbein.txt..
+01:40:06 [INFO] Reading news from file EnisTaner.txt..
+01:40:06 [INFO] Reading news from file ericjackon.txt..
+01:40:06 [INFO] Reading news from file Fullcarry.txt..
+01:40:06 [INFO] Reading news from file fwred.txt..
+01:40:06 [INFO] Reading news from file GoldmanSachs.txt..
+01:40:06 [INFO] Reading news from file groditi.txt..
+01:40:06 [INFO] Reading news from file howardlindzon.txt..
+01:40:06 [INFO] Reading news from file InterestArb.txt..
+01:40:06 [INFO] Reading news from file IvanTheK.txt..
+01:40:06 [INFO] Reading news from file JeffMacke.txt..
+01:40:06 [INFO] Reading news from file JLyonsFundMgmt.txt..
+01:40:06 [INFO] Reading news from file John_Hempton.txt..
+01:40:06 [INFO] Reading news from file KeithMcCullough.txt..
+01:40:06 [INFO] Reading news from file kiffmeister.txt..
+01:40:06 [INFO] Reading news from file kitjuckes.txt..
+01:40:06 [INFO] Reading news from file Lavorgnanomics.txt..
+01:40:06 [INFO] Reading news from file LizAnnSonders.txt..
+01:40:06 [INFO] Reading news from file mark_dow.txt..
+01:40:06 [INFO] Reading news from file MarketPlunger.txt..
+01:40:06 [INFO] Reading news from file MarkYusko.txt..
+01:40:06 [INFO] Reading news from file mbusigin.txt..
+01:40:06 [INFO] Reading news from file mebfaber.txt..
+01:40:06 [INFO] Reading news from file michaelkitces.txt..
+01:40:06 [INFO] Reading news from file muddywatersre.txt..
+01:40:06 [INFO] Reading news from file pkedrosky.txt..
+01:40:06 [INFO] Reading news from file prchovanec.txt..
+01:40:06 [INFO] Reading news from file RaoulGMI.txt..
+01:40:06 [INFO] Reading news from file ReformedBroker.txt..
+01:40:07 [INFO] Reading news from file RiskReversal.txt..
+01:40:07 [INFO] Reading news from file ritholtz.txt..
+01:40:07 [INFO] Reading news from file RyanDetrick.txt..
+01:40:07 [INFO] Reading news from file stlouisfed.txt..
+01:40:07 [INFO] Reading news from file stt2318.txt..
+01:40:07 [INFO] Reading news from file TDANSherrod.txt..
+01:40:07 [INFO] Reading news from file TFMkts.txt..
+01:40:07 [INFO] Reading news from file TheArmoTrader.txt..
+01:40:07 [INFO] Reading news from file TheSkeptic21.txt..
+01:40:07 [INFO] Reading news from file TheStalwart.txt..
+01:40:07 [INFO] Reading news from file TMTanalyst.txt..
+01:40:07 [INFO] Reading news from file ukarlewitz.txt..
+01:40:07 [INFO] Reading news from file WallStCynic.txt..
+01:40:07 [INFO] Reading news from file Wu_Tang_Financial.txt..
+01:40:07 [INFO] Reading news from file zerohedge.txt..
+01:40:07 [INFO]   .   ____          _            __ _ _
+01:40:07 [INFO]  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+01:40:07 [INFO] ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+01:40:07 [INFO]  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+01:40:07 [INFO]   '  |____| .__|_| |_|_| |_\__, | / / / /
+01:40:07 [INFO]  =========|_|==============|___/=/_/_/_/
+01:40:07 [INFO]  :: Spring Boot ::        (v1.4.2.RELEASE)
+01:40:07 [INFO] 2017-04-23 01:40:07.583  INFO 87724 --- [           main] com.qvim.hs.Launcher                     : Starting Launcher on MacBook-Pro.local with PID 87724 (/Users/RinesThaix/Desktop/Coding/IQ_HACKATHON/target/classes started by RinesThaix in /Users/RinesThaix/Desktop/Coding/IQ_HACKATHON)
+
+01:40:07 [INFO] 2017-04-23 01:40:07.586  INFO 87724 --- [           main] com.qvim.hs.Launcher                     : No active profile set, falling back to default profiles: default
+
+01:40:07 [INFO] 2017-04-23 01:40:07.651  INFO 87724 --- [           main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 01:40:07 MSK 2017]; root of context hierarchy
+
+01:40:09 [INFO] 2017-04-23 01:40:09.173  INFO 87724 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8080 (http)
+
+01:40:09 [INFO] 2017-04-23 01:40:09.185  INFO 87724 --- [           main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+
+01:40:09 [INFO] 2017-04-23 01:40:09.185  INFO 87724 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.6
+
+01:40:09 [INFO] 2017-04-23 01:40:09.285  INFO 87724 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+
+01:40:09 [INFO] 2017-04-23 01:40:09.286  INFO 87724 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1637 ms
+
+01:40:09 [INFO] 2017-04-23 01:40:09.430  INFO 87724 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+
+01:40:09 [INFO] 2017-04-23 01:40:09.431  INFO 87724 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+
+01:40:09 [INFO] 2017-04-23 01:40:09.431  INFO 87724 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+
+01:40:09 [INFO] 2017-04-23 01:40:09.431  INFO 87724 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+
+01:40:09 [INFO] 2017-04-23 01:40:09.433  INFO 87724 --- [ost-startStop-1] .s.DelegatingFilterProxyRegistrationBean : Mapping filter: 'springSecurityFilterChain' to: [/*]
+
+01:40:09 [INFO] 2017-04-23 01:40:09.433  INFO 87724 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+
+01:40:09 [INFO] 2017-04-23 01:40:09.684  INFO 87724 --- [           main] b.a.s.AuthenticationManagerConfiguration : 
+
+Using default security password: e357b2ec-28bc-4089-b104-e720321f360a
+
+
+01:40:09 [INFO] 2017-04-23 01:40:09.764  INFO 87724 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7a2e0858, org.springframework.security.web.context.SecurityContextPersistenceFilter@7351a16e, org.springframework.security.web.header.HeaderWriterFilter@773e2eb5, org.springframework.security.web.authentication.logout.LogoutFilter@2b4786dd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3ac04654, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@66ec9390, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@aac3f4e, org.springframework.security.web.session.SessionManagementFilter@336365bc, org.springframework.security.web.access.ExceptionTranslationFilter@723ed581]
+
+01:40:09 [INFO] 2017-04-23 01:40:09.831  INFO 87724 --- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 01:40:07 MSK 2017]; root of context hierarchy
+
+01:40:09 [INFO] 2017-04-23 01:40:09.888  INFO 87724 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getError()
+
+01:40:09 [INFO] 2017-04-23 01:40:09.889  INFO 87724 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getMainPage()
+
+01:40:09 [INFO] 2017-04-23 01:40:09.892  INFO 87724 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/{method:.+}],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError(java.lang.String)
+
+01:40:09 [INFO] 2017-04-23 01:40:09.894  INFO 87724 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError()
+
+01:40:09 [INFO] 2017-04-23 01:40:09.895  INFO 87724 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/retrieveData],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.retrieveData(java.lang.String,java.lang.String,java.lang.Long,java.lang.Long,java.lang.Integer,java.lang.Boolean)
+
+01:40:09 [INFO] 2017-04-23 01:40:09.895  INFO 87724 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/currencies],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.currencies()
+
+01:40:09 [INFO] 2017-04-23 01:40:09.896  INFO 87724 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/tool],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getToolPage()
+
+01:40:09 [INFO] 2017-04-23 01:40:09.896  INFO 87724 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/about],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getAboutPage()
+
+01:40:09 [INFO] 2017-04-23 01:40:09.898  INFO 87724 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/method/{name:.+}]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.handle(java.lang.String,org.springframework.ui.Model)
+
+01:40:09 [INFO] 2017-04-23 01:40:09.899  INFO 87724 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getMainPage(org.springframework.ui.Model)
+
+01:40:09 [INFO] 2017-04-23 01:40:09.900  INFO 87724 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/help]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getGeneralHelp()
+
+01:40:09 [INFO] 2017-04-23 01:40:09.925  INFO 87724 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:40:09 [INFO] 2017-04-23 01:40:09.925  INFO 87724 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:40:09 [INFO] 2017-04-23 01:40:09.955  INFO 87724 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:40:10 [INFO] 2017-04-23 01:40:10.112  INFO 87724 --- [           main] o.s.w.s.v.f.FreeMarkerConfigurer         : ClassTemplateLoader for Spring macros added to FreeMarker configuration
+
+01:40:10 [INFO] 2017-04-23 01:40:10.227  INFO 87724 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+
+01:40:10 [INFO] 2017-04-23 01:40:10.308  INFO 87724 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8080 (http)
+
+01:40:10 [INFO] 2017-04-23 01:40:10.313  INFO 87724 --- [           main] com.qvim.hs.Launcher                     : Started Launcher in 3.051 seconds (JVM running for 6.541)
+
+01:40:17 [INFO] 2017-04-23 01:40:17.002  INFO 87724 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+
+01:40:17 [INFO] 2017-04-23 01:40:17.002  INFO 87724 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+
+01:40:17 [INFO] 2017-04-23 01:40:17.014  INFO 87724 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 11 ms
+
+01:42:10 [INFO] §eStopping the server..
+01:42:13 [INFO] 2017-04-23 01:42:13.479  INFO 87724 --- [       Thread-3] ationConfigEmbeddedWebApplicationContext : Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 01:40:07 MSK 2017]; root of context hierarchy
+
+01:42:13 [INFO] 2017-04-23 01:42:13.481  INFO 87724 --- [       Thread-3] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+
+01:42:19 [INFO] Enabling HackathonServer..
+01:42:19 [INFO] -===Entering exchange rates preloading section===-
+01:42:19 [INFO] Ignoring er-info file named .DS_Store
+01:42:19 [INFO] Parsing file eur usd 2013.csv
+01:42:20 [INFO] Parsing file eur usd 2014.csv
+01:42:20 [INFO] Parsing file eur usd 2015.csv
+01:42:20 [INFO] Parsing file eur usd 2016.csv
+01:42:20 [INFO] Parsing file gbp usd 2013.csv
+01:42:21 [INFO] Parsing file gbp usd 2014.csv
+01:42:21 [INFO] Parsing file gbp usd 2015.csv
+01:42:21 [INFO] Parsing file gbp usd 2016.csv
+01:42:21 [INFO] -===Entering news preloading section===-
+01:42:21 [INFO] Reading news from file business.txt..
+01:42:21 [INFO] Reading news from file clusterstock.txt..
+01:42:21 [INFO] Reading news from file ftfinancenews.txt..
+01:42:21 [INFO] Reading news from file MarketWatch.txt..
+01:42:21 [INFO] Reading news from file NYT.txt..
+01:42:21 [INFO] Reading news from file NYT2016.txt..
+01:42:21 [INFO] Reading news from file NYT201602.txt..
+01:42:21 [INFO] Reading news from file TheEconomist.txt..
+01:42:21 [INFO] Reading news from file WSJ.txt..
+01:42:21 [INFO] Reading news from file YahooFinance.txt..
+01:42:21 [INFO] Reading news from file allstarcharts.txt..
+01:42:21 [INFO] Reading news from file Amena_Bakr.txt..
+01:42:21 [INFO] Reading news from file AswathDamodaran.txt..
+01:42:21 [INFO] Reading news from file auaurelija.txt..
+01:42:21 [INFO] Reading news from file barnejek.txt..
+01:42:21 [INFO] Reading news from file benzinga.txt..
+01:42:21 [INFO] Reading news from file BondVigilantes.txt..
+01:42:21 [INFO] Reading news from file brianmlucey.txt..
+01:42:21 [INFO] Reading news from file BrianSozzi.txt..
+01:42:21 [INFO] Reading news from file bySamRo.txt..
+01:42:21 [INFO] Reading news from file Carl_C_Icahn.txt..
+01:42:21 [INFO] Reading news from file CitronResearch.txt..
+01:42:21 [INFO] Reading news from file conorsen.txt..
+01:42:21 [INFO] Reading news from file Cullenroche.txt..
+01:42:21 [INFO] Reading news from file davidjpowell24.txt..
+01:42:21 [INFO] Reading news from file DavidSchawel.txt..
+01:42:21 [INFO] Reading news from file dvolatility.txt..
+01:42:22 [INFO] Reading news from file economistmeg.txt..
+01:42:22 [INFO] Reading news from file EddyElfenbein.txt..
+01:42:22 [INFO] Reading news from file EnisTaner.txt..
+01:42:22 [INFO] Reading news from file ericjackon.txt..
+01:42:22 [INFO] Reading news from file Fullcarry.txt..
+01:42:22 [INFO] Reading news from file fwred.txt..
+01:42:22 [INFO] Reading news from file GoldmanSachs.txt..
+01:42:22 [INFO] Reading news from file groditi.txt..
+01:42:22 [INFO] Reading news from file howardlindzon.txt..
+01:42:22 [INFO] Reading news from file InterestArb.txt..
+01:42:22 [INFO] Reading news from file IvanTheK.txt..
+01:42:22 [INFO] Reading news from file JeffMacke.txt..
+01:42:22 [INFO] Reading news from file JLyonsFundMgmt.txt..
+01:42:22 [INFO] Reading news from file John_Hempton.txt..
+01:42:22 [INFO] Reading news from file KeithMcCullough.txt..
+01:42:22 [INFO] Reading news from file kiffmeister.txt..
+01:42:22 [INFO] Reading news from file kitjuckes.txt..
+01:42:22 [INFO] Reading news from file Lavorgnanomics.txt..
+01:42:22 [INFO] Reading news from file LizAnnSonders.txt..
+01:42:22 [INFO] Reading news from file mark_dow.txt..
+01:42:22 [INFO] Reading news from file MarketPlunger.txt..
+01:42:22 [INFO] Reading news from file MarkYusko.txt..
+01:42:22 [INFO] Reading news from file mbusigin.txt..
+01:42:22 [INFO] Reading news from file mebfaber.txt..
+01:42:22 [INFO] Reading news from file michaelkitces.txt..
+01:42:22 [INFO] Reading news from file muddywatersre.txt..
+01:42:22 [INFO] Reading news from file pkedrosky.txt..
+01:42:22 [INFO] Reading news from file prchovanec.txt..
+01:42:22 [INFO] Reading news from file RaoulGMI.txt..
+01:42:22 [INFO] Reading news from file ReformedBroker.txt..
+01:42:22 [INFO] Reading news from file RiskReversal.txt..
+01:42:22 [INFO] Reading news from file ritholtz.txt..
+01:42:22 [INFO] Reading news from file RyanDetrick.txt..
+01:42:22 [INFO] Reading news from file stlouisfed.txt..
+01:42:22 [INFO] Reading news from file stt2318.txt..
+01:42:22 [INFO] Reading news from file TDANSherrod.txt..
+01:42:22 [INFO] Reading news from file TFMkts.txt..
+01:42:22 [INFO] Reading news from file TheArmoTrader.txt..
+01:42:22 [INFO] Reading news from file TheSkeptic21.txt..
+01:42:22 [INFO] Reading news from file TheStalwart.txt..
+01:42:22 [INFO] Reading news from file TMTanalyst.txt..
+01:42:22 [INFO] Reading news from file ukarlewitz.txt..
+01:42:22 [INFO] Reading news from file WallStCynic.txt..
+01:42:22 [INFO] Reading news from file Wu_Tang_Financial.txt..
+01:42:22 [INFO] Reading news from file zerohedge.txt..
+01:42:22 [INFO]   .   ____          _            __ _ _
+01:42:22 [INFO]  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+01:42:22 [INFO] ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+01:42:22 [INFO]  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+01:42:22 [INFO]   '  |____| .__|_| |_|_| |_\__, | / / / /
+01:42:22 [INFO]  =========|_|==============|___/=/_/_/_/
+01:42:23 [INFO]  :: Spring Boot ::        (v1.4.2.RELEASE)
+01:42:23 [INFO] 2017-04-23 01:42:23.082  INFO 87762 --- [           main] com.qvim.hs.Launcher                     : Starting Launcher on MacBook-Pro.local with PID 87762 (/Users/RinesThaix/Desktop/Coding/IQ_HACKATHON/target/classes started by RinesThaix in /Users/RinesThaix/Desktop/Coding/IQ_HACKATHON)
+
+01:42:23 [INFO] 2017-04-23 01:42:23.084  INFO 87762 --- [           main] com.qvim.hs.Launcher                     : No active profile set, falling back to default profiles: default
+
+01:42:23 [INFO] 2017-04-23 01:42:23.149  INFO 87762 --- [           main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 01:42:23 MSK 2017]; root of context hierarchy
+
+01:42:24 [INFO] 2017-04-23 01:42:24.680  INFO 87762 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8080 (http)
+
+01:42:24 [INFO] 2017-04-23 01:42:24.691  INFO 87762 --- [           main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+
+01:42:24 [INFO] 2017-04-23 01:42:24.692  INFO 87762 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.6
+
+01:42:24 [INFO] 2017-04-23 01:42:24.776  INFO 87762 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+
+01:42:24 [INFO] 2017-04-23 01:42:24.776  INFO 87762 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1629 ms
+
+01:42:24 [INFO] 2017-04-23 01:42:24.929  INFO 87762 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+
+01:42:24 [INFO] 2017-04-23 01:42:24.930  INFO 87762 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+
+01:42:24 [INFO] 2017-04-23 01:42:24.930  INFO 87762 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+
+01:42:24 [INFO] 2017-04-23 01:42:24.930  INFO 87762 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+
+01:42:24 [INFO] 2017-04-23 01:42:24.931  INFO 87762 --- [ost-startStop-1] .s.DelegatingFilterProxyRegistrationBean : Mapping filter: 'springSecurityFilterChain' to: [/*]
+
+01:42:24 [INFO] 2017-04-23 01:42:24.931  INFO 87762 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+
+01:42:25 [INFO] 2017-04-23 01:42:25.206  INFO 87762 --- [           main] b.a.s.AuthenticationManagerConfiguration : 
+
+Using default security password: 6729f1ec-6140-4a96-ba57-fbd5a84ed52b
+
+
+01:42:25 [INFO] 2017-04-23 01:42:25.289  INFO 87762 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7a2e0858, org.springframework.security.web.context.SecurityContextPersistenceFilter@7351a16e, org.springframework.security.web.header.HeaderWriterFilter@773e2eb5, org.springframework.security.web.authentication.logout.LogoutFilter@2b4786dd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3ac04654, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@66ec9390, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@aac3f4e, org.springframework.security.web.session.SessionManagementFilter@336365bc, org.springframework.security.web.access.ExceptionTranslationFilter@723ed581]
+
+01:42:25 [INFO] 2017-04-23 01:42:25.354  INFO 87762 --- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 01:42:23 MSK 2017]; root of context hierarchy
+
+01:42:25 [INFO] 2017-04-23 01:42:25.429  INFO 87762 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getError()
+
+01:42:25 [INFO] 2017-04-23 01:42:25.430  INFO 87762 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getMainPage()
+
+01:42:25 [INFO] 2017-04-23 01:42:25.432  INFO 87762 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/{method:.+}],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError(java.lang.String)
+
+01:42:25 [INFO] 2017-04-23 01:42:25.434  INFO 87762 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError()
+
+01:42:25 [INFO] 2017-04-23 01:42:25.434  INFO 87762 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/retrieveData],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.retrieveData(java.lang.String,java.lang.String,java.lang.Long,java.lang.Long,java.lang.Integer,java.lang.Boolean)
+
+01:42:25 [INFO] 2017-04-23 01:42:25.435  INFO 87762 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/currencies],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.currencies()
+
+01:42:25 [INFO] 2017-04-23 01:42:25.435  INFO 87762 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/tool],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getToolPage()
+
+01:42:25 [INFO] 2017-04-23 01:42:25.436  INFO 87762 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/about],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getAboutPage()
+
+01:42:25 [INFO] 2017-04-23 01:42:25.437  INFO 87762 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/method/{name:.+}]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.handle(java.lang.String,org.springframework.ui.Model)
+
+01:42:25 [INFO] 2017-04-23 01:42:25.437  INFO 87762 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getMainPage(org.springframework.ui.Model)
+
+01:42:25 [INFO] 2017-04-23 01:42:25.438  INFO 87762 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/help]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getGeneralHelp()
+
+01:42:25 [INFO] 2017-04-23 01:42:25.464  INFO 87762 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:42:25 [INFO] 2017-04-23 01:42:25.464  INFO 87762 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:42:25 [INFO] 2017-04-23 01:42:25.504  INFO 87762 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+01:42:25 [INFO] 2017-04-23 01:42:25.652  INFO 87762 --- [           main] o.s.w.s.v.f.FreeMarkerConfigurer         : ClassTemplateLoader for Spring macros added to FreeMarker configuration
+
+01:42:25 [INFO] 2017-04-23 01:42:25.782  INFO 87762 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+
+01:42:25 [INFO] 2017-04-23 01:42:25.852  INFO 87762 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8080 (http)
+
+01:42:25 [INFO] 2017-04-23 01:42:25.857  INFO 87762 --- [           main] com.qvim.hs.Launcher                     : Started Launcher in 3.098 seconds (JVM running for 6.735)
+
+01:42:27 [INFO] 2017-04-23 01:42:27.894  INFO 87762 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+
+01:42:27 [INFO] 2017-04-23 01:42:27.894  INFO 87762 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+
+01:42:27 [INFO] 2017-04-23 01:42:27.912  INFO 87762 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 18 ms
+
+02:08:35 [INFO] §eStopping the server..
+02:08:38 [INFO] 2017-04-23 02:08:38.051  INFO 87762 --- [       Thread-3] ationConfigEmbeddedWebApplicationContext : Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 01:42:23 MSK 2017]; root of context hierarchy
+
+02:08:38 [INFO] 2017-04-23 02:08:38.053  INFO 87762 --- [       Thread-3] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+
+02:08:41 [INFO] Enabling HackathonServer..
+02:08:41 [INFO] -===Entering exchange rates preloading section===-
+02:08:41 [INFO] Ignoring er-info file named .DS_Store
+02:08:41 [INFO] Parsing file eur usd 2013.csv
+02:08:42 [INFO] Parsing file eur usd 2014.csv
+02:08:42 [INFO] Parsing file eur usd 2015.csv
+02:08:42 [INFO] Parsing file eur usd 2016.csv
+02:08:42 [INFO] Parsing file gbp usd 2013.csv
+02:08:43 [INFO] Parsing file gbp usd 2014.csv
+02:08:43 [INFO] Parsing file gbp usd 2015.csv
+02:08:43 [INFO] Parsing file gbp usd 2016.csv
+02:08:43 [INFO] -===Entering news preloading section===-
+02:08:43 [INFO] Reading news from file business.txt..
+02:08:43 [INFO] Reading news from file clusterstock.txt..
+02:08:43 [INFO] Reading news from file ftfinancenews.txt..
+02:08:43 [INFO] Reading news from file MarketWatch.txt..
+02:08:43 [INFO] Reading news from file NYT.txt..
+02:08:43 [INFO] Reading news from file NYT2016.txt..
+02:08:43 [INFO] Reading news from file NYT201602.txt..
+02:08:43 [INFO] Reading news from file TheEconomist.txt..
+02:08:43 [INFO] Reading news from file WSJ.txt..
+02:08:43 [INFO] Reading news from file YahooFinance.txt..
+02:08:43 [INFO] Reading news from file allstarcharts.txt..
+02:08:43 [INFO] Reading news from file Amena_Bakr.txt..
+02:08:43 [INFO] Reading news from file AswathDamodaran.txt..
+02:08:43 [INFO] Reading news from file auaurelija.txt..
+02:08:43 [INFO] Reading news from file barnejek.txt..
+02:08:43 [INFO] Reading news from file benzinga.txt..
+02:08:43 [INFO] Reading news from file BondVigilantes.txt..
+02:08:43 [INFO] Reading news from file brianmlucey.txt..
+02:08:43 [INFO] Reading news from file BrianSozzi.txt..
+02:08:43 [INFO] Reading news from file bySamRo.txt..
+02:08:43 [INFO] Reading news from file Carl_C_Icahn.txt..
+02:08:43 [INFO] Reading news from file CitronResearch.txt..
+02:08:43 [INFO] Reading news from file conorsen.txt..
+02:08:43 [INFO] Reading news from file Cullenroche.txt..
+02:08:43 [INFO] Reading news from file davidjpowell24.txt..
+02:08:43 [INFO] Reading news from file DavidSchawel.txt..
+02:08:43 [INFO] Reading news from file dvolatility.txt..
+02:08:43 [INFO] Reading news from file economistmeg.txt..
+02:08:43 [INFO] Reading news from file EddyElfenbein.txt..
+02:08:43 [INFO] Reading news from file EnisTaner.txt..
+02:08:43 [INFO] Reading news from file ericjackon.txt..
+02:08:43 [INFO] Reading news from file Fullcarry.txt..
+02:08:43 [INFO] Reading news from file fwred.txt..
+02:08:43 [INFO] Reading news from file GoldmanSachs.txt..
+02:08:44 [INFO] Reading news from file groditi.txt..
+02:08:44 [INFO] Reading news from file howardlindzon.txt..
+02:08:44 [INFO] Reading news from file InterestArb.txt..
+02:08:44 [INFO] Reading news from file IvanTheK.txt..
+02:08:44 [INFO] Reading news from file JeffMacke.txt..
+02:08:44 [INFO] Reading news from file JLyonsFundMgmt.txt..
+02:08:44 [INFO] Reading news from file John_Hempton.txt..
+02:08:44 [INFO] Reading news from file KeithMcCullough.txt..
+02:08:44 [INFO] Reading news from file kiffmeister.txt..
+02:08:44 [INFO] Reading news from file kitjuckes.txt..
+02:08:44 [INFO] Reading news from file Lavorgnanomics.txt..
+02:08:44 [INFO] Reading news from file LizAnnSonders.txt..
+02:08:44 [INFO] Reading news from file mark_dow.txt..
+02:08:44 [INFO] Reading news from file MarketPlunger.txt..
+02:08:44 [INFO] Reading news from file MarkYusko.txt..
+02:08:44 [INFO] Reading news from file mbusigin.txt..
+02:08:44 [INFO] Reading news from file mebfaber.txt..
+02:08:44 [INFO] Reading news from file michaelkitces.txt..
+02:08:44 [INFO] Reading news from file muddywatersre.txt..
+02:08:44 [INFO] Reading news from file pkedrosky.txt..
+02:08:44 [INFO] Reading news from file prchovanec.txt..
+02:08:44 [INFO] Reading news from file RaoulGMI.txt..
+02:08:44 [INFO] Reading news from file ReformedBroker.txt..
+02:08:44 [INFO] Reading news from file RiskReversal.txt..
+02:08:44 [INFO] Reading news from file ritholtz.txt..
+02:08:44 [INFO] Reading news from file RyanDetrick.txt..
+02:08:44 [INFO] Reading news from file stlouisfed.txt..
+02:08:44 [INFO] Reading news from file stt2318.txt..
+02:08:44 [INFO] Reading news from file TDANSherrod.txt..
+02:08:44 [INFO] Reading news from file TFMkts.txt..
+02:08:44 [INFO] Reading news from file TheArmoTrader.txt..
+02:08:44 [INFO] Reading news from file TheSkeptic21.txt..
+02:08:44 [INFO] Reading news from file TheStalwart.txt..
+02:08:44 [INFO] Reading news from file TMTanalyst.txt..
+02:08:44 [INFO] Reading news from file ukarlewitz.txt..
+02:08:44 [INFO] Reading news from file WallStCynic.txt..
+02:08:44 [INFO] Reading news from file Wu_Tang_Financial.txt..
+02:08:44 [INFO] Reading news from file zerohedge.txt..
+02:08:44 [INFO]   .   ____          _            __ _ _
+02:08:44 [INFO]  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+02:08:44 [INFO] ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+02:08:44 [INFO]  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+02:08:44 [INFO]   '  |____| .__|_| |_|_| |_\__, | / / / /
+02:08:44 [INFO]  =========|_|==============|___/=/_/_/_/
+02:08:44 [INFO]  :: Spring Boot ::        (v1.4.2.RELEASE)
+02:08:44 [INFO] 2017-04-23 02:08:44.901  INFO 87878 --- [           main] com.qvim.hs.Launcher                     : Starting Launcher on MacBook-Pro.local with PID 87878 (/Users/RinesThaix/Desktop/Coding/IQ_HACKATHON/target/classes started by RinesThaix in /Users/RinesThaix/Desktop/Coding/IQ_HACKATHON)
+
+02:08:44 [INFO] 2017-04-23 02:08:44.903  INFO 87878 --- [           main] com.qvim.hs.Launcher                     : No active profile set, falling back to default profiles: default
+
+02:08:44 [INFO] 2017-04-23 02:08:44.964  INFO 87878 --- [           main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 02:08:44 MSK 2017]; root of context hierarchy
+
+02:08:46 [INFO] 2017-04-23 02:08:46.326  INFO 87878 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8080 (http)
+
+02:08:46 [INFO] 2017-04-23 02:08:46.336  INFO 87878 --- [           main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+
+02:08:46 [INFO] 2017-04-23 02:08:46.337  INFO 87878 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.6
+
+02:08:46 [INFO] 2017-04-23 02:08:46.406  INFO 87878 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+
+02:08:46 [INFO] 2017-04-23 02:08:46.406  INFO 87878 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1445 ms
+
+02:08:46 [INFO] 2017-04-23 02:08:46.537  INFO 87878 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+
+02:08:46 [INFO] 2017-04-23 02:08:46.537  INFO 87878 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+
+02:08:46 [INFO] 2017-04-23 02:08:46.537  INFO 87878 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+
+02:08:46 [INFO] 2017-04-23 02:08:46.538  INFO 87878 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+
+02:08:46 [INFO] 2017-04-23 02:08:46.539  INFO 87878 --- [ost-startStop-1] .s.DelegatingFilterProxyRegistrationBean : Mapping filter: 'springSecurityFilterChain' to: [/*]
+
+02:08:46 [INFO] 2017-04-23 02:08:46.539  INFO 87878 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+
+02:08:46 [INFO] 2017-04-23 02:08:46.792  INFO 87878 --- [           main] b.a.s.AuthenticationManagerConfiguration : 
+
+Using default security password: d5170e14-5cec-42a5-b8b8-c1d9315748a5
+
+
+02:08:46 [INFO] 2017-04-23 02:08:46.858  INFO 87878 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7a2e0858, org.springframework.security.web.context.SecurityContextPersistenceFilter@7351a16e, org.springframework.security.web.header.HeaderWriterFilter@773e2eb5, org.springframework.security.web.authentication.logout.LogoutFilter@2b4786dd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3ac04654, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@66ec9390, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@aac3f4e, org.springframework.security.web.session.SessionManagementFilter@336365bc, org.springframework.security.web.access.ExceptionTranslationFilter@723ed581]
+
+02:08:46 [INFO] 2017-04-23 02:08:46.907  INFO 87878 --- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 02:08:44 MSK 2017]; root of context hierarchy
+
+02:08:46 [INFO] 2017-04-23 02:08:46.950  INFO 87878 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getError()
+
+02:08:46 [INFO] 2017-04-23 02:08:46.950  INFO 87878 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getMainPage()
+
+02:08:46 [INFO] 2017-04-23 02:08:46.952  INFO 87878 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/{method:.+}],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError(java.lang.String)
+
+02:08:46 [INFO] 2017-04-23 02:08:46.953  INFO 87878 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError()
+
+02:08:46 [INFO] 2017-04-23 02:08:46.953  INFO 87878 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/retrieveData],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.retrieveData(java.lang.String,java.lang.String,java.lang.Long,java.lang.Long,java.lang.Integer,java.lang.Boolean)
+
+02:08:46 [INFO] 2017-04-23 02:08:46.954  INFO 87878 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/currencies],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.currencies()
+
+02:08:46 [INFO] 2017-04-23 02:08:46.954  INFO 87878 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/tool],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getToolPage()
+
+02:08:46 [INFO] 2017-04-23 02:08:46.954  INFO 87878 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/about],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getAboutPage()
+
+02:08:46 [INFO] 2017-04-23 02:08:46.955  INFO 87878 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/method/{name:.+}]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.handle(java.lang.String,org.springframework.ui.Model)
+
+02:08:46 [INFO] 2017-04-23 02:08:46.956  INFO 87878 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getMainPage(org.springframework.ui.Model)
+
+02:08:46 [INFO] 2017-04-23 02:08:46.956  INFO 87878 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/help]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getGeneralHelp()
+
+02:08:46 [INFO] 2017-04-23 02:08:46.977  INFO 87878 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+02:08:46 [INFO] 2017-04-23 02:08:46.977  INFO 87878 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+02:08:47 [INFO] 2017-04-23 02:08:47.000  INFO 87878 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+02:08:47 [INFO] 2017-04-23 02:08:47.122  INFO 87878 --- [           main] o.s.w.s.v.f.FreeMarkerConfigurer         : ClassTemplateLoader for Spring macros added to FreeMarker configuration
+
+02:08:47 [INFO] 2017-04-23 02:08:47.189  INFO 87878 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+
+02:08:47 [INFO] 2017-04-23 02:08:47.233  INFO 87878 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8080 (http)
+
+02:08:47 [INFO] 2017-04-23 02:08:47.237  INFO 87878 --- [           main] com.qvim.hs.Launcher                     : Started Launcher in 2.647 seconds (JVM running for 5.881)
+
+02:10:00 [INFO] 2017-04-23 02:10:00.638  INFO 87878 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+
+02:10:00 [INFO] 2017-04-23 02:10:00.638  INFO 87878 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+
+02:10:00 [INFO] 2017-04-23 02:10:00.650  INFO 87878 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 12 ms
+
+02:11:41 [INFO] §eStopping the server..
+02:11:44 [INFO] 2017-04-23 02:11:44.460  INFO 87878 --- [       Thread-3] ationConfigEmbeddedWebApplicationContext : Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 02:08:44 MSK 2017]; root of context hierarchy
+
+02:11:44 [INFO] 2017-04-23 02:11:44.462  INFO 87878 --- [       Thread-3] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+
+02:21:04 [INFO] Enabling HackathonServer..
+02:21:04 [INFO] -===Entering exchange rates preloading section===-
+02:21:04 [INFO] Ignoring er-info file named .DS_Store
+02:21:04 [INFO] Parsing file eur usd 2013.csv
+02:21:05 [INFO] Parsing file eur usd 2014.csv
+02:21:05 [INFO] Parsing file eur usd 2015.csv
+02:21:05 [INFO] Parsing file eur usd 2016.csv
+02:21:05 [INFO] Parsing file gbp usd 2013.csv
+02:21:06 [INFO] Parsing file gbp usd 2014.csv
+02:21:06 [INFO] Parsing file gbp usd 2015.csv
+02:21:06 [INFO] Parsing file gbp usd 2016.csv
+02:21:06 [INFO] -===Entering news preloading section===-
+02:21:06 [INFO] Reading news from file business.txt..
+02:21:06 [INFO] Reading news from file clusterstock.txt..
+02:21:06 [INFO] Reading news from file ftfinancenews.txt..
+02:21:06 [INFO] Reading news from file MarketWatch.txt..
+02:21:06 [INFO] Reading news from file NYT.txt..
+02:21:06 [INFO] Reading news from file NYT2016.txt..
+02:21:06 [INFO] Reading news from file NYT201602.txt..
+02:21:06 [INFO] Reading news from file TheEconomist.txt..
+02:21:06 [INFO] Reading news from file WSJ.txt..
+02:21:06 [INFO] Reading news from file YahooFinance.txt..
+02:21:06 [INFO] Reading news from file allstarcharts.txt..
+02:21:06 [INFO] Reading news from file Amena_Bakr.txt..
+02:21:06 [INFO] Reading news from file AswathDamodaran.txt..
+02:21:06 [INFO] Reading news from file auaurelija.txt..
+02:21:06 [INFO] Reading news from file barnejek.txt..
+02:21:06 [INFO] Reading news from file benzinga.txt..
+02:21:06 [INFO] Reading news from file BondVigilantes.txt..
+02:21:06 [INFO] Reading news from file brianmlucey.txt..
+02:21:06 [INFO] Reading news from file BrianSozzi.txt..
+02:21:07 [INFO] Reading news from file bySamRo.txt..
+02:21:07 [INFO] Reading news from file Carl_C_Icahn.txt..
+02:21:07 [INFO] Reading news from file CitronResearch.txt..
+02:21:07 [INFO] Reading news from file conorsen.txt..
+02:21:07 [INFO] Reading news from file Cullenroche.txt..
+02:21:07 [INFO] Reading news from file davidjpowell24.txt..
+02:21:07 [INFO] Reading news from file DavidSchawel.txt..
+02:21:07 [INFO] Reading news from file dvolatility.txt..
+02:21:07 [INFO] Reading news from file economistmeg.txt..
+02:21:07 [INFO] Reading news from file EddyElfenbein.txt..
+02:21:07 [INFO] Reading news from file EnisTaner.txt..
+02:21:07 [INFO] Reading news from file ericjackon.txt..
+02:21:07 [INFO] Reading news from file Fullcarry.txt..
+02:21:07 [INFO] Reading news from file fwred.txt..
+02:21:07 [INFO] Reading news from file GoldmanSachs.txt..
+02:21:07 [INFO] Reading news from file groditi.txt..
+02:21:07 [INFO] Reading news from file howardlindzon.txt..
+02:21:07 [INFO] Reading news from file InterestArb.txt..
+02:21:07 [INFO] Reading news from file IvanTheK.txt..
+02:21:07 [INFO] Reading news from file JeffMacke.txt..
+02:21:07 [INFO] Reading news from file JLyonsFundMgmt.txt..
+02:21:07 [INFO] Reading news from file John_Hempton.txt..
+02:21:07 [INFO] Reading news from file KeithMcCullough.txt..
+02:21:07 [INFO] Reading news from file kiffmeister.txt..
+02:21:07 [INFO] Reading news from file kitjuckes.txt..
+02:21:07 [INFO] Reading news from file Lavorgnanomics.txt..
+02:21:07 [INFO] Reading news from file LizAnnSonders.txt..
+02:21:07 [INFO] Reading news from file mark_dow.txt..
+02:21:07 [INFO] Reading news from file MarketPlunger.txt..
+02:21:07 [INFO] Reading news from file MarkYusko.txt..
+02:21:07 [INFO] Reading news from file mbusigin.txt..
+02:21:07 [INFO] Reading news from file mebfaber.txt..
+02:21:07 [INFO] Reading news from file michaelkitces.txt..
+02:21:07 [INFO] Reading news from file muddywatersre.txt..
+02:21:07 [INFO] Reading news from file pkedrosky.txt..
+02:21:07 [INFO] Reading news from file prchovanec.txt..
+02:21:07 [INFO] Reading news from file RaoulGMI.txt..
+02:21:07 [INFO] Reading news from file ReformedBroker.txt..
+02:21:07 [INFO] Reading news from file RiskReversal.txt..
+02:21:07 [INFO] Reading news from file ritholtz.txt..
+02:21:07 [INFO] Reading news from file RyanDetrick.txt..
+02:21:07 [INFO] Reading news from file stlouisfed.txt..
+02:21:07 [INFO] Reading news from file stt2318.txt..
+02:21:07 [INFO] Reading news from file TDANSherrod.txt..
+02:21:07 [INFO] Reading news from file TFMkts.txt..
+02:21:07 [INFO] Reading news from file TheArmoTrader.txt..
+02:21:07 [INFO] Reading news from file TheSkeptic21.txt..
+02:21:07 [INFO] Reading news from file TheStalwart.txt..
+02:21:07 [INFO] Reading news from file TMTanalyst.txt..
+02:21:07 [INFO] Reading news from file ukarlewitz.txt..
+02:21:07 [INFO] Reading news from file WallStCynic.txt..
+02:21:07 [INFO] Reading news from file Wu_Tang_Financial.txt..
+02:21:07 [INFO] Reading news from file zerohedge.txt..
+02:21:08 [INFO]   .   ____          _            __ _ _
+02:21:08 [INFO]  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+02:21:08 [INFO] ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+02:21:08 [INFO]  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+02:21:08 [INFO]   '  |____| .__|_| |_|_| |_\__, | / / / /
+02:21:08 [INFO]  =========|_|==============|___/=/_/_/_/
+02:21:08 [INFO]  :: Spring Boot ::        (v1.4.2.RELEASE)
+02:21:08 [INFO] 2017-04-23 02:21:08.086  INFO 87981 --- [           main] com.qvim.hs.Launcher                     : Starting Launcher on MacBook-Pro.local with PID 87981 (/Users/RinesThaix/Desktop/Coding/IQ_HACKATHON/target/classes started by RinesThaix in /Users/RinesThaix/Desktop/Coding/IQ_HACKATHON)
+
+02:21:08 [INFO] 2017-04-23 02:21:08.089  INFO 87981 --- [           main] com.qvim.hs.Launcher                     : No active profile set, falling back to default profiles: default
+
+02:21:08 [INFO] 2017-04-23 02:21:08.150  INFO 87981 --- [           main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 02:21:08 MSK 2017]; root of context hierarchy
+
+02:21:09 [INFO] 2017-04-23 02:21:09.428  INFO 87981 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8080 (http)
+
+02:21:09 [INFO] 2017-04-23 02:21:09.440  INFO 87981 --- [           main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+
+02:21:09 [INFO] 2017-04-23 02:21:09.441  INFO 87981 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.6
+
+02:21:09 [INFO] 2017-04-23 02:21:09.505  INFO 87981 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+
+02:21:09 [INFO] 2017-04-23 02:21:09.505  INFO 87981 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1358 ms
+
+02:21:09 [INFO] 2017-04-23 02:21:09.619  INFO 87981 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+
+02:21:09 [INFO] 2017-04-23 02:21:09.619  INFO 87981 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+
+02:21:09 [INFO] 2017-04-23 02:21:09.619  INFO 87981 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+
+02:21:09 [INFO] 2017-04-23 02:21:09.619  INFO 87981 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+
+02:21:09 [INFO] 2017-04-23 02:21:09.620  INFO 87981 --- [ost-startStop-1] .s.DelegatingFilterProxyRegistrationBean : Mapping filter: 'springSecurityFilterChain' to: [/*]
+
+02:21:09 [INFO] 2017-04-23 02:21:09.620  INFO 87981 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+
+02:21:09 [INFO] 2017-04-23 02:21:09.841  INFO 87981 --- [           main] b.a.s.AuthenticationManagerConfiguration : 
+
+Using default security password: 0bdf4256-da96-4137-8b09-ed8b72dfd686
+
+
+02:21:09 [INFO] 2017-04-23 02:21:09.904  INFO 87981 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7a2e0858, org.springframework.security.web.context.SecurityContextPersistenceFilter@7351a16e, org.springframework.security.web.header.HeaderWriterFilter@773e2eb5, org.springframework.security.web.authentication.logout.LogoutFilter@2b4786dd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3ac04654, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@66ec9390, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@aac3f4e, org.springframework.security.web.session.SessionManagementFilter@336365bc, org.springframework.security.web.access.ExceptionTranslationFilter@723ed581]
+
+02:21:09 [INFO] 2017-04-23 02:21:09.954  INFO 87981 --- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 02:21:08 MSK 2017]; root of context hierarchy
+
+02:21:09 [INFO] 2017-04-23 02:21:09.997  INFO 87981 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getError()
+
+02:21:09 [INFO] 2017-04-23 02:21:09.997  INFO 87981 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getMainPage()
+
+02:21:09 [INFO] 2017-04-23 02:21:09.999  INFO 87981 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/{method:.+}],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError(java.lang.String)
+
+02:21:10 [INFO] 2017-04-23 02:21:10.001  INFO 87981 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError()
+
+02:21:10 [INFO] 2017-04-23 02:21:10.001  INFO 87981 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/retrieveData],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.retrieveData(java.lang.String,java.lang.String,java.lang.Long,java.lang.Long,java.lang.Integer,java.lang.Boolean)
+
+02:21:10 [INFO] 2017-04-23 02:21:10.001  INFO 87981 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/currencies],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.currencies()
+
+02:21:10 [INFO] 2017-04-23 02:21:10.002  INFO 87981 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/tool],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getToolPage()
+
+02:21:10 [INFO] 2017-04-23 02:21:10.002  INFO 87981 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/about],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getAboutPage()
+
+02:21:10 [INFO] 2017-04-23 02:21:10.003  INFO 87981 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/method/{name:.+}]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.handle(java.lang.String,org.springframework.ui.Model)
+
+02:21:10 [INFO] 2017-04-23 02:21:10.004  INFO 87981 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getMainPage(org.springframework.ui.Model)
+
+02:21:10 [INFO] 2017-04-23 02:21:10.004  INFO 87981 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/help]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getGeneralHelp()
+
+02:21:10 [INFO] 2017-04-23 02:21:10.024  INFO 87981 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+02:21:10 [INFO] 2017-04-23 02:21:10.024  INFO 87981 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+02:21:10 [INFO] 2017-04-23 02:21:10.046  INFO 87981 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+02:21:10 [INFO] 2017-04-23 02:21:10.172  INFO 87981 --- [           main] o.s.w.s.v.f.FreeMarkerConfigurer         : ClassTemplateLoader for Spring macros added to FreeMarker configuration
+
+02:21:10 [INFO] 2017-04-23 02:21:10.237  INFO 87981 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+
+02:21:10 [INFO] 2017-04-23 02:21:10.279  INFO 87981 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8080 (http)
+
+02:21:10 [INFO] 2017-04-23 02:21:10.282  INFO 87981 --- [           main] com.qvim.hs.Launcher                     : Started Launcher in 2.497 seconds (JVM running for 5.701)
+
+02:21:16 [INFO] 2017-04-23 02:21:16.001  INFO 87981 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+
+02:21:16 [INFO] 2017-04-23 02:21:16.001  INFO 87981 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+
+02:21:16 [INFO] 2017-04-23 02:21:16.014  INFO 87981 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 13 ms
+
+02:22:46 [INFO] §eStopping the server..
+02:22:49 [INFO] 2017-04-23 02:22:49.829  INFO 87981 --- [       Thread-3] ationConfigEmbeddedWebApplicationContext : Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 02:21:08 MSK 2017]; root of context hierarchy
+
+02:22:49 [INFO] 2017-04-23 02:22:49.831  INFO 87981 --- [       Thread-3] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+
+02:22:59 [INFO] Enabling HackathonServer..
+02:22:59 [INFO] -===Entering exchange rates preloading section===-
+02:22:59 [INFO] Ignoring er-info file named .DS_Store
+02:22:59 [INFO] Parsing file eur usd 2013.csv
+02:22:59 [INFO] Parsing file eur usd 2014.csv
+02:22:59 [INFO] Parsing file eur usd 2015.csv
+02:23:00 [INFO] Parsing file eur usd 2016.csv
+02:23:00 [INFO] Parsing file gbp usd 2013.csv
+02:23:00 [INFO] Parsing file gbp usd 2014.csv
+02:23:00 [INFO] Parsing file gbp usd 2015.csv
+02:23:00 [INFO] Parsing file gbp usd 2016.csv
+02:23:00 [INFO] -===Entering news preloading section===-
+02:23:00 [INFO] Reading news from file business.txt..
+02:23:00 [INFO] Reading news from file clusterstock.txt..
+02:23:00 [INFO] Reading news from file ftfinancenews.txt..
+02:23:01 [INFO] Reading news from file MarketWatch.txt..
+02:23:01 [INFO] Reading news from file NYT.txt..
+02:23:01 [INFO] Reading news from file NYT2016.txt..
+02:23:01 [INFO] Reading news from file NYT201602.txt..
+02:23:01 [INFO] Reading news from file TheEconomist.txt..
+02:23:01 [INFO] Reading news from file WSJ.txt..
+02:23:01 [INFO] Reading news from file YahooFinance.txt..
+02:23:01 [INFO] Reading news from file allstarcharts.txt..
+02:23:01 [INFO] Reading news from file Amena_Bakr.txt..
+02:23:01 [INFO] Reading news from file AswathDamodaran.txt..
+02:23:01 [INFO] Reading news from file auaurelija.txt..
+02:23:01 [INFO] Reading news from file barnejek.txt..
+02:23:01 [INFO] Reading news from file benzinga.txt..
+02:23:01 [INFO] Reading news from file BondVigilantes.txt..
+02:23:01 [INFO] Reading news from file brianmlucey.txt..
+02:23:01 [INFO] Reading news from file BrianSozzi.txt..
+02:23:01 [INFO] Reading news from file bySamRo.txt..
+02:23:01 [INFO] Reading news from file Carl_C_Icahn.txt..
+02:23:01 [INFO] Reading news from file CitronResearch.txt..
+02:23:01 [INFO] Reading news from file conorsen.txt..
+02:23:01 [INFO] Reading news from file Cullenroche.txt..
+02:23:01 [INFO] Reading news from file davidjpowell24.txt..
+02:23:01 [INFO] Reading news from file DavidSchawel.txt..
+02:23:01 [INFO] Reading news from file dvolatility.txt..
+02:23:01 [INFO] Reading news from file economistmeg.txt..
+02:23:01 [INFO] Reading news from file EddyElfenbein.txt..
+02:23:01 [INFO] Reading news from file EnisTaner.txt..
+02:23:01 [INFO] Reading news from file ericjackon.txt..
+02:23:01 [INFO] Reading news from file Fullcarry.txt..
+02:23:01 [INFO] Reading news from file fwred.txt..
+02:23:01 [INFO] Reading news from file GoldmanSachs.txt..
+02:23:01 [INFO] Reading news from file groditi.txt..
+02:23:01 [INFO] Reading news from file howardlindzon.txt..
+02:23:01 [INFO] Reading news from file InterestArb.txt..
+02:23:01 [INFO] Reading news from file IvanTheK.txt..
+02:23:01 [INFO] Reading news from file JeffMacke.txt..
+02:23:01 [INFO] Reading news from file JLyonsFundMgmt.txt..
+02:23:01 [INFO] Reading news from file John_Hempton.txt..
+02:23:01 [INFO] Reading news from file KeithMcCullough.txt..
+02:23:01 [INFO] Reading news from file kiffmeister.txt..
+02:23:01 [INFO] Reading news from file kitjuckes.txt..
+02:23:01 [INFO] Reading news from file Lavorgnanomics.txt..
+02:23:01 [INFO] Reading news from file LizAnnSonders.txt..
+02:23:01 [INFO] Reading news from file mark_dow.txt..
+02:23:01 [INFO] Reading news from file MarketPlunger.txt..
+02:23:01 [INFO] Reading news from file MarkYusko.txt..
+02:23:01 [INFO] Reading news from file mbusigin.txt..
+02:23:01 [INFO] Reading news from file mebfaber.txt..
+02:23:01 [INFO] Reading news from file michaelkitces.txt..
+02:23:01 [INFO] Reading news from file muddywatersre.txt..
+02:23:01 [INFO] Reading news from file pkedrosky.txt..
+02:23:01 [INFO] Reading news from file prchovanec.txt..
+02:23:01 [INFO] Reading news from file RaoulGMI.txt..
+02:23:01 [INFO] Reading news from file ReformedBroker.txt..
+02:23:01 [INFO] Reading news from file RiskReversal.txt..
+02:23:01 [INFO] Reading news from file ritholtz.txt..
+02:23:01 [INFO] Reading news from file RyanDetrick.txt..
+02:23:01 [INFO] Reading news from file stlouisfed.txt..
+02:23:01 [INFO] Reading news from file stt2318.txt..
+02:23:01 [INFO] Reading news from file TDANSherrod.txt..
+02:23:01 [INFO] Reading news from file TFMkts.txt..
+02:23:01 [INFO] Reading news from file TheArmoTrader.txt..
+02:23:01 [INFO] Reading news from file TheSkeptic21.txt..
+02:23:01 [INFO] Reading news from file TheStalwart.txt..
+02:23:01 [INFO] Reading news from file TMTanalyst.txt..
+02:23:01 [INFO] Reading news from file ukarlewitz.txt..
+02:23:01 [INFO] Reading news from file WallStCynic.txt..
+02:23:01 [INFO] Reading news from file Wu_Tang_Financial.txt..
+02:23:01 [INFO] Reading news from file zerohedge.txt..
+02:23:02 [INFO]   .   ____          _            __ _ _
+02:23:02 [INFO]  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+02:23:02 [INFO] ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+02:23:02 [INFO]  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+02:23:02 [INFO]   '  |____| .__|_| |_|_| |_\__, | / / / /
+02:23:02 [INFO]  =========|_|==============|___/=/_/_/_/
+02:23:02 [INFO]  :: Spring Boot ::        (v1.4.2.RELEASE)
+02:23:02 [INFO] 2017-04-23 02:23:02.262  INFO 88013 --- [           main] com.qvim.hs.Launcher                     : Starting Launcher on MacBook-Pro.local with PID 88013 (/Users/RinesThaix/Desktop/Coding/IQ_HACKATHON/target/classes started by RinesThaix in /Users/RinesThaix/Desktop/Coding/IQ_HACKATHON)
+
+02:23:02 [INFO] 2017-04-23 02:23:02.264  INFO 88013 --- [           main] com.qvim.hs.Launcher                     : No active profile set, falling back to default profiles: default
+
+02:23:02 [INFO] 2017-04-23 02:23:02.323  INFO 88013 --- [           main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 02:23:02 MSK 2017]; root of context hierarchy
+
+02:23:03 [INFO] 2017-04-23 02:23:03.588  INFO 88013 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8080 (http)
+
+02:23:03 [INFO] 2017-04-23 02:23:03.598  INFO 88013 --- [           main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+
+02:23:03 [INFO] 2017-04-23 02:23:03.599  INFO 88013 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.6
+
+02:23:03 [INFO] 2017-04-23 02:23:03.668  INFO 88013 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+
+02:23:03 [INFO] 2017-04-23 02:23:03.668  INFO 88013 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1348 ms
+
+02:23:03 [INFO] 2017-04-23 02:23:03.779  INFO 88013 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+
+02:23:03 [INFO] 2017-04-23 02:23:03.780  INFO 88013 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+
+02:23:03 [INFO] 2017-04-23 02:23:03.780  INFO 88013 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+
+02:23:03 [INFO] 2017-04-23 02:23:03.780  INFO 88013 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+
+02:23:03 [INFO] 2017-04-23 02:23:03.781  INFO 88013 --- [ost-startStop-1] .s.DelegatingFilterProxyRegistrationBean : Mapping filter: 'springSecurityFilterChain' to: [/*]
+
+02:23:03 [INFO] 2017-04-23 02:23:03.781  INFO 88013 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+
+02:23:03 [INFO] 2017-04-23 02:23:03.995  INFO 88013 --- [           main] b.a.s.AuthenticationManagerConfiguration : 
+
+Using default security password: 71d31dae-7421-4072-a27d-4770348f0409
+
+
+02:23:04 [INFO] 2017-04-23 02:23:04.058  INFO 88013 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7a2e0858, org.springframework.security.web.context.SecurityContextPersistenceFilter@7351a16e, org.springframework.security.web.header.HeaderWriterFilter@773e2eb5, org.springframework.security.web.authentication.logout.LogoutFilter@2b4786dd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3ac04654, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@66ec9390, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@aac3f4e, org.springframework.security.web.session.SessionManagementFilter@336365bc, org.springframework.security.web.access.ExceptionTranslationFilter@723ed581]
+
+02:23:04 [INFO] 2017-04-23 02:23:04.108  INFO 88013 --- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 02:23:02 MSK 2017]; root of context hierarchy
+
+02:23:04 [INFO] 2017-04-23 02:23:04.149  INFO 88013 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getError()
+
+02:23:04 [INFO] 2017-04-23 02:23:04.150  INFO 88013 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SpringController.getMainPage()
+
+02:23:04 [INFO] 2017-04-23 02:23:04.152  INFO 88013 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/{method:.+}],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError(java.lang.String)
+
+02:23:04 [INFO] 2017-04-23 02:23:04.153  INFO 88013 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.getError()
+
+02:23:04 [INFO] 2017-04-23 02:23:04.153  INFO 88013 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/retrieveData],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.retrieveData(java.lang.String,java.lang.String,java.lang.Long,java.lang.Long,java.lang.Integer,java.lang.Boolean)
+
+02:23:04 [INFO] 2017-04-23 02:23:04.153  INFO 88013 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/api/currencies],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.qvim.hs.web.ApiController.currencies()
+
+02:23:04 [INFO] 2017-04-23 02:23:04.154  INFO 88013 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/tool],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getToolPage()
+
+02:23:04 [INFO] 2017-04-23 02:23:04.154  INFO 88013 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/about],produces=[text/html]}" onto public java.lang.String com.qvim.hs.web.SiteController.getAboutPage()
+
+02:23:04 [INFO] 2017-04-23 02:23:04.155  INFO 88013 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/method/{name:.+}]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.handle(java.lang.String,org.springframework.ui.Model)
+
+02:23:04 [INFO] 2017-04-23 02:23:04.155  INFO 88013 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getMainPage(org.springframework.ui.Model)
+
+02:23:04 [INFO] 2017-04-23 02:23:04.155  INFO 88013 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/papi/help]}" onto public java.lang.String com.qvim.hs.web.PublicApiController.getGeneralHelp()
+
+02:23:04 [INFO] 2017-04-23 02:23:04.173  INFO 88013 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+02:23:04 [INFO] 2017-04-23 02:23:04.173  INFO 88013 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+02:23:04 [INFO] 2017-04-23 02:23:04.195  INFO 88013 --- [           main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+
+02:23:04 [INFO] 2017-04-23 02:23:04.307  INFO 88013 --- [           main] o.s.w.s.v.f.FreeMarkerConfigurer         : ClassTemplateLoader for Spring macros added to FreeMarker configuration
+
+02:23:04 [INFO] 2017-04-23 02:23:04.371  INFO 88013 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+
+02:23:04 [INFO] 2017-04-23 02:23:04.410  INFO 88013 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8080 (http)
+
+02:23:04 [INFO] 2017-04-23 02:23:04.414  INFO 88013 --- [           main] com.qvim.hs.Launcher                     : Started Launcher in 2.439 seconds (JVM running for 5.563)
+
+02:23:08 [INFO] 2017-04-23 02:23:08.572  INFO 88013 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+
+02:23:08 [INFO] 2017-04-23 02:23:08.572  INFO 88013 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+
+02:23:08 [INFO] 2017-04-23 02:23:08.583  INFO 88013 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 11 ms
+
+02:23:49 [INFO] §eStopping the server..
+02:23:52 [INFO] 2017-04-23 02:23:52.212  INFO 88013 --- [       Thread-3] ationConfigEmbeddedWebApplicationContext : Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@20ccf40b: startup date [Sun Apr 23 02:23:02 MSK 2017]; root of context hierarchy
+
+02:23:52 [INFO] 2017-04-23 02:23:52.214  INFO 88013 --- [       Thread-3] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+

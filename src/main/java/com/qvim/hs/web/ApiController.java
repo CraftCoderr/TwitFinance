@@ -51,8 +51,7 @@ public class ApiController {
             return request.toJsonString();
         }
         if(toCurrency == null) {
-            request.error(ApiError.PARAMETER_NOT_SPECIFIED, "to_currency");
-            return request.toJsonString();
+            toCurrency = "USD";
         }
         if(startDate == null) {
             request.error(ApiError.PARAMETER_NOT_SPECIFIED, "start_date");
@@ -63,12 +62,10 @@ public class ApiController {
             return request.toJsonString();
         }
         if(scale == null) {
-            request.error(ApiError.PARAMETER_NOT_SPECIFIED, "scale");
-            return request.toJsonString();
+            scale = 0;
         }
         if(people == null) {
-            request.error(ApiError.PARAMETER_NOT_SPECIFIED, "people");
-            return request.toJsonString();
+            people = true;
         }
         if(scale < 0 || scale >= ScaleFactor.values().length) {
             request.error(ApiError.INVALID_PARAMETER, "scale");

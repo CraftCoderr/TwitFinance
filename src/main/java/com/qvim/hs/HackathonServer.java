@@ -37,7 +37,7 @@ public class HackathonServer {
         instance = this;
         configuration: {
             FileConfiguration config = getConfig("web");
-            this.webPort = config.getInt("port", 722);
+            this.webPort = config.getInt("port", 8080);
             saveConfig("web");
         }
         preloadLogger();

@@ -10,6 +10,10 @@ public enum Currency {
 
     USD,
 
-    GBP
+    GBP,
+
+    AUD,
+
+    XAU
 
 }

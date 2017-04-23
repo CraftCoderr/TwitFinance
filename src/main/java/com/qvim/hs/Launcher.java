@@ -1,8 +1,6 @@
 package com.qvim.hs;
 
-import com.qvim.hs.web.ApiController;
-import com.qvim.hs.web.SpringController;
-import com.qvim.hs.web.WebConfiguration;
+import com.qvim.hs.web.*;
 import org.springframework.boot.SpringApplication;
 
 /**
@@ -13,7 +11,7 @@ public class Launcher {
     public static void main(String[] args) {
         new HackathonServer();
         Object[] controllers = new Object[]{
-                SpringController.class, ApiController.class, WebConfiguration.class
+                SpringController.class, ApiController.class, WebConfiguration.class, SiteController.class, PublicApiController.class
         };
         SpringApplication.run(controllers, args);
     }

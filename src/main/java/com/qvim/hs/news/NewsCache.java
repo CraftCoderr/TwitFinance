@@ -9,10 +9,8 @@ import org.json.simple.parser.JSONParser;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Random;
+import java.util.*;
+import java.util.stream.Collectors;
 
 /**
  * Created by RINES on 22.04.17.
@@ -109,11 +107,45 @@ public class NewsCache {
         }
         List<News> accepted = new ArrayList<>();
         for(News news : result)
-            if(isNewsAcceptable(rates, news.getDate(), radius, acceptableDelta))
-                accepted.add(news);
+            accepted.add(news.clone());
+        removeRetweets(accepted);
+        removeNotAccepted(rates, accepted, radius, acceptableDelta);
         rarefy(accepted);
         sieveDependingOnEquality(accepted);
+        rate(accepted);
         return accepted.toArray(new News[accepted.size()]);
+    }
+
+    private static void removeNotAccepted(TimedExchangeRate[] rates, List<News> news, int radius, float acceptableDelta) {
+        for(Iterator<News> iterator = news.iterator(); iterator.hasNext();)
+            if(!isNewsAcceptable(rates, iterator.next().getDate(), radius, acceptableDelta))
+                iterator.remove();
+    }
+
+    private static void removeRetweets(List<News> news) {
+        for(Iterator<News> iterator = news.iterator(); iterator.hasNext();) {
+            String text = iterator.next().getText();
+            if(text.startsWith("@") || text.startsWith("RT @") || text.trim().isEmpty())
+                iterator.remove();
+        }
+    }
+
+    private static void rate(List<News> news) {
+        int max = 0;
+        for(News n : news) {
+            if(max == 0) {
+                max = n.getRating();
+                n.setRating(100);
+                continue;
+            }
+            int rating = n.getRating();
+            int calculated = 100 * rating / max;
+            if(calculated > 100) {
+                calculated = 100;
+                max = rating;
+            }
+            n.setRating(Math.min(100, calculated << 1));
+        }
     }
 
     private static void sieveDependingOnEquality(List<News> news) {
@@ -229,7 +261,6 @@ public class NewsCache {
                 System.arraycopy(temp, 0, NEWS, 0, NEWS.length);
                 Arrays.sort(NEWS, (a, b) -> Long.compare(a.getDate(), b.getDate()));
             }
-            Logger.log("Done with this file!");
         }catch(Exception ex) {
             Logger.warn("Can not parse news from this file!", ex);
         }

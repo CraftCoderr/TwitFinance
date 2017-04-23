@@ -1,0 +1,240 @@
+@font-face{font-family:appleLogo;src:local("Lucida Grande");unicode-range:U+F8FF}
+.tiny{font-size:.7rem}
+.small{font-size:.9rem}
+.no_pointer_events{pointer-events:none}
+body,html{width:100%;overflow-x:hidden}
+body{margin:0;background:#f9f9f9;font-size:1.125rem}
+html.no_scroll{overflow-y:hidden}
+#page,.log_output,header{width:100%;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0);-webkit-transition:-webkit-transform .15s cubic-bezier(.2,.3,.25,.9);-moz-transition:-moz-transform .15s cubic-bezier(.2,.3,.25,.9);transition:transform .15s cubic-bezier(.2,.3,.25,.9)}
+.is_safari_desktop #page,.is_safari_desktop .log_output,.is_safari_desktop header{-webkit-transition:none;-moz-transition:none;transition:none}
+#header_logo{display:inline-block;padding:1.4rem 1.2rem 1rem;height:5rem}
+#header_logo img{width:120px;height:36px;border:none}
+#page{top:0;left:0;bottom:0;right:0}
+#page_contents{margin:0 auto;padding:8rem 2rem}
+body.no_header #page_contents{padding-top:2rem}
+.section_contents{max-width:1024px;margin:auto;padding:4rem 2rem}
+@media only screen and (max-width:640px){.section_contents{padding:2rem 1rem}
+}
+.full_width_fixed_section{position:fixed;z-index:1040;max-width:1024px;width:100%}
+body.full_bleed #page_contents{width:auto;padding:0}
+body.full_bleed section:first-of-type{padding-top:8rem}
+@media only screen and (max-width:767px){body.full_bleed section:first-of-type{padding-top:7rem}
+}
+@media only screen and (max-width:640px){body.full_bleed section:first-of-type{padding-top:3rem}
+}
+#nojs_banner{width:100%;padding:.75rem 2rem;text-align:center;font-size:1rem;line-height:1.5rem;background:#fffce0;border-bottom:1px solid #dfa941;border-top:1px solid #dfa941;position:fixed;margin-top:5rem;z-index:1000}
+nav#site_nav{z-index:1;position:fixed;top:0;left:0;bottom:0;width:280px;background:#3c4b5b;text-shadow:0 1px 1px rgba(0,0,0,.1);overflow-y:auto;display:-webkit-box;display:-webkit-flex;display:-moz-flex;display:-ms-flexbox;display:flex;-ms-flex-direction:column;-moz-flex-direction:column;-webkit-flex-direction:column;flex-direction:column;-webkit-overflow-scrolling:touch;-webkit-transform:translate3d(-280px,0,0);-moz-transform:translate3d(-280px,0,0);-ms-transform:translate3d(-280px,0,0);transform:translate3d(-280px,0,0);-webkit-transition:-webkit-transform .15s cubic-bezier(.2,.3,.25,.9);-moz-transition:-moz-transform .15s cubic-bezier(.2,.3,.25,.9);transition:transform .15s cubic-bezier(.2,.3,.25,.9)}
+nav#site_nav #site_nav_contents{-ms-flex:1;-webkit-flex:1;flex:1}
+nav#site_nav #user_menu_contents{color:#fff;font-weight:700;display:block;cursor:pointer;height:5rem;padding-top:1rem}
+html.no_touch nav#site_nav #user_menu_contents:hover{background:#435466}
+html.no_touch nav#site_nav #user_menu_contents:hover .member_type_badge .member_type_badge_background_ra #badge_bg,html.no_touch nav#site_nav #user_menu_contents:hover .member_type_badge .member_type_badge_background_ura #badge_bg{fill:#435466}
+nav#site_nav #user_menu_avatar{float:left;margin:0 1rem 0 1.5rem}
+nav#site_nav #user_menu_avatar .thumb_48{display:block}
+nav#site_nav #user_menu_avatar .thumb_36{display:none}
+nav#site_nav #user_menu_avatar .member_type_badge .member_type_badge_background_ra #badge_bg,nav#site_nav #user_menu_avatar .member_type_badge .member_type_badge_background_ura #badge_bg{fill:#f9f9f9}
+nav#site_nav #user_menu_name{display:block;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;max-width:175px;margin-top:-5px;margin-bottom:-4px;color:#fff}
+nav#site_nav .nav_contents{padding:.5rem 1.5rem 1rem}
+nav#site_nav .nav_contents ul:last-child{margin-bottom:0}
+nav#site_nav h3{text-transform:uppercase;margin-bottom:0;color:#6B7682;font-weight:400;letter-spacing:.5px;font-size:.8rem}
+nav#site_nav ul{list-style:none;padding:0;margin-top:0;margin-bottom:1.5rem;margin-left:0}
+nav#site_nav ul a,nav#site_nav ul a:active,nav#site_nav ul a:hover,nav#site_nav ul a:link,nav#site_nav ul a:visited{color:#fff;text-decoration:none;padding:.25rem 0;display:block;font-size:1rem;font-weight:700}
+html.no_touch nav#site_nav ul a:hover{text-decoration:underline}
+nav#site_nav ul a i{margin-right:.75rem}
+nav#site_nav ul.primary_nav i{float:left}
+nav#site_nav .ts_icon_file,nav#site_nav .ts_icon_home{color:#5F9EEE}
+nav#site_nav .ts_icon_dashboard,nav#site_nav .ts_icon_user{color:#76C187}
+nav#site_nav .ts_icon_magic,nav#site_nav .ts_icon_plug{color:#DEB63B}
+nav#site_nav .ts_icon_archive{color:#9E7DA6}
+nav#site_nav .ts_icon_team_directory{color:#DE797C}
+nav#site_nav #footer{padding:1.5rem}
+nav#site_nav #footer_nav{margin-bottom:.5rem}
+nav#site_nav #footer_nav a{font-size:.9rem;color:#B1B7BD}
+nav#site_nav #footer_signature{color:#eb4d5c;font-size:.9rem;margin-bottom:0}
+.is_safari_desktop nav#site_nav{-webkit-transition:none;-moz-transition:none;transition:none}
+.nav_open nav#site_nav{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
+.nav_open nav#site_nav #user_menu_avatar .member_type_badge .member_type_badge_background_ra #badge_bg,.nav_open nav#site_nav #user_menu_avatar .member_type_badge .member_type_badge_background_ura #badge_bg{fill:#3c4b5b}
+.nav_open #page,.nav_open .log_output,.nav_open header,.nav_open nav.top{-webkit-transform:translate3d(280px,0,0);-moz-transform:translate3d(280px,0,0);-ms-transform:translate3d(280px,0,0);transform:translate3d(280px,0,0)}
+.nav_open #menu_toggle{color:#3aa3e3;text-decoration:none}
+.nav_open #menu_toggle .menu_icon{background-position:0 2px}
+.nav_open #overlay{display:block;background-color:rgba(0,0,0,.1)}
+#overlay{position:absolute;top:0;left:0;bottom:0;width:100%;z-index:1000;display:none;background-color:rgba(0,0,0,0);-webkit-transition:background-color .15s ease-out 0s;-moz-transition:background-color .15s ease-out 0s;transition:background-color .15s ease-out 0s}
+header{background:#fff;height:5rem;box-shadow:0 1px 4px rgba(0,0,0,.15);position:fixed;top:0;left:0;right:0;z-index:100}
+header.empty{background:0 0;height:auto;box-shadow:none;position:static}
+header #menu_toggle{display:inline-block;height:5rem;color:#404b55;font-weight:700;padding:1.8rem 1.7rem 1.6rem 2rem;float:left;position:relative;-webkit-transition:-webkit-transform .15s cubic-bezier(.2,.3,.25,.9);-moz-transition:-moz-transform .15s cubic-bezier(.2,.3,.25,.9);transition:transform .15s cubic-bezier(.2,.3,.25,.9)}
+header .vert_divider{height:2.5rem;border-left:1px solid #DDD;display:inline-block;margin:1.25rem 0;position:absolute;top:0;right:0}
+header #header_team_name{margin-bottom:0;-webkit-transition:-webkit-transform .15s cubic-bezier(.2,.3,.25,.9);-moz-transition:-moz-transform .15s cubic-bezier(.2,.3,.25,.9);transition:transform .15s cubic-bezier(.2,.3,.25,.9)}
+header #header_team_name a{max-width:450px;display:inline-block;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;color:#404b55;font-size:1.4rem;font-weight:700;float:left;padding:1.4rem 1rem 1rem;margin-bottom:0;cursor:pointer}
+header #header_team_name a i{font-size:1.75rem;width:36px;margin:-2px .5rem 0;display:block;float:left}
+header .menu_icon{background-image:url(/07fd/img/icn_menu.png);background-repeat:no-repeat;width:24px;height:20px;display:inline-block;margin-right:1rem;background-position:0 -21px;float:left}
+html.no_touch header #header_team_name a:hover,html.no_touch header #menu_toggle:hover{color:#3aa3e3;text-decoration:none}
+html.no_touch header #header_team_name a:hover .menu_icon,html.no_touch header #menu_toggle:hover .menu_icon{background-position:0 2px}
+header .header_nav{position:absolute;right:0;top:0;height:5rem}
+header .header_links{margin-right:.75rem}
+header .header_links a{padding:1.7rem .75rem;color:#404b55;display:inline-block;font-size:1rem;font-weight:700}
+header .header_links a.active{padding:.45rem .75rem .4rem;border-radius:.25rem;text-decoration:none;background:#f9f9f9}
+header .header_btn{margin:1.4rem 1.4rem 1.4rem 0}
+header .header_btns .btn_link,header .header_btns a{text-align:center;font-size:.8rem;color:#404b55;cursor:pointer;display:inline-block;float:left;font-weight:700;padding:1.4rem 1.2rem .6rem;line-height:1.25rem}
+header .header_btns .btn_link i,header .header_btns a i{font-size:1.75rem;width:28px}
+header .header_btns .btn_link .label,header .header_btns a .label{color:#717274;margin-left:-1px}
+header .header_btns .btn_link img,header .header_btns a img{margin:-4px .5rem 2px;width:30px;height:30px;float:left}
+header #header_team_nav{display:none;position:absolute;top:90%;right:9.5rem;background:#fff;list-style:none;margin:0;min-width:260px;padding:.25rem;border:1px solid #DDD;border-radius:.25rem;box-shadow:0 2px 6px rgba(0,0,0,.5);font-weight:700;max-height:340px;overflow-y:auto}
+header #header_team_nav li a{padding:.25rem;display:block;color:#555459;border-radius:.25rem;font-size:1rem;height:2.75rem}
+header #header_team_nav li a .team_name{text-overflow:ellipsis;overflow:hidden;white-space:nowrap;max-width:160px;display:inline-block}
+header #header_team_nav li a .switcher_label{line-height:2.25rem;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;max-width:185px;display:inline-block}
+header #header_team_nav li a .team_icon.ts_icon_plus{background:#e8e8e8;color:#9e9ea6;font-size:1.125rem;text-shadow:none}
+header #header_team_nav li a .active_icon{float:right;padding:.2rem .7rem}
+header #header_team_nav li a .active_icon~.switcher_label{max-width:155px}
+header #header_team_nav li.active a{background:#f9f9f9}
+header #header_team_nav #add_team_option{border-top:2px solid #e8e8e8;margin-top:.25rem;padding-top:.25rem}
+header #header_team_nav #add_team_option .switcher_label{font-size:.9rem}
+html.no_touch header #header_team_nav li a:hover{background:#f9f9f9;text-decoration:none}
+html.no_touch header .header_btns .btn_link:hover,html.no_touch header .header_btns a:hover{text-decoration:none;color:#3aa3e3}
+html.no_touch header .header_btns .btn_link:hover .label,html.no_touch header .header_btns a:hover .label{color:#3aa3e3}
+header #header_team_nav.open{display:block}
+.headroom--pinned{-webkit-transform:translateY(0);-moz-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0)}
+.headroom--unpinned{-webkit-transform:translateY(-100%);-moz-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%)}
+.log_output:first-child{margin-top:5rem}
+@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){header .menu_icon{background-image:url(/0180/img/icn_menu@2x.png);background-size:100%}
+}
+.card{background-color:#fff;border-radius:.25rem;box-shadow:0 1px 0 rgba(0,0,0,.25);padding:2rem 2rem 1rem;margin:0 auto 2rem;position:relative;border:1px solid #e8e8e8}
+.card.compact{padding:1rem}
+.card.framed{border-width:2px;box-shadow:none}
+.card.card_info{border-color:#3aa3e3}
+.card.card_warning{border-color:#edb431}
+.card.card_success{border-color:#2ab27b}
+.card.card_error{border-color:#cb5234}
+.card h3 a{color:#555459}
+.member_card{display:flex;padding:.75rem;border-radius:5px;border:1px solid #e8e8e8}
+.member_card_details{align-self:center}
+.plastic_row{display:block;border-radius:.25rem;padding:.5rem;margin:0 0 .25rem;position:relative;padding-left:4.5rem;padding-right:100px;border:1px solid transparent}
+.plastic_row h3{margin-top:-.1rem;margin-bottom:0;color:#555459}
+.plastic_row h4{margin-bottom:.1rem}
+.plastic_row h4 a{color:#555459}
+.plastic_row .icon{color:#fff;width:48px;height:48px;font-size:1.875rem;text-align:center;line-height:3rem;border-radius:.25rem;float:left;margin-left:-4rem;cursor:pointer}
+.plastic_row .icon:before{font-size:inherit}
+.plastic_row .chevron{position:absolute;right:1rem;top:1.4rem;font-size:1.5rem;color:#e8e8e8}
+.plastic_row .btn:not(.inline_block){position:absolute;right:1rem;top:.9rem}
+.plastic_row .description{color:#717274;display:block;word-wrap:break-word;word-break:break-word;margin-right:5rem}
+@-moz-document url-prefix(){.plastic_row .description{word-break:break-all}
+}
+.plastic_row:active{background:#fbfbfa;border-color:#e8e8e8;text-decoration:none}
+.plastic_row:active h3{text-decoration:none}
+.plastic_row:active .chevron{color:#555459}
+html.no_touch .plastic_row:hover{background:#fbfbfa;border-color:#e8e8e8;text-decoration:none}
+html.no_touch .plastic_row:hover h3{text-decoration:none}
+html.no_touch .plastic_row:hover .chevron{color:#555459}
+@media only screen and (max-width:640px){.plastic_row{padding-left:3.25rem}
+.plastic_row .icon{width:32px;height:32px;font-size:1.5rem;line-height:2rem;margin-left:-2.75rem}
+.plastic_row .chevron{display:none}
+.plastic_row .btn{position:relative;top:0;right:0;margin-top:.25rem}
+.plastic_row .description{margin-right:0}
+}
+.tab_set{position:relative;max-height:3rem}
+.tab_set a{display:inline-block;padding:12px 32px 11px;font-weight:700;margin-bottom:-1px;border:1px solid transparent;border-top-right-radius:.25rem;border-bottom-right-radius:0;border-bottom-left-radius:0;border-top-left-radius:.25rem;background-clip:padding-box;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;max-width:100%}
+.tab_set.compressed a{padding-left:22px;padding-right:22px}
+.tab_set a.secondary.selected,.tab_set a.selected{border:1px solid #e8e8e8;background:#fff;border-bottom-color:#fff;color:#555459;cursor:default}
+.tab_set a.selected.is_linked{cursor:pointer}
+.tab_set a.selected:hover{text-decoration:none}
+.tab_set a.secondary{float:right;color:#9e9ea6}
+.tab_set .tab_caret{display:none}
+.tab_pane{display:none;background:#fff;border-radius:0 0 .25rem .25rem;box-shadow:0 1px 0 rgba(0,0,0,.25);padding:2rem 2rem 1rem;margin:0 auto 3rem;border:1px solid #e8e8e8}
+.tab_pane.selected{display:block}
+.tab_pane.selected.display_flex{display:-webkit-box;display:-webkit-flex;display:-moz-flex;display:-ms-flexbox;display:flex}
+.tab_actions{background:#fff;height:4.5rem;padding:1rem;border:1px solid #e8e8e8;margin-bottom:-1px}
+.accordion_section{border-bottom:1px solid #e8e8e8;padding:1rem 6rem 1rem 0;position:relative}
+.accordion_section h4,.accordion_section h4 a{color:#3c4b5b}
+.no_touch .accordion_section h4 a:hover{color:#3aa3e3}
+.accordion_section:last-of-type{border-bottom:0}
+.accordion_expand,.accordion_expand.btn{position:absolute;top:1rem;right:0;text-transform:lowercase}
+.accordion_section_fixed{border-bottom:1px solid #e8e8e8!important}
+@media only screen and (min-width:1441px){.widescreen:not(.nav_open) nav#site_nav{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0);background:0 0;margin-top:5.5rem;position:absolute;z-index:100;text-shadow:none;overflow:visible}
+.widescreen:not(.nav_open) nav#site_nav h3{color:#555459}
+.widescreen:not(.nav_open) nav#site_nav ul a,.widescreen:not(.nav_open) nav#site_nav ul a:active,.widescreen:not(.nav_open) nav#site_nav ul a:hover,.widescreen:not(.nav_open) nav#site_nav ul a:link,.widescreen:not(.nav_open) nav#site_nav ul a:visited{color:#555459}
+.widescreen:not(.nav_open) nav#site_nav #user_menu_name{color:#555459}
+html.no_touch .widescreen:not(.nav_open) nav#site_nav #user_menu_contents:hover{background:0 0}
+html.no_touch .widescreen:not(.nav_open) nav#site_nav #user_menu_contents:hover .member_type_badge .member_type_badge_background_ra #badge_bg,html.no_touch .widescreen:not(.nav_open) nav#site_nav #user_menu_contents:hover .member_type_badge .member_type_badge_background_ura #badge_bg{fill:#f9f9f9}
+.widescreen:not(.nav_open) nav#site_nav #user_menu_contents{cursor:default}
+.widescreen:not(.nav_open) nav#site_nav #footer_nav a{color:#9e9ea6}
+.widescreen:not(.nav_open) header #menu_toggle{-webkit-transform:translate3d(-146px,0,0);-moz-transform:translate3d(-146px,0,0);-ms-transform:translate3d(-146px,0,0);transform:translate3d(-146px,0,0);-webkit-transition:-webkit-transform .15s cubic-bezier(.2,.3,.25,.9);-moz-transition:-moz-transform .15s cubic-bezier(.2,.3,.25,.9);transition:transform .15s cubic-bezier(.2,.3,.25,.9)}
+.widescreen:not(.nav_open) header #header_team_name{-webkit-transform:translate3d(-146px,0,0);-moz-transform:translate3d(-146px,0,0);-ms-transform:translate3d(-146px,0,0);transform:translate3d(-146px,0,0);-webkit-transition:-webkit-transform .15s cubic-bezier(.2,.3,.25,.9);-moz-transition:-moz-transform .15s cubic-bezier(.2,.3,.25,.9);transition:transform .15s cubic-bezier(.2,.3,.25,.9)}
+.widescreen:not(.nav_open) #page_contents.full_width{padding-left:280px}
+}
+@media only screen and (min-width:1440px) and (max-height:768px){.widescreen:not(.nav_open) nav#site_nav{margin-top:4.5rem}
+.widescreen:not(.nav_open) header #header_team_name{-webkit-transform:translate3d(-124px,0,0);-moz-transform:translate3d(-124px,0,0);-ms-transform:translate3d(-124px,0,0);transform:translate3d(-124px,0,0)}
+.widescreen:not(.nav_open) header i{margin:0 .25rem 0 0}
+}
+@media only screen and (max-height:768px),screen and (max-width:640px){#page_contents{padding:6rem 2rem}
+body.no_header #page_contents{padding-top:2rem}
+header{height:4rem}
+header #menu_toggle{height:4rem;padding:1.4rem}
+header .vert_divider{margin:.75rem 0}
+header #header_team_name{padding:0;line-height:1.7rem}
+header #header_team_name a{padding-top:1.25rem}
+header #header_logo{padding:.9rem;height:4rem}
+header .header_links a{padding:1.3rem .7rem}
+header .header_btn{margin:.9rem .9rem .9rem .7rem}
+header .header_btns .btn_link,header .header_btns a{line-height:1.2rem;padding:.9rem 1rem .4rem}
+header .header_btns .btn_link i,header .header_btns a i{font-size:1.5rem}
+header .header_btns .btn_link img,header .header_btns a img{margin-top:-3px;margin-bottom:3px;width:26px;height:26px}
+header #header_team_nav{top:73%;right:9rem}
+.log_output:first-child{margin-top:4rem}
+nav#site_nav #user_menu_contents{height:4rem;padding-top:.7rem}
+nav#site_nav #user_menu_avatar{margin-right:.75rem;margin-top:.3rem}
+nav#site_nav #user_menu_avatar .thumb_48{display:none}
+nav#site_nav #user_menu_avatar .thumb_36{display:block}
+}
+@media only screen and (min-width:1024px){#page_contents{width:1024px}
+.full_width_fixed_section{left:50%;margin-left:-512px}
+}
+@media only screen and (max-width:1024px){.tab_set a{padding:12px 16px 11px;font-size:1rem}
+}
+@media only screen and (max-width:768px){.tab_set{height:3rem;z-index:10;margin-bottom:-1px}
+.tab_set a{display:block;position:absolute;width:100%;background:#fff;border:1px solid #e8e8e8;padding:12px 3rem 11px 1rem;cursor:pointer;border-top-right-radius:.25rem;border-bottom-right-radius:0;border-bottom-left-radius:0;border-top-left-radius:.25rem;background-clip:padding-box}
+html.no_touch .tab_set .tab_caret:hover,html.no_touch .tab_set a:hover{background:#fbfbfa}
+.tab_set a.secondary.selected,.tab_set a.selected{z-index:10;border-bottom-color:#e8e8e8;cursor:pointer}
+.tab_set .tab_caret{position:absolute;top:11px;right:24px;z-index:1000;font-size:1.75rem;cursor:pointer}
+.tab_set .tab_caret.ts_icon_caret_down{display:inline-block}
+html.no_touch .tab_set:not(.open):hover a:first-of-type{background:#fbfbfa}
+.tab_set.open a{position:relative;border-radius:0}
+.tab_set.open a:first-of-type{border-top-right-radius:.25rem;border-bottom-right-radius:0;border-bottom-left-radius:0;border-top-left-radius:.25rem;background-clip:padding-box}
+.tab_set.open a.secondary{float:none}
+.tab_set.open .tab_caret.ts_icon_caret_up{display:inline-block;top:10px}
+.tab_set.open .tab_caret.ts_icon_caret_down{display:none}
+.tab_pane{padding:2rem 1rem 1rem}
+header .header_btns .btn_link img,header .header_btns a img{float:none}
+header #header_team_name a{max-width:320px}
+.full_width_fixed_section{padding:0 1rem}
+}
+@media only screen and (max-height:768px){header #header_team_name a i{margin:-2px .25rem 0 0}
+nav#site_nav #user_menu_name{margin-top:-8px}
+.full_width_fixed_section{padding:0 1rem}
+}
+@media only screen and (max-width:640px){#page_contents{width:100%;padding:1rem .8rem;margin-top:4rem}
+body.no_header #page_contents{padding-top:1rem;margin-top:0}
+#nojs_banner{margin-top:4rem}
+nav#site_nav{width:260px;-webkit-transform:translate3d(-260px,0,0);-moz-transform:translate3d(-260px,0,0);-ms-transform:translate3d(-260px,0,0);transform:translate3d(-260px,0,0)}
+nav#site_nav #user_menu_name{margin-top:-5px}
+.nav_open #page,.nav_open header,.nav_open nav.top{-webkit-transform:translate3d(260px,0,0);-moz-transform:translate3d(260px,0,0);-ms-transform:translate3d(260px,0,0);transform:translate3d(260px,0,0)}
+header #header_team_name a{max-width:272px;font-size:1.2rem}
+header #header_team_name a i{font-size:1.625rem;margin:0}
+header #menu_toggle{padding-right:.4rem}
+header .header_links,header .menu_label{display:none}
+header .header_btns .btn_link,header .header_btns a{padding:1.4rem .5rem 1.1rem}
+header .header_btns .btn_link .label,header .header_btns a .label{display:none!important}
+header .header_btns .btn_link img,header .header_btns a img{margin-right:.25rem;margin-left:0}
+header #header_team_nav{right:6rem}
+.tab_set a{padding-left:.8rem;font-size:1rem}
+.tab_pane{padding:1rem .8rem}
+.card{padding:1rem}
+.header_icon{margin-left:0}
+.accordion_section{padding-right:0}
+.accordion_section>h4{margin-right:5rem}
+.accordion_expand{top:.75rem}
+}
+@media only screen and (max-width:480px){header #header_team_name a{max-width:254px}
+header #help_link{display:none}
+header #header_team_nav{right:.5rem}
+}
+@media only screen and (max-width:400px){header #header_team_name a{max-width:174px}
+header #header_team_nav{right:.1rem}
+}

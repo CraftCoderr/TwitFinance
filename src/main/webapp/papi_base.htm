@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>TwitFinance Public API</title>
+    <meta name="author" content="QVIM">
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link href="/style/plastic_helpers.css" rel="stylesheet" type="text/css" crossorigin="anonymous" onload="window._cdn && _cdn.ok(this, arguments)" onerror="window._cdn && _cdn.failed(this, arguments)">
+    <link href="/style/plastic_typo.css" rel="stylesheet" type="text/css" crossorigin="anonymous" onload="window._cdn && _cdn.ok(this, arguments)" onerror="window._cdn && _cdn.failed(this, arguments)">
+    <link href="/style/plastic_layout.css" rel="stylesheet" type="text/css" crossorigin="anonymous" onload="window._cdn && _cdn.ok(this, arguments)" onerror="window._cdn && _cdn.failed(this, arguments)">
+    <link href="/style/api.css" rel="stylesheet" type="text/css" crossorigin="anonymous" onload="window._cdn && _cdn.ok(this, arguments)" onerror="window._cdn && _cdn.failed(this, arguments)">
+    <link href="/style/plastic_sidebar.css" rel="stylesheet" type="text/css" crossorigin="anonymous" onload="window._cdn && _cdn.ok(this, arguments)" onerror="window._cdn && _cdn.failed(this, arguments)">
+</head>
+
+<body class="api  feature_related_content">
+<header>
+    <a id="menu_toggle" class="no_transition show_on_mobile">
+        <span class="menu_icon"></span>
+        <span class="vert_divider"></span>
+    </a>
+    <div class="header_nav">
+        <div class="header_links float_right">
+            <a href="/" data-qa="documentation">Back to main site</a>
+        </div>
+
+    </div>
+</header>
+
+<div id="page" class="layout_two_col">
+
+    <div id="page_contents" class="clearfix">
+
+        <nav id="api_nav" class="col">
+
+            <div class="sidebar_menu">
+                <h4 class="sidebar_menu_header">Contents</h4>
+                <ul class="sidebar_menu_list">
+                    <li><a class="sidebar_menu_list_item" href="/papi/">Methods list</a></li>
+                    <li><a class="sidebar_menu_list_item" href="/papi/help">General information</a></li>
+                </ul>
+            </div>
+
+        </nav>
+
+                <div id="api_main_content" class="col">
+                    <h1>General information about this API usage</h1>
+
+                    <div class="api_doc page_web  card ">
+                        <p>
+                            Our API allow you to programmatically access datasets collected and analyzed by our technologies.
+                            Our goal is to facilitate a wide range of uses: from custom link lists to complex neural networks.
+                        </p>
+
+                        <a name="basics"></a><h2 >Basics</h2>
+                        
+                        <p>
+                            To start working with the API you don't need to register for api-key or anything else: we do not have it, -
+                            all you need is just start using it! That much it is simple!
+                        </p>
+                        
+                        <p>
+                            All API methods are located at <code>https://qvim.kostya.sexy/api/METHOD</code> (some of them require additional arguments).
+                            All methods can be accessed both within HTTP/HTTPS protocols, and also both accepting GET/POST requests.
+                            The result to your request is a json string. Whether there is an error corresponding to your request, you will notify
+                            parameter <code>error</code> in resulting json, otherwise you will get the one that is described on method page.
+                        </p>
+                    </div>
+
+
+
+                </div>
+            </div>
+            <div id="overlay"></div>
+        </div>
+
+    </body>
+</html>
